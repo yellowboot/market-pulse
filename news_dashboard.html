@@ -62,7 +62,11 @@
     align-items: center;
     gap: 18px;
   }
-  .logo-mark { flex-shrink: 0; }
+  /* Размер подогнан пропорционально clamp() у h1 (та же формула × 0.73 —
+     примерная высота заглавной буквы в Space Grotesk), чтобы логотип на
+     любой ширине экрана визуально совпадал по размеру с первой буквой
+     заголовка, а не был то мельче, то крупнее её. */
+  .logo-mark { flex-shrink: 0; width: clamp(32px, 5.1vw, 61px); height: clamp(32px, 5.1vw, 61px); }
 
   .eyebrow {
     font-size: 12px;
@@ -97,20 +101,6 @@
   }
 
   .meta-row .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold-1); opacity: 0.6; }
-
-  .refresh-hint {
-    font-size: 13px;
-    color: var(--text-low);
-    background: var(--bg-2);
-    border: 1px solid var(--border-soft);
-    padding: 6px 12px;
-    border-radius: 20px;
-  }
-
-  .refresh-hint code {
-    color: var(--gold-1);
-    font-family: 'SFMono-Regular', Consolas, monospace;
-  }
 
   /* ---------- Ticker tape ---------- */
   .ticker-wrap {
@@ -720,7 +710,7 @@
 
 <header>
   <div class="header-brand">
-    <svg class="logo-mark" width="52" height="52" viewBox="0 0 64 64" aria-hidden="true">
+    <svg class="logo-mark" viewBox="0 0 64 64" aria-hidden="true">
       <defs>
         <linearGradient id="logo-grad" x1="0" y1="1" x2="1" y2="0">
           <stop offset="0%" stop-color="var(--gold-3)"/>
@@ -742,7 +732,6 @@
     <span id="updated-at">Data not loaded yet</span>
     <span class="dot"></span>
     <span id="items-count"></span>
-    <span class="refresh-hint">Refreshes automatically in the background</span>
   </div>
 </header>
 
@@ -1092,9 +1081,10 @@
   };
 
   // Порог важности, начиная с которого показываем LIVE/BREAKING-бейдж.
-  // Обычная новость обычно набирает 10-40 баллов, по-настоящему резонансная
-  // (обвал/ралли с "breaking" в заголовке) — 100+.
-  const LIVE_THRESHOLD = 60;
+  // Обычная новость обычно набирает 10-40 баллов (и по локальной эвристике,
+  // и по калибровке в промпте DeepSeek — см. fetch_news.py), 75+ — это уже
+  // редкий рыночный сдвиг уровня макро-события, а не рядовой зелёный день.
+  const LIVE_THRESHOLD = 75;
 
   function matchesSearch(item, query) {
     if (!query) return true;
