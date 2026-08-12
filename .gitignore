@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts (см. README — сборка .exe)
+build/
+dist/
+*.spec
+
+# OS junk
+.DS_Store
+Thumbs.db

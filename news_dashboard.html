@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Pulse — новостной агрегатор</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-0: #080a0f;
+    --bg-1: #0f131c;
+    --bg-2: #171c2b;
+    --card: #181d2b90;
+    --card-solid: #181d2b;
+    --card-hover: #1f263a;
+    --border: rgba(201, 168, 106, 0.14);
+    --border-soft: rgba(255, 255, 255, 0.06);
+    --gold-1: #d4af6a;
+    --gold-2: #f4e2b8;
+    --gold-3: #c98f4f;
+    --gold-dim: #8a744a;
+    --text-hi: #f0f2f6;
+    --text-mid: #acb2bf;
+    --text-low: #616674;
+    --pos: #17d99a;
+    --pos-bg: rgba(23, 217, 154, 0.14);
+    --neg: #ff4d68;
+    --neg-bg: rgba(255, 77, 104, 0.14);
+    --spark-white: #f4f8ff;
+    --neu: #9299b0;
+    --neu-bg: rgba(146, 153, 176, 0.1);
+    --globe-line: #6f9bd1;
+    --globe-bright: #a9cdf0;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background:
+      radial-gradient(ellipse 900px 500px at 10% -10%, rgba(212,175,106,0.08), transparent 60%),
+      radial-gradient(ellipse 700px 500px at 100% 0%, rgba(102,128,186,0.10), transparent 55%),
+      linear-gradient(180deg, var(--bg-0), var(--bg-1) 40%, var(--bg-0));
+    color: var(--text-hi);
+    font-family: 'Inter', -apple-system, sans-serif;
+    min-height: 100vh;
+    padding: 0 0 80px;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- Header ---------- */
+  header {
+    padding: 48px 6vw 28px;
+    border-bottom: 1px solid var(--border-soft);
+    position: relative;
+  }
+
+  .header-brand {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .logo-mark { flex-shrink: 0; }
+
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold-1);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: clamp(44px, 7vw, 84px);
+    margin: 0 0 8px;
+    background: linear-gradient(120deg, var(--gold-2), var(--gold-1) 55%, var(--gold-3));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: -0.02em;
+    line-height: 1.02;
+  }
+
+  .meta-row {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+    font-size: 14px;
+    color: var(--text-mid);
+  }
+
+  .meta-row .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold-1); opacity: 0.6; }
+
+  .refresh-hint {
+    font-size: 13px;
+    color: var(--text-low);
+    background: var(--bg-2);
+    border: 1px solid var(--border-soft);
+    padding: 6px 12px;
+    border-radius: 20px;
+  }
+
+  .refresh-hint code {
+    color: var(--gold-1);
+    font-family: 'SFMono-Regular', Consolas, monospace;
+  }
+
+  /* ---------- Ticker tape ---------- */
+  .ticker-wrap {
+    overflow: hidden;
+    border-top: 1px solid var(--border-soft);
+    border-bottom: 1px solid var(--border-soft);
+    background: linear-gradient(90deg, var(--bg-1), var(--bg-2), var(--bg-1));
+    padding: 10px 0;
+    margin-top: 10px;
+  }
+  .ticker-track {
+    display: flex;
+    width: max-content;
+    gap: 40px;
+    animation: scroll-left 32s linear infinite;
+  }
+  .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+  @keyframes scroll-left {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  .ticker-item {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text-mid);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .ticker-item .sym { color: var(--gold-1); }
+  .ticker-item .count {
+    background: rgba(212,175,106,0.14);
+    color: var(--gold-2);
+    padding: 1px 7px;
+    border-radius: 10px;
+    font-size: 11px;
+  }
+
+  /* ---------- Summary / Hero grid ---------- */
+  .hero-grid {
+    padding: 36px 6vw 8px;
+    display: grid;
+    grid-template-columns: 1.15fr 1fr 0.85fr;
+    grid-template-rows: auto 1fr;
+    grid-template-areas:
+      "analytics mentions  indices"
+      "controls  controls  indices";
+    gap: 18px;
+  }
+  .panel-analytics { grid-area: analytics; }
+  .panel-mentions  { grid-area: mentions; }
+  .quotes-panel    { grid-area: indices; }
+  .controls-block  {
+    grid-area: controls;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-self: start;
+  }
+  @media (min-width: 1101px) {
+    .hero-grid { height: 440px; }
+    .panel, .quotes-panel { display: flex; flex-direction: column; height: 100%; }
+  }
+  @media (max-width: 1100px) {
+    .hero-grid {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas:
+        "analytics mentions"
+        "controls  controls"
+        "indices   indices";
+    }
+  }
+  @media (max-width: 700px) {
+    .hero-grid {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "analytics"
+        "mentions"
+        "controls"
+        "indices";
+    }
+  }
+
+
+  .panel {
+    background: linear-gradient(160deg, var(--card), var(--bg-2));
+    backdrop-filter: blur(6px);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px 22px;
+    position: relative;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gold-dim) transparent;
+  }
+  .panel::-webkit-scrollbar { width: 6px; }
+  .panel::-webkit-scrollbar-track { background: transparent; }
+  .panel::-webkit-scrollbar-thumb {
+    background: var(--gold-dim);
+    border-radius: 6px;
+  }
+  .panel::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .panel::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 22px; right: 22px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold-1), transparent);
+    opacity: 0.5;
+  }
+
+  .panel h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 0 0 12px;
+    color: var(--gold-2);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #analytics-text {
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--text-mid);
+    margin: 0 0 14px;
+  }
+  #analytics-text b { color: var(--text-hi); font-weight: 600; }
+
+  .sentiment-bar {
+    height: 8px;
+    border-radius: 5px;
+    display: flex;
+    overflow: hidden;
+    background: var(--bg-0);
+    margin-bottom: 10px;
+  }
+  .sentiment-bar span { height: 100%; }
+  .sb-pos { background: linear-gradient(90deg, #0fae7c, var(--pos)); }
+  .sb-neu { background: var(--neu); opacity: 0.5; }
+  .sb-neg { background: linear-gradient(90deg, var(--neg), #d81c3f); }
+
+  .sentiment-legend {
+    display: flex;
+    gap: 14px;
+    font-size: 11.5px;
+    color: var(--text-mid);
+    flex-wrap: wrap;
+  }
+  .sentiment-legend span { display: flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 7px; height: 7px; border-radius: 50%; }
+
+  .top-tickers-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex: 1;
+    overflow-y: auto;
+    min-height: 0;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gold-dim) transparent;
+  }
+  .top-tickers-list::-webkit-scrollbar { width: 6px; }
+  .top-tickers-list::-webkit-scrollbar-track { background: transparent; }
+  .top-tickers-list::-webkit-scrollbar-thumb {
+    background: var(--gold-dim);
+    border-radius: 6px;
+  }
+  .top-tickers-list::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .ticker-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+  }
+  .ticker-row .name { font-weight: 600; color: var(--text-hi); }
+  .ticker-row .bar-bg {
+    flex: 1;
+    height: 5px;
+    margin: 0 10px;
+    background: var(--bg-0);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .ticker-row .bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--gold-dim), var(--gold-1));
+  }
+  .ticker-row .num { color: var(--text-low); font-size: 12.5px; min-width: 18px; text-align: right; }
+
+  .empty-mini { color: var(--text-low); font-size: 14px; }
+
+  /* ---------- Quotes panel ---------- */
+  .quotes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    padding-right: 4px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gold-dim) transparent;
+  }
+  .quotes-list::-webkit-scrollbar { width: 6px; }
+  .quotes-list::-webkit-scrollbar-track { background: transparent; }
+  .quotes-list::-webkit-scrollbar-thumb {
+    background: var(--gold-dim);
+    border-radius: 6px;
+  }
+  .quotes-list::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .quote-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid var(--border-soft);
+  }
+  .quote-row:last-child { border-bottom: none; }
+  .quote-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-hi);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .quote-price {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: 12.5px;
+    color: var(--text-mid);
+    margin-left: auto;
+    margin-right: 10px;
+    white-space: nowrap;
+  }
+  .quote-change {
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 8px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+  }
+  .quote-up   { background: var(--pos-bg); color: var(--pos); }
+  .quote-down { background: var(--neg-bg); color: var(--neg); }
+
+  /* ---------- Search ---------- */
+  .search-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .search-box {
+    flex: 1;
+    min-width: 240px;
+    max-width: 520px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--bg-2);
+    border: 1px solid var(--border-soft);
+    border-radius: 12px;
+    padding: 10px 14px;
+    transition: border-color .15s ease;
+  }
+  .search-box:focus-within { border-color: var(--gold-dim); }
+  .search-icon { color: var(--text-low); flex-shrink: 0; }
+  .search-box input {
+    flex: 1;
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--text-hi);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+  }
+  .search-box input::placeholder { color: var(--text-low); }
+  .search-box button {
+    background: none;
+    border: none;
+    color: var(--text-low);
+    cursor: pointer;
+    font-size: 14px;
+    padding: 2px 4px;
+    line-height: 1;
+  }
+  .search-box button:hover { color: var(--text-hi); }
+  #search-result-count {
+    font-size: 13px;
+    color: var(--text-low);
+  }
+
+  /* ---------- Filters ---------- */
+  .filters {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .chip {
+    font-size: 13px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    border: 1px solid var(--border-soft);
+    background: var(--bg-2);
+    color: var(--text-mid);
+    cursor: pointer;
+    transition: all .15s ease;
+  }
+  .chip:hover { border-color: var(--gold-dim); color: var(--text-hi); }
+  .chip.active {
+    background: linear-gradient(120deg, var(--gold-1), #b98a4a);
+    color: #1a1305;
+    border-color: transparent;
+    font-weight: 600;
+  }
+  .chip.active-sector {
+    background: linear-gradient(120deg, #8294c6, #50628e);
+    color: #f0f2f6;
+    border-color: transparent;
+    font-weight: 600;
+  }
+
+  /* ---------- News grid ---------- */
+  .news-grid {
+    padding: 24px 6vw 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 22px;
+  }
+
+  .card {
+    background: var(--card-solid);
+    border: 1px solid var(--border-soft);
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transition: transform .18s ease, border-color .18s ease, background .18s ease;
+  }
+  .card::before,
+  .card::after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border: 1.5px solid var(--gold-1);
+    opacity: 0;
+    transition: opacity .2s ease;
+    z-index: 2;
+    pointer-events: none;
+  }
+  .card::before { top: 8px; left: 8px; border-right: none; border-bottom: none; }
+  .card::after  { bottom: 8px; right: 8px; border-left: none; border-top: none; }
+  .card:hover::before,
+  .card:hover::after { opacity: 0.7; }
+  .card:hover {
+    transform: translateY(-3px);
+    border-color: var(--border);
+    background: var(--card-hover);
+  }
+
+  .card-img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background: linear-gradient(135deg, var(--bg-2), var(--bg-1));
+    display: block;
+  }
+  .card-img-placeholder {
+    width: 100%;
+    height: 160px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+    padding: 14px 16px;
+  }
+  .card-img-placeholder .spark-svg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .card-img-placeholder .ph-radar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 55%;
+    background: linear-gradient(180deg, transparent, rgba(255,255,255,0.06) 45%, transparent);
+    pointer-events: none;
+    animation: radarSweep 4.5s ease-in-out infinite;
+    mix-blend-mode: screen;
+  }
+  @keyframes radarSweep {
+    0%   { top: -55%; opacity: 0; }
+    12%  { opacity: 1; }
+    88%  { opacity: 1; }
+    100% { top: 100%; opacity: 0; }
+  }
+  .card-img-placeholder .ph-source {
+    position: relative;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    color: var(--text-hi);
+    text-shadow: 0 2px 12px rgba(0,0,0,0.65);
+  }
+  .card-img-placeholder .ph-source::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .ph-positive { background: linear-gradient(135deg, rgba(23,217,154,0.18), var(--bg-2) 72%); }
+  .ph-negative { background: linear-gradient(135deg, rgba(255,77,104,0.18), var(--bg-2) 72%); }
+  .ph-neutral  { background: linear-gradient(135deg, rgba(146,153,176,0.14), var(--bg-2) 72%); }
+  .ph-positive .ph-source::before { background: var(--pos); box-shadow: 0 0 8px var(--pos); }
+  .ph-negative .ph-source::before { background: var(--neg); box-shadow: 0 0 8px var(--neg); }
+  .ph-neutral  .ph-source::before { background: var(--neu); box-shadow: 0 0 8px var(--neu); }
+  .ph-macro { background: linear-gradient(135deg, rgba(111,155,209,0.14), var(--bg-2) 72%); }
+  .ph-macro .ph-source::before { background: var(--globe-line); box-shadow: 0 0 8px var(--globe-line); }
+
+  .live-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 3;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(8,10,15,0.72);
+    backdrop-filter: blur(4px);
+    border: 1px solid var(--gold-1);
+    color: var(--gold-2);
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 10.5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px 4px 8px;
+    border-radius: 20px;
+  }
+  .live-badge .live-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--neg);
+    box-shadow: 0 0 8px var(--neg);
+    animation: livePulse 1.3s ease-in-out infinite;
+  }
+  @keyframes livePulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%      { opacity: 0.35; transform: scale(0.6); }
+  }
+
+  .card-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+
+  .card-top-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 11.5px;
+    color: var(--text-low);
+  }
+  .card-top-row .time-mono {
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    letter-spacing: 0.03em;
+  }
+  .source-badge {
+    color: var(--gold-2);
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+
+  .card-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 1.35;
+    color: var(--text-hi);
+    margin: 0;
+  }
+
+  .card-desc {
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-mid);
+    margin: 0;
+    flex: 1;
+  }
+
+  .card-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag-ticker {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 8px;
+    background: rgba(212,175,106,0.14);
+    color: var(--gold-1);
+    letter-spacing: 0.03em;
+  }
+  .sent-badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 9px;
+    border-radius: 8px;
+  }
+  .sent-positive { background: var(--pos-bg); color: var(--pos); }
+  .sent-negative { background: var(--neg-bg); color: var(--neg); }
+  .sent-neutral  { background: var(--neu-bg); color: var(--neu); }
+  .context-badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 9px;
+    border-radius: 8px;
+    background: transparent;
+    border: 1px dashed var(--border);
+    color: var(--text-mid);
+    font-style: italic;
+  }
+
+  .card-link {
+    margin-top: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--gold-1);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .card-link:hover { color: var(--gold-2); }
+
+  /* ---------- Empty state ---------- */
+  .empty-state {
+    margin: 60px 6vw;
+    padding: 50px 40px;
+    text-align: center;
+    border: 1px dashed var(--border);
+    border-radius: 18px;
+    background: var(--bg-1);
+  }
+  .empty-state h3 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--gold-2);
+    margin: 0 0 12px;
+  }
+  .empty-state p { color: var(--text-mid); font-size: 15px; line-height: 1.6; max-width: 520px; margin: 0 auto 18px; }
+  .empty-state pre {
+    display: inline-block;
+    background: var(--bg-0);
+    border: 1px solid var(--border-soft);
+    padding: 12px 20px;
+    border-radius: 10px;
+    color: var(--gold-1);
+    font-size: 13.5px;
+  }
+
+  footer {
+    padding: 40px 6vw 0;
+    text-align: center;
+    color: var(--text-low);
+    font-size: 12.5px;
+  }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <filter id="ph-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fill-positive" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--pos)" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="var(--pos)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fill-negative" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--neg)" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="var(--neg)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fill-neutral" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--neu)" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="var(--neu)" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+<header>
+  <div class="header-brand">
+    <svg class="logo-mark" width="52" height="52" viewBox="0 0 64 64" aria-hidden="true">
+      <defs>
+        <linearGradient id="logo-grad" x1="0" y1="1" x2="1" y2="0">
+          <stop offset="0%" stop-color="var(--gold-3)"/>
+          <stop offset="55%" stop-color="var(--gold-1)"/>
+          <stop offset="100%" stop-color="var(--gold-2)"/>
+        </linearGradient>
+      </defs>
+      <rect x="1" y="1" width="62" height="62" rx="16" fill="var(--bg-2)" stroke="var(--border)"/>
+      <path d="M10,46 L22,34 L30,40 L40,24 L56,8" fill="none" stroke="url(#logo-grad)"
+            stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ph-glow)"/>
+      <polygon points="56,8 52,19 45,12" fill="url(#logo-grad)" filter="url(#ph-glow)"/>
+    </svg>
+    <div class="header-text">
+      <div class="eyebrow">Market Pulse · частный дашборд</div>
+      <h1>Пульс рынка</h1>
+    </div>
+  </div>
+  <div class="meta-row">
+    <span id="updated-at">Данные ещё не загружены</span>
+    <span class="dot"></span>
+    <span id="items-count"></span>
+    <span class="refresh-hint">Обновить: <code>python3 fetch_news.py</code>, затем F5</span>
+  </div>
+</header>
+
+<div class="ticker-wrap" id="ticker-wrap" style="display:none">
+  <div class="ticker-track" id="ticker-track"></div>
+</div>
+
+<div class="hero-grid">
+  <div class="panel panel-analytics">
+    <h2>Беглая аналитика</h2>
+    <p id="analytics-text">Данные появятся после запуска <code>fetch_news.py</code>.</p>
+    <div class="sentiment-bar" id="sentiment-bar"></div>
+    <div class="sentiment-legend">
+      <span><span class="legend-dot" style="background:var(--pos)"></span>Позитивные</span>
+      <span><span class="legend-dot" style="background:var(--neu)"></span>Нейтральные</span>
+      <span><span class="legend-dot" style="background:var(--neg)"></span>Негативные</span>
+    </div>
+  </div>
+  <div class="panel panel-mentions">
+    <h2>Топ упоминаний по компаниям</h2>
+    <div class="top-tickers-list" id="top-tickers-list">
+      <div class="empty-mini">Пока нет данных</div>
+    </div>
+  </div>
+  <div class="panel quotes-panel">
+    <h2>📈 Основные индексы</h2>
+    <div class="quotes-list" id="quotes-list">
+      <div class="empty-mini">Котировки не загружены</div>
+    </div>
+  </div>
+
+  <div class="controls-block">
+    <div class="search-row">
+      <div class="search-box">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+          <line x1="21" y1="21" x2="16.65" y2="16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input type="text" id="search-input" placeholder="Поиск по заголовку, тексту или тикеру…" autocomplete="off">
+        <button type="button" id="search-clear" title="Очистить" style="display:none">✕</button>
+      </div>
+      <span id="search-result-count"></span>
+    </div>
+
+    <div class="filters" id="filters"></div>
+    <div class="filters" id="sector-filters"></div>
+    <div class="filters sort-toggle" id="sort-toggle"></div>
+  </div>
+</div>
+
+<div class="news-grid" id="news-grid"></div>
+
+<div class="empty-state" id="empty-state" style="display:none">
+  <h3>Новостей пока нет</h3>
+  <p>Похоже, файл <b>news_data.js</b> не найден рядом с этой страницей, либо он ещё пуст.
+     Запустите сборщик новостей в этой же папке:</p>
+  <pre>python3 fetch_news.py</pre>
+  <p>После этого обновите страницу (F5).</p>
+</div>
+
+<footer>Источники: Yahoo Finance · MarketWatch · Investing.com · CNBC · Nasdaq — все ленты публичные, без подписки</footer>
+
+<script src="news_data.js" onerror="window.__NO_DATA_FILE__ = true"></script>
+<script>
+(function () {
+  const grid = document.getElementById('news-grid');
+  const emptyState = document.getElementById('empty-state');
+  const filtersEl = document.getElementById('filters');
+  const sectorFiltersEl = document.getElementById('sector-filters');
+  const sortToggleEl = document.getElementById('sort-toggle');
+  const tickerWrap = document.getElementById('ticker-wrap');
+  const tickerTrack = document.getElementById('ticker-track');
+
+  const data = (typeof NEWS_DATA !== 'undefined') ? NEWS_DATA : null;
+
+  if (!data || !data.items || data.items.length === 0) {
+    emptyState.style.display = 'block';
+    return;
+  }
+
+  document.getElementById('updated-at').textContent = 'Обновлено: ' + data.generated_at_display;
+  document.getElementById('items-count').textContent = data.items.length + ' новостей';
+
+  // ---- Summary text (механическая аналитика, без ИИ) ----
+  const s = data.summary;
+  // проценты и "настроение" считаем только по новостям с конкретным
+  // биржевым адресатом (market_signal) — макро/геополитика не должна
+  // перекашивать общий рыночный фон, это тоже самое, что и в fetch_news.py
+  const signalTotal = s.signal_total || (s.positive + s.negative + s.neutral) || 1;
+  const posPct = Math.round((s.positive / signalTotal) * 100);
+  const negPct = Math.round((s.negative / signalTotal) * 100);
+  const neuPct = 100 - posPct - negPct;
+
+  let mood = 'нейтральное';
+  if (s.positive > s.negative * 1.3) mood = 'скорее оптимистичное';
+  if (s.negative > s.positive * 1.3) mood = 'скорее тревожное';
+
+  const topTickerNames = (s.top_tickers || []).slice(0, 3).map(t => t.ticker).join(', ');
+  const macroNote = s.macro_total
+    ? ` Ещё <b>${s.macro_total}</b> — макро/геополитический контекст без прямого биржевого адресата, в общий рыночный фон не включены.`
+    : '';
+
+  document.getElementById('analytics-text').innerHTML =
+    `Из <b>${signalTotal}</b> новостей с конкретным рыночным адресатом: <b>${s.positive}</b> позитивных, ` +
+    `<b>${s.negative}</b> негативных, <b>${s.neutral}</b> нейтральных. Общий фон — <b>${mood}</b>.` +
+    (topTickerNames ? ` Чаще всего упоминаются: <b>${topTickerNames}</b>.` : '') +
+    macroNote;
+
+  document.getElementById('sentiment-bar').innerHTML =
+    `<span class="sb-pos" style="width:${posPct}%"></span>` +
+    `<span class="sb-neu" style="width:${neuPct}%"></span>` +
+    `<span class="sb-neg" style="width:${negPct}%"></span>`;
+
+  // ---- Top tickers panel ----
+  const tt = s.top_tickers || [];
+  const listEl = document.getElementById('top-tickers-list');
+  if (tt.length === 0) {
+    listEl.innerHTML = '<div class="empty-mini">Известные компании/тикеры в свежих новостях не найдены</div>';
+  } else {
+    const maxCount = Math.max(...tt.map(t => t.count));
+    listEl.innerHTML = tt.map(t => `
+      <div class="ticker-row">
+        <span class="name">${t.ticker}</span>
+        <span class="bar-bg"><span class="bar-fill" style="width:${(t.count / maxCount) * 100}%"></span></span>
+        <span class="num">${t.count}</span>
+      </div>
+    `).join('');
+
+    tickerWrap.style.display = 'block';
+    const items = tt.map(t => `<span class="ticker-item"><span class="sym">${t.ticker}</span><span class="count">${t.count} упом.</span></span>`);
+    tickerTrack.innerHTML = items.join('') + items.join(''); // дублируем для бесшовной прокрутки
+  }
+
+  // ---- Quotes panel ----
+  const quotesListEl = document.getElementById('quotes-list');
+  const indices = data.indices || [];
+  if (indices.length === 0) {
+    quotesListEl.innerHTML = '<div class="empty-mini">Котировки недоступны (Yahoo Finance не ответил при последнем запуске)</div>';
+  } else {
+    quotesListEl.innerHTML = indices.map(q => {
+      const isUp = q.change_pct >= 0;
+      const arrow = isUp ? '▲' : '▼';
+      const priceStr = q.unit === 'yield_pct'
+        ? `${q.price.toFixed(2)}%`
+        : q.price.toLocaleString('ru-RU', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      const pctStr = Math.abs(q.change_pct).toFixed(2);
+      return `
+        <div class="quote-row">
+          <span class="quote-name">${escapeHtml(q.name)}</span>
+          <span class="quote-price">${priceStr}</span>
+          <span class="quote-change ${isUp ? 'quote-up' : 'quote-down'}">${arrow} ${pctStr}%</span>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // ---- Filters ----
+  const sources = [...new Set(data.items.map(i => i.source))];
+  const sectors = [...new Set(data.items.flatMap(i => i.sectors || []))].sort();
+  let activeSource = 'all';
+  let activeSector = 'all';
+  let sortMode = 'date'; // 'date' | 'importance'
+  let searchQuery = '';
+
+  function renderSortToggle() {
+    sortToggleEl.innerHTML = '';
+
+    const dateBtn = document.createElement('button');
+    dateBtn.className = 'chip' + (sortMode === 'date' ? ' active' : '');
+    dateBtn.textContent = '🕐 Сначала свежие';
+    dateBtn.onclick = () => { sortMode = 'date'; renderSortToggle(); renderGrid(); };
+    sortToggleEl.appendChild(dateBtn);
+
+    const impBtn = document.createElement('button');
+    impBtn.className = 'chip' + (sortMode === 'importance' ? ' active-sector' : '');
+    impBtn.textContent = '⚡ Сначала важные';
+    impBtn.onclick = () => { sortMode = 'importance'; renderSortToggle(); renderGrid(); };
+    sortToggleEl.appendChild(impBtn);
+  }
+
+  function renderFilters() {
+    filtersEl.innerHTML = '';
+    const allChip = document.createElement('button');
+    allChip.className = 'chip' + (activeSource === 'all' ? ' active' : '');
+    allChip.textContent = 'Все источники';
+    allChip.onclick = () => { activeSource = 'all'; renderFilters(); renderGrid(); };
+    filtersEl.appendChild(allChip);
+
+    sources.forEach(src => {
+      const chip = document.createElement('button');
+      chip.className = 'chip' + (activeSource === src ? ' active' : '');
+      chip.textContent = src;
+      chip.onclick = () => { activeSource = src; renderFilters(); renderGrid(); };
+      filtersEl.appendChild(chip);
+    });
+
+    renderSectorFilters();
+  }
+
+  function renderSectorFilters() {
+    if (sectors.length === 0) { sectorFiltersEl.style.display = 'none'; return; }
+    sectorFiltersEl.innerHTML = '';
+
+    const allChip = document.createElement('button');
+    allChip.className = 'chip' + (activeSector === 'all' ? ' active-sector' : '');
+    allChip.textContent = 'Все секторы';
+    allChip.onclick = () => { activeSector = 'all'; renderSectorFilters(); renderGrid(); };
+    sectorFiltersEl.appendChild(allChip);
+
+    sectors.forEach(sec => {
+      const chip = document.createElement('button');
+      chip.className = 'chip' + (activeSector === sec ? ' active-sector' : '');
+      chip.textContent = sec;
+      chip.onclick = () => { activeSector = sec; renderSectorFilters(); renderGrid(); };
+      sectorFiltersEl.appendChild(chip);
+    });
+  }
+
+  // ---- Grid ----
+  const sentLabels = { positive: 'Позитив', negative: 'Негатив', neutral: 'Нейтрально' };
+
+  // Пути мини-графика (спарклайна) под каждую тональность — растущий,
+  // падающий и относительно ровный "пульс".
+  const SPARK_PATHS = {
+    positive: 'M8,132 L58,112 L104,122 L150,74 L196,90 L248,55 L292,28',
+    negative: 'M8,30 L58,52 L104,44 L150,86 L196,78 L248,108 L292,140',
+    neutral:  'M8,90 L58,78 L104,96 L150,84 L196,98 L248,82 L292,90',
+  };
+  const SPARK_COLOR_VAR = { positive: '--pos', negative: '--neg', neutral: '--neu' };
+
+  function buildMacroPlaceholder(source) {
+    // Пять "меридианов" анимируют свою rx от почти линии (2) до полного
+    // круга (54) и обратно, со сдвигом по фазе — из-за этого создаётся
+    // иллюзия вращающегося глобуса, без какой-либо 3D-магии, чистый SVG SMIL.
+    const meridianBegins = ['0s', '-1.8s', '-3.6s', '-5.4s', '-7.2s'];
+    const meridians = meridianBegins.map(begin => `
+          <ellipse rx="2" ry="54" fill="none" stroke="var(--globe-bright)" stroke-width="1.3" opacity="0.55" filter="url(#ph-glow)">
+            <animate attributeName="rx" values="2;54;2" dur="9s" repeatCount="indefinite" begin="${begin}"/>
+          </ellipse>`).join('');
+
+    // Широты: экватор + по две параллели к северу и югу — столько же (5),
+    // сколько меридианов, для симметричной "решётки" глобуса. У полюсов
+    // эллипсы у́же, rx считается по теореме Пифагора от радиуса сферы.
+    const latitudes = [
+      { cy: 0,   ry: 15 },
+      { cy: -20, ry: 12 },
+      { cy: 20,  ry: 12 },
+      { cy: -38, ry: 7 },
+      { cy: 38,  ry: 7 },
+    ].map(l => `
+          <ellipse cy="${l.cy}" rx="${Math.sqrt(Math.max(54 * 54 - l.cy * l.cy, 1)).toFixed(1)}" ry="${l.ry}"
+                   fill="none" stroke="var(--globe-line)" stroke-width="1" opacity="0.4"/>`).join('');
+
+    // "Пинги" — точки-события на поверхности глобуса, каждая пульсирует
+    // расходящимся кольцом со своей задержкой. Золотые — как акцент вотчлиста
+    // на карточках-графиках, единственное золото на этой (иначе синей) карточке.
+    const pings = [
+      { x: -20, y: -22, begin: '0s' },
+      { x: 18,  y: 8,   begin: '-1.1s' },
+      { x: -6,  y: 28,  begin: '-2.2s' },
+    ].map(p => `
+          <circle cx="${p.x}" cy="${p.y}" r="2.6" fill="var(--gold-2)"/>
+          <circle cx="${p.x}" cy="${p.y}" r="2.6" fill="none" stroke="var(--gold-2)" stroke-width="1.4">
+            <animate attributeName="r" values="2.6;16;2.6" dur="3.2s" repeatCount="indefinite" begin="${p.begin}"/>
+            <animate attributeName="opacity" values="0.8;0;0.8" dur="3.2s" repeatCount="indefinite" begin="${p.begin}"/>
+          </circle>`).join('');
+
+    // Дрейфующие частицы вокруг глобуса — на чистом SVG (не Canvas/WebGL,
+    // см. пояснение в чате: с десятками карточек на странице отдельный
+    // WebGL-контекст на каждую убил бы производительность). SMIL-анимация
+    // почти бесплатна для браузера — это GPU-композиция, а не JS-рендер
+    // покадрово, поэтому безопасно даже при большом числе карточек.
+    const particles = [
+      { x: 40,  y: 28,  r: 1.6, dx: 10,  dy: -8,  dur: 16 },
+      { x: 232, y: 22,  r: 1.3, dx: -9,  dy: 10,  dur: 19 },
+      { x: 272, y: 100, r: 1.8, dx: -12, dy: -7,  dur: 14 },
+      { x: 18,  y: 112, r: 1.4, dx: 9,   dy: -10, dur: 21 },
+      { x: 122, y: 16,  r: 1.2, dx: -7,  dy: 9,   dur: 17 },
+      { x: 182, y: 132, r: 1.6, dx: 11,  dy: 7,   dur: 15 },
+      { x: 262, y: 52,  r: 1.3, dx: -9,  dy: -9,  dur: 18 },
+    ].map(p => `
+          <circle cx="${p.x}" cy="${p.y}" r="${p.r}" fill="var(--globe-bright)" opacity="0.4">
+            <animateTransform attributeName="transform" type="translate"
+              values="0,0; ${p.dx},${p.dy}; 0,0" dur="${p.dur}s" repeatCount="indefinite"/>
+          </circle>`).join('');
+
+    return `
+      <div class="card-img-placeholder ph-neutral ph-macro">
+        <div class="ph-radar"></div>
+        <svg class="spark-svg" viewBox="0 0 300 160" aria-hidden="true">
+          <g transform="translate(150,80)">
+            <circle r="54" fill="none" stroke="var(--globe-line)" stroke-width="1.5" opacity="0.6" filter="url(#ph-glow)"/>
+            ${latitudes}
+            ${meridians}
+            ${pings}
+          </g>
+          ${particles}
+        </svg>
+        <span class="ph-source">🌐 ${escapeHtml(source)}</span>
+      </div>
+    `;
+  }
+
+  function buildPlaceholder(sentiment, source, isMacro) {
+    if (isMacro) return buildMacroPlaceholder(source);
+
+    const s = SPARK_PATHS[sentiment] ? sentiment : 'neutral';
+    const path = SPARK_PATHS[s];
+    const colorVar = SPARK_COLOR_VAR[s];
+    const areaPath = `${path} L292,160 L8,160 Z`;
+
+    // Хвост-комета: 4 точки на одном и том же пути. dur=6s, и чтобы точка
+    // РЕАЛЬНО отставала (а не забегала вперёд — отрицательный begin вида
+    // "-0.25s" сдвигает анимацию ВПЕРЁД по времени, а не назад), используем
+    // begin = (нужное отставание − dur): например для отставания в 0.25s
+    // при dur=6s это "-5.75s", а не "-0.25s".
+    const cometDots = [
+      { r: 4.5, opacity: 1,    begin: '0s' },
+      { r: 3.6, opacity: 0.55, begin: '-5.75s' },
+      { r: 2.8, opacity: 0.3,  begin: '-5.5s' },
+      { r: 2.0, opacity: 0.15, begin: '-5.25s' },
+    ].map(d => `
+          <circle r="${d.r}" fill="var(--spark-white)" opacity="${d.opacity}">
+            <animateMotion dur="6s" repeatCount="indefinite" begin="${d.begin}" path="${path}"/>
+          </circle>`).join('');
+
+    return `
+      <div class="card-img-placeholder ph-${s}">
+        <div class="ph-radar"></div>
+        <svg class="spark-svg" viewBox="0 0 300 160" preserveAspectRatio="none" aria-hidden="true">
+          <line x1="0" y1="45" x2="300" y2="45" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+          <line x1="0" y1="90" x2="300" y2="90" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+          <line x1="0" y1="135" x2="300" y2="135" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+          <path d="${areaPath}" fill="url(#fill-${s})" stroke="none"/>
+          <path d="${path}" fill="none" stroke="var(${colorVar})" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" opacity="0.9" filter="url(#ph-glow)"/>
+          <g filter="url(#ph-glow)">${cometDots}</g>
+        </svg>
+        <span class="ph-source">${escapeHtml(source)}</span>
+      </div>
+    `;
+  }
+  window.__phFallback = function (imgEl, sentiment, source, isMacro) {
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = buildPlaceholder(sentiment, source, isMacro).trim();
+    imgEl.replaceWith(wrapper.firstChild);
+  };
+
+  // Порог важности, начиная с которого показываем LIVE/BREAKING-бейдж.
+  // Обычная новость обычно набирает 10-40 баллов, по-настоящему резонансная
+  // (обвал/ралли с "breaking" в заголовке) — 100+.
+  const LIVE_THRESHOLD = 60;
+
+  function matchesSearch(item, query) {
+    if (!query) return true;
+    const haystack = [
+      item.title,
+      item.description,
+      item.source,
+      ...(item.tickers || []),
+      ...(item.sectors || []),
+    ].join(' ').toLowerCase();
+    return haystack.includes(query);
+  }
+
+  function renderGrid() {
+    const query = searchQuery.trim().toLowerCase();
+    const items = data.items.filter(i =>
+      (activeSource === 'all' || i.source === activeSource) &&
+      (activeSector === 'all' || (i.sectors || []).includes(activeSector)) &&
+      matchesSearch(i, query)
+    );
+
+    if (sortMode === 'importance') {
+      items.sort((a, b) => (b.importance || 0) - (a.importance || 0));
+    }
+    // при sortMode === 'date' порядок уже правильный — данные приходят
+    // от fetch_news.py отсортированными по дате публикации (свежие сверху)
+
+    const countEl = document.getElementById('search-result-count');
+    countEl.textContent = query ? `Найдено: ${items.length}` : '';
+
+    grid.innerHTML = items.map(item => {
+      const isMacro = item.content_type === 'macro_context';
+      // для контекстных/геополитических новостей заглушка всегда нейтральная —
+      // не стоит визуально намекать на "рыночное направление" там, где
+      // его на самом деле нет
+      const placeholderSentiment = isMacro ? 'neutral' : item.sentiment;
+
+      const img = item.image
+        ? `<img class="card-img" src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="window.__phFallback(this,'${placeholderSentiment}','${escapeHtml(item.source).replace(/'/g, "\\'")}',${isMacro})">`
+        : buildPlaceholder(placeholderSentiment, item.source, isMacro);
+
+      const liveBadge = (item.importance || 0) >= LIVE_THRESHOLD
+        ? `<div class="live-badge"><span class="live-dot"></span>Breaking</div>`
+        : '';
+
+      const tags = (item.tickers || []).map(t => `<span class="tag-ticker">${t}</span>`).join('');
+
+      const sentimentTag = isMacro
+        ? `<span class="context-badge" title="Геополитика/макро-фон — не прямой рыночный сигнал по конкретной бумаге">🌐 Контекст</span>`
+        : `<span class="sent-badge sent-${item.sentiment}">${sentLabels[item.sentiment]}</span>`;
+
+      return `
+        <a class="card" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
+          ${liveBadge}
+          ${img}
+          <div class="card-body">
+            <div class="card-top-row">
+              <span class="source-badge">${escapeHtml(item.source)}</span>
+              <span class="time-mono">${escapeHtml(item.published_display)}</span>
+            </div>
+            <h3 class="card-title">${escapeHtml(item.title)}</h3>
+            <p class="card-desc">${escapeHtml(item.description)}</p>
+            <div class="card-tags">
+              ${sentimentTag}
+              ${tags}
+            </div>
+            <span class="card-link">Читать на источнике →</span>
+          </div>
+        </a>
+      `;
+    }).join('');
+  }
+
+  function escapeHtml(str) {
+    const d = document.createElement('div');
+    d.textContent = str || '';
+    // innerHTML escapes &, < и > автоматически, но НЕ кавычки (они не нужны
+    // в текстовом узле) — а нам эта функция нужна ещё и для href/src
+    // атрибутов, где непроэкранированная " может вырваться из значения
+    // атрибута и внедрить произвольный HTML/JS из чужого RSS-контента.
+    return d.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  // ---- Search ----
+  const searchInput = document.getElementById('search-input');
+  const searchClearBtn = document.getElementById('search-clear');
+  searchInput.addEventListener('input', (e) => {
+    searchQuery = e.target.value;
+    searchClearBtn.style.display = searchQuery ? 'inline-block' : 'none';
+    renderGrid();
+  });
+  searchClearBtn.addEventListener('click', () => {
+    searchQuery = '';
+    searchInput.value = '';
+    searchClearBtn.style.display = 'none';
+    searchInput.focus();
+    renderGrid();
+  });
+
+  renderFilters();
+  renderSortToggle();
+  renderGrid();
+})();
+</script>
+
+</body>
+</html>
