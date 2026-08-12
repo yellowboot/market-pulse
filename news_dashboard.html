@@ -1,9 +1,40 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Market Pulse — Stock Market News Aggregator</title>
+<meta name="description" content="Live stock market news dashboard — real-time headlines from Yahoo Finance, MarketWatch, CNBC, Nasdaq and more, tagged by ticker and sector with sentiment and importance scoring. Updates automatically all trading day.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://yellowboot.github.io/market-pulse/news_dashboard.html">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Pulse">
+<meta property="og:title" content="Market Pulse — Stock Market News Aggregator">
+<meta property="og:description" content="Live stock market news dashboard — real-time headlines tagged by ticker and sector, with sentiment and importance scoring. Updates automatically all trading day.">
+<meta property="og:url" content="https://yellowboot.github.io/market-pulse/">
+<meta property="og:image" content="https://yellowboot.github.io/market-pulse/assets/banner.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Market Pulse — Stock Market News Aggregator">
+<meta name="twitter:description" content="Live stock market news dashboard — real-time headlines tagged by ticker and sector, with sentiment and importance scoring.">
+<meta name="twitter:image" content="https://yellowboot.github.io/market-pulse/assets/banner.jpg">
+
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23171c2b'/%3E%3Cpath d='M10,46 L22,34 L30,40 L40,24 L56,8' fill='none' stroke='%23d4af6a' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpolygon points='56,8 52,19 45,12' fill='%23d4af6a'/%3E%3C/svg%3E">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Market Pulse",
+  "description": "Live stock market news dashboard — real-time headlines from public RSS feeds, tagged by ticker and sector, with sentiment and importance scoring.",
+  "url": "https://yellowboot.github.io/market-pulse/",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any (runs in browser)",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -103,6 +134,10 @@
   }
 
   .meta-row .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold-1); opacity: 0.6; }
+
+  /* Статичный текст в разметке (не только через JS) — читается поисковыми
+     краулерами сразу, без исполнения скрипта, который подгружает news_data.js. */
+  .tagline { max-width: 640px; margin: 14px 0 0; color: var(--text-mid); font-size: 14px; line-height: 1.5; }
 
   /* ---------- Ticker tape ---------- */
   .ticker-wrap {
@@ -736,6 +771,7 @@
     <span class="dot"></span>
     <span id="items-count"></span>
   </div>
+  <p class="tagline">Real-time stock market news aggregated from public RSS feeds — tagged by ticker and sector, scored for sentiment and importance, and refreshed automatically throughout the trading day.</p>
 </header>
 
 <div class="ticker-wrap" id="ticker-wrap" style="display:none">
