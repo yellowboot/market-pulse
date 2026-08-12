@@ -38,19 +38,28 @@ for _stream in (sys.stdout, sys.stderr):
 # НАСТРОЙКИ
 # ---------------------------------------------------------------------------
 
-# --- Опциональная LLM-классификация (Claude API) ---------------------------
-# Если задан ANTHROPIC_API_KEY — тональность и важность каждой новости
-# определяет Claude (понимает реальный смысл: "отмена санкций" — позитив,
+# --- Опциональная LLM-классификация (DeepSeek API) --------------------------
+# Если задан DEEPSEEK_API_KEY — тональность и важность каждой новости
+# определяет DeepSeek (понимает реальный смысл: "отмена санкций" — позитив,
 # "рост издержек" — негатив, даже если отдельные слова говорят обратное).
 # Если ключа нет или запрос не прошёл — используется локальная эвристика
 # по ключевым словам (detect_sentiment / calc_importance ниже), как раньше.
 #
-# Как задать ключ (ничего не хардкодим в файле — так безопаснее):
-#   macOS/Linux:  export ANTHROPIC_API_KEY="sk-ant-..."
-#   Windows (cmd): set ANTHROPIC_API_KEY=sk-ant-...
-# Подробности — в README.md.
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"  # самая дешёвая модель — этого достаточно для классификации
+# DeepSeek выбран как один из самых дешёвых API с качеством, достаточным для
+# этой задачи (классификация тональности/важности — не creative writing).
+# API OpenAI-совместимый (эндпоинт /chat/completions), ключ получаем на
+# platform.deepseek.com.
+#
+# КЛЮЧ НИКОГДА НЕ ХРАНИТСЯ В ЭТОМ ФАЙЛЕ И НЕ ПОПАДАЕТ В РЕПОЗИТОРИЙ — только
+# переменная окружения. Для локального запуска:
+#   macOS/Linux:   export DEEPSEEK_API_KEY="sk-..."
+#   Windows (cmd): set DEEPSEEK_API_KEY=sk-...
+# Для автоматического обновления через GitHub Actions ключ должен лежать
+# ТОЛЬКО в зашифрованных GitHub Secrets репозитория (Settings → Secrets and
+# variables → Actions), никогда не в коде и не в логах workflow — подробности
+# и инструкция, как задать секрет, не показывая его никому, — в README.md.
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek-V3 — дешёвый, этого достаточно для классификации
 LLM_BATCH_SIZE = 15  # сколько новостей отправлять в одном запросе к API
 
 # Публичные RSS-ленты финансовых новостей (без подписки, без пейволла на уровне заголовков)
@@ -80,31 +89,31 @@ MAX_ITEMS = 80
 # финансы, здравоохранение, промышленность, облигации/макро и т.д.
 COMPANY_MAP = [
     # ---- Полупроводники / AI-инфраструктура ----
-    {"ticker": "NVDA", "sector": "Полупроводники",         "names": ["Nvidia"]},
-    {"ticker": "AVGO", "sector": "Полупроводники",         "names": ["Broadcom"]},
-    {"ticker": "MRVL", "sector": "Полупроводники",         "names": ["Marvell"]},
-    {"ticker": "MU",   "sector": "Полупроводники",         "names": ["Micron"]},
-    {"ticker": "ON",   "sector": "Полупроводники",         "names": ["ON Semiconductor", "Onsemi"]},
-    {"ticker": "ALAB", "sector": "Полупроводники",         "names": ["Astera Labs"]},
-    {"ticker": "AMAT", "sector": "Полупроводники",         "names": ["Applied Materials"]},
-    {"ticker": "ASML", "sector": "Полупроводники",         "names": ["ASML"]},
-    {"ticker": "INTC", "sector": "Полупроводники",         "names": ["Intel"]},
-    {"ticker": "AMD",  "sector": "Полупроводники",         "names": ["AMD", "Advanced Micro Devices"]},
-    {"ticker": "QCOM", "sector": "Полупроводники",         "names": ["Qualcomm"]},
-    {"ticker": "TSM",  "sector": "Полупроводники",         "names": ["TSMC", "Taiwan Semiconductor"]},
+    {"ticker": "NVDA", "sector": "Semiconductors",         "names": ["Nvidia"]},
+    {"ticker": "AVGO", "sector": "Semiconductors",         "names": ["Broadcom"]},
+    {"ticker": "MRVL", "sector": "Semiconductors",         "names": ["Marvell"]},
+    {"ticker": "MU",   "sector": "Semiconductors",         "names": ["Micron"]},
+    {"ticker": "ON",   "sector": "Semiconductors",         "names": ["ON Semiconductor", "Onsemi"]},
+    {"ticker": "ALAB", "sector": "Semiconductors",         "names": ["Astera Labs"]},
+    {"ticker": "AMAT", "sector": "Semiconductors",         "names": ["Applied Materials"]},
+    {"ticker": "ASML", "sector": "Semiconductors",         "names": ["ASML"]},
+    {"ticker": "INTC", "sector": "Semiconductors",         "names": ["Intel"]},
+    {"ticker": "AMD",  "sector": "Semiconductors",         "names": ["AMD", "Advanced Micro Devices"]},
+    {"ticker": "QCOM", "sector": "Semiconductors",         "names": ["Qualcomm"]},
+    {"ticker": "TSM",  "sector": "Semiconductors",         "names": ["TSMC", "Taiwan Semiconductor"]},
 
     # ---- ПО / AI / Кибербезопасность / Cloud ----
-    {"ticker": "CRWD", "sector": "Кибербезопасность",      "names": ["CrowdStrike"]},
-    {"ticker": "NET",  "sector": "Кибербезопасность",      "names": ["Cloudflare"]},
-    {"ticker": "PANW", "sector": "Кибербезопасность",      "names": ["Palo Alto Networks"]},
-    {"ticker": "FTNT", "sector": "Кибербезопасность",      "names": ["Fortinet"]},
-    {"ticker": "PLTR", "sector": "ПО / AI-аналитика",      "names": ["Palantir"]},
-    {"ticker": "SOUN", "sector": "ПО / AI-аналитика",      "names": ["SoundHound"]},
-    {"ticker": "CRM",  "sector": "ПО / Cloud",             "names": ["Salesforce"]},
-    {"ticker": "NOW",  "sector": "ПО / Cloud",             "names": ["ServiceNow"]},
-    {"ticker": "SNOW", "sector": "ПО / Cloud",             "names": ["Snowflake"]},
-    {"ticker": "ADBE", "sector": "ПО / Cloud",             "names": ["Adobe"]},
-    {"ticker": "ORCL", "sector": "ПО / Cloud",             "names": ["Oracle"]},
+    {"ticker": "CRWD", "sector": "Cybersecurity",      "names": ["CrowdStrike"]},
+    {"ticker": "NET",  "sector": "Cybersecurity",      "names": ["Cloudflare"]},
+    {"ticker": "PANW", "sector": "Cybersecurity",      "names": ["Palo Alto Networks"]},
+    {"ticker": "FTNT", "sector": "Cybersecurity",      "names": ["Fortinet"]},
+    {"ticker": "PLTR", "sector": "Software / AI Analytics",      "names": ["Palantir"]},
+    {"ticker": "SOUN", "sector": "Software / AI Analytics",      "names": ["SoundHound"]},
+    {"ticker": "CRM",  "sector": "Software / Cloud",             "names": ["Salesforce"]},
+    {"ticker": "NOW",  "sector": "Software / Cloud",             "names": ["ServiceNow"]},
+    {"ticker": "SNOW", "sector": "Software / Cloud",             "names": ["Snowflake"]},
+    {"ticker": "ADBE", "sector": "Software / Cloud",             "names": ["Adobe"]},
+    {"ticker": "ORCL", "sector": "Software / Cloud",             "names": ["Oracle"]},
 
     # ---- Big Tech ----
     {"ticker": "MSFT", "sector": "Big Tech",               "names": ["Microsoft"]},
@@ -114,99 +123,99 @@ COMPANY_MAP = [
     {"ticker": "META", "sector": "Big Tech",               "names": ["Meta", "Facebook"]},
 
     # ---- Электромобили / Автопром ----
-    {"ticker": "TSLA", "sector": "Автопром / EV",          "names": ["Tesla"]},
-    {"ticker": "RIVN", "sector": "Автопром / EV",          "names": ["Rivian"]},
-    {"ticker": "F",    "sector": "Автопром / EV",          "names": ["Ford"]},
-    {"ticker": "GM",   "sector": "Автопром / EV",          "names": ["General Motors"]},
-    {"ticker": "VOW3", "sector": "Автопром / EV",          "names": ["Volkswagen"]},
-    {"ticker": "TM",   "sector": "Автопром / EV",          "names": ["Toyota"]},
-    {"ticker": "BYDDY","sector": "Автопром / EV",          "names": ["BYD"]},
+    {"ticker": "TSLA", "sector": "Automotive / EV",          "names": ["Tesla"]},
+    {"ticker": "RIVN", "sector": "Automotive / EV",          "names": ["Rivian"]},
+    {"ticker": "F",    "sector": "Automotive / EV",          "names": ["Ford"]},
+    {"ticker": "GM",   "sector": "Automotive / EV",          "names": ["General Motors"]},
+    {"ticker": "VOW3", "sector": "Automotive / EV",          "names": ["Volkswagen"]},
+    {"ticker": "TM",   "sector": "Automotive / EV",          "names": ["Toyota"]},
+    {"ticker": "BYDDY","sector": "Automotive / EV",          "names": ["BYD"]},
 
     # ---- Потребительский сектор (реальный бизнес: еда, ритейл, бренды) ----
-    {"ticker": "NKE",  "sector": "Потребительский сектор", "names": ["Nike"]},
-    {"ticker": "KO",   "sector": "Потребительский сектор", "names": ["Coca-Cola"]},
-    {"ticker": "PEP",  "sector": "Потребительский сектор", "names": ["PepsiCo"]},
-    {"ticker": "MCD",  "sector": "Потребительский сектор", "names": ["McDonald's", "McDonalds"]},
-    {"ticker": "SBUX", "sector": "Потребительский сектор", "names": ["Starbucks"]},
-    {"ticker": "WMT",  "sector": "Потребительский сектор", "names": ["Walmart"]},
-    {"ticker": "COST", "sector": "Потребительский сектор", "names": ["Costco"]},
-    {"ticker": "PG",   "sector": "Потребительский сектор", "names": ["Procter & Gamble"]},
-    {"ticker": "DIS",  "sector": "Медиа / развлечения",    "names": ["Disney"]},
-    {"ticker": "NFLX", "sector": "Медиа / развлечения",    "names": ["Netflix"]},
+    {"ticker": "NKE",  "sector": "Consumer Goods", "names": ["Nike"]},
+    {"ticker": "KO",   "sector": "Consumer Goods", "names": ["Coca-Cola"]},
+    {"ticker": "PEP",  "sector": "Consumer Goods", "names": ["PepsiCo"]},
+    {"ticker": "MCD",  "sector": "Consumer Goods", "names": ["McDonald's", "McDonalds"]},
+    {"ticker": "SBUX", "sector": "Consumer Goods", "names": ["Starbucks"]},
+    {"ticker": "WMT",  "sector": "Consumer Goods", "names": ["Walmart"]},
+    {"ticker": "COST", "sector": "Consumer Goods", "names": ["Costco"]},
+    {"ticker": "PG",   "sector": "Consumer Goods", "names": ["Procter & Gamble"]},
+    {"ticker": "DIS",  "sector": "Media / Entertainment",    "names": ["Disney"]},
+    {"ticker": "NFLX", "sector": "Media / Entertainment",    "names": ["Netflix"]},
 
     # ---- Энергетика (нефть и газ) ----
-    {"ticker": "XOM",  "sector": "Нефть и газ",            "names": ["ExxonMobil", "Exxon Mobil"]},
-    {"ticker": "CVX",  "sector": "Нефть и газ",            "names": ["Chevron"]},
-    {"ticker": "SHEL", "sector": "Нефть и газ",            "names": ["Shell"]},
-    {"ticker": "BP",   "sector": "Нефть и газ",            "names": ["BP"]},
-    {"ticker": "COP",  "sector": "Нефть и газ",            "names": ["ConocoPhillips"]},
-    {"ticker": "OPEC", "sector": "Нефть и газ",            "names": ["OPEC", "OPEC+"]},
+    {"ticker": "XOM",  "sector": "Oil & Gas",            "names": ["ExxonMobil", "Exxon Mobil"]},
+    {"ticker": "CVX",  "sector": "Oil & Gas",            "names": ["Chevron"]},
+    {"ticker": "SHEL", "sector": "Oil & Gas",            "names": ["Shell"]},
+    {"ticker": "BP",   "sector": "Oil & Gas",            "names": ["BP"]},
+    {"ticker": "COP",  "sector": "Oil & Gas",            "names": ["ConocoPhillips"]},
+    {"ticker": "OPEC", "sector": "Oil & Gas",            "names": ["OPEC", "OPEC+"]},
 
     # ---- Металлы и добыча ----
-    {"ticker": "RIO",  "sector": "Металлы и добыча",       "names": ["Rio Tinto"]},
-    {"ticker": "BHP",  "sector": "Металлы и добыча",       "names": ["BHP"]},
-    {"ticker": "FCX",  "sector": "Металлы и добыча",       "names": ["Freeport-McMoRan"]},
-    {"ticker": "NEM",  "sector": "Металлы и добыча",       "names": ["Newmont"]},
-    {"ticker": "AA",   "sector": "Металлы и добыча",       "names": ["Alcoa"]},
-    {"ticker": "GOLD", "sector": "Металлы и добыча",       "names": ["Barrick Gold"]},
+    {"ticker": "RIO",  "sector": "Metals & Mining",       "names": ["Rio Tinto"]},
+    {"ticker": "BHP",  "sector": "Metals & Mining",       "names": ["BHP"]},
+    {"ticker": "FCX",  "sector": "Metals & Mining",       "names": ["Freeport-McMoRan"]},
+    {"ticker": "NEM",  "sector": "Metals & Mining",       "names": ["Newmont"]},
+    {"ticker": "AA",   "sector": "Metals & Mining",       "names": ["Alcoa"]},
+    {"ticker": "GOLD", "sector": "Metals & Mining",       "names": ["Barrick Gold"]},
 
     # ---- Оборонный сектор / Космос ----
-    {"ticker": "RHM",  "sector": "Оборонный сектор",       "names": ["Rheinmetall"]},
-    {"ticker": "LMT",  "sector": "Оборонный сектор",       "names": ["Lockheed Martin"]},
-    {"ticker": "BA",   "sector": "Оборонный сектор",       "names": ["Boeing"]},
-    {"ticker": "NOC",  "sector": "Оборонный сектор",       "names": ["Northrop Grumman"]},
-    {"ticker": "RTX",  "sector": "Оборонный сектор",       "names": ["RTX", "Raytheon"]},
-    {"ticker": "SPCX", "sector": "Космос",                 "names": ["SpaceX"]},
+    {"ticker": "RHM",  "sector": "Defense",       "names": ["Rheinmetall"]},
+    {"ticker": "LMT",  "sector": "Defense",       "names": ["Lockheed Martin"]},
+    {"ticker": "BA",   "sector": "Defense",       "names": ["Boeing"]},
+    {"ticker": "NOC",  "sector": "Defense",       "names": ["Northrop Grumman"]},
+    {"ticker": "RTX",  "sector": "Defense",       "names": ["RTX", "Raytheon"]},
+    {"ticker": "SPCX", "sector": "Space",                 "names": ["SpaceX"]},
 
     # ---- Финансы / банки / платежи ----
-    {"ticker": "JPM",  "sector": "Банки и финансы",        "names": ["JPMorgan", "JP Morgan"]},
-    {"ticker": "GS",   "sector": "Банки и финансы",        "names": ["Goldman Sachs"]},
-    {"ticker": "BAC",  "sector": "Банки и финансы",        "names": ["Bank of America"]},
-    {"ticker": "MS",   "sector": "Банки и финансы",        "names": ["Morgan Stanley"]},
-    {"ticker": "SPGI", "sector": "Банки и финансы",        "names": ["S&P Global"]},
-    {"ticker": "V",    "sector": "Платежи / финтех",       "names": ["Visa"]},
-    {"ticker": "MA",   "sector": "Платежи / финтех",       "names": ["Mastercard"]},
-    {"ticker": "PYPL", "sector": "Платежи / финтех",       "names": ["PayPal"]},
+    {"ticker": "JPM",  "sector": "Banking & Finance",        "names": ["JPMorgan", "JP Morgan"]},
+    {"ticker": "GS",   "sector": "Banking & Finance",        "names": ["Goldman Sachs"]},
+    {"ticker": "BAC",  "sector": "Banking & Finance",        "names": ["Bank of America"]},
+    {"ticker": "MS",   "sector": "Banking & Finance",        "names": ["Morgan Stanley"]},
+    {"ticker": "SPGI", "sector": "Banking & Finance",        "names": ["S&P Global"]},
+    {"ticker": "V",    "sector": "Payments / Fintech",       "names": ["Visa"]},
+    {"ticker": "MA",   "sector": "Payments / Fintech",       "names": ["Mastercard"]},
+    {"ticker": "PYPL", "sector": "Payments / Fintech",       "names": ["PayPal"]},
 
     # ---- Здравоохранение / фарма / биотех ----
-    {"ticker": "PFE",  "sector": "Здравоохранение",        "names": ["Pfizer"]},
-    {"ticker": "JNJ",  "sector": "Здравоохранение",        "names": ["Johnson & Johnson"]},
-    {"ticker": "LLY",  "sector": "Здравоохранение",        "names": ["Eli Lilly"]},
-    {"ticker": "MRK",  "sector": "Здравоохранение",        "names": ["Merck"]},
-    {"ticker": "UNH",  "sector": "Здравоохранение",        "names": ["UnitedHealth"]},
-    {"ticker": "MRNA", "sector": "Здравоохранение",        "names": ["Moderna"]},
+    {"ticker": "PFE",  "sector": "Healthcare",        "names": ["Pfizer"]},
+    {"ticker": "JNJ",  "sector": "Healthcare",        "names": ["Johnson & Johnson"]},
+    {"ticker": "LLY",  "sector": "Healthcare",        "names": ["Eli Lilly"]},
+    {"ticker": "MRK",  "sector": "Healthcare",        "names": ["Merck"]},
+    {"ticker": "UNH",  "sector": "Healthcare",        "names": ["UnitedHealth"]},
+    {"ticker": "MRNA", "sector": "Healthcare",        "names": ["Moderna"]},
 
     # ---- Промышленность / инфраструктура ----
-    {"ticker": "CAT",  "sector": "Промышленность",         "names": ["Caterpillar"]},
-    {"ticker": "HON",  "sector": "Промышленность",         "names": ["Honeywell"]},
-    {"ticker": "GE",   "sector": "Промышленность",         "names": ["General Electric"]},
+    {"ticker": "CAT",  "sector": "Industrials",         "names": ["Caterpillar"]},
+    {"ticker": "HON",  "sector": "Industrials",         "names": ["Honeywell"]},
+    {"ticker": "GE",   "sector": "Industrials",         "names": ["General Electric"]},
 
     # ---- Телеком / энергоснабжение ----
-    {"ticker": "T",    "sector": "Телеком",                "names": ["AT&T"]},
-    {"ticker": "VZ",   "sector": "Телеком",                "names": ["Verizon"]},
-    {"ticker": "NEE",  "sector": "Энергоснабжение",        "names": ["NextEra Energy"]},
+    {"ticker": "T",    "sector": "Telecom",                "names": ["AT&T"]},
+    {"ticker": "VZ",   "sector": "Telecom",                "names": ["Verizon"]},
+    {"ticker": "NEE",  "sector": "Utilities",        "names": ["NextEra Energy"]},
 
     # ---- Авиаперевозки / туризм ----
-    {"ticker": "DAL",  "sector": "Авиаперевозки / туризм", "names": ["Delta Air Lines"]},
-    {"ticker": "UAL",  "sector": "Авиаперевозки / туризм", "names": ["United Airlines"]},
-    {"ticker": "ABNB", "sector": "Авиаперевозки / туризм", "names": ["Airbnb"]},
+    {"ticker": "DAL",  "sector": "Airlines / Travel", "names": ["Delta Air Lines"]},
+    {"ticker": "UAL",  "sector": "Airlines / Travel", "names": ["United Airlines"]},
+    {"ticker": "ABNB", "sector": "Airlines / Travel", "names": ["Airbnb"]},
 
     # ---- Крипто ----
-    {"ticker": "BTC",  "sector": "Криптовалюты",           "names": ["Bitcoin"]},
-    {"ticker": "ETH",  "sector": "Криптовалюты",           "names": ["Ethereum"]},
-    {"ticker": "COIN", "sector": "Криптовалюты",           "names": ["Coinbase"]},
-    {"ticker": "MSTR", "sector": "Криптовалюты",           "names": ["MicroStrategy", "Strategy"]},
+    {"ticker": "BTC",  "sector": "Cryptocurrencies",           "names": ["Bitcoin"]},
+    {"ticker": "ETH",  "sector": "Cryptocurrencies",           "names": ["Ethereum"]},
+    {"ticker": "COIN", "sector": "Cryptocurrencies",           "names": ["Coinbase"]},
+    {"ticker": "MSTR", "sector": "Cryptocurrencies",           "names": ["MicroStrategy", "Strategy"]},
 
     # ---- Облигации / макро (не компании, а рыночные термины) ----
-    {"ticker": "UST10Y","sector": "Облигации / макро",     "names": ["10-year Treasury", "Treasury yield", "Treasury yields", "U.S. Treasury"]},
-    {"ticker": "TLT",   "sector": "Облигации / макро",     "names": ["Treasury bond", "long-term Treasury bond"]},
-    {"ticker": "FED",   "sector": "Облигации / макро",     "names": ["Federal Reserve", "Fed rate", "interest rate decision"]},
+    {"ticker": "UST10Y","sector": "Bonds / Macro",     "names": ["10-year Treasury", "Treasury yield", "Treasury yields", "U.S. Treasury"]},
+    {"ticker": "TLT",   "sector": "Bonds / Macro",     "names": ["Treasury bond", "long-term Treasury bond"]},
+    {"ticker": "FED",   "sector": "Bonds / Macro",     "names": ["Federal Reserve", "Fed rate", "interest rate decision"]},
 
     # ---- ETF / индексы ----
-    {"ticker": "SPY",  "sector": "ETF / индексы",          "names": ["S&P 500"]},
-    {"ticker": "QQQ",  "sector": "ETF / индексы",          "names": ["Nasdaq 100", "Nasdaq Composite"]},
-    {"ticker": "DJI",  "sector": "ETF / индексы",          "names": ["Dow Jones"]},
-    {"ticker": "VWCE", "sector": "ETF / индексы",          "names": ["VWCE", "FTSE All-World"]},
+    {"ticker": "SPY",  "sector": "ETFs / Indices",          "names": ["S&P 500"]},
+    {"ticker": "QQQ",  "sector": "ETFs / Indices",          "names": ["Nasdaq 100", "Nasdaq Composite"]},
+    {"ticker": "DJI",  "sector": "ETFs / Indices",          "names": ["Dow Jones"]},
+    {"ticker": "VWCE", "sector": "ETFs / Indices",          "names": ["VWCE", "FTSE All-World"]},
 ]
 
 # Оставляю прежнее имя переменной для обратной совместимости кода ниже
@@ -477,12 +486,13 @@ def calc_importance(title: str, description: str, tickers: list, pub_dt) -> floa
 
 
 # ---------------------------------------------------------------------------
-# LLM-КЛАССИФИКАЦИЯ (опционально, через Claude API)
+# LLM-КЛАССИФИКАЦИЯ (опционально, через DeepSeek API)
 # ---------------------------------------------------------------------------
 
 def classify_batch_with_llm(batch_items):
-    """Отправляет пачку новостей в Claude API и просит честно (с пониманием
-    контекста) определить тональность, важность и тип новости.
+    """Отправляет пачку новостей в DeepSeek API (эндпоинт OpenAI-совместимый,
+    /chat/completions) и просит честно (с пониманием контекста) определить
+    тональность, важность и тип новости.
 
     batch_items: список {"title": ..., "description": ...}
     Возвращает список {"sentiment": ..., "importance": ..., "content_type": ...}
@@ -490,72 +500,73 @@ def classify_batch_with_llm(batch_items):
     формат ответа) — вызывающий код в этом случае просто оставляет
     эвристические значения.
     """
-    if not ANTHROPIC_API_KEY:
+    if not DEEPSEEK_API_KEY:
         return None
 
     numbered = "\n\n".join(
-        f"{i + 1}. Заголовок: {it['title']}\nОписание: {(it['description'] or '')[:300]}"
+        f"{i + 1}. Title: {it['title']}\nDescription: {(it['description'] or '')[:300]}"
         for i, it in enumerate(batch_items)
     )
     prompt = (
-        "Ты — классификатор финансовых новостей для инвестора. Для каждой "
-        "новости ниже определи три поля.\n\n"
-        "1) content_type — \"market_signal\" или \"macro_context\":\n"
-        "   - \"market_signal\", если у новости есть конкретный биржевой "
-        "\"адресат\" — компания, сектор, класс активов, чья цена реально "
-        "может сдвинуться из-за этой новости.\n"
-        "   - \"macro_context\", если это геополитика/политика/макро-фон "
-        "БЕЗ прямой привязки к конкретной бумаге — санкции против "
-        "физического лица, дипломатия, выборы, военные действия, решения "
-        "международных органов и т.п. Такие новости важны для понимания "
-        "картины мира, но НЕ являются торговым сигналом сами по себе.\n\n"
-        "2) sentiment — \"positive\", \"negative\" или \"neutral\", СТРОГО "
-        "с точки зрения вероятного влияния на рынок/актив, а НЕ с точки "
-        "зрения политической, моральной или гуманитарной оценки события. "
-        "Это разные оси: новость может быть трагичной или спорной по сути "
-        "и при этом нейтральной или даже позитивной для конкретного актива "
-        "— и наоборот. Если новость помечена как \"macro_context\" и не "
-        "имеет ясного одностороннего рыночного эффекта, честно ставь "
-        "\"neutral\", а не пытайся оценить её политическую значимость.\n"
-        "   Примеры, чтобы откалибровать критерий:\n"
-        "   - \"ЕС не вводит санкции против главы РПЦ и главы 'Лукойла'\" "
-        "→ content_type=macro_context (нет цены акции, на которую это "
-        "прямо действует), sentiment=neutral (отсутствие эскалации — "
-        "не сильный сигнал ни вверх, ни вниз для конкретного актива), "
-        "НЕ negative, даже если само событие может восприниматься как "
-        "морально неоднозначное.\n"
-        "   - \"ЕС импортировал рекордный объём СПГ из России\" → "
-        "content_type=macro_context (нет единственного тикера-адресата "
-        "в общем потоке), sentiment=neutral-to-positive для энергетического "
-        "рынка (больше предложения газа), а не \"негатив\" просто потому, "
-        "что тема связана с Россией.\n"
+        "You are a financial news classifier for an investor. For each news "
+        "item below, determine three fields.\n\n"
+        "1) content_type — \"market_signal\" or \"macro_context\":\n"
+        "   - \"market_signal\" if the news has a specific market target — "
+        "a company, sector, or asset class whose price could realistically "
+        "move because of this news.\n"
+        "   - \"macro_context\" if it's geopolitics/politics/macro background "
+        "WITHOUT a direct link to a specific security — sanctions against an "
+        "individual, diplomacy, elections, military action, decisions by "
+        "international bodies, etc. Such news matters for understanding the "
+        "bigger picture but is NOT a trading signal by itself.\n\n"
+        "2) sentiment — \"positive\", \"negative\" or \"neutral\", STRICTLY "
+        "from the standpoint of likely impact on the market/asset, NOT from "
+        "a political, moral, or humanitarian judgment of the event. These "
+        "are different axes: a news item can be tragic or controversial in "
+        "substance while being neutral or even positive for a specific "
+        "asset — and vice versa. If a news item is \"macro_context\" and has "
+        "no clear one-sided market effect, honestly mark it \"neutral\" "
+        "rather than trying to score its political significance.\n"
+        "   Calibration examples:\n"
+        "   - \"EU declines to sanction [a religious/political figure]\" → "
+        "content_type=macro_context (no single stock price this directly "
+        "acts on), sentiment=neutral (absence of escalation is not a strong "
+        "signal up or down for any specific asset), NOT negative just "
+        "because the underlying event may be morally contentious.\n"
+        "   - \"EU imports record volumes of LNG from Russia\" → "
+        "content_type=macro_context (no single ticker target in a broad "
+        "trend), sentiment=neutral-to-positive for the energy market (more "
+        "gas supply), not \"negative\" just because the topic involves "
+        "Russia.\n"
         "   - \"Nvidia surges to record high\" → content_type=market_signal, "
         "sentiment=positive.\n\n"
-        "3) importance — число от 0 до 100: насколько новость способна "
-        "реально двигать рынок или конкретные акции (0 — рутина, "
-        "100 — событие уровня банкротства крупного банка или начала войны). "
-        "Геополитические новости тоже могут получать высокий importance, "
-        "если они действительно масштабны — importance измеряет масштаб "
-        "события, а не наличие торгового сигнала (это отдельно в content_type).\n\n"
-        f"Новости:\n{numbered}\n\n"
-        "Ответь СТРОГО в виде JSON-массива, без пояснений вне JSON, "
-        "в том же порядке, в формате:\n"
-        '[{"content_type": "market_signal", "sentiment": "positive", "importance": 42}, ...]'
+        "3) importance — a number from 0 to 100: how much this news item can "
+        "realistically move the market or specific stocks (0 = routine, "
+        "100 = an event on the scale of a major bank's collapse or the "
+        "start of a war). Geopolitical news can also score high importance "
+        "if it's genuinely large in scale — importance measures the scale "
+        "of the event, not whether it's a trading signal (that's separately "
+        "content_type).\n\n"
+        f"News items:\n{numbered}\n\n"
+        "Respond with STRICTLY a JSON object, no prose outside the JSON, "
+        "in this exact shape, with \"results\" containing one entry per news "
+        "item above IN THE SAME ORDER:\n"
+        '{"results": [{"content_type": "market_signal", "sentiment": "positive", "importance": 42}, ...]}'
     )
 
     body = json.dumps({
-        "model": ANTHROPIC_MODEL,
+        "model": DEEPSEEK_MODEL,
         "max_tokens": 2000,
+        "response_format": {"type": "json_object"},
         "messages": [{"role": "user", "content": prompt}],
     }).encode("utf-8")
 
     req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
+        "https://api.deepseek.com/chat/completions",
         data=body,
         headers={
             "Content-Type": "application/json",
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
+            "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
         },
         method="POST",
     )
@@ -564,23 +575,21 @@ def classify_batch_with_llm(batch_items):
         with urllib.request.urlopen(req, timeout=30) as resp:
             raw = json.loads(resp.read())
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        print(f"  [!] Ошибка обращения к Claude API: {e}")
+        print(f"  [!] Ошибка обращения к DeepSeek API: {e}")
         return None
 
     try:
-        text = "".join(
-            block.get("text", "") for block in raw.get("content", [])
-            if block.get("type") == "text"
-        ).strip()
-        # на случай, если модель обернула JSON в ```json ... ```
+        text = raw["choices"][0]["message"]["content"].strip()
+        # на случай, если модель всё же обернула JSON в ```json ... ```
         text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
         parsed = json.loads(text)
-        if isinstance(parsed, list) and len(parsed) == len(batch_items):
-            return parsed
+        results = parsed.get("results") if isinstance(parsed, dict) else parsed
+        if isinstance(results, list) and len(results) == len(batch_items):
+            return results
         print("  [!] LLM вернул неожиданный формат ответа — использую эвристику для этой партии")
         return None
     except Exception as e:
-        print(f"  [!] Не удалось разобрать ответ Claude API: {e}")
+        print(f"  [!] Не удалось разобрать ответ DeepSeek API: {e}")
         return None
 
 
@@ -610,7 +619,7 @@ def classify_items_with_llm(items):
             item["llm_classified"] = True
         classified += len(batch)
 
-    print(f"  Классифицировано через Claude: {classified}/{len(items)} новостей "
+    print(f"  Классифицировано через DeepSeek: {classified}/{len(items)} новостей "
           f"(остальные — по локальной эвристике)")
 
 
@@ -780,20 +789,20 @@ INDEX_QUOTES = [
     {"symbol": "^NDX",  "name": "Nasdaq 100"},
     {"symbol": "^RUT",  "name": "Russell 2000"},
     {"symbol": "^NYA",  "name": "NYSE Composite"},
-    {"symbol": "^VIX",  "name": "VIX (индекс страха)"},
+    {"symbol": "^VIX",  "name": "VIX (Fear Index)"},
 
     # --- Международные индексы (платформа для глобальной аудитории) ---
     {"symbol": "^FTSE",     "name": "FTSE 100 (UK)"},
-    {"symbol": "^GDAXI",    "name": "DAX (Германия)"},
+    {"symbol": "^GDAXI",    "name": "DAX (Germany)"},
     {"symbol": "^STOXX50E", "name": "Euro Stoxx 50"},
-    {"symbol": "^N225",     "name": "Nikkei 225 (Япония)"},
-    {"symbol": "^HSI",      "name": "Hang Seng (Гонконг)"},
+    {"symbol": "^N225",     "name": "Nikkei 225 (Japan)"},
+    {"symbol": "^HSI",      "name": "Hang Seng (Hong Kong)"},
 
     # --- Сырьё, крипто, облигации ---
-    {"symbol": "GC=F",    "name": "Золото (фьючерс)"},
-    {"symbol": "CL=F",    "name": "Нефть WTI (фьючерс)"},
+    {"symbol": "GC=F",    "name": "Gold (futures)"},
+    {"symbol": "CL=F",    "name": "WTI Crude Oil (futures)"},
     {"symbol": "BTC-USD", "name": "Bitcoin"},
-    {"symbol": "^TNX",    "name": "Доходность 10-летних US Treasury", "unit": "yield_pct", "scale": 0.1},
+    {"symbol": "^TNX",    "name": "10-Year US Treasury Yield", "unit": "yield_pct", "scale": 0.1},
 ]
 
 
@@ -872,11 +881,11 @@ def main():
 
     deduped = deduped[:MAX_ITEMS]
 
-    if ANTHROPIC_API_KEY:
-        print(f"\nAPI-ключ найден — уточняю тональность и важность через Claude ({ANTHROPIC_MODEL})...")
+    if DEEPSEEK_API_KEY:
+        print(f"\nAPI-ключ найден — уточняю тональность и важность через DeepSeek ({DEEPSEEK_MODEL})...")
         classify_items_with_llm(deduped)
     else:
-        print("\nANTHROPIC_API_KEY не задан — использую локальную эвристику по ключевым словам.")
+        print("\nDEEPSEEK_API_KEY не задан — использую локальную эвристику по ключевым словам.")
         print("(Подробнее о подключении LLM-классификации — в README.md)")
 
     summary = build_summary(deduped)
