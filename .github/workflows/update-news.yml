@@ -2,15 +2,21 @@ name: Update news feed
 
 on:
   schedule:
-    # Weekdays: every ~90 min during the NYSE/Nasdaq session (9:30am-4pm ET).
-    # UTC times below target EDT (UTC-4); during EST (UTC-5, roughly
-    # Nov-Mar) actual market open/close is an hour later than these times —
-    # GitHub Actions cron is fixed-UTC and doesn't shift for DST.
-    - cron: '30 13 * * 1-5'
-    - cron: '0 15 * * 1-5'
-    - cron: '30 16 * * 1-5'
-    - cron: '0 18 * * 1-5'
-    - cron: '30 19 * * 1-5'
+    # Weekdays: every ~90 min, with >=30 min buffer before open and after
+    # close on BOTH sides of the DST calendar. GitHub Actions cron is
+    # fixed-UTC and can't shift automatically, so the window below is the
+    # union of both cases:
+    #   EDT (roughly Mar-Nov): session 13:30-20:00 UTC -> buffer 13:00-20:30
+    #   EST (roughly Nov-Mar): session 14:30-21:00 UTC -> buffer 14:00-21:30
+    # i.e. 13:00-21:30 UTC covers the 30-min pre/post buffer year-round
+    # (with a bit of extra slack on the side that isn't currently in DST).
+    - cron: '0 13 * * 1-5'
+    - cron: '30 14 * * 1-5'
+    - cron: '0 16 * * 1-5'
+    - cron: '30 17 * * 1-5'
+    - cron: '0 19 * * 1-5'
+    - cron: '30 20 * * 1-5'
+    - cron: '30 21 * * 1-5'
     # Weekends: markets are closed, once a day is enough.
     - cron: '0 15 * * 0,6'
   workflow_dispatch: {}
