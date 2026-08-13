@@ -1,59 +1,58 @@
 // Файл сгенерирован автоматически скриптом fetch_news.py — не редактируйте вручную
 const NEWS_DATA = {
-  "generated_at": "2026-08-13T21:24:36.182735+00:00",
-  "generated_at_display": "13.08.2026 21:24",
+  "generated_at": "2026-08-13T22:13:01.285995+00:00",
+  "generated_at_display": "13.08.2026 22:13",
   "summary": {
     "total": 80,
-    "signal_total": 58,
-    "macro_total": 22,
-    "positive": 25,
-    "negative": 22,
-    "neutral": 11,
+    "signal_total": 61,
+    "macro_total": 19,
+    "positive": 34,
+    "negative": 21,
+    "neutral": 6,
     "top_tickers": [
       {
         "ticker": "SPY",
-        "count": 3
+        "count": 4
       },
       {
         "ticker": "DJI",
         "count": 2
       },
       {
-        "ticker": "AMAT",
-        "count": 2
-      },
-      {
-        "ticker": "AAPL",
+        "ticker": "MU",
         "count": 1
       },
       {
-        "ticker": "META",
+        "ticker": "AMD",
         "count": 1
       },
       {
-        "ticker": "QQQ",
+        "ticker": "CRM",
+        "count": 1
+      },
+      {
+        "ticker": "FED",
         "count": 1
       }
     ],
     "sectors": [
       "Banking & Finance",
       "Big Tech",
-      "Consumer Goods",
+      "Bonds / Macro",
       "Cryptocurrencies",
       "ETFs / Indices",
       "Metals & Mining",
       "Semiconductors",
-      "Space"
+      "Software / Cloud"
     ],
     "source_counts": {
-      "CNBC": 26,
-      "MarketWatch": 9,
+      "MarketWatch": 8,
+      "CNBC": 27,
       "Investing.com": 10,
       "Nasdaq": 13,
       "Mining.com": 6,
       "CoinDesk": 9,
-      "OilPrice.com": 6,
-      "Retail Dive": 1
+      "OilPrice.com": 7
     }
   },
   "indices": [
@@ -157,25 +156,25 @@ const NEWS_DATA = {
       "name": "Gold (futures)",
       "symbol": "GC=F",
       "unit": "index",
-      "price": 4407.1,
-      "change_abs": -60.4,
-      "change_pct": -1.35
+      "price": 4407.8,
+      "change_abs": -12.6,
+      "change_pct": -0.29
     },
     {
       "name": "WTI Crude Oil (futures)",
       "symbol": "CL=F",
       "unit": "index",
-      "price": 81.21,
-      "change_abs": -2.06,
-      "change_pct": -2.47
+      "price": 81.2,
+      "change_abs": -0.05,
+      "change_pct": -0.06
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
       "unit": "index",
-      "price": 63377.71,
-      "change_abs": -32.68,
-      "change_pct": -0.05
+      "price": 63563.37,
+      "change_abs": 152.98,
+      "change_pct": 0.24
     },
     {
       "name": "10-Year US Treasury Yield",
@@ -188,6 +187,383 @@ const NEWS_DATA = {
   ],
   "items": [
     {
+      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+      "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+      "description": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-49882740",
+      "published": "2026-08-13T22:09:00+00:00",
+      "published_display": "13.08 22:09",
+      "sentiment": "positive",
+      "tickers": [
+        "MU",
+        "AMD"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+      "description": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-02898598",
+      "published": "2026-08-13T22:07:00+00:00",
+      "published_display": "13.08 22:07",
+      "sentiment": "positive",
+      "tickers": [
+        "CRM"
+      ],
+      "sectors": [
+        "Software / Cloud"
+      ],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "description": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-75636714",
+      "published": "2026-08-13T22:05:00+00:00",
+      "published_display": "13.08 22:05",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Markets are looking eerily calm as investors chase FOMO rally",
+      "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+      "description": "By nearly every headline measure, investors have never looked more relaxed in a year not short of wild rides. But that calm may not be as reassuring as it looks.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-772401",
+      "published": "2026-08-13T22:05:00+00:00",
+      "published_display": "13.08 22:05",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+      "description": "“This medication was generic.”",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-82819930",
+      "published": "2026-08-13T22:00:00+00:00",
+      "published_display": "13.08 22:00",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Reddit stock jumps on inclusion in S&P 500",
+      "link": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+      "description": "Reddit shares jumped on the company's inclusion in the S&P 500.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-13T21:56:29+00:00",
+      "published_display": "13.08 21:56",
+      "sentiment": "positive",
+      "tickers": [
+        "SPY"
+      ],
+      "sectors": [
+        "ETFs / Indices"
+      ],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "BridgeBio shares fall as KKR launches secondary offering",
+      "link": "https://www.investing.com/news/stock-market-news/bridgebio-shares-fall-as-kkr-launches-secondary-offering-93CH-4859434",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-08-13T21:53:58",
+      "published_display": "13.08 21:53",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is StoneCo stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-stoneco-stock-sliding-today-93CH-4859429",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-08-13T21:51:36",
+      "published_display": "13.08 21:51",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Wheat Fades Early Gains as Black Sea Tensions Shift",
+      "link": "https://www.nasdaq.com/articles/wheat-fades-early-gains-black-sea-tensions-shift",
+      "description": "The wheat complex is holding onto the firmer trade at midday but have pulled off the early double digit strength. Chicago SRW contracts are up 2 to 3 cents so far at midday. KC HRW futures are showing 1 to 3 cent gains on Thursday,…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:51:18+00:00",
+      "published_display": "13.08 21:51",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is Eton Pharmaceuticals stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-eton-pharmaceuticals-stock-surging-today-93CH-4859427",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-08-13T21:50:02",
+      "published_display": "13.08 21:50",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Macquarie, Westpac to testify in KPMG Australia audit scandal probe",
+      "link": "https://www.investing.com/news/stock-market-news/macquarie-westpac-to-testify-in-kpmg-australia-audit-scandal-probe-4859297",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C1PP_L.jpg",
+      "published": "2026-08-13T21:48:45",
+      "published_display": "13.08 21:48",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is Heartflow stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-heartflow-stock-surging-today-93CH-4859419",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-08-13T21:48:23",
+      "published_display": "13.08 21:48",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is TMC the metals company stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-tmc-the-metals-company-stock-sliding-today-93CH-4859418",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-08-13T21:48:14",
+      "published_display": "13.08 21:48",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Dollar Ends Little Changed Despite Dovish US PPI Report",
+      "link": "https://www.nasdaq.com/articles/dollar-ends-little-changed-despite-dovish-us-ppi-report",
+      "description": "The dollar index (DXY00 ) on Thursday ended the day little changed despite downward pressure from the dovish US PPI report, which lowered the odds of a Fed rate hike in September to 35% from 40% on Wednesday. In addition, the 10-year…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:47:14+00:00",
+      "published_display": "13.08 21:47",
+      "sentiment": "neutral",
+      "tickers": [
+        "FED"
+      ],
+      "sectors": [
+        "Bonds / Macro"
+      ],
+      "importance": 20.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Trump orders Navy to abandon carrier launch system, return to steam catapults",
+      "link": "https://www.investing.com/news/stock-market-news/trump-orders-navy-to-abandon-carrier-launch-system-return-to-steam-catapults-4859404",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C1QL_L.jpg",
+      "published": "2026-08-13T21:43:47",
+      "published_display": "13.08 21:43",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "link": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
+      "description": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-89358404",
+      "published": "2026-08-13T21:34:00+00:00",
+      "published_display": "13.08 21:34",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 45.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Mamdani's NYC pied-à-terre tax can continue rollout during court appeal",
+      "link": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
+      "description": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-13T21:31:44+00:00",
+      "published_display": "13.08 21:31",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Anthropic in talks to buy Decart AI, source says",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-buy-decart-ai-source-says-4856565",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C06G_L.jpg",
+      "published": "2026-08-13T21:30:36",
+      "published_display": "13.08 21:30",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.41%",
+      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-141-4859374",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
+      "published": "2026-08-13T21:30:04",
+      "published_display": "13.08 21:30",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Coffee Prices Decline as Colombian Coffee Exports Partially Resume",
+      "link": "https://www.nasdaq.com/articles/coffee-prices-decline-colombian-coffee-exports-partially-resume-0",
+      "description": "September arabica coffee (KCU26 ) on Thursday closed down -7.00 (-2.06%), and September ICE robusta coffee (RMU26 ) closed down -103 (-2.73%). NY arabica coffee prices on Thursday fell further from Tuesday’s 1-month high, which was…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:29:51+00:00",
+      "published_display": "13.08 21:29",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Wheat Holding onto Thursday Morning Gains",
+      "link": "https://www.nasdaq.com/articles/wheat-holding-thursday-morning-gains",
+      "description": "Wheat is up 1 to 4 cents across the three exchanges. The wheat complex is trading with sharp midday gains across the three exchanges. Chicago SRW contracts were 13 ¾ to 22 ½ cents higher across the board on the day. Short covering was…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:29:51+00:00",
+      "published_display": "13.08 21:29",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "S&P downgrades Teads rating on AI disruption, weak cash flow",
+      "link": "https://www.investing.com/news/stock-market-news/sp-downgrades-teads-rating-on-ai-disruption-weak-cash-flow-93CH-4859363",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/YaronGalaiandDavidKostmanco-Foundersandco-CEOsofOutbrain_800x533_L_1627393589.jpg",
+      "published": "2026-08-13T21:26:30",
+      "published_display": "13.08 21:26",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Nat-Gas Prices Fall on Bearish EIA Report",
+      "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-bearish-eia-report",
+      "description": "September Nymex natural gas (NGU26 ) on Thursday closed down -0.077 (-2.75%). Nat-gas prices closed lower on Thursday due to a +36 bcf rise in nat-gas inventories in the weekly EIA report, larger than market expectations of +31 bcf.…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:24:27+00:00",
+      "published_display": "13.08 21:24",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Corn Fading Back Lower on Thursday",
+      "link": "https://www.nasdaq.com/articles/corn-fading-back-lower-thursday",
+      "description": "Corn futures are trading with contracts 6 to 7 cents lower at midday, reverting from the 17 to 20 cent gains on Wednesday. The CmdtyView national average Cash Corn price is 6 3/4 cents lower at $4.21 1/2. Export Sales data was released…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-13T21:24:27+00:00",
+      "published_display": "13.08 21:24",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
       "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
       "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
       "description": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
@@ -195,14 +571,14 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T21:23:35+00:00",
       "published_display": "13.08 21:23",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tickers": [
         "AAPL"
       ],
       "sectors": [
         "Big Tech"
       ],
-      "importance": 15.0,
+      "importance": 20.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -241,21 +617,6 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Macquarie, Westpac to testify in KPMG Australia audit scandal probe",
-      "link": "https://www.investing.com/news/stock-market-news/macquarie-westpac-to-testify-in-kpmg-australia-audit-scandal-probe-4859297",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C1PP_L.jpg",
-      "published": "2026-08-13T21:13:19",
-      "published_display": "13.08 21:13",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
       "title": "Sugar Prices Rally on Continued Weather-Related Risks",
       "link": "https://www.nasdaq.com/articles/sugar-prices-rally-continued-weather-related-risks-0",
       "description": "October NY world sugar #11 (SBV26 ) on Thursday closed up +0.40 (+2.44%), and October London ICE white sugar #5 (SWV26 ) closed up +11.00 (+2.17%). NY and London sugar prices rallied on Thursday but remained below Wednesday’s respective…",
@@ -267,51 +628,6 @@ const NEWS_DATA = {
       "tickers": [],
       "sectors": [],
       "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Coffee Prices Decline as Colombian Coffee Exports Partially Resume",
-      "link": "https://www.nasdaq.com/articles/coffee-prices-decline-colombian-coffee-exports-partially-resume-0",
-      "description": "September arabica coffee (KCU26 ) on Thursday closed down -7.00 (-2.06%), and September ICE robusta coffee (RMU26 ) closed down -103 (-2.73%). NY arabica coffee prices on Thursday fell further from Tuesday’s 1-month high, which was…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T21:13:17+00:00",
-      "published_display": "13.08 21:13",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Corn Fading Back Lower on Thursday",
-      "link": "https://www.nasdaq.com/articles/corn-fading-back-lower-thursday",
-      "description": "Corn futures are trading with contracts 6 to 7 cents lower at midday, reverting from the 17 to 20 cent gains on Wednesday. The CmdtyView national average Cash Corn price is 6 3/4 cents lower at $4.21 1/2. Export Sales data was released…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T21:13:17+00:00",
-      "published_display": "13.08 21:13",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Wheat Fades Early Gains as Black Sea Tensions Shift",
-      "link": "https://www.nasdaq.com/articles/wheat-fades-early-gains-black-sea-tensions-shift",
-      "description": "The wheat complex is holding onto the firmer trade at midday but have pulled off the early double digit strength. Chicago SRW contracts are up 2 to 3 cents so far at midday. KC HRW futures are showing 1 to 3 cent gains on Thursday,…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T21:13:17+00:00",
-      "published_display": "13.08 21:13",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -352,21 +668,6 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Wheat Holding onto Thursday Morning Gains",
-      "link": "https://www.nasdaq.com/articles/wheat-holding-thursday-morning-gains",
-      "description": "Wheat is up 1 to 4 cents across the three exchanges. The wheat complex is trading with sharp midday gains across the three exchanges. Chicago SRW contracts were 13 ¾ to 22 ½ cents higher across the board on the day. Short covering was…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T21:13:16+00:00",
-      "published_display": "13.08 21:13",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
       "title": "More than half of Gen Z redirected money away from investing and toward sports betting over the past year",
       "link": "https://www.marketwatch.com/story/more-than-half-of-gen-z-redirected-money-away-from-investing-and-toward-sports-betting-over-the-past-year-937a366c?mod=mw_rss_topstories",
       "description": "The results of a recent survey from wealth-management platform Betterment are making America’s financial advisers cringe.",
@@ -377,7 +678,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
+      "importance": 15.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -397,21 +698,6 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Fitch keeps United States’ rating at ’AA+’",
-      "link": "https://www.investing.com/news/stock-market-news/fitch-keeps-united-states-rating-at-aa-4859296",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C1OQ_L.jpg",
-      "published": "2026-08-13T21:06:32",
-      "published_display": "13.08 21:06",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 5.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
       "title": "Crude Prices Fall as Persian Gulf Tensions Ease Slightly",
       "link": "https://www.nasdaq.com/articles/crude-prices-fall-persian-gulf-tensions-ease-slightly",
       "description": "September WTI crude oil (CLU26) on Thursday closed down -2.02 (-2.43%), and September RBOB gasoline (RBU26) closed down -0.0257 (-0.81%). Crude oil and gasoline prices fell on Thursday, with no overnight reports of new military attacks…",
@@ -422,22 +708,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why is QXO stock climbing today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-qxo-stock-climbing-today-93CH-4859291",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-08-13T21:04:02",
-      "published_display": "13.08 21:04",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
+      "importance": 35.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -452,23 +723,8 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
+      "importance": 5.0,
       "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Why is Heartbeam stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-heartbeam-stock-sliding-today-93CH-4859279",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-08-13T21:00:27",
-      "published_display": "13.08 21:00",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -482,75 +738,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 45.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why is Globant stock tumbling today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-globant-stock-tumbling-today-93CH-4859259",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-08-13T20:55:48",
-      "published_display": "13.08 20:55",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why is Applied Materials stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-4859258",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg",
-      "published": "2026-08-13T20:55:35",
-      "published_display": "13.08 20:55",
-      "sentiment": "negative",
-      "tickers": [
-        "AMAT"
-      ],
-      "sectors": [
-        "Semiconductors"
-      ],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "US anti-bias agency says Nike complied with subpoena, drops lawsuit",
-      "link": "https://www.investing.com/news/stock-market-news/us-antibias-agency-says-nike-complied-with-subpoena-drops-lawsuit-4859250",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7C1OW_L.jpg",
-      "published": "2026-08-13T20:48:47",
-      "published_display": "13.08 20:48",
-      "sentiment": "positive",
-      "tickers": [
-        "NKE"
-      ],
-      "sectors": [
-        "Consumer Goods"
-      ],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Svatantra Microfin files for $314 million India IPO",
-      "link": "https://www.investing.com/news/stock-market-news/svatantra-microfin-files-for-314-million-india-ipo-93CH-4859249",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-08-13T20:48:46",
-      "published_display": "13.08 20:48",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
+      "importance": 40.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -569,7 +757,7 @@ const NEWS_DATA = {
       "sectors": [
         "ETFs / Indices"
       ],
-      "importance": 10.0,
+      "importance": 5.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -588,71 +776,7 @@ const NEWS_DATA = {
       "sectors": [
         "ETFs / Indices"
       ],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "ITG Becomes Oversold",
-      "link": "https://www.nasdaq.com/articles/itg-becomes-oversold",
-      "description": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T20:38:56+00:00",
-      "published_display": "13.08 20:38",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Stubhub Holdings is Now Oversold (STUB)",
-      "link": "https://www.nasdaq.com/articles/stubhub-holdings-now-oversold-stub",
-      "description": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-13T20:38:32+00:00",
-      "published_display": "13.08 20:38",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Canada’s TSX hits record high for fifth straight day as tech stocks lead gains",
-      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-with-fresh-us-inflation-data-ahead-4857448",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "published": "2026-08-13T20:37:49",
-      "published_display": "13.08 20:37",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "After-Hours Movers: AMAT, DLO, GLOB, YSS, ETON",
-      "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-amat-dlo-glob-yss-eton-432SI-4859172",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg",
-      "published": "2026-08-13T20:32:01",
-      "published_display": "13.08 20:32",
-      "sentiment": "negative",
-      "tickers": [
-        "AMAT"
-      ],
-      "sectors": [
-        "Semiconductors"
-      ],
-      "importance": 25.0,
+      "importance": 5.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -667,26 +791,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "SpaceX set an IPO record. Now there’s hope that Anthropic could shatter it.",
-      "link": "https://www.marketwatch.com/story/spacex-set-an-ipo-record-now-theres-hope-that-anthropic-could-shatter-it-ea44b12a?mod=mw_rss_topstories",
-      "description": "A new report says that some Anthropic investors expect the company to seek a $2 trillion to $3 trillion valuation, above SpaceX’s $1.7 trillion milestone.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-63367362",
-      "published": "2026-08-13T20:20:00+00:00",
-      "published_display": "13.08 20:20",
-      "sentiment": "positive",
-      "tickers": [
-        "SPCX"
-      ],
-      "sectors": [
-        "Space"
-      ],
-      "importance": 45.0,
+      "importance": 25.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -716,7 +821,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 50.0,
+      "importance": 45.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -743,55 +848,10 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T19:56:06+00:00",
       "published_display": "13.08 19:56",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "The average car loan is now $785 a month — and lasts for almost 6 years",
-      "link": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
-      "description": "Americans borrowed a record $211 billion to pay for their cars last quarter.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-85630920",
-      "published": "2026-08-13T19:54:00+00:00",
-      "published_display": "13.08 19:54",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-      "description": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-75636714",
-      "published": "2026-08-13T19:52:00+00:00",
-      "published_display": "13.08 19:52",
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 35.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
-      "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-      "description": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-81880851",
-      "published": "2026-08-13T19:51:00+00:00",
-      "published_display": "13.08 19:51",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
+      "importance": 20.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -806,23 +866,8 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
+      "importance": 35.0,
       "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
-      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-      "description": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-66270404",
-      "published": "2026-08-13T19:27:00+00:00",
-      "published_display": "13.08 19:27",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 5.0,
-      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -841,21 +886,6 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-      "link": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-      "description": "In some Sun Belt areas, nearly 1 in 5 sellers are asking for less than what they paid.",
-      "source": "MarketWatch",
-      "image": "",
-      "published": "2026-08-13T19:23:00+00:00",
-      "published_display": "13.08 19:23",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
       "title": "Gas prices are the highest on record for August. Here are the credit cards and rewards programs that help you save",
       "link": "https://www.cnbc.com/select/how-to-save-on-gas-with-credit-cards-and-rewards-programs/",
       "description": "With the national average at $4.07 per gallon, here’s how to save on rising fuel costs.",
@@ -863,10 +893,10 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T19:16:43+00:00",
       "published_display": "13.08 19:16",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
+      "importance": 15.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -878,10 +908,10 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T18:44:12+00:00",
       "published_display": "13.08 18:44",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
+      "importance": 35.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -896,7 +926,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 40.0,
+      "importance": 25.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -915,7 +945,7 @@ const NEWS_DATA = {
       "sectors": [
         "Metals & Mining"
       ],
-      "importance": 30.0,
+      "importance": 15.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -953,7 +983,7 @@ const NEWS_DATA = {
       "sectors": [
         "Banking & Finance"
       ],
-      "importance": 35.0,
+      "importance": 30.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -988,21 +1018,6 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Why September is the worst month of the year for the stock market",
-      "link": "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
-      "description": "The introduction of pumpkin-spice lattes to menus means the end of summer is approaching, along with positive vibes",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-88456022",
-      "published": "2026-08-13T17:06:00+00:00",
-      "published_display": "13.08 17:06",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
       "title": "Democrats demand Trump reveal stock managers, explain suspicious trades",
       "link": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
       "description": "Warren and Garcia said they sought answers from Trump to inform their work on potential legislation to ban presidents from owning individual stocks.",
@@ -1013,8 +1028,23 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 5.0,
+      "importance": 10.0,
       "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "U.S. Power Grid Strains Under Record Electricity Demand",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
+      "description": "U.S. demand for electricity is expected to hit an all-time high both this year and next, driven by the data center buildout of Big Tech. This is the latest in a series of record-demand projections by the Energy Information…",
+      "source": "OilPrice.com",
+      "image": "",
+      "published": "2026-08-13T17:00:00-05:00",
+      "published_display": "13.08 17:00",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1047,7 +1077,7 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 5.0,
+      "importance": 15.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -1063,7 +1093,7 @@ const NEWS_DATA = {
       "tickers": [],
       "sectors": [],
       "importance": 15.0,
-      "content_type": "market_signal",
+      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -1077,7 +1107,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 60.0,
+      "importance": 30.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1092,7 +1122,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 25.0,
+      "importance": 20.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1104,11 +1134,11 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T16:06:38+00:00",
       "published_display": "13.08 16:06",
-      "sentiment": "neutral",
+      "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 5.0,
-      "content_type": "market_signal",
+      "importance": 20.0,
+      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -1122,7 +1152,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
+      "importance": 35.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1134,11 +1164,11 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T16:00:00-05:00",
       "published_display": "13.08 16:00",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 15.0,
-      "content_type": "macro_context",
+      "importance": 30.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1149,7 +1179,7 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-13T15:19:31+00:00",
       "published_display": "13.08 15:19",
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
       "importance": 15.0,
@@ -1167,8 +1197,8 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
-      "content_type": "macro_context",
+      "importance": 20.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1183,7 +1213,7 @@ const NEWS_DATA = {
       "tickers": [],
       "sectors": [],
       "importance": 5.0,
-      "content_type": "macro_context",
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1197,7 +1227,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
+      "importance": 25.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1212,7 +1242,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 15.0,
+      "importance": 20.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1272,7 +1302,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 25.0,
+      "importance": 35.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1287,7 +1317,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
+      "importance": 15.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1302,7 +1332,7 @@ const NEWS_DATA = {
       "sentiment": "negative",
       "tickers": [],
       "sectors": [],
-      "importance": 25.0,
+      "importance": 30.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1317,8 +1347,8 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
-      "content_type": "macro_context",
+      "importance": 25.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1332,7 +1362,7 @@ const NEWS_DATA = {
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
+      "importance": 25.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1351,8 +1381,8 @@ const NEWS_DATA = {
       "sectors": [
         "ETFs / Indices"
       ],
-      "importance": 30.0,
-      "content_type": "macro_context",
+      "importance": 25.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1366,7 +1396,7 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
+      "importance": 20.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -1396,8 +1426,8 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
+      "importance": 10.0,
+      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -1411,38 +1441,8 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 10.0,
+      "importance": 5.0,
       "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Consumers warm up to agentic AI purchases",
-      "link": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-      "description": "Shoppers are trusting AI to buy items on their behalf, but they still prefer a human step in the process, a new survey found.",
-      "source": "Retail Dive",
-      "image": "https://imgproxy.divecdn.com/yZh0D1pxWk0mwa9cc3JvuiOirUlu_2nyLpSK-shhUiY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTk1MDQ1MjA3LmpwZw==.webp",
-      "published": "2026-08-13T12:19:00-04:00",
-      "published_display": "13.08 12:19",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
-      "link": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
-      "description": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-13T12:15:02+00:00",
-      "published_display": "13.08 12:15",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
       "llm_classified": true
     }
   ]
