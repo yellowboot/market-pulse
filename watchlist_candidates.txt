@@ -1,0 +1,61 @@
+Watchlist candidates
+=====================
+
+Market-signal headlines from the latest run that didn't match any
+ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
+showing up here across multiple runs, it's probably worth adding —
+just ask, or add it yourself as one line in COMPANY_MAP.
+
+Generated: 14.08.2026 21:21
+50 of 80 news items unmatched this run
+
+- [MarketWatch] 16 beaten-down AI stocks that are beloved by BofA analysts
+- [CNBC] OpenAI talent exodus raises 'huge red flag' ahead of IPO
+- [Investing.com] Luigi Mangione admits killing insurance CEO, pleads guilty in federal case
+- [Investing.com] SEC proposes easing ’pay-to-play’ rules for investment advisers
+- [Nasdaq] Hogs Fading Lower on Friday
+- [Nasdaq] Cotton Posting Gains Heading into the Weekend
+- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
+- [Nasdaq] Cattle Falling on Friday
+- [Nasdaq] Corn Following Wheat Higher on Friday
+- [Nasdaq] Soybeans Holding Higher on Friday
+- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
+- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
+- [Nasdaq] Crude Prices Higher on Continued Hormuz Tensions
+- [Nasdaq] Cattle Look to Friday Trade as Tyson Announces Closure
+- [Nasdaq] Hogs Look to Close the Week
+- [MarketWatch] Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.
+- [MarketWatch] A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits
+- [Nasdaq] Wheat Bulls Back to Stronger Trade as Black Sea Back and Forth Continues
+- [MarketWatch] Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.
+- [CNBC] Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
+- [Investing.com] S&P set for weekly climb, helped by reduction in rate hike bets; oil caps gains
+- [Mining.com] Gold price shakes off early profit taking after run to 10-week high
+- [Investing.com] US SEC to keep hands off shareholder proposals, worrying activists
+- [Investing.com] Investing.com’s stocks of the week
+- [CNBC] Lamborghini unveils Revuelto SV, its most powerful production car ever
+- [MarketWatch] Think interest rates are high now? These charts offers a different perspective.
+- [MarketWatch] Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO
+- [MarketWatch] Owning a home is overrated. Renting is now often a much better money move.
+- [CNBC] Seth Klarman’s hedge fund Baupost buys Into Ackman’s Pershing Square, adds to tech bets
+- [CNBC] The one big takeaway from a huge earnings season
+- [CNBC] Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner
+- [Mining.com] Faraday targets 18B-lb Arizona copper district
+- [CNBC] New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively
+- [CNBC] ‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands
+- [Mining.com] Blue Moon rejects short seller’s claims
+- [CNBC] NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'
+- [CNBC] Data breach notices have already blown past last year’s total — and AI is playing a growing role
+- [OilPrice.com] US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher
+- [CNBC] AI’s infrastructure boom is getting more leveraged — and harder to track
+- [CNBC] 44% of Americans living paycheck to paycheck have incurred extra fees while waiting for payday. These 3 credit cards can help
+- [CNBC] U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
+- [Retail Dive] Michaels debuts new store format at 3 locations
+- [OilPrice.com] Hormuz Attacks Push Oil Toward $100 Despite US Crude Build
+- [CNBC] Data centers in space could be a new frontier for insurers — if they can price the risk
+- [Retail Dive] The Weekly Closeout: Mud Jeans files for bankruptcy and is the K-shaped economy over?
+- [Mining.com] CATL mine shutdown threatens to flip lithium market into deficit
+- [CoinDesk] RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg
+- [OilPrice.com] U.S. West Coast Refiners Tap Malaysian Supply
+- [OilPrice.com] Kazakhstan Accuses Big Oil of $10.7 Billion Corruption in Kashagan Oil Project

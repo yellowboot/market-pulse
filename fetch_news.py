@@ -916,6 +916,33 @@ def fetch_all_indices() -> list:
     return results
 
 
+def write_watchlist_candidates(items: list, path: str = "watchlist_candidates.txt") -> None:
+    """Writes a short, human-readable list of market-signal headlines that
+    didn't match any ticker/company in COMPANY_MAP — quick candidates to
+    review for watchlist additions. Overwritten on every run (like
+    news_data.js), so it always reflects only the latest fetch; check it
+    whenever, no need to read every headline yourself."""
+    candidates = [
+        i for i in items
+        if i.get("content_type", "market_signal") == "market_signal" and not i.get("tickers")
+    ]
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("Watchlist candidates\n")
+        f.write("=====================\n\n")
+        f.write(
+            "Market-signal headlines from the latest run that didn't match any\n"
+            "ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps\n"
+            "showing up here across multiple runs, it's probably worth adding —\n"
+            "just ask, or add it yourself as one line in COMPANY_MAP.\n\n"
+        )
+        f.write(f"Generated: {datetime.now().strftime('%d.%m.%Y %H:%M')}\n")
+        f.write(f"{len(candidates)} of {len(items)} news items unmatched this run\n\n")
+        if not candidates:
+            f.write("(none this run)\n")
+        for i in candidates:
+            f.write(f"- [{i['source']}] {i['title']}\n")
+
+
 def main():
     print("Fetching news...")
     all_items = []
@@ -950,6 +977,8 @@ def main():
         print("\nDEEPSEEK_API_KEY not set — using the local keyword heuristic.")
         print("(See README.md for details on enabling LLM classification.)")
 
+    write_watchlist_candidates(deduped)
+
     summary = build_summary(deduped)
     indices = fetch_all_indices()
 
@@ -970,6 +999,7 @@ def main():
 
     print(f"\nDone! News collected: {len(deduped)}")
     print(f"Data saved to {out_path}")
+    print("Watchlist candidates (untagged headlines) saved to watchlist_candidates.txt")
     print("Open (or refresh) news_dashboard.html in your browser.")
 
 
