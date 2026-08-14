@@ -52,6 +52,8 @@
     --gold-2: #f4e2b8;
     --gold-3: #c98f4f;
     --gold-dim: #8a744a;
+    --scrollbar-thumb: rgba(138, 116, 74, 0.35);
+    --scrollbar-thumb-hover: rgba(212, 175, 106, 0.55);
     --text-hi: #f0f2f6;
     --text-mid: #acb2bf;
     --text-low: #616674;
@@ -246,15 +248,15 @@
     position: relative;
     overflow-y: auto;
     scrollbar-width: thin;
-    scrollbar-color: var(--gold-dim) transparent;
+    scrollbar-color: var(--scrollbar-thumb) transparent;
   }
   .panel::-webkit-scrollbar { width: 6px; }
   .panel::-webkit-scrollbar-track { background: transparent; }
   .panel::-webkit-scrollbar-thumb {
-    background: var(--gold-dim);
+    background: var(--scrollbar-thumb);
     border-radius: 6px;
   }
-  .panel::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .panel::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
   .panel::before {
     content: "";
     position: absolute;
@@ -315,15 +317,15 @@
     overflow-y: auto;
     min-height: 0;
     scrollbar-width: thin;
-    scrollbar-color: var(--gold-dim) transparent;
+    scrollbar-color: var(--scrollbar-thumb) transparent;
   }
   .top-tickers-list::-webkit-scrollbar { width: 6px; }
   .top-tickers-list::-webkit-scrollbar-track { background: transparent; }
   .top-tickers-list::-webkit-scrollbar-thumb {
-    background: var(--gold-dim);
+    background: var(--scrollbar-thumb);
     border-radius: 6px;
   }
-  .top-tickers-list::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .top-tickers-list::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
   .ticker-row {
     display: flex;
     align-items: center;
@@ -357,15 +359,15 @@
     overflow-y: auto;
     padding-right: 4px;
     scrollbar-width: thin;
-    scrollbar-color: var(--gold-dim) transparent;
+    scrollbar-color: var(--scrollbar-thumb) transparent;
   }
   .quotes-list::-webkit-scrollbar { width: 6px; }
   .quotes-list::-webkit-scrollbar-track { background: transparent; }
   .quotes-list::-webkit-scrollbar-thumb {
-    background: var(--gold-dim);
+    background: var(--scrollbar-thumb);
     border-radius: 6px;
   }
-  .quotes-list::-webkit-scrollbar-thumb:hover { background: var(--gold-1); }
+  .quotes-list::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
   .quote-row {
     display: flex;
     align-items: center;
