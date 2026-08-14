@@ -6,28 +6,26 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.08.2026 20:58
-41 of 80 news items unmatched this run
+Generated: 14.08.2026 21:51
+38 of 80 news items unmatched this run
 
-- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Nasdaq] Crude Prices Higher as Iran Continues to Disrupt Vessel Traffic in Strait of Hormuz
 - [Nasdaq] Cocoa Sees Some Support from Weak Dollar
-- [Nasdaq] Corn Following Wheat Higher on Friday
-- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Nasdaq] Direxion Daily Energy Bear 2X Shares (ERY) Enters Oversold Territory
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - MLPD
-- [Nasdaq] ELAN Crosses Above Key Moving Average Level
-- [Nasdaq] iShares MSCI Brazil Small-Cap Getting Very Oversold
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - RSF
-- [Nasdaq] Dow Shares Cross Above 200 DMA
-- [Nasdaq] OILD Crowded With Sellers
-- [Nasdaq] MP Crosses Above Key Moving Average Level
-- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.08%
-- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.10%
-- [Investing.com] TD Cowen Names Top Software Stock Pick
+- [CNBC] Trump family-backed crypto firm World Liberty gets conditional bank charter approval
+- [Nasdaq] Nat-Gas Prices Move Higher on Warm US Forecasts
+- [Investing.com] Diana Shipping withdraws Genco acquisition offer
+- [Investing.com] ValueAct Holdings increases Spotify stake by 46.9% in Q2
+- [Investing.com] Canada stocks close lower but notch weekly gain despite tech selloff
+- [Nasdaq] Factorial Energy is Now Oversold (FAC)
+- [Nasdaq] RSI Alert: WidePoint (WYY) Now Oversold
+- [Nasdaq] SPDR Bloomberg 3-12 Month T-Bill Breaks Above 200-Day Moving Average - Bullish for BILS
+- [Nasdaq] MAAY Crowded With Sellers
+- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - NBH
+- [Nasdaq] See Which Recent 13F Filers Hold LHX But Castle Hook Partners and Westchester Capital Management Exited
+- [Nasdaq] PIMCO California Municipal Income Fund Breaks Below 200-Day Moving Average - Notable for PCQ
+- [Nasdaq] Ridgepost Capital Breaks Below 200-Day Moving Average - Notable for RPC
+- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
 - [CNBC] Drone stocks rally after Trump orders tariffs on foreign-made components
-- [Investing.com] FTC probes health records giant Epic Systems, sources say
-- [Investing.com] Paramount clears regulatory hurdles for Warner Bros. Discovery deal
-- [CNBC] Regulators and banks step up scrutiny of prediction markets
 - [MarketWatch] 16 beaten-down AI stocks that are beloved by BofA analysts
 - [CNBC] OpenAI talent exodus raises 'huge red flag' ahead of IPO
 - [Mining.com] Gold price shakes off early profit taking after run to 10-week high
@@ -40,13 +38,12 @@ Generated: 14.08.2026 20:58
 - [CNBC] Housing investors say this is their worst market in at least 3 years
 - [CNBC] How a niche copper trade became a real-time gauge of Trump’s next tariff move
 - [Mining.com] Blue Moon rejects short seller’s claims
+- [CNBC] Data breach notices have already blown past last year’s total — and AI is playing a growing role
 - [OilPrice.com] US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher
+- [CNBC] AI’s infrastructure boom is getting more leveraged — and harder to track
 - [Mining.com] NexGen starts $1.6B uranium build to rival top mines
 - [Retail Dive] Michaels debuts new store format at 3 locations
 - [OilPrice.com] Hormuz Attacks Push Oil Toward $100 Despite US Crude Build
 - [CNBC] Data centers in space could be a new frontier for insurers — if they can price the risk
 - [Mining.com] CATL mine shutdown threatens to flip lithium market into deficit
 - [CoinDesk] Trump family's World Liberty Financial delay plans to sell Maldives resort token
-- [CoinDesk] RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg
-- [OilPrice.com] U.S. West Coast Refiners Tap Malaysian Supply
-- [OilPrice.com] Kazakhstan Accuses Big Oil of $10.7 Billion Corruption in Kashagan Oil Project
