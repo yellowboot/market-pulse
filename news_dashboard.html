@@ -926,7 +926,22 @@
 
     tickerWrap.style.display = 'block';
     const items = tt.map(t => `<span class="ticker-item"><span class="sym">${t.ticker}</span><span class="count">${t.count} mentions</span></span>`);
-    tickerTrack.innerHTML = items.join('') + items.join(''); // duplicated for seamless scrolling
+    const itemsHtml = items.join('');
+
+    // The seamless loop (see @keyframes scroll-left, -50% translateX) only
+    // works if the track is exactly two identical copies back to back. On
+    // a wide window, a short ticker list (few tickers = little text) can
+    // be narrower than the viewport even doubled — the loop then shows a
+    // visible gap/jump instead of scrolling seamlessly. Fix: measure how
+    // many repeats of the list are needed to at least cover the visible
+    // width, build ONE "block" that wide, then duplicate that block
+    // (still exactly two copies, so -50% stays correct at any window size).
+    tickerTrack.innerHTML = itemsHtml;
+    const oneCopyWidth = tickerTrack.scrollWidth || 1;
+    const viewportWidth = tickerWrap.clientWidth;
+    const repeats = Math.min(20, Math.max(1, Math.ceil(viewportWidth / oneCopyWidth)));
+    const block = itemsHtml.repeat(repeats);
+    tickerTrack.innerHTML = block + block;
   }
 
   // ---- Quotes panel ----
