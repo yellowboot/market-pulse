@@ -64,6 +64,17 @@
     --neu-bg: rgba(146, 153, 176, 0.1);
     --globe-line: #6f9bd1;
     --globe-bright: #a9cdf0;
+    /* VIX is inverted vs every other quote — VIX going UP means fear is
+       rising, which is bad, not good. Reusing --pos (green) for "up"
+       would read as "this is great news", so it gets its own thermometer
+       scale instead: warm amber when fear is heating up, cool teal when
+       it's cooling off. Teal is deliberately distinct from both the
+       regular --pos green and the --globe-line/--globe-bright blues used
+       elsewhere, so it doesn't get mistaken for either. */
+    --vix-hot: #f5a623;
+    --vix-hot-bg: rgba(245, 166, 35, 0.14);
+    --vix-cool: #38d9c9;
+    --vix-cool-bg: rgba(56, 217, 201, 0.14);
   }
 
   * { box-sizing: border-box; }
@@ -393,6 +404,8 @@
   }
   .quote-up   { background: var(--pos-bg); color: var(--pos); }
   .quote-down { background: var(--neg-bg); color: var(--neg); }
+  .quote-vix-hot  { background: var(--vix-hot-bg);  color: var(--vix-hot); }
+  .quote-vix-cool { background: var(--vix-cool-bg); color: var(--vix-cool); }
 
   /* ---------- Search ---------- */
   .search-row {
@@ -915,7 +928,7 @@
   // pulls these from the same Yahoo chart endpoint as the quote itself —
   // this is actual price history, not decorative fake data like the news
   // card placeholders below).
-  function buildQuoteSpark(points, isUp) {
+  function buildQuoteSpark(points, colorVar) {
     if (!points || points.length < 2) return '<span class="quote-spark"></span>';
     const w = 54, h = 20, pad = 2;
     const min = Math.min(...points);
@@ -927,9 +940,8 @@
       const y = pad + (1 - (p - min) / range) * (h - pad * 2);
       return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)},${y.toFixed(1)}`;
     }).join(' ');
-    const color = isUp ? 'var(--pos)' : 'var(--neg)';
     return `<svg class="quote-spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
-      <path d="${d}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="${d}" fill="none" stroke="var(${colorVar})" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>`;
   }
 
@@ -943,12 +955,21 @@
         ? `${q.price.toFixed(2)}%`
         : q.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       const pctStr = Math.abs(q.change_pct).toFixed(2);
+
+      // VIX is a fear gauge, not a price — "up" is bad news, not good, so
+      // it gets its own amber/teal thermometer scale instead of the usual
+      // green/red (which would read as "up = good" like every other quote).
+      const isVix = q.symbol === '^VIX';
+      const colorVar = isVix ? (isUp ? '--vix-hot' : '--vix-cool') : (isUp ? '--pos' : '--neg');
+      const changeClass = isVix ? (isUp ? 'quote-vix-hot' : 'quote-vix-cool') : (isUp ? 'quote-up' : 'quote-down');
+      const changeTitle = isVix ? ' title="VIX is inverted: up means fear is rising, not a market gain"' : '';
+
       return `
         <div class="quote-row">
           <span class="quote-name">${escapeHtml(q.name)}</span>
-          ${buildQuoteSpark(q.spark, isUp)}
+          ${buildQuoteSpark(q.spark, colorVar)}
           <span class="quote-price">${priceStr}</span>
-          <span class="quote-change ${isUp ? 'quote-up' : 'quote-down'}">${arrow} ${pctStr}%</span>
+          <span class="quote-change ${changeClass}"${changeTitle}>${arrow} ${pctStr}%</span>
         </div>
       `;
     }).join('');
