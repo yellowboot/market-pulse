@@ -226,6 +226,13 @@
         "controls  controls"
         "indices   indices";
     }
+    /* Below 1101px .quotes-panel/.panel lose the height:100% + flex-column
+       treatment above, so .quotes-list/.top-tickers-list's flex:1 has
+       nothing to size against and they fall back to full content height —
+       on a phone that means the ENTIRE index/ticker list rendered inline,
+       stretching the page instead of a compact scrollable box. Cap it
+       directly here regardless of viewport width. */
+    .quotes-list, .top-tickers-list { max-height: 300px; }
   }
   @media (max-width: 700px) {
     .hero-grid {
