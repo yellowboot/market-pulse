@@ -827,9 +827,7 @@ INDEX_QUOTES = [
     {"symbol": "^GSPC", "name": "S&P 500"},
     {"symbol": "^DJI",  "name": "Dow Jones"},
     {"symbol": "^IXIC", "name": "Nasdaq Composite"},
-    {"symbol": "^NDX",  "name": "Nasdaq 100"},
     {"symbol": "^RUT",  "name": "Russell 2000"},
-    {"symbol": "^NYA",  "name": "NYSE Composite"},
     {"symbol": "^VIX",  "name": "VIX (Fear Index)"},
 
     # --- International indices (the site targets a global audience) ---
