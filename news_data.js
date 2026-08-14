@@ -1,59 +1,60 @@
 // Файл сгенерирован автоматически скриптом fetch_news.py — не редактируйте вручную
 const NEWS_DATA = {
-  "generated_at": "2026-08-14T14:10:06.539982+00:00",
-  "generated_at_display": "14.08.2026 14:10",
+  "generated_at": "2026-08-14T15:22:35.266455+00:00",
+  "generated_at_display": "14.08.2026 15:22",
   "summary": {
     "total": 80,
     "signal_total": 65,
     "macro_total": 15,
-    "positive": 26,
-    "negative": 21,
-    "neutral": 18,
+    "positive": 31,
+    "negative": 19,
+    "neutral": 15,
     "top_tickers": [
-      {
-        "ticker": "BTC",
-        "count": 4
-      },
-      {
-        "ticker": "SPY",
-        "count": 3
-      },
-      {
-        "ticker": "SPCX",
-        "count": 3
-      },
       {
         "ticker": "MSTR",
         "count": 3
       },
       {
-        "ticker": "NVDA",
+        "ticker": "JPM",
+        "count": 3
+      },
+      {
+        "ticker": "AMZN",
+        "count": 3
+      },
+      {
+        "ticker": "BTC",
+        "count": 3
+      },
+      {
+        "ticker": "SPY",
         "count": 2
       },
       {
-        "ticker": "META",
-        "count": 2
+        "ticker": "DIS",
+        "count": 1
       }
     ],
     "sectors": [
-      "Automotive / EV",
       "Banking & Finance",
       "Big Tech",
+      "Bonds / Macro",
       "Consumer Goods",
       "Cryptocurrencies",
+      "Defense",
       "ETFs / Indices",
       "Media / Entertainment",
+      "Metals & Mining",
       "Semiconductors",
-      "Space"
+      "Software / AI Analytics"
     ],
     "source_counts": {
       "CNBC": 12,
+      "Nasdaq": 15,
+      "MarketWatch": 6,
+      "Yahoo Finance": 35,
       "Investing.com": 10,
-      "Yahoo Finance": 32,
-      "CoinDesk": 5,
-      "Nasdaq": 13,
-      "MarketWatch": 7,
-      "Mining.com": 1
+      "CoinDesk": 2
     }
   },
   "indices": [
@@ -61,81 +62,81 @@ const NEWS_DATA = {
       "name": "S&P 500",
       "symbol": "^GSPC",
       "unit": "index",
-      "price": 7807.21,
-      "change_abs": 8.22,
-      "change_pct": 0.11
+      "price": 7784.15,
+      "change_abs": -14.84,
+      "change_pct": -0.19
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "unit": "index",
-      "price": 53801.37,
-      "change_abs": -38.62,
-      "change_pct": -0.07
+      "price": 53736.74,
+      "change_abs": -103.25,
+      "change_pct": -0.19
     },
     {
       "name": "Nasdaq Composite",
       "symbol": "^IXIC",
       "unit": "index",
-      "price": 26816.21,
-      "change_abs": 13.19,
-      "change_pct": 0.05
+      "price": 26691.33,
+      "change_abs": -111.7,
+      "change_pct": -0.42
     },
     {
       "name": "Nasdaq 100",
       "symbol": "^NDX",
       "unit": "index",
-      "price": 30138.52,
-      "change_abs": 54.02,
-      "change_pct": 0.18
+      "price": 29981.32,
+      "change_abs": -103.19,
+      "change_pct": -0.34
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "unit": "index",
-      "price": 3058.73,
-      "change_abs": 5.88,
-      "change_pct": 0.19
+      "price": 3064.78,
+      "change_abs": 11.93,
+      "change_pct": 0.39
     },
     {
       "name": "NYSE Composite",
       "symbol": "^NYA",
       "unit": "index",
-      "price": 24843.28,
-      "change_abs": 33.63,
-      "change_pct": 0.14
+      "price": 24829.84,
+      "change_abs": 20.2,
+      "change_pct": 0.08
     },
     {
       "name": "VIX (Fear Index)",
       "symbol": "^VIX",
       "unit": "index",
-      "price": 14.58,
-      "change_abs": -0.05,
-      "change_pct": -0.34
+      "price": 14.47,
+      "change_abs": -0.16,
+      "change_pct": -1.09
     },
     {
       "name": "FTSE 100 (UK)",
       "symbol": "^FTSE",
       "unit": "index",
-      "price": 10766.54,
-      "change_abs": -6.13,
-      "change_pct": -0.06
+      "price": 10760.03,
+      "change_abs": -12.64,
+      "change_pct": -0.12
     },
     {
       "name": "DAX (Germany)",
       "symbol": "^GDAXI",
       "unit": "index",
-      "price": 26453.47,
-      "change_abs": 153.73,
-      "change_pct": 0.58
+      "price": 26444.35,
+      "change_abs": 144.61,
+      "change_pct": 0.55
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
       "unit": "index",
-      "price": 6550.24,
-      "change_abs": 4.77,
-      "change_pct": 0.07
+      "price": 6543.94,
+      "change_abs": -1.53,
+      "change_pct": -0.02
     },
     {
       "name": "Nikkei 225 (Japan)",
@@ -157,25 +158,25 @@ const NEWS_DATA = {
       "name": "Gold (futures)",
       "symbol": "GC=F",
       "unit": "index",
-      "price": 4443.8,
-      "change_abs": 23.4,
-      "change_pct": 0.53
+      "price": 4445.9,
+      "change_abs": 25.5,
+      "change_pct": 0.58
     },
     {
       "name": "WTI Crude Oil (futures)",
       "symbol": "CL=F",
       "unit": "index",
-      "price": 81.19,
-      "change_abs": -0.06,
-      "change_pct": -0.07
+      "price": 81.6,
+      "change_abs": 0.35,
+      "change_pct": 0.43
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
       "unit": "index",
-      "price": 62531.21,
-      "change_abs": -886.95,
-      "change_pct": -1.4
+      "price": 62680.67,
+      "change_abs": -737.49,
+      "change_pct": -1.16
     },
     {
       "name": "10-Year US Treasury Yield",
@@ -183,329 +184,39 @@ const NEWS_DATA = {
       "unit": "yield_pct",
       "price": 0.47,
       "change_abs": 0.0,
-      "change_pct": 0.39
+      "change_pct": 0.71
     }
   ],
   "items": [
     {
-      "title": "S&P 500 is little changed, heads for third straight winning week: Live updates",
-      "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
-      "description": "The S&P 500 was relatively unchanged on Friday after a record-setting session, with the benchmark on pace for its third consecutive weekly advance.",
+      "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+      "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "description": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
       "source": "CNBC",
       "image": "",
-      "published": "2026-08-14T14:06:43+00:00",
-      "published_display": "14.08 14:06",
-      "sentiment": "neutral",
-      "tickers": [
-        "SPY"
-      ],
-      "sectors": [
-        "ETFs / Indices"
-      ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why is Space Exploration Technologies stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4861069",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-08-14T14:04:28",
-      "published_display": "14.08 14:04",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Radiant World sells aluminum to STG Group amid liquidity push - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/radiant-world-sells-aluminum-to-stg-group-amid-liquidity-push--bloomberg-93CH-4861067",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-08-14T14:04:10",
-      "published_display": "14.08 14:04",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "MMG’s Anglo American nickel deal probe resumes with new deadline",
-      "link": "https://www.investing.com/news/stock-market-news/mmgs-anglo-american-nickel-deal-probe-resumes-with-new-deadline-93CH-4861065",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-08-14T14:02:56",
-      "published_display": "14.08 14:02",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Germany regulator sets gas sector return on capital at 5.76%",
-      "link": "https://www.investing.com/news/stock-market-news/germany-regulator-sets-gas-sector-return-on-capital-at-576-93CH-4861062",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-08-14T14:02:14",
-      "published_display": "14.08 14:02",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Barclays grows QRT hedge fund trades to over $100 billion - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/barclays-grows-qrt-hedge-fund-trades-to-over-100-billion--bloomberg-93CH-4861056",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-08-14T14:01:08",
-      "published_display": "14.08 14:01",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Airlines get grounded jets flying again, but engine bills linger",
-      "link": "https://www.investing.com/news/stock-market-news/airlines-get-grounded-jets-flying-again-but-engine-bills-linger-4860152",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7D0SJ_L.jpg",
-      "published": "2026-08-14T14:00:55",
-      "published_display": "14.08 14:00",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Morgan Stanley Turns More Bullish on IT Hardware as ‘Chipflation’ Drives Faster Spending",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-turns-more-bullish-140000330.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/investorshub_458/dcdc227fd4cff85e55c22d1ba8a7937b.png",
-      "published": "2026-08-14T14:00:00+00:00",
-      "published_display": "14.08 14:00",
+      "published": "2026-08-14T15:21:28+00:00",
+      "published_display": "14.08 15:21",
       "sentiment": "positive",
       "tickers": [
-        "MS"
-      ],
-      "sectors": [
-        "Banking & Finance"
-      ],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Wells Fargo downgrades Roku to equal weight after strong second quarter",
-      "link": "https://www.investing.com/news/stock-market-news/wells-fargo-downgrades-roku-to-equal-weight-after-strong-second-quarter-4861051",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/LYNXMPEE49167_M.jpg",
-      "published": "2026-08-14T13:59:49",
-      "published_display": "14.08 13:59",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Truss partners with Verito to expand cloud hosting for tax firms",
-      "link": "https://finance.yahoo.com/technology/articles/truss-partners-verito-expand-cloud-135926397.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/international_accounting_bulletin_542/0bf795639c35bf676396d489b4d04d11.jpg",
-      "published": "2026-08-14T13:59:26+00:00",
-      "published_display": "14.08 13:59",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Dollar falls on surprise drop in US retail sales",
-      "link": "https://finance.yahoo.com/news/yens-weekly-loss-puts-more-061643422.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/reuters.com/770dce664cc1925ef5ef0a5c39835ecf.jpg",
-      "published": "2026-08-14T13:58:31+00:00",
-      "published_display": "14.08 13:58",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "US retail sales post first decline in nine months in July",
-      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-unexpectedly-fall-123738457.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/reuters.com/ff26ddf73ecaf0098660773df1ab19a0.jpg",
-      "published": "2026-08-14T13:57:36+00:00",
-      "published_display": "14.08 13:57",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Elon Musk Reveals $900 Billion SpaceX Stake, Massive Voting Power",
-      "link": "https://www.investors.com/news/elon-musk-spacex-stake-48-ownership-voting-power-spcx-stock/?src=A00220&yptr=yahoo",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/ibd.com/e55c6f2eeaae84f46aa43aea1d7fd8a0.jpg",
-      "published": "2026-08-14T13:57:01+00:00",
-      "published_display": "14.08 13:57",
-      "sentiment": "positive",
-      "tickers": [
-        "SPCX"
-      ],
-      "sectors": [
-        "Space"
-      ],
-      "importance": 40.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Tesla to unveil redesigned Roadster as early as August, The Information says",
-      "link": "https://www.investing.com/news/stock-market-news/tesla-to-unveil-redesigned-roadster-as-early-as-august-the-information-says-4861035",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7D17R_L.jpg",
-      "published": "2026-08-14T13:54:58",
-      "published_display": "14.08 13:54",
-      "sentiment": "positive",
-      "tickers": [
-        "TSLA"
-      ],
-      "sectors": [
-        "Automotive / EV"
-      ],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Microsoft’s (MSFT) AI Strategy: Cloud Growth, Big Bets, and Key Risks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-ai-strategy-cloud-135455507.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7.jpg",
-      "published": "2026-08-14T13:54:55+00:00",
-      "published_display": "14.08 13:54",
-      "sentiment": "neutral",
-      "tickers": [
-        "MSFT",
+        "DIS",
         "MSTR"
       ],
       "sectors": [
-        "Big Tech",
-        "Cryptocurrencies"
-      ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Private credit roundup: Nvidia’s half trillion for chips financing, plus others",
-      "link": "https://www.investing.com/news/stock-market-news/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others-4861033",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7D17S_L.jpg",
-      "published": "2026-08-14T13:54:39",
-      "published_display": "14.08 13:54",
-      "sentiment": "positive",
-      "tickers": [
-        "NVDA"
-      ],
-      "sectors": [
-        "Semiconductors"
+        "Cryptocurrencies",
+        "Media / Entertainment"
       ],
       "importance": 30.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
     {
-      "title": "Calumet (CLMT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/calumet-clmt-q2-2026-earnings-135425241.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8.png",
-      "published": "2026-08-14T13:54:25+00:00",
-      "published_display": "14.08 13:54",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "TSX opens little changed amid Mideast uncertainty, corporate earnings",
-      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-lower-amid-mideast-uncertainty-corporate-earnings-4860492",
-      "description": "",
-      "source": "Investing.com",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "published": "2026-08-14T13:53:04",
-      "published_display": "14.08 13:53",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Nintendo stock jumps after Pokémon Pokopia hits 5 million sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nintendo-stock-jumps-pok-mon-135247218.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/quartz_855/55e6b389ccb1055c08894c33b09bcc06.jpg",
-      "published": "2026-08-14T13:52:47+00:00",
-      "published_display": "14.08 13:52",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "India’s ICAI unveils IFSC-focused compliance courses",
-      "link": "https://finance.yahoo.com/small-business/articles/india-icai-unveils-ifsc-focused-135228893.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/the_accountant_923/05899dac85489df1ff15e8891c60432e.jpg",
-      "published": "2026-08-14T13:52:28+00:00",
-      "published_display": "14.08 13:52",
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "description": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-14T15:11:41+00:00",
+      "published_display": "14.08 15:11",
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
@@ -514,13 +225,648 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Dell Stock Scores Price-Target Hike After Breakout",
-      "link": "https://www.investors.com/news/technology/dell-stock-scores-price-target-hike-after-breakout/?src=A00220&yptr=yahoo",
+      "title": "Wheat Bulls Back to Stronger Trade as Black Sea Back and Forth Continues",
+      "link": "https://www.nasdaq.com/articles/wheat-bulls-back-stronger-trade-black-sea-back-and-forth-continues",
+      "description": "Wheat is trading with double digit gains early on Friday, following European futures strength from overnight. The wheat complex fell back lower on Thursday, slipping into the close. Chicago SRW contracts were steady to 2 ¼ cents in the…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:07:12+00:00",
+      "published_display": "14.08 15:07",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "S&P 500 is little changed, heads for third straight winning week: Live updates",
+      "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "description": "The S&P 500 was relatively unchanged on Friday after a record-setting session, with the benchmark on pace for its third consecutive weekly advance.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-14T15:07:02+00:00",
+      "published_display": "14.08 15:07",
+      "sentiment": "neutral",
+      "tickers": [
+        "SPY"
+      ],
+      "sectors": [
+        "ETFs / Indices"
+      ],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Your prescription drugs shouldn’t cost more than your mortgage. Inside the broken math that got us here.",
+      "link": "https://www.marketwatch.com/story/your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken-math-that-got-us-here-b5a2c4aa?mod=mw_rss_topstories",
+      "description": "We will never make medicine affordable if how to tie a drug’s price to its value is solely determined by the companies creating the drugs.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-05734301",
+      "published": "2026-08-14T15:07:00+00:00",
+      "published_display": "14.08 15:07",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "XLB, LIN, FCX, SHW: Large Inflows Detected at ETF",
+      "link": "https://www.nasdaq.com/articles/xlb-lin-fcx-shw-large-inflows-detected-etf",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street Materials Select Sector SPDR ETF (Symbol: XLB) where we have detected an approximate $248.4…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:06:58+00:00",
+      "published_display": "14.08 15:06",
+      "sentiment": "positive",
+      "tickers": [
+        "FCX"
+      ],
+      "sectors": [
+        "Metals & Mining"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "PAAA: Large Inflows Detected at ETF",
+      "link": "https://www.nasdaq.com/articles/paaa-large-inflows-detected-etf-1",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the PGIM AAA CLO ETF (Symbol: PAAA) where we have detected an approximate $258.1 million dollar inflow --…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:06:53+00:00",
+      "published_display": "14.08 15:06",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "FMDE, ALL, AME, NUE: ETF Inflow Alert",
+      "link": "https://www.nasdaq.com/articles/fmde-all-ame-nue-etf-inflow-alert",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Fidelity Enhanced Mid Cap ETF (Symbol: FMDE) where we have detected an approximate $265.7 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:06:51+00:00",
+      "published_display": "14.08 15:06",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Notable ETF Outflow Detected - PLTU",
+      "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-pltu",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Direxion Daily PLTR Bull 2X Shares (Symbol: PLTU) where we have detected an approximate $183.3 million…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:06:50+00:00",
+      "published_display": "14.08 15:06",
+      "sentiment": "negative",
+      "tickers": [
+        "PLTR"
+      ],
+      "sectors": [
+        "Software / AI Analytics"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Noteworthy ETF Outflows: GRID, NVT, HUBB, APTV",
+      "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-grid-nvt-hubb-aptv",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund (Symbol: GRID) where we have detected…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:06:46+00:00",
+      "published_display": "14.08 15:06",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "SLV: ETF Inflow Alert",
+      "link": "https://www.nasdaq.com/articles/slv-etf-inflow-alert",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Silver Trust (Symbol: SLV) where we have detected an approximate $238.5 million dollar inflow --…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:36+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Noteworthy ETF Outflows: AUSF, VZ, MSI, LMT",
+      "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-ausf-vz-msi-lmt",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Global X Adaptive US Factor ETF (Symbol: AUSF) where we have detected an approximate $127.0 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:29+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "negative",
+      "tickers": [
+        "LMT"
+      ],
+      "sectors": [
+        "Defense"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "JPMorgan Active Value ETF Experiences Big Outflow",
+      "link": "https://www.nasdaq.com/articles/jpmorgan-active-value-etf-experiences-big-outflow",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Active Value ETF (Symbol: JAVA) where we have detected an approximate $232.6 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:25+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "negative",
+      "tickers": [
+        "JPM"
+      ],
+      "sectors": [
+        "Banking & Finance"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "JPMorgan Core Plus Bond ETF Experiences Big Inflow",
+      "link": "https://www.nasdaq.com/articles/jpmorgan-core-plus-bond-etf-experiences-big-inflow",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Core Plus Bond ETF (Symbol: JCPB) where we have detected an approximate $264.0 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:22+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "positive",
+      "tickers": [
+        "JPM"
+      ],
+      "sectors": [
+        "Banking & Finance"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "iShares U.S. Treasury Bond ETF Experiences Big Inflow",
+      "link": "https://www.nasdaq.com/articles/ishares-us-treasury-bond-etf-experiences-big-inflow-0",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares U.S. Treasury Bond ETF (Symbol: GOVT) where we have detected an approximate $261.2 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:20+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "positive",
+      "tickers": [
+        "UST10Y",
+        "TLT"
+      ],
+      "sectors": [
+        "Bonds / Macro"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Notable ETF Inflow Detected - IUSB",
+      "link": "https://www.nasdaq.com/articles/notable-etf-inflow-detected-iusb-0",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Core Total USD Bond Market ETF (Symbol: IUSB) where we have detected an approximate $278.1 million…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:17+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "JEPI, TT, MMM, LOW: Large Outflows Detected at ETF",
+      "link": "https://www.nasdaq.com/articles/jepi-tt-mmm-low-large-outflows-detected-etf",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Equity Premium Income ETF (Symbol: JEPI) where we have detected an approximate $208.5 million…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:15+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "negative",
+      "tickers": [
+        "JPM"
+      ],
+      "sectors": [
+        "Banking & Finance"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Dimensional Core Fixed Income ETF Experiences Big Outflow",
+      "link": "https://www.nasdaq.com/articles/dimensional-core-fixed-income-etf-experiences-big-outflow",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Dimensional Core Fixed Income ETF (Symbol: DFCF) where we have detected an approximate $133.7 million…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:13+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "iShares MSCI United Kingdom ETF Experiences Big Outflow",
+      "link": "https://www.nasdaq.com/articles/ishares-msci-united-kingdom-etf-experiences-big-outflow",
+      "description": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares MSCI United Kingdom ETF (Symbol: EWU) where we have detected an approximate $207.5 million dollar…",
+      "source": "Nasdaq",
+      "image": "",
+      "published": "2026-08-14T15:04:11+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Workday, Silver Lake in discussions over potential $43B deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/workday-silver-lake-discussions-over-150400236.html",
       "description": "",
       "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/ibd.com/5034fa41969b4b0d4b026cdd79a2b7de.jpg",
-      "published": "2026-08-14T13:51:58+00:00",
-      "published_display": "14.08 13:51",
+      "image": "https://media.zenfs.com/en/proactive_us_504/31e61281ba4269b441924ea114712b43.jpg",
+      "published": "2026-08-14T15:04:00+00:00",
+      "published_display": "14.08 15:04",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 70.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Rocket Lab (RKLB) Set a Revenue Record. Is Neutron Slipping Into 2027?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-set-revenue-150334121.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/419b4545bbf583b1916a4b0eec76014e.jpg",
+      "published": "2026-08-14T15:03:34+00:00",
+      "published_display": "14.08 15:03",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 35.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Housing investors say this is their worst market in at least 3 years",
+      "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "description": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-14T15:02:26+00:00",
+      "published_display": "14.08 15:02",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 45.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-annualized-revenue-tops-40-150033141.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/benzinga_prediction_markets_613/d4a5fbef98ad9abb8cb0365c1b5538f7.jpg",
+      "published": "2026-08-14T15:00:33+00:00",
+      "published_display": "14.08 15:00",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 60.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "The $5.2 Trillion Company Just Asked Wall Street for $500 Billion More",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-2-trillion-company-just-150033249.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/af42fbfde68563d5d43b64198982dceb.jpg",
+      "published": "2026-08-14T15:00:33+00:00",
+      "published_display": "14.08 15:00",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 75.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Shuffle Board: Target Taps First AI Chief, Kontoor Elevates CFO",
+      "link": "https://finance.yahoo.com/technology/ai/articles/shuffle-board-target-taps-first-150000634.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/sourcing_journal_735/0bba5833be2f49134eeb9ac1478198cd.jpg",
+      "published": "2026-08-14T15:00:00+00:00",
+      "published_display": "14.08 15:00",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Workhorse (WKHS) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/workhorse-wkhs-q2-2026-earnings-145819038.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8.png",
+      "published": "2026-08-14T14:58:19+00:00",
+      "published_display": "14.08 14:58",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Amazon and Alphabet Both Cost More on Next Year's Earnings Than on Last Year's",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-both-cost-more-145800730.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/motleyfool.com/05825737cccfcc7d2ef6ee05a2bf6f7a.png",
+      "published": "2026-08-14T14:58:00+00:00",
+      "published_display": "14.08 14:58",
+      "sentiment": "neutral",
+      "tickers": [
+        "GOOGL",
+        "AMZN"
+      ],
+      "sectors": [
+        "Big Tech"
+      ],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Is Micron or Sandisk Better Poised For Upside Through The End of September?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-better-poised-upside-145753354.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/8df37ca298d80708d42e6ab56d00eebe.jpg",
+      "published": "2026-08-14T14:57:53+00:00",
+      "published_display": "14.08 14:57",
+      "sentiment": "neutral",
+      "tickers": [
+        "MU"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Wall Street slips marginally, taking a breather after notching a record high",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-hits-record-high-on-soft-ppi-4859612",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg",
+      "published": "2026-08-14T14:57:35",
+      "published_display": "14.08 14:57",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is Strategy stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4861217",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
+      "published": "2026-08-14T14:55:59",
+      "published_display": "14.08 14:55",
+      "sentiment": "negative",
+      "tickers": [
+        "MSTR"
+      ],
+      "sectors": [
+        "Cryptocurrencies"
+      ],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.85%",
+      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-085-4861214",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-08-14T14:55:34",
+      "published_display": "14.08 14:55",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Israel stocks lower at close of trade; TA 35 down 0.33%",
+      "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-033-4861213",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/TelAvivStockExchange_800x533_L_1640878922.jpg",
+      "published": "2026-08-14T14:55:03",
+      "published_display": "14.08 14:55",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why investors should pay attention to this $1.26M insider buy at this homebuilder",
+      "link": "https://www.investing.com/news/stock-market-news/why-investors-should-pay-attention-to-this-126m-insider-buy-at-this-homebuilder-93CH-4861205",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/housing-sector-(houses)5_M_1440049505.jpg",
+      "published": "2026-08-14T14:50:47",
+      "published_display": "14.08 14:50",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "The Gold “Income” Fund That Turned a 6% Gold Dip Into a 30% Loss",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-income-fund-turned-6-145036267.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/f0c66580d6b069a4477ffbec5eab5e88.jpg",
+      "published": "2026-08-14T14:50:36+00:00",
+      "published_display": "14.08 14:50",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Greece stocks higher at close of trade; Athens General Composite up 0.38%",
+      "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-038-4861201",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6S0BG_M.jpg",
+      "published": "2026-08-14T14:50:03",
+      "published_display": "14.08 14:50",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+      "description": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-14T14:43:30+00:00",
+      "published_display": "14.08 14:43",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 50.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Mattel options activity surges with 16,938 calls targeting $15 strike by September",
+      "link": "https://www.investing.com/news/stock-market-news/mattel-options-activity-surges-with-16938-calls-targeting-15-strike-by-september-93CH-4861193",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXMPED3J1QF_M.jpg",
+      "published": "2026-08-14T14:43:23",
+      "published_display": "14.08 14:43",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "US consumers sour on economy as inflation concerns remain in focus, UMich survey says",
+      "link": "https://finance.yahoo.com/economy/article/us-consumers-sour-on-economy-as-inflation-concerns-remain-in-focus-umich-survey-says-144047259.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://s.yimg.com/uu/api/res/1.2/ostsZgc04LIe9eySLkW6rA--~B/aD0yNjY4O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2286426631_9882.jpg",
+      "published": "2026-08-14T14:40:47+00:00",
+      "published_display": "14.08 14:40",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 30.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Why is Applied Optoelectronics stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-surging-today-93CH-4861187",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-08-14T14:39:54",
+      "published_display": "14.08 14:39",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 35.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "US business inventories unchanged in June",
+      "link": "https://finance.yahoo.com/economy/articles/us-business-inventories-unchanged-june-143723135.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/reuters.com/e06309a15e97b462765e00e3b1a3622c.jpg",
+      "published": "2026-08-14T14:37:23+00:00",
+      "published_display": "14.08 14:37",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "AMD, Reddit among market cap stock movers on Friday",
+      "link": "https://www.investing.com/news/stock-market-news/amd-reddit-among-market-cap-stock-movers-on-friday-93CH-4861182",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/AMD_800x533_L_1596452822.jpg",
+      "published": "2026-08-14T14:37:20",
+      "published_display": "14.08 14:37",
+      "sentiment": "neutral",
+      "tickers": [
+        "AMD"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why Top 3% Biotech Stock, Eton, Just Catapulted To A Record High",
+      "link": "https://www.investors.com/news/technology/eton-stock-eton-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/d143760198b230a1b1e8062ead9a1013.jpg",
+      "published": "2026-08-14T14:36:56+00:00",
+      "published_display": "14.08 14:36",
       "sentiment": "positive",
       "tickers": [],
       "sectors": [],
@@ -529,14 +875,435 @@ const NEWS_DATA = {
       "llm_classified": true
     },
     {
-      "title": "Starz (STRZ) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starz-strz-q2-2026-earnings-135138163.html",
+      "title": "AI Shopping is Sending Better Leads to Ulta and Etsy. Can They Keep the Customer?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-shopping-sending-better-leads-143403287.html",
       "description": "",
       "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8.png",
-      "published": "2026-08-14T13:51:38+00:00",
-      "published_display": "14.08 13:51",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/098f0ff1a3cc59da81282e76a16a0bd5.jpg",
+      "published": "2026-08-14T14:34:03+00:00",
+      "published_display": "14.08 14:34",
       "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Wall Street sees a floor under software stocks in potential Workday deal",
+      "link": "https://www.cnbc.com/2026/08/14/wall-street-sees-a-floor-for-software-in-potential-workday-deal.html",
+      "description": "Software stocks have been on a choppy ascent since April after falling hard over the winter in an AI-driven rout that Wall Street dubbed 'Saas-mageddon.'",
+      "source": "CNBC",
+      "image": "",
+      "published": "2026-08-14T14:33:56+00:00",
+      "published_display": "14.08 14:33",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 40.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales",
+      "link": "https://www.investors.com/news/federal-reserve-retail-sales-amazon-prime-day-wmt-tgt-tariff-refunds/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/aeed999e2b8d1085980dc851a132cdb0.jpg",
+      "published": "2026-08-14T14:33:52+00:00",
+      "published_display": "14.08 14:33",
+      "sentiment": "negative",
+      "tickers": [
+        "AMZN",
+        "FED"
+      ],
+      "sectors": [
+        "Big Tech",
+        "Bonds / Macro"
+      ],
+      "importance": 35.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "The Trade Desk (TTD) Plunged 22%. Did its Agency Problem Just Become an Earnings Problem?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-plunged-22-143333502.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/60ab72cb3366830d3677eb324236f36e.jpg",
+      "published": "2026-08-14T14:33:33+00:00",
+      "published_display": "14.08 14:33",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Crypto Exchange Gemini Reports $108 Million Net Loss",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-exchange-gemini-reports-108-142800020.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/cryptoprowl_304/56429dfda44ee1197cdbc49123c06cd6.jpg",
+      "published": "2026-08-14T14:28:00+00:00",
+      "published_display": "14.08 14:28",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Breakout Watch: Savvy Investors Bet Millions On Royalty-Fueled Pharma Stock",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/ligand-stock-lgnd-biopharmaceuticals-biotech-royalties-fuel-demand/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/b7a8d6e4c71ae983ea7d5903f4920287.jpg",
+      "published": "2026-08-14T14:26:40+00:00",
+      "published_display": "14.08 14:26",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Is Autonomous Driving Becoming a Risk for Uber (UBER)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autonomous-driving-becoming-risk-uber-142612365.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/3757dfdee0323c80879a0c80eac45ab3.jpg",
+      "published": "2026-08-14T14:26:12+00:00",
+      "published_display": "14.08 14:26",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Zoetis (ZTS) Remains a Leader, So Why Was It Sold?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-zts-remains-leader-why-142600966.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/31db1fd3aa94aa4ac0ecda89c79d0e72.jpg",
+      "published": "2026-08-14T14:26:00+00:00",
+      "published_display": "14.08 14:26",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Hive Digital’s Stock Is Downgraded Ahead of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-stock-downgraded-ahead-142600089.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/cryptoprowl_304/5a5975904663e36c4fb4611cf26e240c.jpg",
+      "published": "2026-08-14T14:26:00+00:00",
+      "published_display": "14.08 14:26",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Target Stock Flies To New Highs As Earnings Approach, But Walmart Stuck In Neutral",
+      "link": "https://www.investors.com/research/earnings-preview/target-stock-flies-to-new-highs-walmart-viking-earnings/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/b5a0d88b02a319d8d80042f244a7eeff.jpg",
+      "published": "2026-08-14T14:26:00+00:00",
+      "published_display": "14.08 14:26",
+      "sentiment": "positive",
+      "tickers": [
+        "WMT"
+      ],
+      "sectors": [
+        "Consumer Goods"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why Accenture (ACN) Lost Its Place in This Portfolio",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-accenture-acn-lost-place-142548024.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/89894eca51b93f0a51358ab0620a7463.jpg",
+      "published": "2026-08-14T14:25:48+00:00",
+      "published_display": "14.08 14:25",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Synopsys (SNPS) Growth Disappointed – Should Investors Worry?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-growth-disappointed-investors-142536763.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea.jpg",
+      "published": "2026-08-14T14:25:36+00:00",
+      "published_display": "14.08 14:25",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Replimune Group stock may move 5.6% on earnings release",
+      "link": "https://www.investing.com/news/stock-market-news/replimune-group-stock-may-move-56-on-earnings-release-93CH-4861104",
+      "description": "",
+      "source": "Investing.com",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-08-14T14:22:43",
+      "published_display": "14.08 14:22",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 10.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Record Profits For Refiners. These 5 Oil Stocks Are Worth A Look.",
+      "link": "https://www.investors.com/news/oil-stocks-record-profits-refiners/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/546f8468c8dcbf61795e8299041db2de.jpg",
+      "published": "2026-08-14T14:22:20+00:00",
+      "published_display": "14.08 14:22",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
+      "link": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/708c4d75cb753962eaeef053ec805dd5.jpg",
+      "published": "2026-08-14T14:21:23+00:00",
+      "published_display": "14.08 14:21",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
+      "published": "2026-08-14T14:20:28+00:00",
+      "published_display": "14.08 14:20",
+      "sentiment": "neutral",
+      "tickers": [
+        "AMAT"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Is Aon’s (AON) Growth Story Starting to Slow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aon-aon-growth-story-starting-141633277.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/c190dd9d2546cf4ed0bad890374761f3.jpg",
+      "published": "2026-08-14T14:16:33+00:00",
+      "published_display": "14.08 14:16",
+      "sentiment": "negative",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+      "description": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-00909168",
+      "published": "2026-08-14T14:14:00+00:00",
+      "published_display": "14.08 14:14",
+      "sentiment": "neutral",
+      "tickers": [],
+      "sectors": [],
+      "importance": 5.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
+      "description": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
+      "source": "MarketWatch",
+      "image": "https://images.mktw.net/im-17405695",
+      "published": "2026-08-14T14:13:00+00:00",
+      "published_display": "14.08 14:13",
+      "sentiment": "neutral",
+      "tickers": [
+        "META"
+      ],
+      "sectors": [
+        "Big Tech"
+      ],
+      "importance": 5.0,
+      "content_type": "macro_context",
+      "llm_classified": true
+    },
+    {
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "description": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
+      "source": "CoinDesk",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "published": "2026-08-14T14:12:34+00:00",
+      "published_display": "14.08 14:12",
+      "sentiment": "positive",
+      "tickers": [
+        "BTC",
+        "MSTR"
+      ],
+      "sectors": [
+        "Cryptocurrencies"
+      ],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "This AI-Tied IPO Stock Just Broke Out On Its 'Outsized' Guidance Boost",
+      "link": "https://www.investors.com/news/technology/heartflow-stock-heartflow-earnings-q2-2026/?src=A00220&yptr=yahoo",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/ibd.com/edaa809c53fa2ee18636a59a6a3b81cd.jpg",
+      "published": "2026-08-14T14:10:24+00:00",
+      "published_display": "14.08 14:10",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 35.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Can NVIDIA (NVDA) Keep Dominating the AI Infrastructure Boom?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-keep-dominating-ai-140727128.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/db28cb45a3bc4c1e8fbd43617dde2226.jpg",
+      "published": "2026-08-14T14:07:27+00:00",
+      "published_display": "14.08 14:07",
+      "sentiment": "positive",
+      "tickers": [
+        "NVDA"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Taiwan Semiconductor (TSM) Remains at the Center of the AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-remains-center-140337973.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a.jpg",
+      "published": "2026-08-14T14:03:37+00:00",
+      "published_display": "14.08 14:03",
+      "sentiment": "positive",
+      "tickers": [
+        "TSM"
+      ],
+      "sectors": [
+        "Semiconductors"
+      ],
+      "importance": 25.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Howmet Aerospace (HWM): A Critical Aerospace Supply Chain Play",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-critical-aerospace-140325190.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a97e4882ae49b28b5660dddfb5e08dbe.jpg",
+      "published": "2026-08-14T14:03:25+00:00",
+      "published_display": "14.08 14:03",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why GE Vernova (GEV) Is Emerging as an AI Power Winner",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-ge-vernova-gev-emerging-140315004.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/828587c10390e530f6bd2d3307c0fd93.jpg",
+      "published": "2026-08-14T14:03:15+00:00",
+      "published_display": "14.08 14:03",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 20.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Is GE Aerospace (GE) One of the Best Aerospace Stocks to Own?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-one-best-140305758.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/b17124e8173b56c40a8fa07d1a27f287.jpg",
+      "published": "2026-08-14T14:03:05+00:00",
+      "published_display": "14.08 14:03",
+      "sentiment": "positive",
+      "tickers": [],
+      "sectors": [],
+      "importance": 15.0,
+      "content_type": "market_signal",
+      "llm_classified": true
+    },
+    {
+      "title": "Why Slow Banking Tech Adoption Gives Jack Henry & Associates (JKHY) a Strategic Edge",
+      "link": "https://finance.yahoo.com/technology/articles/why-slow-banking-tech-adoption-140225449.html",
+      "description": "",
+      "source": "Yahoo Finance",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/9620d5c56cce0e3b0d6782bd1fcae720.jpg",
+      "published": "2026-08-14T14:02:25+00:00",
+      "published_display": "14.08 14:02",
+      "sentiment": "positive",
       "tickers": [],
       "sectors": [],
       "importance": 15.0,
@@ -558,200 +1325,7 @@ const NEWS_DATA = {
       "sectors": [
         "Cryptocurrencies"
       ],
-      "importance": 35.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Stablecoin Firm RedotPay Delays IPO",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-firm-redotpay-delays-ipo-135100693.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/cryptoprowl_304/73e3483dbb5c8e47cd2d3965c111fd86.jpg",
-      "published": "2026-08-14T13:51:00+00:00",
-      "published_display": "14.08 13:51",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why Resideo Technologies Stock Is Plummeting This Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-resideo-technologies-stock-plummeting-135040408.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/motleyfool.com/e86fe107760315f6ca850b4ce693253b.jpg",
-      "published": "2026-08-14T13:50:40+00:00",
-      "published_display": "14.08 13:50",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
       "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Alphabet Turned $900 Million in SpaceX Into $94 Billion — Here’s the Lesson for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-turned-900-million-spacex-135032220.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/24_7_wall_st__718/9bdfb55abb95e7b1b7f8eaec8dad2fb2.jpg",
-      "published": "2026-08-14T13:50:32+00:00",
-      "published_display": "14.08 13:50",
-      "sentiment": "positive",
-      "tickers": [
-        "GOOGL",
-        "SPCX"
-      ],
-      "sectors": [
-        "Big Tech",
-        "Space"
-      ],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Meta Platforms Is Down 27% From Its Most Recent High. History Says This Could Happen Next",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-down-27-most-135000222.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d31c03967a721796d718f8f451bdbe5c.png",
-      "published": "2026-08-14T13:50:00+00:00",
-      "published_display": "14.08 13:50",
-      "sentiment": "negative",
-      "tickers": [
-        "META"
-      ],
-      "sectors": [
-        "Big Tech"
-      ],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Navigating Risks and Opportunities in Bentley Systems’ (BSY) AI Strategy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/navigating-risks-opportunities-bentley-systems-134850873.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/15dc919cf81590c95e9e375cd13b4bf2.jpg",
-      "published": "2026-08-14T13:48:50+00:00",
-      "published_display": "14.08 13:48",
-      "sentiment": "neutral",
-      "tickers": [
-        "MSTR"
-      ],
-      "sectors": [
-        "Cryptocurrencies"
-      ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Re-evaluating Moody’s Corporation (MCO) Long-Term Growth Strategy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evaluating-moody-corporation-mco-long-134541660.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/6ed5b230de907c077f603828ef9f0386.jpg",
-      "published": "2026-08-14T13:45:41+00:00",
-      "published_display": "14.08 13:45",
-      "sentiment": "neutral",
-      "tickers": [
-        "MSTR"
-      ],
-      "sectors": [
-        "Cryptocurrencies"
-      ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Fund Admits Multi-Year Stock Holdings in Accenture (ACN) Were a “Costly Mistake”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-admits-multi-stock-holdings-134424118.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b7f290079d454db9ee7bc62487d9f187.jpg",
-      "published": "2026-08-14T13:44:24+00:00",
-      "published_display": "14.08 13:44",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Stocks subdued as earnings season begins to wind down: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/stocks-subdued-as-earnings-season-begins-to-wind-down-alphacheck-134418155.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/nLN7oFXILbv45iyO8fuUWQ--~B/aD0zNjE2O3c9NTQ0NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/9c09506c-441c-474d-b093-0354fb344c3e",
-      "published": "2026-08-14T13:44:18+00:00",
-      "published_display": "14.08 13:44",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Stocks Rally on the Favorable US PPI Report",
-      "link": "https://www.nasdaq.com/articles/stocks-rally-favorable-us-ppi-report",
-      "description": "The S&P 500 Index ($SPX ) (SPY ) on Thursday rose +0.65%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.15%. September E-mini S&P futures (ESU26 ) rose +0.68%, and…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T13:42:54+00:00",
-      "published_display": "14.08 13:42",
-      "sentiment": "positive",
-      "tickers": [
-        "SPY",
-        "QQQ",
-        "DJI"
-      ],
-      "sectors": [
-        "ETFs / Indices"
-      ],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "The AI build-out has a problem that $1 trillion in cash can't fix",
-      "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/hJKM22sQ2cNoHFXwGkDW1A--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/2473bcbd-add1-4093-8fdb-73261618540e",
-      "published": "2026-08-14T13:41:14+00:00",
-      "published_display": "14.08 13:41",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Stock Market Today: Dow Falls After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
-      "published": "2026-08-14T13:40:37+00:00",
-      "published_display": "14.08 13:40",
-      "sentiment": "negative",
-      "tickers": [
-        "AMAT"
-      ],
-      "sectors": [
-        "Semiconductors"
-      ],
-      "importance": 35.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -770,76 +1344,8 @@ const NEWS_DATA = {
       "sectors": [
         "Banking & Finance"
       ],
-      "importance": 25.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "EMCOR Group (EME): The Overlooked AI Infrastructure Play?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/emcor-group-eme-overlooked-ai-133913841.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/9aa5e7d284baa06b28b43b5251aea21f.jpg",
-      "published": "2026-08-14T13:39:13+00:00",
-      "published_display": "14.08 13:39",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
       "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why Taco Bell's former CEO just dissed McDonald's",
-      "link": "https://finance.yahoo.com/markets/article/why-taco-bells-former-ceo-just-dissed-mcdonalds-133600091.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/wGJ4UPjvc.Hjt2A4xfUqkg--~B/aD0yNjcxO3c9NDAwNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/3de4f45f-0b43-4c43-897f-e7b0f1274565",
-      "published": "2026-08-14T13:36:00+00:00",
-      "published_display": "14.08 13:36",
-      "sentiment": "neutral",
-      "tickers": [
-        "MCD"
-      ],
-      "sectors": [
-        "Consumer Goods"
-      ],
-      "importance": 5.0,
       "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "JPMorgan Ends Banking Relationship With Polymarket",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-ends-banking-relationship-polymarket-133400305.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/cryptoprowl_304/8406ae0446786e612d1b1db891eafd65.jpg",
-      "published": "2026-08-14T13:34:00+00:00",
-      "published_display": "14.08 13:34",
-      "sentiment": "neutral",
-      "tickers": [
-        "JPM"
-      ],
-      "sectors": [
-        "Banking & Finance"
-      ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why Did Oscar Health (OSCR) Fall After Record Profit and a Guidance Hike?",
-      "link": "https://finance.yahoo.com/healthcare/articles/why-did-oscar-health-oscr-133340254.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/a616b0d7d7e6b4832bf05d8c580c33ac.jpg",
-      "published": "2026-08-14T13:33:40+00:00",
-      "published_display": "14.08 13:33",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -853,68 +1359,8 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "5 Contrarian Targets: Hated Stocks Paying Up to 13%",
-      "link": "https://www.nasdaq.com/articles/5-contrarian-targets-hated-stocks-paying-13",
-      "description": "500 out of 500.",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T13:30:01+00:00",
-      "published_display": "14.08 13:30",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
       "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Congress changed the rules around charitable giving. Do it earlier in the year to save money.",
-      "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-      "description": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-00909168",
-      "published": "2026-08-14T13:30:00+00:00",
-      "published_display": "14.08 13:30",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 10.0,
       "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Why ATI (ATI) Is Emerging as an Aerospace Supply Chain Winner",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ati-ati-emerging-aerospace-132900668.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/56c3b65f73c0d382f82d23ecba8868c6.jpg",
-      "published": "2026-08-14T13:29:00+00:00",
-      "published_display": "14.08 13:29",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why Investors Keep Doubting CoStar Group (CSGP)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-keep-doubting-costar-132850025.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/ecf9aa0f97424aee320bcb4688cb3d0e.jpg",
-      "published": "2026-08-14T13:28:50+00:00",
-      "published_display": "14.08 13:28",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -932,23 +1378,8 @@ const NEWS_DATA = {
       "sectors": [
         "Big Tech"
       ],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Evaluating Amphenol’s (APH) AI Infrastructure Play",
-      "link": "https://finance.yahoo.com/technology/ai/articles/evaluating-amphenol-aph-ai-infrastructure-132631920.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/b5072e273440c96749a20caa1d2e8bca.jpg",
-      "published": "2026-08-14T13:26:31+00:00",
-      "published_display": "14.08 13:26",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
+      "importance": 10.0,
+      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -962,8 +1393,8 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 30.0,
-      "content_type": "macro_context",
+      "importance": 20.0,
+      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -974,11 +1405,11 @@ const NEWS_DATA = {
       "image": "https://images.mktw.net/im-85630920",
       "published": "2026-08-14T13:23:00+00:00",
       "published_display": "14.08 13:23",
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
+      "importance": 5.0,
+      "content_type": "macro_context",
       "llm_classified": true
     },
     {
@@ -997,97 +1428,7 @@ const NEWS_DATA = {
         "ETFs / Indices"
       ],
       "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Cattle Fall on Thursday with Weaker Cash, as Tyson Announces More Closures",
-      "link": "https://www.nasdaq.com/articles/cattle-fall-thursday-weaker-cash-tyson-announces-more-closures",
-      "description": "Live cattle futures closed the Thursday session with contracts down $1.52 to $4.35 across the board. There were no deliveries issued against August futures on Wednesday. Cash trade has been picked up with some $228-230 sales in the…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T13:15:17+00:00",
-      "published_display": "14.08 13:15",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Cattle Falling Back on Weaker Cash",
-      "link": "https://www.nasdaq.com/articles/cattle-falling-back-weaker-cash",
-      "description": "Live cattle futures are leading the way with losses of $4 to $4.60 so far on Thursday. There were no deliveries issued against August futures on Wednesday. Cash trade has been picked up with some $228-230 sales in the North. The…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T13:15:17+00:00",
-      "published_display": "14.08 13:15",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-surges-as-wall-street-cheers-flash-memory-makers-bullish-outlook-131502540.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/m0rWrlbfGvZ972h86ziBew--~B/aD0yMzYyO3c9MzU0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/baa3aef8-b734-41ff-8d05-0f841b42a8c4",
-      "published": "2026-08-14T13:15:02+00:00",
-      "published_display": "14.08 13:15",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "The U.S. national debt is about to reach $40 trillion for the first time — and hit $50 trillion soon after",
-      "link": "https://www.marketwatch.com/story/u-s-national-debt-about-to-reach-bleak-40-trillion-milestone-and-its-likely-hit-50-trillion-soon-0f10df2d?mod=mw_rss_topstories",
-      "description": "Investors are shying away from bonds for a reason, says Bank of America",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-52828445",
-      "published": "2026-08-14T13:00:00+00:00",
-      "published_display": "14.08 13:00",
-      "sentiment": "neutral",
-      "tickers": [
-        "BAC"
-      ],
-      "sectors": [
-        "Banking & Finance"
-      ],
-      "importance": 25.0,
       "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more",
-      "link": "https://www.cnbc.com/2026/08/14/friday-analyst-call-stocks-include-spacex-nvidia-apple-dell-micron.html",
-      "description": "Here are the biggest calls on Wall Street on Friday.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-14T12:40:41+00:00",
-      "published_display": "14.08 12:40",
-      "sentiment": "neutral",
-      "tickers": [
-        "NVDA",
-        "MU",
-        "AAPL",
-        "SPCX",
-        "JPM"
-      ],
-      "sectors": [
-        "Banking & Finance",
-        "Big Tech",
-        "Semiconductors",
-        "Space"
-      ],
-      "importance": 10.0,
-      "content_type": "market_signal",
       "llm_classified": true
     },
     {
@@ -1106,112 +1447,7 @@ const NEWS_DATA = {
       "sectors": [
         "Cryptocurrencies"
       ],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "TBBB Crosses Above Average Analyst Target",
-      "link": "https://www.nasdaq.com/articles/tbbb-crosses-above-average-analyst-target-0",
-      "description": "In recent trading, shares of BBB Foods Inc (Symbol: TBBB) have crossed above the average analyst 12-month target price of $43.80, changing hands for $49.20/share. When a stock reaches the target an analyst has set, the analyst logically…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:32:14+00:00",
-      "published_display": "14.08 12:32",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Five9 Reaches Analyst Target Price",
-      "link": "https://www.nasdaq.com/articles/five9-reaches-analyst-target-price",
-      "description": "In recent trading, shares of Five9, Inc (Symbol: FIVN) have crossed above the average analyst 12-month target price of $33.10, changing hands for $33.80/share. When a stock reaches the target an analyst has set, the analyst logically…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:31:50+00:00",
-      "published_display": "14.08 12:31",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "W.W. Grainger Reaches Analyst Target Price",
-      "link": "https://www.nasdaq.com/articles/ww-grainger-reaches-analyst-target-price",
-      "description": "In recent trading, shares of W.W. Grainger Inc. (Symbol: GWW) have crossed above the average analyst 12-month target price of $1309.46, changing hands for $1321.38/share. When a stock reaches the target an analyst has set, the analyst…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:31:31+00:00",
-      "published_display": "14.08 12:31",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Netskope Reaches Analyst Target Price",
-      "link": "https://www.nasdaq.com/articles/netskope-reaches-analyst-target-price",
-      "description": "In recent trading, shares of Netskope Inc (Symbol: NTSK) have crossed above the average analyst 12-month target price of $15.31, changing hands for $16.19/share. When a stock reaches the target an analyst has set, the analyst logically…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:31:24+00:00",
-      "published_display": "14.08 12:31",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "AVAH Crosses Above Average Analyst Target",
-      "link": "https://www.nasdaq.com/articles/avah-crosses-above-average-analyst-target",
-      "description": "In recent trading, shares of Aveanna Healthcare Holdings Inc (Symbol: AVAH) have crossed above the average analyst 12-month target price of $10.45, changing hands for $11.29/share. When a stock reaches the target an analyst has set, the…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:31:18+00:00",
-      "published_display": "14.08 12:31",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "FE's Strong Dividend History Helps Get It To The Top 10",
-      "link": "https://www.nasdaq.com/articles/fes-strong-dividend-history-helps-get-it-top-10",
-      "description": "FirstEnergy Corp (Symbol: FE) has been named as a Top 10 dividend paying utility stock, according to Dividend Channel, which published its weekly ''DividendRank'' report. The report noted that among utilities, FE shares displayed both…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:29:59+00:00",
-      "published_display": "14.08 12:29",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 12.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Why Southern Is a Top 10 Utility Dividend Stock (SO)",
-      "link": "https://www.nasdaq.com/articles/why-southern-top-10-utility-dividend-stock-so",
-      "description": "Southern Company (Symbol: SO) has been named as a Top 10 dividend paying utility stock, according to Dividend Channel, which published its weekly ''DividendRank'' report. The report noted that among utilities, SO shares displayed both…",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:29:35+00:00",
-      "published_display": "14.08 12:29",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 12.0,
+      "importance": 30.0,
       "content_type": "market_signal",
       "llm_classified": true
     },
@@ -1226,26 +1462,7 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 25.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
-      "link": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
-      "description": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-17405695",
-      "published": "2026-08-14T12:28:00+00:00",
-      "published_display": "14.08 12:28",
-      "sentiment": "neutral",
-      "tickers": [
-        "META"
-      ],
-      "sectors": [
-        "Big Tech"
-      ],
-      "importance": 8.0,
+      "importance": 35.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -1260,7 +1477,7 @@ const NEWS_DATA = {
       "sentiment": "neutral",
       "tickers": [],
       "sectors": [],
-      "importance": 20.0,
+      "importance": 30.0,
       "content_type": "macro_context",
       "llm_classified": true
     },
@@ -1272,240 +1489,14 @@ const NEWS_DATA = {
       "image": "",
       "published": "2026-08-14T12:17:42+00:00",
       "published_display": "14.08 12:17",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tickers": [
         "AAPL"
       ],
       "sectors": [
         "Big Tech"
       ],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
-      "link": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-      "description": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-14T12:15:01+00:00",
-      "published_display": "14.08 12:15",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 18.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Silver prices today, Friday, August 14, 2026: Silver over $65 following soft inflation data this week",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-14-2026-silver-over-65-following-soft-inflation-data-this-week-121251820.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/IOi5N4czcWJt1JaBtnGHXg--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
-      "published": "2026-08-14T12:12:51+00:00",
-      "published_display": "14.08 12:12",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
       "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Applied Materials shares are down on guidance and margin concerns. Analysts call it time to buy.",
-      "link": "https://www.marketwatch.com/story/applied-materials-shares-are-down-on-elevated-expectations-heres-why-analysts-say-its-time-to-buy-bd34dd54?mod=mw_rss_topstories",
-      "description": "Analysts see the semiconductor company continuing to grow from a boost in demand amid the race to dominate the artificial-intelligence industry.",
-      "source": "MarketWatch",
-      "image": "https://images.mktw.net/im-341641",
-      "published": "2026-08-14T12:09:00+00:00",
-      "published_display": "14.08 12:09",
-      "sentiment": "negative",
-      "tickers": [
-        "AMAT"
-      ],
-      "sectors": [
-        "Semiconductors"
-      ],
-      "importance": 30.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Nucor to Invest $59 Million in Major Vulcraft Indiana Expansion",
-      "link": "https://www.nasdaq.com/articles/nucor-invest-59-million-major-vulcraft-indiana-expansion",
-      "description": "NUE's $59 million Vulcraft Indiana expansion will add steel grating capabilities, create 20 jobs and broaden its downstream product portfolio.",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T12:07:00+00:00",
-      "published_display": "14.08 12:07",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-      "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-      "description": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-14T12:03:32+00:00",
-      "published_display": "14.08 12:03",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "44% of Americans living paycheck to paycheck have incurred extra fees while waiting for payday. These 3 credit cards can help",
-      "link": "https://www.cnbc.com/select/credit-cards-to-avoid-fees-while-living-paycheck-to-paycheck/",
-      "description": "Bank and credit card fees can often feel like a suckerpunch to those already struggling financially. CNBC Select highlights some ways you can avoid them.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-14T12:00:01+00:00",
-      "published_display": "14.08 12:00",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 5.0,
-      "content_type": "macro_context",
-      "llm_classified": true
-    },
-    {
-      "title": "Gold prices today, Friday, August 14, 2026: Gold prices hold above $4,400 on softening inflation",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-14-2026-gold-prices-hold-above-4400-on-softening-inflation-115406311.html",
-      "description": "",
-      "source": "Yahoo Finance",
-      "image": "https://s.yimg.com/uu/api/res/1.2/KJYgjrrjGO41NUe5MMT8rQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/friday.png",
-      "published": "2026-08-14T11:54:06+00:00",
-      "published_display": "14.08 11:54",
-      "sentiment": "positive",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "description": "Your day-ahead look for Aug. 14, 2026",
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e29ab0b305e82306feadf3c62519eb4807b70897-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "published": "2026-08-14T11:33:50+00:00",
-      "published_display": "14.08 11:33",
-      "sentiment": "neutral",
-      "tickers": [
-        "BTC"
-      ],
-      "sectors": [
-        "Cryptocurrencies"
-      ],
-      "importance": 10.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Data centers in space could be a new frontier for insurers — if they can price the risk",
-      "link": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
-      "description": "The push to build data centers has moved to lower Earth orbit, and insurers could be facing a new market with plenty of complexity.",
-      "source": "CNBC",
-      "image": "",
-      "published": "2026-08-14T11:19:51+00:00",
-      "published_display": "14.08 11:19",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "CATL mine shutdown threatens to flip lithium market into deficit",
-      "link": "https://www.mining.com/catl-mine-shutdown-threatens-to-flip-lithium-market-into-deficit/",
-      "description": "Uncertainty over Contemporary Amperex Technology’s (CATL) Jianxiawo lithium mine is threatening to tighten global supply into 2027, even as speculation over its […]",
-      "source": "Mining.com",
-      "image": "",
-      "published": "2026-08-14T11:08:00+00:00",
-      "published_display": "14.08 11:08",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 45.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "link": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-      "description": "The token’s sale has been pushed back due to the Iran war disrupting travel in the region.",
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "published": "2026-08-14T11:07:49+00:00",
-      "published_display": "14.08 11:07",
-      "sentiment": "negative",
-      "tickers": [],
-      "sectors": [],
-      "importance": 20.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-      "description": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/74bc3e2ff5cfbae726c42ebcbad0ca2ee9f07754-1749x984.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "published": "2026-08-14T11:06:12+00:00",
-      "published_display": "14.08 11:06",
-      "sentiment": "negative",
-      "tickers": [
-        "BTC"
-      ],
-      "sectors": [
-        "Cryptocurrencies"
-      ],
-      "importance": 35.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "Company News for Aug 14, 2026",
-      "link": "https://www.nasdaq.com/articles/company-news-aug-14-2026",
-      "description": "Companies In The Article Are:NFLX,TPR,ARCO and ARX",
-      "source": "Nasdaq",
-      "image": "",
-      "published": "2026-08-14T10:37:00+00:00",
-      "published_display": "14.08 10:37",
-      "sentiment": "neutral",
-      "tickers": [
-        "NFLX"
-      ],
-      "sectors": [
-        "Media / Entertainment"
-      ],
-      "importance": 15.0,
-      "content_type": "market_signal",
-      "llm_classified": true
-    },
-    {
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "link": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "description": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5010be687a255fbd4ca9b45cb952c3ec72fe13a-6302x3545.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "published": "2026-08-14T10:35:40+00:00",
-      "published_display": "14.08 10:35",
-      "sentiment": "neutral",
-      "tickers": [],
-      "sectors": [],
-      "importance": 25.0,
       "content_type": "market_signal",
       "llm_classified": true
     }
