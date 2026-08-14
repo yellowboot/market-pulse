@@ -6,34 +6,28 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.08.2026 21:21
-50 of 80 news items unmatched this run
+Generated: 14.08.2026 21:51
+44 of 80 news items unmatched this run
 
-- [MarketWatch] 16 beaten-down AI stocks that are beloved by BofA analysts
-- [CNBC] OpenAI talent exodus raises 'huge red flag' ahead of IPO
-- [Investing.com] Luigi Mangione admits killing insurance CEO, pleads guilty in federal case
-- [Investing.com] SEC proposes easing ’pay-to-play’ rules for investment advisers
-- [Nasdaq] Hogs Fading Lower on Friday
-- [Nasdaq] Cotton Posting Gains Heading into the Weekend
-- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
-- [Nasdaq] Cattle Falling on Friday
+- [CNBC] Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
+- [Investing.com] Jumia de-risks profitability path with $50M IFC deal, CEO says
 - [Nasdaq] Corn Following Wheat Higher on Friday
+- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
 - [Nasdaq] Soybeans Holding Higher on Friday
 - [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
-- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
 - [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Nasdaq] Crude Prices Higher on Continued Hormuz Tensions
-- [Nasdaq] Cattle Look to Friday Trade as Tyson Announces Closure
-- [Nasdaq] Hogs Look to Close the Week
+- [Nasdaq] Wheat Bulls Back to Stronger Trade as Black Sea Back and Forth Continues
+- [Nasdaq] Cotton Posting Gains Heading into the Weekend
+- [CNBC] Regulators and banks step up scrutiny of prediction markets
+- [Nasdaq] Notable Friday Option Activity: SNDA, IMXI, UMAC
+- [Investing.com] Canada stocks pull back after hitting record high as tech shares retreat
+- [Nasdaq] Notable Friday Option Activity: EYPT, HIW, ASTS
+- [MarketWatch] 16 beaten-down AI stocks that are beloved by BofA analysts
+- [CNBC] OpenAI talent exodus raises 'huge red flag' ahead of IPO
 - [MarketWatch] Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.
 - [MarketWatch] A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits
-- [Nasdaq] Wheat Bulls Back to Stronger Trade as Black Sea Back and Forth Continues
 - [MarketWatch] Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.
-- [CNBC] Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
-- [Investing.com] S&P set for weekly climb, helped by reduction in rate hike bets; oil caps gains
 - [Mining.com] Gold price shakes off early profit taking after run to 10-week high
-- [Investing.com] US SEC to keep hands off shareholder proposals, worrying activists
-- [Investing.com] Investing.com’s stocks of the week
 - [CNBC] Lamborghini unveils Revuelto SV, its most powerful production car ever
 - [MarketWatch] Think interest rates are high now? These charts offers a different perspective.
 - [MarketWatch] Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO

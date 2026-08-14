@@ -828,7 +828,6 @@ INDEX_QUOTES = [
     {"symbol": "^DJI",  "name": "Dow Jones"},
     {"symbol": "^IXIC", "name": "Nasdaq Composite"},
     {"symbol": "^RUT",  "name": "Russell 2000"},
-    {"symbol": "^VIX",  "name": "VIX (Fear Index)"},
 
     # --- International indices (the site targets a global audience) ---
     {"symbol": "^FTSE",     "name": "FTSE 100 (UK)"},
@@ -842,6 +841,12 @@ INDEX_QUOTES = [
     {"symbol": "CL=F",    "name": "WTI Crude Oil (futures)"},
     {"symbol": "BTC-USD", "name": "Bitcoin"},
     {"symbol": "^TNX",    "name": "10-Year US Treasury Yield", "unit": "yield_pct", "scale": 0.1},
+
+    # --- VIX last: it's the odd one out (inverted color scale on the
+    # dashboard — see --vix-hot/--vix-cool in news_dashboard.html), keeping
+    # it away from the other US indices avoids it being visually mistaken
+    # for a regular green/red quote at a glance. ---
+    {"symbol": "^VIX",  "name": "VIX (Fear Index)"},
 ]
 
 
