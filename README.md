@@ -2,118 +2,118 @@
   <img src="assets/banner.jpg" alt="Market Pulse" width="100%">
 </p>
 
-# Market Pulse — новостной агрегатор фондового рынка
+# Market Pulse — stock market news aggregator
 
-## Живая версия
+## Live version
 
-Сайт обновляется сам, без участия человека: GitHub Actions по расписанию запускает `fetch_news.py` (каждые ~90 минут в будни, с запасом в 30+ минут до открытия и после закрытия торгов NYSE/Nasdaq что летом, что зимой; по выходным — раз в день, см. `.github/workflows/update-news.yml`), коммитит свежий `news_data.js` обратно в репозиторий, а GitHub Pages тут же отдаёт обновлённую страницу. Открывая сайт в браузере, вы просто видите готовый результат — ничего запускать вручную не нужно.
+The site updates itself, no human involved: GitHub Actions runs `fetch_news.py` on a schedule (every ~90 minutes on weekdays, with a 30+ minute buffer before open and after close of NYSE/Nasdaq trading in both summer and winter; once a day on weekends — see `.github/workflows/update-news.yml`), commits the fresh `news_data.js` back to the repo, and GitHub Pages immediately serves the updated page. Open the site in a browser and you just see the finished result — nothing to run by hand.
 
-## Что в комплекте
-- **fetch_news.py** — скрипт на чистом Python (без pip install), собирает новости из публичных RSS-лент, оценивает тональность по ключевым словам и подсвечивает тикеры из вашего вотчлиста.
-- **news_dashboard.html** — сама страница, тёмная luxury-тема с градиентами. Открывается обычным двойным кликом, либо доступна на сайте (см. выше).
-- **news_data.js** — файл с данными, который генерирует скрипт. В репозитории лежит снимок реальных новостей на момент публикации, дальше его каждый раз перезаписывает GitHub Actions.
-- **.github/workflows/update-news.yml** — расписание автообновления ленты (GitHub Actions).
+## What's included
+- **fetch_news.py** — a pure-Python script (no pip install needed) that pulls news from public RSS feeds, scores sentiment by keywords, and tags tickers from your watchlist.
+- **news_dashboard.html** — the page itself, a dark luxury theme with gradients. Open it with a regular double-click, or view it live on the site (see above).
+- **news_data.js** — the data file the script generates. The repo ships with a snapshot of real news from publish time; GitHub Actions overwrites it on every run after that.
+- **.github/workflows/update-news.yml** — the feed's auto-update schedule (GitHub Actions).
 
-## Локальный запуск (опционально)
-Ниже — для тех, кто хочет свою копию (свой вотчлист, свои ленты) или просто предпочитает запускать локально вместо live-версии на GitHub Pages.
+## Local run (optional)
+The following is for anyone who wants their own copy (their own watchlist, their own feeds) or just prefers running locally instead of the live GitHub Pages version.
 
-1. Убедитесь, что установлен Python 3 (проверить: `python3 --version`).
-2. В терминале перейдите в папку с файлами:
+1. Make sure Python 3 is installed (check with `python3 --version`).
+2. In a terminal, go to the folder with the files:
    ```
-   cd путь/до/папки/news_aggregator
+   cd path/to/news_aggregator
    ```
-3. Запустите сборщик:
+3. Run the fetcher:
    ```
    python3 fetch_news.py
    ```
-   Он подтянет свежие новости и перезапишет `news_data.js`.
-4. Откройте `news_dashboard.html` в браузере (или обновите вкладку, если уже открыта).
+   It pulls fresh news and rewrites `news_data.js`.
+4. Open `news_dashboard.html` in a browser (or refresh the tab if it's already open).
 
-## Обновление данных (для локальной копии)
-Живая версия на GitHub Pages обновляется сама (см. «Живая версия» выше) — этот раздел актуален только для локальной копии.
+## Refreshing data (for a local copy)
+The live version on GitHub Pages updates itself (see "Live version" above) — this section only applies to a local copy.
 
-Каждый раз, когда хотите свежие новости — просто снова запускайте `python3 fetch_news.py` и жмите F5 на странице. Никакого сервера поднимать не нужно.
+Whenever you want fresh news, just run `python3 fetch_news.py` again and hit F5 on the page. No server needed.
 
-Если хотите автоматизировать локальную копию (например, обновлять раз в час):
-- **macOS/Linux:** добавьте в `crontab -e` строку вида
-  `0 * * * * cd /путь/до/папки && python3 fetch_news.py`
-- **Windows:** создайте задачу в Планировщике заданий, которая раз в час запускает
-  `python3 fetch_news.py` в этой папке.
+To automate a local copy (e.g. refresh every hour):
+- **macOS/Linux:** add a line like this to `crontab -e`:
+  `0 * * * * cd /path/to/folder && python3 fetch_news.py`
+- **Windows:** create a Task Scheduler task that runs
+  `python3 fetch_news.py` in this folder once an hour.
 
-## LLM-классификация тональности и важности (опционально)
+## LLM sentiment/importance classification (optional)
 
-По умолчанию тональность и важность считаются локальной эвристикой по ключевым словам — быстро, бесплатно, но не понимает контекст (например, «отмена санкций» может ошибочно попасть в «негатив», потому что слово «drops» в целом негативное).
+By default, sentiment and importance are scored with a local keyword heuristic — fast, free, but it doesn't understand context (e.g. "sanctions lifted" could wrongly land in "negative" just because "drops" is a generally negative word).
 
-Если хочется точнее — можно подключить [DeepSeek](https://platform.deepseek.com) (`deepseek-chat`, DeepSeek-V3) — один из самых дешёвых API на рынке с качеством, которого более чем достаточно для классификации новостей, и он будет реально понимать смысл новости, а не просто искать слова.
+For more accuracy, you can plug in [DeepSeek](https://platform.deepseek.com) (`deepseek-chat`, DeepSeek-V3) — one of the cheapest APIs on the market, with more than enough quality for news classification, and it actually understands what a headline means instead of just matching words.
 
-**Если ключ не задан или запрос не прошёл** (нет интернета, кончился лимит, сеть заблокировала) — скрипт тихо откатывается на обычную эвристику, ничего не ломается.
+**If the key isn't set or the request fails** (no internet, quota hit, network blocked it) — the script quietly falls back to the plain heuristic, nothing breaks.
 
-**Стоимость.** Новости отправляются пачками по 15 штук. На весь прогон (~80 новостей → 6 запросов) расходы исчисляются долями цента за запуск — даже при почасовом автообновлении в рабочие часы это копейки в месяц. Актуальные цены — на [platform.deepseek.com](https://platform.deepseek.com/api-docs/pricing). На всякий случай на платформе можно выставить лимит трат на ключ.
+**Cost.** News items are sent in batches of 15. A full run (~80 items → 6 requests) costs a fraction of a cent — even with hourly auto-updates during market hours, that's pennies a month. Current pricing is at [platform.deepseek.com](https://platform.deepseek.com/api-docs/pricing). You can also set a spend cap on the key on the platform, just in case.
 
-### ⚠️ Ключ — только в GitHub Secrets, никогда в коде
+### ⚠️ The key belongs only in GitHub Secrets, never in code
 
-Ключ API — секрет. Он не должен попадать в файлы репозитория, в коммиты, в логи workflow или куда-либо, где его может увидеть кто-то кроме вас. `fetch_news.py` читает его **только** из переменной окружения `DEEPSEEK_API_KEY` — в коде ключа нет и никогда не должно быть.
+An API key is a secret. It must never end up in repo files, commits, workflow logs, or anywhere someone other than you could see it. `fetch_news.py` reads it **only** from the `DEEPSEEK_API_KEY` environment variable — there is no key in the code, and there never should be.
 
-**Как получить ключ:**
-1. Зарегистрируйтесь на [platform.deepseek.com](https://platform.deepseek.com), привяжите оплату.
-2. В разделе API Keys создайте новый ключ и скопируйте его — DeepSeek покажет его только один раз.
+**How to get a key:**
+1. Sign up at [platform.deepseek.com](https://platform.deepseek.com) and add a payment method.
+2. In the API Keys section, create a new key and copy it — DeepSeek only shows it once.
 
-**Как безопасно добавить ключ для автообновления на GitHub (никому, включая ассистента в чате, ключ показывать не нужно):**
+**How to safely add the key for GitHub auto-updates** (no one, including an AI assistant in chat, needs to see the key):
 
-Выполните у себя в терминале (не через чат с ассистентом!):
+Run this in your own terminal (not through a chat assistant!):
 ```
 gh secret set DEEPSEEK_API_KEY --repo yellowboot/market-pulse
 ```
-Команда попросит вставить значение ключа — введите его прямо в терминал и нажмите Enter. Значение уйдёт напрямую в зашифрованное хранилище GitHub, не будет напечатано на экране и не осядет ни в истории команд, ни в логах.
+It'll prompt you to paste the key value — type it straight into the terminal and hit Enter. The value goes directly into GitHub's encrypted storage; it won't be echoed to the screen and won't end up in command history or logs.
 
-Альтернатива без терминала: GitHub → ваш репозиторий → **Settings → Secrets and variables → Actions → New repository secret** → имя `DEEPSEEK_API_KEY`, значение — сам ключ.
+No-terminal alternative: GitHub → your repo → **Settings → Secrets and variables → Actions → New repository secret** → name `DEEPSEEK_API_KEY`, value — the key itself.
 
-После этого `.github/workflows/update-news.yml` подхватит секрет автоматически при следующем запуске — ничего больше настраивать не нужно.
+After that, `.github/workflows/update-news.yml` picks up the secret automatically on the next run — nothing else to configure.
 
-**Для локального запуска** (без GitHub) ключ задаётся как обычная переменная окружения перед запуском:
+**For a local run** (outside GitHub), set the key as a regular environment variable before running:
 - **macOS/Linux:**
   ```
-  export DEEPSEEK_API_KEY="ваш-ключ"
+  export DEEPSEEK_API_KEY="your-key"
   python3 fetch_news.py
   ```
 - **Windows (cmd):**
   ```
-  set DEEPSEEK_API_KEY=ваш-ключ
+  set DEEPSEEK_API_KEY=your-key
   python fetch_news.py
   ```
-Чтобы не вводить это каждый раз, можно сохранить переменную окружения в системе (см. выше) — тогда она подхватится и через `run_news.bat`/`run_news.command`. Ключ живёт только в переменных окружения вашей машины — в файлы проекта он не пишется.
+To avoid typing this every time, save the environment variable at the system level (see above) — it'll then also be picked up by `run_news.bat`/`run_news.command`. The key only ever lives in your machine's environment variables — it's never written to project files.
 
-## Если новости не загружаются
-Возможные причины:
-- Провайдер RSS временно недоступен или изменил адрес ленты — в консоли скрипт выведет, какая именно лента не ответила.
-- Нет интернет-соединения на момент запуска.
-- Некоторые сети/прокси блокируют доступ к конкретным доменам.
+## If news doesn't load
+Possible causes:
+- An RSS provider is temporarily down or changed its feed address — the console will print which feed didn't respond.
+- No internet connection at run time.
+- Some networks/proxies block access to specific domains.
 
-Список лент — в начале `fetch_news.py`, в переменной `FEEDS`. Их легко добавлять, убирать или менять местами.
+The feed list is at the top of `fetch_news.py`, in the `FEEDS` variable. Easy to add, remove, or reorder.
 
-## Запуск без терминала
+## Running without a terminal
 
-### Вариант 1 (рекомендую): файл-launcher — просто двойной клик
-- **Windows:** дважды кликните `run_news.bat`. Он сам соберёт новости и откроет дашборд.
-- **macOS:** дважды кликните `run_news.command`.
-  Если macOS откажется запускать («неизвестный разработчик»): правый клик → «Открыть» → подтвердить один раз, дальше будет открываться обычным двойным кликом.
+### Option 1 (recommended): a launcher file — just double-click
+- **Windows:** double-click `run_news.bat`. It fetches the news and opens the dashboard for you.
+- **macOS:** double-click `run_news.command`.
+  If macOS refuses to run it ("unidentified developer"): right-click → "Open" → confirm once, and after that it'll open with a regular double-click.
 
-Плюсы: не нужно ничего собирать/устанавливать, работает сразу, файлы видно и можно поправить в любой момент.
-Минус: на компьютере всё равно должен быть установлен Python 3 (обычно уже есть на Mac; на Windows скачивается один раз с python.org, 3 минуты).
+Pros: nothing to build or install, works right away, files are visible and easy to tweak anytime.
+Cons: Python 3 still needs to be installed on the machine (usually already there on Mac; on Windows it's a one-time 3-minute download from python.org).
 
-### Вариант 2: настоящий .exe (без Python на компьютере)
-Если хочется прямо один .exe-файл без каких-либо зависимостей — соберите его сами через PyInstaller **на Windows-машине**:
+### Option 2: a real .exe (no Python on the machine)
+If you want a single .exe with no dependencies at all, build it yourself with PyInstaller **on a Windows machine**:
 ```
 pip install pyinstaller
 pyinstaller --onefile --console --name MarketPulse fetch_news.py
 ```
-Готовый файл появится в папке `dist\MarketPulse.exe`. Кладите его рядом с `news_dashboard.html` и запускайте вместо скрипта — он так же обновит `news_data.js`.
+The resulting file appears in the `dist\MarketPulse.exe` folder. Place it next to `news_dashboard.html` and run it instead of the script — it updates `news_data.js` the same way.
 
-Учтите:
-- exe получится большим (15-40 МБ), потому что внутри упакован весь интерпретатор Python.
-- Антивирусы иногда ложно ругаются на exe, собранные PyInstaller — это известная особенность упаковщика, а не признак вредоносности самого скрипта. Если Windows Defender подсветит файл — можно добавить исключение.
-- Если позже захотите поменять список RSS-лент или вотчлист — придётся редактировать `fetch_news.py` и пересобирать exe заново. Вариант 1 (launcher) в этом смысле гибче.
+Keep in mind:
+- The exe will be fairly large (15-40 MB) because it bundles the entire Python interpreter.
+- Antivirus software sometimes flags PyInstaller-built exes as suspicious — that's a known quirk of the packager, not a sign the script itself is malicious. If Windows Defender flags the file, you can add an exclusion.
+- If you later want to change the RSS feed list or watchlist, you'll need to edit `fetch_news.py` and rebuild the exe. Option 1 (launcher) is more flexible in that regard.
 
-## Что можно улучшить дальше (по желанию)
-- Кастомная иконка для .exe (флаг `--icon=path.ico` у PyInstaller).
-- Личный вотчлист без правки кода (сейчас редактируется в `COMPANY_MAP` внутри `fetch_news.py`).
+## Possible future improvements
+- Custom icon for the .exe (PyInstaller's `--icon=path.ico` flag).
+- A personal watchlist without editing code (currently edited in `COMPANY_MAP` inside `fetch_news.py`).

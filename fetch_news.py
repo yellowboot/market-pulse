@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Агрегатор новостей фондового рынка.
-Собирает заголовки из публичных RSS-лент, делает простой механический
-анализ тональности и упоминаний тикеров, сохраняет всё в news_data.js,
-который подключается в news_dashboard.html через <script src>.
+Stock market news aggregator.
+Pulls headlines from public RSS feeds, does a simple mechanical sentiment
+and ticker-mention analysis, and saves it all to news_data.js, which is
+loaded by news_dashboard.html via <script src>.
 
-Запуск:
+Run:
     python3 fetch_news.py
 
-Требуется только стандартная библиотека Python (никаких pip install).
+Only needs the Python standard library (no pip install required).
 """
 
 import json
@@ -23,10 +23,11 @@ from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 from html import unescape
 
-# На части Windows-систем консоль по умолчанию использует не UTF-8
-# (например, cp1252), а вывод скрипта — сплошная кириллица. Без этого
-# print() падает с UnicodeEncodeError на первой же строке. reconfigure()
-# доступен с Python 3.7+, тихо ничего не делаем на более старых версиях.
+# On some Windows systems the console defaults to something other than
+# UTF-8 (e.g. cp1252), and the script's output is full of non-ASCII text.
+# Without this, print() crashes with UnicodeEncodeError on the very first
+# line. reconfigure() is available on Python 3.7+; silently do nothing on
+# older versions.
 for _stream in (sys.stdout, sys.stderr):
     if hasattr(_stream, "reconfigure"):
         try:
@@ -35,34 +36,35 @@ for _stream in (sys.stdout, sys.stderr):
             pass
 
 # ---------------------------------------------------------------------------
-# НАСТРОЙКИ
+# SETTINGS
 # ---------------------------------------------------------------------------
 
-# --- Опциональная LLM-классификация (DeepSeek API) --------------------------
-# Если задан DEEPSEEK_API_KEY — тональность и важность каждой новости
-# определяет DeepSeek (понимает реальный смысл: "отмена санкций" — позитив,
-# "рост издержек" — негатив, даже если отдельные слова говорят обратное).
-# Если ключа нет или запрос не прошёл — используется локальная эвристика
-# по ключевым словам (detect_sentiment / calc_importance ниже), как раньше.
+# --- Optional LLM classification (DeepSeek API) -----------------------------
+# If DEEPSEEK_API_KEY is set, DeepSeek determines each news item's sentiment
+# and importance (it understands actual meaning: "sanctions lifted" is
+# positive, "costs rise" is negative, even if individual words suggest the
+# opposite). If there's no key or the request fails, falls back to the
+# local keyword heuristic (detect_sentiment / calc_importance below), as
+# before.
 #
-# DeepSeek выбран как один из самых дешёвых API с качеством, достаточным для
-# этой задачи (классификация тональности/важности — не creative writing).
-# API OpenAI-совместимый (эндпоинт /chat/completions), ключ получаем на
-# platform.deepseek.com.
+# DeepSeek was chosen as one of the cheapest APIs with quality that's more
+# than sufficient for this task (sentiment/importance classification, not
+# creative writing). The API is OpenAI-compatible (the /chat/completions
+# endpoint); get a key at platform.deepseek.com.
 #
-# КЛЮЧ НИКОГДА НЕ ХРАНИТСЯ В ЭТОМ ФАЙЛЕ И НЕ ПОПАДАЕТ В РЕПОЗИТОРИЙ — только
-# переменная окружения. Для локального запуска:
+# THE KEY IS NEVER STORED IN THIS FILE AND NEVER COMMITTED TO THE REPO —
+# environment variable only. For a local run:
 #   macOS/Linux:   export DEEPSEEK_API_KEY="sk-..."
 #   Windows (cmd): set DEEPSEEK_API_KEY=sk-...
-# Для автоматического обновления через GitHub Actions ключ должен лежать
-# ТОЛЬКО в зашифрованных GitHub Secrets репозитория (Settings → Secrets and
-# variables → Actions), никогда не в коде и не в логах workflow — подробности
-# и инструкция, как задать секрет, не показывая его никому, — в README.md.
+# For automatic updates via GitHub Actions, the key must live ONLY in the
+# repo's encrypted GitHub Secrets (Settings → Secrets and variables →
+# Actions), never in code or workflow logs — details and instructions on
+# setting the secret without showing it to anyone are in README.md.
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "").strip()
-DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek-V3 — дешёвый, этого достаточно для классификации
-LLM_BATCH_SIZE = 15  # сколько новостей отправлять в одном запросе к API
+DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek-V3 — cheap, plenty for classification
+LLM_BATCH_SIZE = 15  # how many news items to send per API request
 
-# Публичные RSS-ленты финансовых новостей (без подписки, без пейволла на уровне заголовков)
+# Public financial news RSS feeds (no subscription, no headline-level paywall)
 FEEDS = [
     {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"},
     {"name": "MarketWatch",   "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
@@ -77,18 +79,18 @@ FEEDS = [
     {"name": "Retail Dive",   "url": "https://www.retaildive.com/feeds/news/"},
 ]
 
-# Сколько новостей максимум показывать в итоге.
-# 7 общих/нишевых лент + 4 отраслевые (оборонка, фарма, крипто, ритейл) —
-# теперь у секторов, которые раньше пустовали, тоже будет материал.
+# Maximum number of news items to show in the end.
+# 7 general/niche feeds + 4 sector feeds (defense, pharma, crypto, retail) —
+# sectors that used to be empty now get material too.
 MAX_ITEMS = 80
 
-# Тикер + сектор + варианты названий компании (для поиска не только по коду,
-# но и по имени в тексте новости — например "Rheinmetall" или "Nike").
-# Список охватывает основные сектора рынка, интересные широкому кругу инвесторов:
-# технологии, полупроводники, потребительский сектор, энергетику, металлы,
-# финансы, здравоохранение, промышленность, облигации/макро и т.д.
+# Ticker + sector + company name variants (so matching works not just on
+# the ticker code but also on the company name in the text — e.g.
+# "Rheinmetall" or "Nike"). The list covers the main market sectors of
+# interest to a broad range of investors: tech, semiconductors, consumer
+# goods, energy, metals, finance, healthcare, industrials, bonds/macro, etc.
 COMPANY_MAP = [
-    # ---- Полупроводники / AI-инфраструктура ----
+    # ---- Semiconductors / AI infrastructure ----
     {"ticker": "NVDA", "sector": "Semiconductors",         "names": ["Nvidia"]},
     {"ticker": "AVGO", "sector": "Semiconductors",         "names": ["Broadcom"]},
     {"ticker": "MRVL", "sector": "Semiconductors",         "names": ["Marvell"]},
@@ -102,7 +104,7 @@ COMPANY_MAP = [
     {"ticker": "QCOM", "sector": "Semiconductors",         "names": ["Qualcomm"]},
     {"ticker": "TSM",  "sector": "Semiconductors",         "names": ["TSMC", "Taiwan Semiconductor"]},
 
-    # ---- ПО / AI / Кибербезопасность / Cloud ----
+    # ---- Software / AI / Cybersecurity / Cloud ----
     {"ticker": "CRWD", "sector": "Cybersecurity",      "names": ["CrowdStrike"]},
     {"ticker": "NET",  "sector": "Cybersecurity",      "names": ["Cloudflare"]},
     {"ticker": "PANW", "sector": "Cybersecurity",      "names": ["Palo Alto Networks"]},
@@ -122,7 +124,7 @@ COMPANY_MAP = [
     {"ticker": "AMZN", "sector": "Big Tech",               "names": ["Amazon"]},
     {"ticker": "META", "sector": "Big Tech",               "names": ["Meta", "Facebook"]},
 
-    # ---- Электромобили / Автопром ----
+    # ---- Electric vehicles / Automotive ----
     {"ticker": "TSLA", "sector": "Automotive / EV",          "names": ["Tesla"]},
     {"ticker": "RIVN", "sector": "Automotive / EV",          "names": ["Rivian"]},
     {"ticker": "F",    "sector": "Automotive / EV",          "names": ["Ford"]},
@@ -131,7 +133,7 @@ COMPANY_MAP = [
     {"ticker": "TM",   "sector": "Automotive / EV",          "names": ["Toyota"]},
     {"ticker": "BYDDY","sector": "Automotive / EV",          "names": ["BYD"]},
 
-    # ---- Потребительский сектор (реальный бизнес: еда, ритейл, бренды) ----
+    # ---- Consumer sector (real businesses: food, retail, brands) ----
     {"ticker": "NKE",  "sector": "Consumer Goods", "names": ["Nike"]},
     {"ticker": "KO",   "sector": "Consumer Goods", "names": ["Coca-Cola"]},
     {"ticker": "PEP",  "sector": "Consumer Goods", "names": ["PepsiCo"]},
@@ -143,7 +145,7 @@ COMPANY_MAP = [
     {"ticker": "DIS",  "sector": "Media / Entertainment",    "names": ["Disney"]},
     {"ticker": "NFLX", "sector": "Media / Entertainment",    "names": ["Netflix"]},
 
-    # ---- Энергетика (нефть и газ) ----
+    # ---- Energy (oil and gas) ----
     {"ticker": "XOM",  "sector": "Oil & Gas",            "names": ["ExxonMobil", "Exxon Mobil"]},
     {"ticker": "CVX",  "sector": "Oil & Gas",            "names": ["Chevron"]},
     {"ticker": "SHEL", "sector": "Oil & Gas",            "names": ["Shell"]},
@@ -151,7 +153,7 @@ COMPANY_MAP = [
     {"ticker": "COP",  "sector": "Oil & Gas",            "names": ["ConocoPhillips"]},
     {"ticker": "OPEC", "sector": "Oil & Gas",            "names": ["OPEC", "OPEC+"]},
 
-    # ---- Металлы и добыча ----
+    # ---- Metals and mining ----
     {"ticker": "RIO",  "sector": "Metals & Mining",       "names": ["Rio Tinto"]},
     {"ticker": "BHP",  "sector": "Metals & Mining",       "names": ["BHP"]},
     {"ticker": "FCX",  "sector": "Metals & Mining",       "names": ["Freeport-McMoRan"]},
@@ -159,7 +161,7 @@ COMPANY_MAP = [
     {"ticker": "AA",   "sector": "Metals & Mining",       "names": ["Alcoa"]},
     {"ticker": "GOLD", "sector": "Metals & Mining",       "names": ["Barrick Gold"]},
 
-    # ---- Оборонный сектор / Космос ----
+    # ---- Defense / Space ----
     {"ticker": "RHM",  "sector": "Defense",       "names": ["Rheinmetall"]},
     {"ticker": "LMT",  "sector": "Defense",       "names": ["Lockheed Martin"]},
     {"ticker": "BA",   "sector": "Defense",       "names": ["Boeing"]},
@@ -167,7 +169,7 @@ COMPANY_MAP = [
     {"ticker": "RTX",  "sector": "Defense",       "names": ["RTX", "Raytheon"]},
     {"ticker": "SPCX", "sector": "Space",                 "names": ["SpaceX"]},
 
-    # ---- Финансы / банки / платежи ----
+    # ---- Finance / banks / payments ----
     {"ticker": "JPM",  "sector": "Banking & Finance",        "names": ["JPMorgan", "JP Morgan"]},
     {"ticker": "GS",   "sector": "Banking & Finance",        "names": ["Goldman Sachs"]},
     {"ticker": "BAC",  "sector": "Banking & Finance",        "names": ["Bank of America"]},
@@ -177,7 +179,7 @@ COMPANY_MAP = [
     {"ticker": "MA",   "sector": "Payments / Fintech",       "names": ["Mastercard"]},
     {"ticker": "PYPL", "sector": "Payments / Fintech",       "names": ["PayPal"]},
 
-    # ---- Здравоохранение / фарма / биотех ----
+    # ---- Healthcare / pharma / biotech ----
     {"ticker": "PFE",  "sector": "Healthcare",        "names": ["Pfizer"]},
     {"ticker": "JNJ",  "sector": "Healthcare",        "names": ["Johnson & Johnson"]},
     {"ticker": "LLY",  "sector": "Healthcare",        "names": ["Eli Lilly"]},
@@ -185,43 +187,43 @@ COMPANY_MAP = [
     {"ticker": "UNH",  "sector": "Healthcare",        "names": ["UnitedHealth"]},
     {"ticker": "MRNA", "sector": "Healthcare",        "names": ["Moderna"]},
 
-    # ---- Промышленность / инфраструктура ----
+    # ---- Industrials / infrastructure ----
     {"ticker": "CAT",  "sector": "Industrials",         "names": ["Caterpillar"]},
     {"ticker": "HON",  "sector": "Industrials",         "names": ["Honeywell"]},
     {"ticker": "GE",   "sector": "Industrials",         "names": ["General Electric"]},
 
-    # ---- Телеком / энергоснабжение ----
+    # ---- Telecom / utilities ----
     {"ticker": "T",    "sector": "Telecom",                "names": ["AT&T"]},
     {"ticker": "VZ",   "sector": "Telecom",                "names": ["Verizon"]},
     {"ticker": "NEE",  "sector": "Utilities",        "names": ["NextEra Energy"]},
 
-    # ---- Авиаперевозки / туризм ----
+    # ---- Airlines / travel ----
     {"ticker": "DAL",  "sector": "Airlines / Travel", "names": ["Delta Air Lines"]},
     {"ticker": "UAL",  "sector": "Airlines / Travel", "names": ["United Airlines"]},
     {"ticker": "ABNB", "sector": "Airlines / Travel", "names": ["Airbnb"]},
 
-    # ---- Крипто ----
+    # ---- Crypto ----
     {"ticker": "BTC",  "sector": "Cryptocurrencies",           "names": ["Bitcoin"]},
     {"ticker": "ETH",  "sector": "Cryptocurrencies",           "names": ["Ethereum"]},
     {"ticker": "COIN", "sector": "Cryptocurrencies",           "names": ["Coinbase"]},
     {"ticker": "MSTR", "sector": "Cryptocurrencies",           "names": ["MicroStrategy", "Strategy"]},
 
-    # ---- Облигации / макро (не компании, а рыночные термины) ----
+    # ---- Bonds / macro (not companies, but market terms) ----
     {"ticker": "UST10Y","sector": "Bonds / Macro",     "names": ["10-year Treasury", "Treasury yield", "Treasury yields", "U.S. Treasury"]},
     {"ticker": "TLT",   "sector": "Bonds / Macro",     "names": ["Treasury bond", "long-term Treasury bond"]},
     {"ticker": "FED",   "sector": "Bonds / Macro",     "names": ["Federal Reserve", "Fed rate", "interest rate decision"]},
 
-    # ---- ETF / индексы ----
+    # ---- ETFs / indices ----
     {"ticker": "SPY",  "sector": "ETFs / Indices",          "names": ["S&P 500"]},
     {"ticker": "QQQ",  "sector": "ETFs / Indices",          "names": ["Nasdaq 100", "Nasdaq Composite"]},
     {"ticker": "DJI",  "sector": "ETFs / Indices",          "names": ["Dow Jones"]},
     {"ticker": "VWCE", "sector": "ETFs / Indices",          "names": ["VWCE", "FTSE All-World"]},
 ]
 
-# Оставляю прежнее имя переменной для обратной совместимости кода ниже
+# Keeping the old variable name for backward compatibility with code below
 WATCHLIST = COMPANY_MAP
 
-# Простые ключевые слова для механической оценки тональности (без ИИ)
+# Simple keyword list for mechanical sentiment scoring (no AI)
 POSITIVE_WORDS = [
     "surge", "surges", "rally", "rallies", "jump", "jumps", "gain", "gains",
     "soar", "soars", "beat", "beats", "record high", "climbs", "climb",
@@ -236,8 +238,8 @@ NEGATIVE_WORDS = [
     "tumble", "loss", "losses",
 ]
 
-# "Громкие" события, которые обычно двигают рынок сильнее рядовых новостей —
-# используются для механической оценки важности (без ИИ).
+# "Loud" events that usually move the market harder than routine news —
+# used for mechanical importance scoring (no AI).
 HIGH_IMPACT_WORDS = [
     "acquisition", "acquires", "acquired", "merger", "merges", "takeover",
     "bankruptcy", "bankrupt", "files for chapter 11", "chapter 11",
@@ -250,25 +252,25 @@ HIGH_IMPACT_WORDS = [
     "spin-off", "stake", "buyback", "dividend hike", "profit warning",
     "guidance cut", "earnings beat", "earnings miss", "rate decision",
     "rate hike", "rate cut", "emergency meeting",
-    # маркеры срочности и широкого обвала/ралли рынка
+    # urgency markers and broad market crash/rally signals
     "breaking", "breaking news", "just in", "developing story",
     "sell-off", "selloff", "rout", "market rout", "tech rout",
     "wipes out", "wiped out", "erases", "erased", "worst day",
     "worst week", "biggest drop", "biggest decline", "billions wiped",
     "extends losses", "broad decline", "market-wide", "across the board",
-    # зеркальные формулировки для резкого РОСТА — раньше их не было,
-    # и обвалы получали незаслуженно больше веса, чем ралли
+    # mirror phrasings for a sharp RALLY — these were missing before,
+    # so crashes got unfairly more weight than rallies
     "market rally", "broad rally", "tech rally", "best day", "best week",
     "biggest jump", "biggest gain", "biggest rally", "adds billions",
     "extends gains", "broad gain", "surges to record", "soars to record",
     "melt-up", "risk-on rally",
 ]
 
-# Скомпилированные regex с ГРАНИЦАМИ СЛОВА (\b) для всех трёх списков.
-# Раньше поиск шёл через простое "подстрока ли это" (`w in text`), из-за
-# чего "again" ложно засчитывался как позитивное слово "gain" (просто
-# потому что буквы "gain" встречаются внутри "again"), а "stake" ложно
-# срабатывал внутри "stakeholder(s)". \b решает обе проблемы разом.
+# Compiled regexes with WORD BOUNDARIES (\b) for all three lists. The old
+# version used a plain substring check (`w in text`), which meant "again"
+# falsely counted as the positive word "gain" (simply because the letters
+# "gain" appear inside "again"), and "stake" falsely matched inside
+# "stakeholder(s)". \b fixes both problems at once.
 def _compile_word_patterns(words):
     return [re.compile(r"\b" + re.escape(w) + r"\b") for w in words]
 
@@ -277,13 +279,13 @@ POSITIVE_PATTERNS = _compile_word_patterns(POSITIVE_WORDS)
 NEGATIVE_PATTERNS = _compile_word_patterns(NEGATIVE_WORDS)
 HIGH_IMPACT_PATTERNS = _compile_word_patterns(HIGH_IMPACT_WORDS)
 
-# Маркеры макро/геополитических новостей — санкции, войны, выборы, политика
-# центробанков и т.п. Такие новости часто НЕ имеют прямого биржевого
-# "адресата" (конкретной компании/тикера) и не должны выдавать за
-# инвестиционный сигнал то, что на самом деле является политическим фоном.
-# Если новость упоминает конкретный тикер/компанию — она остаётся
-# "рыночным сигналом" (content_type = market_signal), даже если заодно
-# несёт геополитический оттенок.
+# Markers of macro/geopolitical news — sanctions, wars, elections, central
+# bank policy, etc. Such news often has NO direct market "target" (a
+# specific company/ticker) and shouldn't be presented as an investment
+# signal when it's really just political background. If a news item does
+# mention a specific ticker/company, it stays a "market signal"
+# (content_type = market_signal) even if it also carries a geopolitical
+# tone.
 MACRO_KEYWORDS = [
     "sanction", "sanctions", "tariff", "tariffs", "embargo", "geopolitic",
     "war", "invasion", "ceasefire", "cease-fire", "treaty", "diplomatic",
@@ -297,10 +299,10 @@ MACRO_PATTERNS = _compile_word_patterns(MACRO_KEYWORDS)
 
 
 def is_macro_context(text: str, tickers: list) -> bool:
-    """True, если новость похожа на макро/геополитический фон, а не на
-    новость с конкретным биржевым "адресатом". Если у новости есть хотя бы
-    один распознанный тикер/компания — считаем её рыночным сигналом,
-    даже если она заодно касается политики."""
+    """True if the news item looks like macro/geopolitical background
+    rather than news with a specific market "target". If the item has at
+    least one recognized ticker/company, we treat it as a market signal
+    even if it also touches on politics."""
     if tickers:
         return False
     lower = text.lower()
@@ -322,23 +324,25 @@ NS = {
 
 
 # ---------------------------------------------------------------------------
-# ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
+# HELPER FUNCTIONS
 # ---------------------------------------------------------------------------
 
-# Признаки личных колонок-советов (MarketWatch "Retirement" / "Fix My Portfolio"
-# / "The Moneyist" и подобные) — это не рыночные новости, а разбор одного
-# письма читателя ("моя бабушка получит такую-то пенсию", "я продал..."),
-# либо прямой ответ редакции на письмо читателя. Раньше список семейных слов
-# и личных оборотов был слишком узким, и часть такого мусора проскакивала.
+# Signals of personal advice columns (MarketWatch "Retirement" / "Fix My
+# Portfolio" / "The Moneyist" and similar) — these aren't market news,
+# they're a breakdown of one reader's letter ("my grandmother will get
+# such-and-such a pension", "I sold my..."), or a direct editorial reply
+# to a reader letter. The old family-word list and personal-phrasing list
+# were too narrow, and some of this junk slipped through.
 #
-# Ключевой сигнал: реальные новостные заголовки (агентства, биржевые ленты)
-# почти ВСЕГДА безличны и говорят о компаниях/рынках в третьем лице —
-# они не начинаются с "I"/"We"/"My"/"Our". Личные колонки, наоборот, почти
-# всегда начинаются именно так. `^(i|we|my|our)\b` — не подстрока: `\b`
-# по обеим сторонам не даст ложно сработать на "IPO", "iPhone", "Inc" и т.п.
+# Key signal: real news headlines (wire services, market feeds) are almost
+# ALWAYS impersonal and talk about companies/markets in the third person —
+# they don't start with "I"/"We"/"My"/"Our". Personal columns, on the
+# other hand, almost always do. `^(i|we|my|our)\b` isn't a substring
+# check: `\b` on both sides prevents false matches on "IPO", "iPhone",
+# "Inc", etc.
 ADVICE_COLUMN_PATTERNS = [
-    r"^['’\"]",                                    # заголовок начинается с кавычки
-    r"^(i|i'm|i've|i'd|we|we're|we've|my|our)\b",  # повествование от первого лица — "I retired...", "My husband...", "We sold..."
+    r"^['’\"]",                                    # headline starts with a quote mark
+    r"^(i|i'm|i've|i'd|we|we're|we've|my|our)\b",  # first-person narration — "I retired...", "My husband...", "We sold..."
     r"\b(my|our) (wife|husband|brother|sister|mother|father|mom|dad|son|daughter|parents?|"
     r"grandmother|grandfather|grandma|grandpa|aunt|uncle|cousin|boyfriend|girlfriend|"
     r"fianc[eé]e?|spouse|partner|roommate|in-laws?|ex-wife|ex-husband)\b",
@@ -346,19 +350,19 @@ ADVICE_COLUMN_PATTERNS = [
     r"\bwe'?re \d{2}\b",
     r"\b(should i|should we)\b",
     r"\bmy (pension|retirement|401\(?k\)?|social security|inheritance|savings|nest egg|ira)\b",
-    r"\b(reader|readers)\b[^.]{0,25}\b(ask|asks|asked|wrote|writes|question)\b",  # ответы редакции на письма читателей
-    r"\b(the moneyist|fix my portfolio|retirement weekly|ask the fool|dear penny|money mailbag|ask the hammer)\b",  # известные колонки-советы
+    r"\b(reader|readers)\b[^.]{0,25}\b(ask|asks|asked|wrote|writes|question)\b",  # editorial replies to reader letters
+    r"\b(the moneyist|fix my portfolio|retirement weekly|ask the fool|dear penny|money mailbag|ask the hammer)\b",  # known advice columns
 ]
 ADVICE_COLUMN_RE = re.compile("|".join(ADVICE_COLUMN_PATTERNS), flags=re.IGNORECASE)
 
 
 def is_advice_column(title: str) -> bool:
-    """True, если заголовок похож на личную колонку-совет, а не на новость."""
+    """True if the headline looks like a personal advice column rather than news."""
     return bool(ADVICE_COLUMN_RE.search(title))
 
 
 def strip_html(raw_html: str) -> str:
-    """Убирает html-теги и лишние пробелы из текста."""
+    """Strips HTML tags and extra whitespace from text."""
     if not raw_html:
         return ""
     text = re.sub(r"<[^>]+>", " ", raw_html)
@@ -379,7 +383,7 @@ def parse_pubdate(raw: str):
     try:
         return parsedate_to_datetime(raw)
     except Exception:
-        # некоторые ленты используют ISO-формат
+        # some feeds use ISO format
         try:
             return datetime.fromisoformat(raw.replace("Z", "+00:00"))
         except Exception:
@@ -387,7 +391,7 @@ def parse_pubdate(raw: str):
 
 
 def find_image(item: ET.Element) -> str:
-    """Пытается найти картинку в разных возможных местах RSS-элемента."""
+    """Tries to find an image in the various possible spots in an RSS item."""
     media_content = item.find("media:content", NS)
     if media_content is not None and media_content.get("url"):
         return media_content.get("url")
@@ -404,7 +408,7 @@ def find_image(item: ET.Element) -> str:
         ):
             return enclosure.get("url")
 
-    # иногда картинка спрятана прямо в description как <img src="...">
+    # sometimes the image is hidden right in the description as <img src="...">
     desc = item.find("description")
     if desc is not None and desc.text:
         m = re.search(r'<img[^>]+src="([^"]+)"', desc.text)
@@ -426,30 +430,34 @@ def detect_sentiment(text: str) -> str:
 
 
 def calc_importance(title: str, description: str, tickers: list, pub_dt) -> float:
-    """Механическая оценка "важности" новости (0-100+, без ИИ).
+    """Mechanical "importance" score for a news item (0-100+, no AI).
 
-    Компоненты:
-    - "громкие" слова из заголовка — самый весомый сигнал (BREAKING, sell-off,
-      rout, обвал и т.д.), с учётом того, СКОЛЬКО раз слово встретилось, а не
-      просто факта наличия — статья, где подряд идут "plunge... crash...
-      sell-off... tumbles", явно тревожнее, чем с одним таким словом
-    - те же слова в теле новости — тоже считаются, но с меньшим весом
-    - сила тональности (позитив/негатив) по всему тексту, тоже с учётом частоты
-    - количество упомянутых тикеров/компаний
-    - бонус за свежесть (решает исход близких по прочим параметрам новостей)
+    Components:
+    - "loud" words in the title — the strongest signal (BREAKING, sell-off,
+      rout, etc.), weighted by HOW MANY times the word appears, not just
+      whether it's present — an article with "plunge... crash... sell-off...
+      tumbles" back to back is clearly more alarming than one with a single
+      such word
+    - the same words in the body — also counted, but with less weight
+    - sentiment strength (positive/negative) across the whole text, also
+      weighted by frequency
+    - number of tickers/companies mentioned
+    - a freshness bonus (breaks ties between otherwise-similar news items)
 
-    Это ЭВРИСТИКА, а не редакционная оценка значимости — она хорошо ловит
-    очевидно резонансные новости (обвалы, слияния, банкротства, рекорды), но
-    не заменяет собственное суждение о том, что действительно важно.
+    This is a HEURISTIC, not an editorial judgment of significance — it's
+    good at catching obviously resonant news (crashes, mergers,
+    bankruptcies, records), but it's no substitute for your own judgment
+    of what actually matters.
     """
     title_lower = title.lower()
     desc_lower = description.lower()
     full_lower = f"{title_lower} {desc_lower}"
 
     def weighted_hits(patterns, text, cap_per_word=3):
-        """Считает суммарные вхождения слов из списка (по границам слова,
-        не по подстроке), ограничивая вклад каждого отдельного слова —
-        чтобы одно многократно повторяющееся слово не перекручивало счётчик."""
+        """Counts total occurrences of words from the list (by word
+        boundary, not substring), capping each individual word's
+        contribution — so one word repeated many times doesn't skew the
+        count."""
         total = 0
         for p in patterns:
             c = len(p.findall(text))
@@ -462,16 +470,16 @@ def calc_importance(title: str, description: str, tickers: list, pub_dt) -> floa
     sentiment_hits = weighted_hits(POSITIVE_PATTERNS, full_lower) + weighted_hits(NEGATIVE_PATTERNS, full_lower)
 
     score = 0.0
-    score += high_impact_title * 26   # громкое слово в заголовке — сильнейший сигнал
-    score += high_impact_desc * 12    # то же самое, но в теле — тоже важно, но слабее
-    score += sentiment_hits * 5       # интенсивность тональности (частота, не факт наличия)
-    score += min(len(tickers), 4) * 4 # упоминание нескольких компаний сразу
+    score += high_impact_title * 26   # a loud word in the title — the strongest signal
+    score += high_impact_desc * 12    # same thing in the body — still important, but weaker
+    score += sentiment_hits * 5       # sentiment intensity (frequency, not just presence)
+    score += min(len(tickers), 4) * 4 # several companies mentioned at once
 
-    # явный маркер срочности — отдельный жирный бонус
+    # an explicit urgency marker — a separate, hefty bonus
     if "breaking" in title_lower:
         score += 25
 
-    # бонус за свежесть: чем новее, тем выше (плавно убывает за 48 часов)
+    # freshness bonus: newer scores higher, decaying smoothly over 48 hours
     if pub_dt is not None:
         try:
             now = datetime.now(timezone.utc)
@@ -486,19 +494,18 @@ def calc_importance(title: str, description: str, tickers: list, pub_dt) -> floa
 
 
 # ---------------------------------------------------------------------------
-# LLM-КЛАССИФИКАЦИЯ (опционально, через DeepSeek API)
+# LLM CLASSIFICATION (optional, via the DeepSeek API)
 # ---------------------------------------------------------------------------
 
 def classify_batch_with_llm(batch_items):
-    """Отправляет пачку новостей в DeepSeek API (эндпоинт OpenAI-совместимый,
-    /chat/completions) и просит честно (с пониманием контекста) определить
-    тональность, важность и тип новости.
+    """Sends a batch of news items to the DeepSeek API (OpenAI-compatible
+    /chat/completions endpoint) and asks it to honestly (with real context
+    understanding) determine sentiment, importance, and content type.
 
-    batch_items: список {"title": ..., "description": ...}
-    Возвращает список {"sentiment": ..., "importance": ..., "content_type": ...}
-    в том же порядке, или None при любой ошибке (сеть, лимиты, неожиданный
-    формат ответа) — вызывающий код в этом случае просто оставляет
-    эвристические значения.
+    batch_items: a list of {"title": ..., "description": ...}
+    Returns a list of {"sentiment": ..., "importance": ..., "content_type": ...}
+    in the same order, or None on any error (network, rate limits,
+    unexpected format) — the caller then just keeps the heuristic values.
     """
     if not DEEPSEEK_API_KEY:
         return None
@@ -591,36 +598,36 @@ def classify_batch_with_llm(batch_items):
         with urllib.request.urlopen(req, timeout=30) as resp:
             raw = json.loads(resp.read())
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        print(f"  [!] Ошибка обращения к DeepSeek API: {e}")
+        print(f"  [!] Error calling the DeepSeek API: {e}")
         return None
 
     try:
         text = raw["choices"][0]["message"]["content"].strip()
-        # на случай, если модель всё же обернула JSON в ```json ... ```
+        # in case the model wrapped the JSON in ```json ... ``` anyway
         text = re.sub(r"^```(?:json)?|```$", "", text, flags=re.MULTILINE).strip()
         parsed = json.loads(text)
         results = parsed.get("results") if isinstance(parsed, dict) else parsed
         if isinstance(results, list) and len(results) == len(batch_items):
             return results
-        print("  [!] LLM вернул неожиданный формат ответа — использую эвристику для этой партии")
+        print("  [!] LLM returned an unexpected response format — using the heuristic for this batch")
         return None
     except Exception as e:
-        print(f"  [!] Не удалось разобрать ответ DeepSeek API: {e}")
+        print(f"  [!] Failed to parse the DeepSeek API response: {e}")
         return None
 
 
 def classify_items_with_llm(items):
-    """Прогоняет items через classify_batch_with_llm пачками, обновляя
-    sentiment/importance/content_type на месте. Новости, для которых LLM
-    не ответил (партия целиком упала по сети/лимитам), сохраняют
-    эвристические значения."""
+    """Runs items through classify_batch_with_llm in batches, updating
+    sentiment/importance/content_type in place. News items the LLM didn't
+    answer for (a whole batch dropped due to network/rate limits) keep
+    their heuristic values."""
     classified = 0
     for start in range(0, len(items), LLM_BATCH_SIZE):
         batch = items[start:start + LLM_BATCH_SIZE]
         batch_input = [{"title": it["title"], "description": it["description"]} for it in batch]
         result = classify_batch_with_llm(batch_input)
         if result is None:
-            continue  # эта партия — остаётся эвристика
+            continue  # this batch stays on the heuristic
 
         for item, res in zip(batch, result):
             sentiment = res.get("sentiment")
@@ -635,24 +642,25 @@ def classify_items_with_llm(items):
             item["llm_classified"] = True
         classified += len(batch)
 
-    print(f"  Классифицировано через DeepSeek: {classified}/{len(items)} новостей "
-          f"(остальные — по локальной эвристике)")
+    print(f"  Classified via DeepSeek: {classified}/{len(items)} news items "
+          f"(the rest use the local heuristic)")
 
 
 def detect_watchlist_matches(text: str) -> list:
-    """Ищет в тексте и тикеры, и названия компаний из COMPANY_MAP.
-    Возвращает список уникальных {"ticker": ..., "sector": ...}.
+    """Looks in the text for both tickers and company names from
+    COMPANY_MAP. Returns a list of unique {"ticker": ..., "sector": ...}.
 
-    Правила, чтобы избежать ложных срабатываний:
-    1) Тикеры длиной 3+ символа ищем с учётом регистра (в реальных текстах
-       тикеры пишут заглавными — NVDA, RIO, CAT). Так короткие тикеры вроде
-       "CAT" не путаются со случайным словом "cat" в обычном тексте.
-    2) Тикеры длиной 1-2 символа (F, T, V, MA, GE, AA...) почти всегда
-       совпадают с обычными словами/буквами/аббревиатурами — для них поиск
-       по самому тикеру ОТКЛЮЧЁН, ищем только по названию компании
-       ("Ford", "AT&T", "Mastercard" и т.д.).
-    3) Название компании ищем без учёта регистра, т.к. в заголовках оно
-       может стоять и в начале предложения.
+    Rules to avoid false positives:
+    1) Tickers 3+ characters long are matched case-sensitively (real text
+       writes tickers in caps — NVDA, RIO, CAT). This keeps short tickers
+       like "CAT" from being confused with the random word "cat" in
+       ordinary text.
+    2) Tickers 1-2 characters long (F, T, V, MA, GE, AA...) almost always
+       coincide with regular words/letters/abbreviations — matching by the
+       ticker itself is DISABLED for these, we only match by company name
+       ("Ford", "AT&T", "Mastercard", etc).
+    3) Company names are matched case-insensitively, since in headlines
+       they can also appear at the start of a sentence.
     """
     found = {}
     for entry in COMPANY_MAP:
@@ -674,7 +682,7 @@ def detect_watchlist_matches(text: str) -> list:
 
 
 # ---------------------------------------------------------------------------
-# ОСНОВНАЯ ЛОГИКА
+# MAIN LOGIC
 # ---------------------------------------------------------------------------
 
 def parse_feed(feed_name: str, url: str) -> list:
@@ -682,13 +690,13 @@ def parse_feed(feed_name: str, url: str) -> list:
     try:
         raw = fetch_url(url)
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        print(f"[!] Не удалось загрузить {feed_name}: {e}")
+        print(f"[!] Failed to load {feed_name}: {e}")
         return items_out
 
     try:
         root = ET.fromstring(raw)
     except ET.ParseError as e:
-        print(f"[!] Ошибка парсинга XML у {feed_name}: {e}")
+        print(f"[!] XML parsing error for {feed_name}: {e}")
         return items_out
 
     # RSS 2.0: channel/item ; Atom: entry
@@ -746,12 +754,12 @@ def parse_feed(feed_name: str, url: str) -> list:
 
 
 def build_summary(all_items: list) -> dict:
-    # Тональность считаем ТОЛЬКО по новостям с конкретным биржевым "адресатом"
-    # (content_type == market_signal). Макро/геополитические новости — это
-    # фон, а не инвестиционный сигнал, и не должны перекашивать общий
-    # рыночный настрой (иначе новость про санкции против кого-то может
-    # утянуть "Беглую аналитику" в минус, хотя по сути это не сигнал по
-    # конкретной бумаге).
+    # Sentiment is computed ONLY over news with a specific market "target"
+    # (content_type == market_signal). Macro/geopolitical news is
+    # background, not an investment signal, and shouldn't skew the overall
+    # market mood (otherwise a news item about sanctions against someone
+    # could drag "Quick Analysis" into negative territory even though it
+    # isn't really a signal about any specific stock).
     signal_items = [i for i in all_items if i.get("content_type", "market_signal") == "market_signal"]
     macro_items = [i for i in all_items if i.get("content_type") == "macro_context"]
 
@@ -788,17 +796,17 @@ def build_summary(all_items: list) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# КОТИРОВКИ ОСНОВНЫХ ИНДЕКСОВ
+# MAJOR INDEX QUOTES
 # ---------------------------------------------------------------------------
 
-# Неофициальный, но широко используемый в open-source проектах эндпоинт
-# Yahoo Finance — ключ не нужен, но это НЕофициальный API: Yahoo может
-# изменить его в любой момент без предупреждения. Поэтому вся эта секция
-# обёрнута в try/except с тихим пропуском — если формат ответа изменится
-# или эндпоинт станет недоступен, дашборд просто не покажет блок
-# котировок, остальная часть скрипта продолжит работать как обычно.
+# An unofficial but widely-used-in-open-source endpoint for Yahoo Finance —
+# no key needed, but it's an UNofficial API: Yahoo can change it at any
+# time without notice. So this whole section is wrapped in try/except with
+# a silent skip — if the response format changes or the endpoint becomes
+# unavailable, the dashboard simply won't show the quotes block, and the
+# rest of the script keeps working as usual.
 INDEX_QUOTES = [
-    # --- Индексы США ---
+    # --- US indices ---
     {"symbol": "^GSPC", "name": "S&P 500"},
     {"symbol": "^DJI",  "name": "Dow Jones"},
     {"symbol": "^IXIC", "name": "Nasdaq Composite"},
@@ -807,14 +815,14 @@ INDEX_QUOTES = [
     {"symbol": "^NYA",  "name": "NYSE Composite"},
     {"symbol": "^VIX",  "name": "VIX (Fear Index)"},
 
-    # --- Международные индексы (платформа для глобальной аудитории) ---
+    # --- International indices (the site targets a global audience) ---
     {"symbol": "^FTSE",     "name": "FTSE 100 (UK)"},
     {"symbol": "^GDAXI",    "name": "DAX (Germany)"},
     {"symbol": "^STOXX50E", "name": "Euro Stoxx 50"},
     {"symbol": "^N225",     "name": "Nikkei 225 (Japan)"},
     {"symbol": "^HSI",      "name": "Hang Seng (Hong Kong)"},
 
-    # --- Сырьё, крипто, облигации ---
+    # --- Commodities, crypto, bonds ---
     {"symbol": "GC=F",    "name": "Gold (futures)"},
     {"symbol": "CL=F",    "name": "WTI Crude Oil (futures)"},
     {"symbol": "BTC-USD", "name": "Bitcoin"},
@@ -823,13 +831,13 @@ INDEX_QUOTES = [
 
 
 def fetch_index_quote(symbol: str, scale: float = 1.0):
-    """Возвращает {"price", "change_abs", "change_pct"} для тикера индекса
-    или None при любой ошибке (сеть, неожиданный формат ответа и т.п.).
+    """Returns {"price", "change_abs", "change_pct"} for an index ticker,
+    or None on any error (network, unexpected response format, etc).
 
-    scale: Yahoo хранит доходность облигаций (^TNX) в масштабе ×10 от
-    реальной ставки (42.85 вместо 4.285%) — для таких тикеров передаём
-    scale=0.1, чтобы показать настоящее значение. На change_pct это не
-    влияет: это отношение, оно не зависит от масштаба.
+    scale: Yahoo stores bond yields (^TNX) scaled ×10 from the real rate
+    (42.85 instead of 4.285%) — for such tickers we pass scale=0.1 to show
+    the real value. This doesn't affect change_pct, since that's a ratio
+    and doesn't depend on scale.
     """
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
     try:
@@ -848,12 +856,12 @@ def fetch_index_quote(symbol: str, scale: float = 1.0):
             "change_pct": round(change_pct, 2),
         }
     except Exception as e:
-        print(f"  [!] Не удалось получить котировку {symbol}: {e}")
+        print(f"  [!] Failed to get a quote for {symbol}: {e}")
         return None
 
 
 def fetch_all_indices() -> list:
-    print("\nПодтягиваю котировки основных индексов...")
+    print("\nFetching major index quotes...")
     results = []
     for item in INDEX_QUOTES:
         quote = fetch_index_quote(item["symbol"], scale=item.get("scale", 1.0))
@@ -865,27 +873,27 @@ def fetch_all_indices() -> list:
                 **quote,
             })
         else:
-            print(f"  пропускаю {item['name']} — данные недоступны")
-    print(f"  Получено котировок: {len(results)}/{len(INDEX_QUOTES)}")
+            print(f"  skipping {item['name']} — data unavailable")
+    print(f"  Quotes fetched: {len(results)}/{len(INDEX_QUOTES)}")
     return results
 
 
 def main():
-    print("Собираю новости...")
+    print("Fetching news...")
     all_items = []
     for feed in FEEDS:
         print(f"  → {feed['name']}")
         items = parse_feed(feed["name"], feed["url"])
-        print(f"    получено: {len(items)}")
+        print(f"    got: {len(items)}")
         all_items.extend(items)
 
-    # сортировка по дате (свежие сверху), без даты — в конец
+    # sort by date (newest first), items with no date go last
     all_items.sort(
         key=lambda i: i["published"] or "0000-00-00T00:00:00",
         reverse=True,
     )
 
-    # простая дедупликация по первым словам заголовка
+    # simple dedup by the first words of the title
     seen = set()
     deduped = []
     for i in all_items:
@@ -898,11 +906,11 @@ def main():
     deduped = deduped[:MAX_ITEMS]
 
     if DEEPSEEK_API_KEY:
-        print(f"\nAPI-ключ найден — уточняю тональность и важность через DeepSeek ({DEEPSEEK_MODEL})...")
+        print(f"\nAPI key found — refining sentiment and importance via DeepSeek ({DEEPSEEK_MODEL})...")
         classify_items_with_llm(deduped)
     else:
-        print("\nDEEPSEEK_API_KEY не задан — использую локальную эвристику по ключевым словам.")
-        print("(Подробнее о подключении LLM-классификации — в README.md)")
+        print("\nDEEPSEEK_API_KEY not set — using the local keyword heuristic.")
+        print("(See README.md for details on enabling LLM classification.)")
 
     summary = build_summary(deduped)
     indices = fetch_all_indices()
@@ -917,14 +925,14 @@ def main():
 
     out_path = "news_data.js"
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write("// Файл сгенерирован автоматически скриптом fetch_news.py — не редактируйте вручную\n")
+        f.write("// This file is auto-generated by fetch_news.py — do not edit by hand\n")
         f.write("const NEWS_DATA = ")
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write(";\n")
 
-    print(f"\nГотово! Собрано новостей: {len(deduped)}")
-    print(f"Данные сохранены в {out_path}")
-    print("Откройте (или обновите) news_dashboard.html в браузере.")
+    print(f"\nDone! News collected: {len(deduped)}")
+    print(f"Data saved to {out_path}")
+    print("Open (or refresh) news_dashboard.html in your browser.")
 
 
 if __name__ == "__main__":

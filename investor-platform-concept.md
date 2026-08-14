@@ -1,106 +1,106 @@
-# Инвестиционная платформа — концепт-документ
+# Investor platform — concept document
 
-> Живой документ. Обновляется по мере развития проекта.
-> Последнее обновление: 2026-07-13
-
----
-
-## 1. Идея продукта
-
-Единая платформа для розничного инвестора: новости, аналитика по портфелю и удобные инструменты — часть бесплатно, основной функционал по недорогой подписке.
-
-**Кому нужен:** розничные инвесторы, которые ведут портфель вручную (Excel, заметки, разрозненные приложения брокеров) и хотят видеть всё в одном месте.
-
-**Чем отличается от конкурентов:** создаётся человеком-инвестором для себя, а не абстрактным продакт-менеджером — фичи растут из реальных болей, а не из маркетинговых гипотез.
+> Living document. Updated as the project evolves.
+> Last updated: 2026-07-13
 
 ---
 
-## 2. Модули продукта
+## 1. Product idea
 
-### 2.1 Новостной модуль (открытый доступ)
-- Парсинг RSS из финансовых источников
-- Фильтрация по секторам / источникам
-- Умный matching новостей к тикерам (связь новости с конкретной акцией из портфеля/watchlist)
-- **Статус:** прототип готов (Python + HTML, тёмная тема)
+A single platform for the retail investor: news, portfolio analytics, and useful tools — part free, core functionality via an affordable subscription.
 
-### 2.2 Инструменты инвестора (по подписке)
-- **Ведение портфеля** — учёт позиций, стоимости, распределения по классам активов
-- **Калькулятор доходности** — расчёт доходности с учётом довложений/выводов
-- **Подсчёт дивидендов** — трекинг выплат, прогноз будущих дивидендов, дивидендный календарь
-- **Watchlist с целевыми ценами** — отслеживание кандидатов на покупку, алерты по цене
-- **Калькулятор сложного процента** — прогноз роста портфеля
-- **Статус:** прототип React "Дневник инвестора" готов, нужно объединить с остальными модулями
+**Who it's for:** retail investors who track their portfolio manually (Excel, notes, scattered broker apps) and want everything in one place.
 
-### 2.3 Личный кабинет инвестора
-- Регистрация / авторизация
-- Хранение данных пользователя (портфель, watchlist, настройки)
-- Управление подпиской
-- **Статус:** не начат
-
-### 2.4 Будущие направления (не сейчас, зафиксировано для памяти)
-- Интеграция с API брокеров (Revolut, Interactive Bank и др.) — автоматическая синхронизация портфеля
-- Расширенная аналитика (риск-метрики, диверсификация)
-- AI-сводки новостей / объяснение движения цены
-- B2B-версия для финтех-компаний
+**How it differs from competitors:** built by an investor for themselves, not by an abstract product manager — features grow out of real pain points, not marketing hypotheses.
 
 ---
 
-## 3. Взаимосвязи модулей
+## 2. Product modules
+
+### 2.1 News module (open access)
+- RSS parsing from financial sources
+- Filtering by sector / source
+- Smart matching of news to tickers (linking a news item to a specific stock from the portfolio/watchlist)
+- **Status:** prototype ready (Python + HTML, dark theme)
+
+### 2.2 Investor tools (subscription)
+- **Portfolio tracking** — positions, value, asset class allocation
+- **Return calculator** — return calculation accounting for deposits/withdrawals
+- **Dividend tracking** — payout tracking, future dividend forecasts, dividend calendar
+- **Watchlist with target prices** — tracking buy candidates, price alerts
+- **Compound interest calculator** — portfolio growth projection
+- **Status:** React "Investor Journal" prototype ready, needs merging with the other modules
+
+### 2.3 Investor account
+- Sign-up / authentication
+- User data storage (portfolio, watchlist, settings)
+- Subscription management
+- **Status:** not started
+
+### 2.4 Future directions (not now, noted for the record)
+- Broker API integrations (Revolut, Interactive Brokers, etc.) — automatic portfolio sync
+- Advanced analytics (risk metrics, diversification)
+- AI news summaries / price-move explanations
+- B2B version for fintech companies
+
+---
+
+## 3. How the modules connect
 
 ```
-Новостной модуль ──┐
-                    ├──> Персонализация (совпадение новостей с тикерами из портфеля/watchlist)
-Портфель ───────────┘
+News module ──┐
+              ├──> Personalization (matching news to tickers from portfolio/watchlist)
+Portfolio ────┘
 
-Портфель ──> Калькулятор доходности
-Портфель ──> Подсчёт дивидендов ──> Дивидендный календарь
-Watchlist ──> Алерты по целевым ценам ──> (в будущем) связь с новостями "почему упало"
+Portfolio ──> Return calculator
+Portfolio ──> Dividend tracking ──> Dividend calendar
+Watchlist ──> Target-price alerts ──> (future) link to news "why it dropped"
 
-Личный кабинет ──> хранит все данные пользователя ──> связывает все модули между собой
+Account ──> stores all user data ──> ties all modules together
 ```
 
-**Ключевая мысль:** личный кабинет — это ядро, вокруг которого крутятся остальные модули. Без него всё разрозненно (как сейчас — отдельные прототипы).
+**Key idea:** the account is the core the other modules revolve around. Without it, everything stays disconnected (as it is now — separate prototypes).
 
 ---
 
-## 4. Модель монетизации
+## 4. Monetization model
 
-| Уровень | Доступ | Цена |
+| Tier | Access | Price |
 |---|---|---|
-| Free | Новостной модуль (базовый), ограниченный watchlist | €0 |
-| Подписка | Полный функционал: портфель, дивиденды, калькуляторы, неограниченный watchlist | недорого, TBD (~€5–10/мес) |
+| Free | News module (basic), limited watchlist | €0 |
+| Subscription | Full functionality: portfolio, dividends, calculators, unlimited watchlist | affordable, TBD (~€5–10/mo) |
 
 ---
 
-## 5. Технологический стек (текущий)
+## 5. Tech stack (current)
 
-- **Бэкенд/скрипты:** Python (парсинг RSS, обработка данных)
-- **Фронтенд:** React + HTML/CSS (тёмная luxury-тема)
-- **Данные:** пока локально, в будущем — база данных + сервер
-- **Хостинг:** не выбран
+- **Backend/scripts:** Python (RSS parsing, data processing)
+- **Frontend:** React + HTML/CSS (dark luxury theme)
+- **Data:** local for now, database + server in the future
+- **Hosting:** not chosen yet
 
 ---
 
 ## 6. Roadmap
 
-### Сейчас
-- [ ] Свести 3 существующих прототипа в единую структуру репозитория
-- [ ] Залить на GitHub с документацией
+### Now
+- [ ] Consolidate the 3 existing prototypes into a single repo structure
+- [ ] Publish to GitHub with documentation
 
-### Дальше
-- [ ] Спроектировать личный кабинет (базовая авторизация)
-- [ ] Объединить портфель + дивиденды + калькуляторы в единый интерфейс
-- [ ] Связать новости с тикерами из портфеля пользователя
+### Next
+- [ ] Design the account system (basic auth)
+- [ ] Merge portfolio + dividends + calculators into a single interface
+- [ ] Link news to tickers from the user's portfolio
 
-### Потом
-- [ ] Подписочная модель (оплата)
-- [ ] Публичный запуск для первых пользователей
-- [ ] Интеграции с брокерами
+### Later
+- [ ] Subscription model (payments)
+- [ ] Public launch for first users
+- [ ] Broker integrations
 
 ---
 
-## 7. Журнал решений и правок
+## 7. Decision and change log
 
-_Здесь будут фиксироваться ключевые решения по мере развития проекта — что изменили и почему._
+_Key decisions will be logged here as the project evolves — what changed and why._
 
-- **2026-07-13:** Зафиксирована общая концепция: единый продукт из новостного модуля + инструментов инвестора + личного кабинета, монетизация через недорогую подписку.
+- **2026-07-13:** Locked in the overall concept: a single product combining the news module + investor tools + account, monetized via an affordable subscription.
