@@ -358,7 +358,6 @@
   .quote-row {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     gap: 10px;
     padding: 9px 0;
     border-bottom: 1px solid var(--border-soft);
@@ -371,14 +370,16 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    flex: 1 1 auto;
+    min-width: 30px;
   }
+  .quote-spark { flex-shrink: 0; width: 54px; height: 20px; }
   .quote-price {
     font-family: 'SFMono-Regular', Consolas, monospace;
     font-size: 12.5px;
     color: var(--text-mid);
-    margin-left: auto;
-    margin-right: 10px;
     white-space: nowrap;
+    flex-shrink: 0;
   }
   .quote-change {
     font-size: 11.5px;
@@ -909,6 +910,29 @@
   // ---- Quotes panel ----
   const quotesListEl = document.getElementById('quotes-list');
   const indices = data.indices || [];
+
+  // Small inline sparkline built from real intraday prices (fetch_news.py
+  // pulls these from the same Yahoo chart endpoint as the quote itself —
+  // this is actual price history, not decorative fake data like the news
+  // card placeholders below).
+  function buildQuoteSpark(points, isUp) {
+    if (!points || points.length < 2) return '<span class="quote-spark"></span>';
+    const w = 54, h = 20, pad = 2;
+    const min = Math.min(...points);
+    const max = Math.max(...points);
+    const range = (max - min) || 1;
+    const stepX = (w - pad * 2) / (points.length - 1);
+    const d = points.map((p, i) => {
+      const x = pad + i * stepX;
+      const y = pad + (1 - (p - min) / range) * (h - pad * 2);
+      return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)},${y.toFixed(1)}`;
+    }).join(' ');
+    const color = isUp ? 'var(--pos)' : 'var(--neg)';
+    return `<svg class="quote-spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+      <path d="${d}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>`;
+  }
+
   if (indices.length === 0) {
     quotesListEl.innerHTML = '<div class="empty-mini">Quotes unavailable (Yahoo Finance didn\'t respond on the last run)</div>';
   } else {
@@ -917,11 +941,12 @@
       const arrow = isUp ? '▲' : '▼';
       const priceStr = q.unit === 'yield_pct'
         ? `${q.price.toFixed(2)}%`
-        : q.price.toLocaleString('ru-RU', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        : q.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       const pctStr = Math.abs(q.change_pct).toFixed(2);
       return `
         <div class="quote-row">
           <span class="quote-name">${escapeHtml(q.name)}</span>
+          ${buildQuoteSpark(q.spark, isUp)}
           <span class="quote-price">${priceStr}</span>
           <span class="quote-change ${isUp ? 'quote-up' : 'quote-down'}">${arrow} ${pctStr}%</span>
         </div>

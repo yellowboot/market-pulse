@@ -103,6 +103,17 @@ COMPANY_MAP = [
     {"ticker": "AMD",  "sector": "Semiconductors",         "names": ["AMD", "Advanced Micro Devices"]},
     {"ticker": "QCOM", "sector": "Semiconductors",         "names": ["Qualcomm"]},
     {"ticker": "TSM",  "sector": "Semiconductors",         "names": ["TSMC", "Taiwan Semiconductor"]},
+    {"ticker": "ARM",  "sector": "Semiconductors",         "names": ["Arm Holdings"]},
+    {"ticker": "SNDK", "sector": "Semiconductors",         "names": ["SanDisk"]},
+
+    # ---- AI infrastructure / "neocloud" (GPU rental, AI servers) —
+    # split out from Software / Cloud because these are hardware/compute
+    # capacity plays, not SaaS subscriptions; frequently in headlines
+    # together as a group ("neocloud stocks") ----
+    {"ticker": "CRWV", "sector": "AI Infrastructure",      "names": ["CoreWeave"]},
+    {"ticker": "NBIS", "sector": "AI Infrastructure",      "names": ["Nebius"]},
+    {"ticker": "SMCI", "sector": "AI Infrastructure",      "names": ["Super Micro Computer", "Super Micro", "Supermicro"]},
+    {"ticker": "DELL", "sector": "AI Infrastructure",      "names": ["Dell Technologies", "Dell"]},
 
     # ---- Software / AI / Cybersecurity / Cloud ----
     {"ticker": "CRWD", "sector": "Cybersecurity",      "names": ["CrowdStrike"]},
@@ -123,6 +134,7 @@ COMPANY_MAP = [
     {"ticker": "AAPL", "sector": "Big Tech",               "names": ["Apple"]},
     {"ticker": "AMZN", "sector": "Big Tech",               "names": ["Amazon"]},
     {"ticker": "META", "sector": "Big Tech",               "names": ["Meta", "Facebook"]},
+    {"ticker": "BABA", "sector": "Big Tech",               "names": ["Alibaba"]},
 
     # ---- Electric vehicles / Automotive ----
     {"ticker": "TSLA", "sector": "Automotive / EV",          "names": ["Tesla"]},
@@ -132,6 +144,7 @@ COMPANY_MAP = [
     {"ticker": "VOW3", "sector": "Automotive / EV",          "names": ["Volkswagen"]},
     {"ticker": "TM",   "sector": "Automotive / EV",          "names": ["Toyota"]},
     {"ticker": "BYDDY","sector": "Automotive / EV",          "names": ["BYD"]},
+    {"ticker": "STLA", "sector": "Automotive / EV",          "names": ["Stellantis"]},
 
     # ---- Consumer sector (real businesses: food, retail, brands) ----
     {"ticker": "NKE",  "sector": "Consumer Goods", "names": ["Nike"]},
@@ -142,8 +155,11 @@ COMPANY_MAP = [
     {"ticker": "WMT",  "sector": "Consumer Goods", "names": ["Walmart"]},
     {"ticker": "COST", "sector": "Consumer Goods", "names": ["Costco"]},
     {"ticker": "PG",   "sector": "Consumer Goods", "names": ["Procter & Gamble"]},
+    {"ticker": "LULU", "sector": "Consumer Goods", "names": ["Lululemon"]},
     {"ticker": "DIS",  "sector": "Media / Entertainment",    "names": ["Disney"]},
     {"ticker": "NFLX", "sector": "Media / Entertainment",    "names": ["Netflix"]},
+    {"ticker": "RDDT", "sector": "Media / Entertainment",    "names": ["Reddit"]},
+    {"ticker": "NTDOY","sector": "Media / Entertainment",    "names": ["Nintendo"]},
 
     # ---- Energy (oil and gas) ----
     {"ticker": "XOM",  "sector": "Oil & Gas",            "names": ["ExxonMobil", "Exxon Mobil"]},
@@ -186,6 +202,7 @@ COMPANY_MAP = [
     {"ticker": "MRK",  "sector": "Healthcare",        "names": ["Merck"]},
     {"ticker": "UNH",  "sector": "Healthcare",        "names": ["UnitedHealth"]},
     {"ticker": "MRNA", "sector": "Healthcare",        "names": ["Moderna"]},
+    {"ticker": "GILD", "sector": "Healthcare",        "names": ["Gilead Sciences", "Gilead"]},
 
     # ---- Industrials / infrastructure ----
     {"ticker": "CAT",  "sector": "Industrials",         "names": ["Caterpillar"]},
@@ -830,30 +847,53 @@ INDEX_QUOTES = [
 ]
 
 
+def _downsample(values: list, max_points: int = 20) -> list:
+    """Evenly thins a list down to at most max_points values, keeping the
+    first and last point. Keeps news_data.js small regardless of how many
+    raw intraday points Yahoo returns for a given interval."""
+    if len(values) <= max_points:
+        return values
+    step = (len(values) - 1) / (max_points - 1)
+    return [values[round(i * step)] for i in range(max_points)]
+
+
 def fetch_index_quote(symbol: str, scale: float = 1.0):
-    """Returns {"price", "change_abs", "change_pct"} for an index ticker,
-    or None on any error (network, unexpected response format, etc).
+    """Returns {"price", "change_abs", "change_pct", "spark"} for an index
+    ticker, or None on any error (network, unexpected response format,
+    etc). "spark" is a short list of intraday prices for a sparkline chart
+    on the dashboard (empty list if Yahoo didn't return any).
 
     scale: Yahoo stores bond yields (^TNX) scaled ×10 from the real rate
     (42.85 instead of 4.285%) — for such tickers we pass scale=0.1 to show
     the real value. This doesn't affect change_pct, since that's a ratio
     and doesn't depend on scale.
     """
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+    # range=1d + interval=15m gives ~26 intraday points for a regular US
+    # session — plenty for a sparkline without a huge payload. On a
+    # weekend/holiday Yahoo just returns the last available trading day
+    # instead of an empty result.
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1d&interval=15m"
     try:
         raw = fetch_url(url, timeout=10)
         data = json.loads(raw)
-        meta = data["chart"]["result"][0]["meta"]
+        result = data["chart"]["result"][0]
+        meta = result["meta"]
         price = meta.get("regularMarketPrice")
         prev_close = meta.get("chartPreviousClose") or meta.get("previousClose")
         if price is None or prev_close in (None, 0):
             return None
         change_abs = price - prev_close
         change_pct = (change_abs / prev_close) * 100
+
+        closes = result.get("indicators", {}).get("quote", [{}])[0].get("close", []) or []
+        spark = [round(c * scale, 4) for c in closes if c is not None]
+        spark = _downsample(spark)
+
         return {
             "price": round(price * scale, 2),
             "change_abs": round(change_abs * scale, 2),
             "change_pct": round(change_pct, 2),
+            "spark": spark,
         }
     except Exception as e:
         print(f"  [!] Failed to get a quote for {symbol}: {e}")
