@@ -6,38 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.08.2026 15:22
+Generated: 16.08.2026 15:24
 32 of 80 news items unmatched this run
 
-- [Yahoo Finance] Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected
-- [Yahoo Finance] Cathie Wood sells $11.6 million of surging tech stock
-- [Yahoo Finance] Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine
-- [CNBC] Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
-- [CNBC] Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter
-- [Yahoo Finance] Warren Buffett named these 3 stocks as favorites for a reason
-- [Yahoo Finance] American Gen Z takes radical path to wealth creation
-- [CoinDesk] The $11.2 billion in 2026 funding that killed crypto’s permissionless era
-- [MarketWatch] Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state’s case.
-- [CNBC] Goldman says these stocks are top ideas in the wake of their 2Q earnings
-- [CNBC] Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market
-- [Yahoo Finance] AppLovin’s Real Problem Isn’t Revenue – It’s How the Growth Engine Actually Works
-- [Investing.com] Trend followers could keep buying Nasdaq, BofA says
-- [Investing.com] UBS lists 4 reasons why it may be a good time to look at infrastructure now
-- [Investing.com] Crusading India state food safety chief targets Eternal, Swiggy, Zepto in sweeping crackdown
-- [Nasdaq] Soybeans Find Strength to Close the Week
-- [Nasdaq] Hogs Fade Lower into the Weekend
-- [Nasdaq] Hogs Fading Lower on Friday
+- [Yahoo Finance] Neuroscience Is Becoming AbbVie's Quiet Powerhouse -- and Management Now Sees $12.7 Billion in Sales This Year
+- [Yahoo Finance] Why SK Hynix Stock Skyrocketed This Week
+- [Yahoo Finance] Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?
+- [Yahoo Finance] Bloom Energy Stock Has Surged 150% in 2026. Is It Still a Buy?
+- [CoinDesk] Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info
+- [Yahoo Finance] Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private
+- [Nasdaq] Upcoming Dividend Run For NWL?
+- [Nasdaq] Upcoming Dividend Run For CPF?
+- [Nasdaq] Upcoming Dividend Run For BEPC?
+- [Nasdaq] Upcoming Dividend Run For BIP?
+- [Nasdaq] Upcoming Dividend Run For BOH?
+- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.89%
+- [CNBC] Top Wall Street analysts like these 3 dividend stocks for steady income
+- [Yahoo Finance] Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week
+- [Yahoo Finance] Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY
 - [Nasdaq] Soybeans Holding Higher on Friday
-- [CNBC] Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
-- [Investing.com] Anthropic IPO valuation rests on up to $200 billion 2028 revenue target - Reuters
-- [Investing.com] Singapore stocks’ record rally gets boost from ‘Goldilocks’ economy
-- [Nasdaq] Nat-Gas Prices Move Higher on Warm US Forecasts
 - [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Nasdaq] Corn Following Wheat Higher on Friday
-- [Investing.com] Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [CNBC] Trump family-backed crypto firm World Liberty gets conditional bank charter approval
-- [CoinDesk] Trump expected to attend White House meeting with crypto CEOs, sources say
+- [Nasdaq] Soybeans Find Strength to Close the Week
+- [Investing.com] Peter Thiel buys 1% stake in Argentina’s Vista Energy
 - [Nasdaq] Cattle Face Losses on Friday
-- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
-- [Mining.com] Modern Mining eyes US expansion as e-waste emerges as domestic metals resource
+- [Nasdaq] Cattle Falling on Friday
+- [Investing.com] Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows
+- [Nasdaq] Corn Following Wheat Higher on Friday
+- [Nasdaq] Cotton Heads into the Weekend with Strength
+- [Yahoo Finance] Historic retailer gets lifeline after warning it could collapse
+- [Defense One] The Army gave General Dynamics $533M to build an artillery plant that produced nothing
+- [MarketWatch] An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.
+- [OilPrice.com] Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First
+- [MarketWatch] Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend
+- [CoinDesk] Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price
+- [Yahoo Finance] 53-year-old lawn and garden giant faces Chapter 11, liquidation
+- [CNBC] Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
