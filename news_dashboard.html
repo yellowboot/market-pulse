@@ -1201,6 +1201,23 @@
 
   function matchesSearch(item, query) {
     if (!query) return true;
+    const q = query.trim();
+    if (!q) return true;
+
+    // A short, ticker-shaped query (e.g. "ON", "MU", "CAT", "GE" — 1-5
+    // letters/digits, no spaces) is treated as a ticker lookup, not a
+    // text search. Real tickers this short are often ordinary English
+    // words or letter pairs too ("ON" is a preposition, "MU" shows up
+    // inside "music"/"must"/"community"...), so scanning raw headline
+    // text for them floods results with unrelated matches. Tickers are
+    // already correctly extracted server-side by word-boundary +
+    // company-name rules (see detect_watchlist_matches in
+    // fetch_news.py) — trust that tag instead of re-scanning text.
+    if (/^[a-z0-9.]{1,5}$/i.test(q)) {
+      const qUpper = q.toUpperCase();
+      return (item.tickers || []).some(t => t.toUpperCase() === qUpper);
+    }
+
     const haystack = [
       item.title,
       item.description,
@@ -1208,7 +1225,7 @@
       ...(item.tickers || []),
       ...(item.sectors || []),
     ].join(' ').toLowerCase();
-    return haystack.includes(query);
+    return haystack.includes(q.toLowerCase());
   }
 
   function renderGrid() {
