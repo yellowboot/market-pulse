@@ -6,41 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 17:55
-35 of 80 news items unmatched this run
+Generated: 17.08.2026 19:30
+38 of 80 news items unmatched this run
 
-- [Nasdaq] Corn Holding Higher on Monday AM Trade
-- [Nasdaq] Reminder: Fortis' Preference Shares, Series J Goes Ex-Dividend Soon
+- [Investing.com] Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups
+- [CNBC] Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
 - [Nasdaq] Dollar Weakness Boosts Cocoa Prices
-- [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
-- [Yahoo Finance] Is Nu Holdings' Mexico Business Finally Carrying Its Own Weight?
-- [Yahoo Finance] Dow Falls 0.3% While Memory Chip Stocks Keep the Nasdaq Afloat
-- [Investing.com] Canada stocks erase losses as gold, metals offset inflation worries
-- [Investing.com] Why is StubHub stock sliding today?
-- [Yahoo Finance] Vistra Is Under $150. Here's Why I Think It Won't Stay That Way.
-- [Yahoo Finance] Klarna Group Drops 7% Before Q2 Earnings, Sezzle Falls 5% as BNPL Names Diverge
-- [Nasdaq] Cotton Extending Higher on Monday Morning
-- [Yahoo Finance] Beyond Meat Falls 11% on 1-for-30 Reverse Split Reaction, Oatly Slips
-- [Yahoo Finance] Checkers & Rally’s Opens in Louisa, Virginia
-- [Investing.com] Bally’s stock plunges on going-concern warning, funding woes
-- [Yahoo Finance] The world’s third-largest shipping line has a new US chief
-- [Yahoo Finance] Chicken Salad Chick Names Drew Travis CFO
 - [Nasdaq] Coffee Prices Soar on Supply Concerns
+- [Nasdaq] Hogs Fade Lower into the Weekend
+- [Nasdaq] Corn Posting Midday Gains
+- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
 - [Nasdaq] Soybeans Popping Higher on Monday Morning
-- [Nasdaq] Hogs Look to Monday Trade
-- [Yahoo Finance] OpenAI investors must consider latest CFO comments
-- [Yahoo Finance] Why Carrier Global Stock Could Soon Bounce Back
-- [Yahoo Finance] These 3 Dividend ETFs Quietly Pay You Every Month and Most Investors Have No Idea
-- [Investing.com] Rats, not power, could pose overlooked risk to AI data centers
-- [Yahoo Finance] Synchrony Financial partners with OpenAI for ChatGPT shopping
+- [Nasdaq] Cotton Extending Higher on Monday Morning
+- [Nasdaq] Soybeans Rallying to Start the Week, with Bean Oil Leading the Charge
+- [Nasdaq] Wheat Holding Near Unchanged at Midday
+- [Investing.com] Why is Brent Oil Futures stock surging today?
+- [Investing.com] Why is Flotek Industries stock crashing today?
+- [Investing.com] Flotek Industries stock plummets on short seller report
+- [Nasdaq] Cattle Fading Early Gains for Midday Losses
+- [Nasdaq] Corn Holding Higher on Monday AM Trade
+- [Nasdaq] Cotton Heads into the Weekend with Strength
+- [Nasdaq] Hogs Firming on Monday
+- [Investing.com] Ferrari’s bespoke Luce EV one-off fetches $40 million at charity auction
+- [CNBC] Two memory stocks are reasserting themselves as leaders by clearing key levels, says Katie Stockton
+- [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
 - [CNBC] Refiner stocks are on a nearly unprecedented run. History says it could end soon
-- [Yahoo Finance] Autodesk's Multiple Falls Even If Its Shares Never Move
-- [Yahoo Finance] Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary
-- [Yahoo Finance] InspireMD, Inc. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Flexsteel Industries, Inc. Q4 2026 Earnings Call Summary
 - [CoinDesk] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
-- [Investing.com] Vogenx raises $81.3M in Nasdaq IPO managed by JonesTrading
+- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
 - [MarketWatch] Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up
 - [Mining.com] American rare Earths, Novex to boost US magnet production
-- [Yahoo Finance] Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies
-- [Yahoo Finance] Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout
+- [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
+- [Mining.com] AngloGold Ashanti in $42M deal to double Thesis stake
+- [Mining.com] Equinox Gold gains key federal permit for South Railroad, kicks off early works
+- [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
+- [CoinDesk] The Coldcard hack proves reputation is not a security model
+- [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
+- [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
+- [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
+- [Retail Dive] Under Armour ends partnership with The Rock amid marketing reset
+- [Mining.com] Korea taps Glencore for copper supply with $1B loan deal
+- [OilPrice.com] U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash
+- [CoinDesk] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
