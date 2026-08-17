@@ -6,29 +6,30 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 19:30
-38 of 80 news items unmatched this run
+Generated: 17.08.2026 20:56
+36 of 80 news items unmatched this run
 
-- [Investing.com] Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups
 - [CNBC] Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
-- [Nasdaq] Dollar Weakness Boosts Cocoa Prices
-- [Nasdaq] Coffee Prices Soar on Supply Concerns
-- [Nasdaq] Hogs Fade Lower into the Weekend
-- [Nasdaq] Corn Posting Midday Gains
+- [Nasdaq] Cocoa Prices Supported by Dollar Weakness
 - [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
-- [Nasdaq] Soybeans Popping Higher on Monday Morning
+- [Nasdaq] Dollar Weakness Boosts Cocoa Prices
 - [Nasdaq] Cotton Extending Higher on Monday Morning
-- [Nasdaq] Soybeans Rallying to Start the Week, with Bean Oil Leading the Charge
-- [Nasdaq] Wheat Holding Near Unchanged at Midday
-- [Investing.com] Why is Brent Oil Futures stock surging today?
-- [Investing.com] Why is Flotek Industries stock crashing today?
-- [Investing.com] Flotek Industries stock plummets on short seller report
-- [Nasdaq] Cattle Fading Early Gains for Midday Losses
-- [Nasdaq] Corn Holding Higher on Monday AM Trade
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Nasdaq] Hogs Firming on Monday
-- [Investing.com] Ferrari’s bespoke Luce EV one-off fetches $40 million at charity auction
-- [CNBC] Two memory stocks are reasserting themselves as leaders by clearing key levels, says Katie Stockton
+- [CNBC] Anthropic tells investors annualized revenue run rate climbed to $65 billion in July
+- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
+- [Nasdaq] Coffee Prices Soar on Supply Concerns
+- [Nasdaq] Principal Real Estate Income Fund (PGZ) Shares Cross Below 200 DMA
+- [Nasdaq] OEC Makes Notable Cross Below Critical Moving Average
+- [Nasdaq] Advanced Drainage Systems Breaks Below 200-Day Moving Average - Notable for WMS
+- [Investing.com] GPT Group receives buy rating from Citi after strong results
+- [Investing.com] Moody’s upgrades TKO rating to Ba1 on strong cash flow outlook
+- [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
+- [Nasdaq] Fortune Brands Innovations Breaks Below 200-Day Moving Average - Notable for FBIN
+- [Nasdaq] Enovis (ENOV) Shares Cross Below 200 DMA
+- [Nasdaq] United Parcel Service (UPS) Shares Cross Below 200 DMA
+- [CNBC] Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin
+- [Investing.com] Anthropic revenue run rate passed $65 billion in July - report
+- [MarketWatch] Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years
+- [CNBC] This small-cap ETF just hit a fresh high and its members have lots of cash. Wall Street likes these stocks
 - [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
 - [CNBC] Refiner stocks are on a nearly unprecedented run. History says it could end soon
 - [CoinDesk] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
@@ -36,14 +37,11 @@ Generated: 17.08.2026 19:30
 - [MarketWatch] Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up
 - [Mining.com] American rare Earths, Novex to boost US magnet production
 - [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
+- [Defense One] Army’s Apache grounding prompted by deadly Texas crash will end this week, memo says
 - [Mining.com] AngloGold Ashanti in $42M deal to double Thesis stake
 - [Mining.com] Equinox Gold gains key federal permit for South Railroad, kicks off early works
 - [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
-- [CoinDesk] The Coldcard hack proves reputation is not a security model
 - [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
 - [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
 - [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
-- [Retail Dive] Under Armour ends partnership with The Rock amid marketing reset
-- [Mining.com] Korea taps Glencore for copper supply with $1B loan deal
-- [OilPrice.com] U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash
-- [CoinDesk] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
+- [OilPrice.com] Russia Receives First Gasoline Cargo From India as Fuel Shortages Spread
