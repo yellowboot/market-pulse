@@ -6,52 +6,56 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 14:54
-46 of 80 news items unmatched this run
+Generated: 17.08.2026 16:25
+50 of 80 news items unmatched this run
 
-- [CNBC] Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict
-- [Investing.com] Why is SK hynix stock surging today?
-- [Investing.com] Shopify stock falls after Phillip Securities downgrade
-- [Investing.com] Nestle looks to develop new products to serve users of weight-loss drugs
-- [Yahoo Finance] Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value
-- [Investing.com] Why is Ocular Therapeutix stock rallying today?
-- [Yahoo Finance] Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth
-- [Yahoo Finance] Innovative men's and women's jeans brand files Chapter 11
-- [Nasdaq] Reminder - Fortis (FTS) Goes Ex-Dividend Soon
-- [Nasdaq] Reminder - Powell Industries (POWL) Goes Ex-Dividend Soon
-- [Yahoo Finance] Wingstop Stock Is Down 62% in 1 Year. Could the Sell-Off Be Nearing an End?
-- [Investing.com] ByteDance signs AI copyright pact with Hollywood trade group
-- [MarketWatch] Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now.
-- [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
-- [Yahoo Finance] WhiteFiber agrees to buy two North Carolina data-center sites for $60 million
-- [Yahoo Finance] Aviva’s H1 profit falls by 49%
-- [Yahoo Finance] SoFi Is Dividing Wall Street. This Is the Bull Case for the Fintech Stock.
-- [Yahoo Finance] Billionaires Battle on One Stock: Warren Buffett’s Berkshire Sells While Dan Loeb Loads Up
-- [Yahoo Finance] Chip Stocks Make Another Run at a New Bull Market
-- [Yahoo Finance] Sazerac strikes deal for UK’s Au Vodka
-- [Yahoo Finance] U.S. Home-Builder Sentiment Still Muted by Affordability Concerns
-- [Investing.com] Why is Coherent stock rallying today?
-- [Yahoo Finance] KBW keeps HIVE at neutral after earnings beat, flags $276 million GPU funding need
+- [Mining.com] American rare Earths, Novex to boost US magnet production
+- [Investing.com] BofA sees dollar weakness continuing with New Zealand dollar gains
+- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.87%
+- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.38%
+- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.27%
+- [Investing.com] European stocks lower as Trump threatens Oman and Hormuz traffic collapses
+- [Investing.com] Italy stocks lower at close of trade; Investing.com Italy 40 down 0.01%
+- [Yahoo Finance] Investors Remember Why They Love Memory-Chip Stocks
+- [Investing.com] Germany stocks lower at close of trade; DAX down 0.27%
+- [Investing.com] France stocks lower at close of trade; CAC 40 down 0.66%
+- [Investing.com] Belgium stocks higher at close of trade; BEL 20 up 1.73%
+- [Yahoo Finance] Why Gemini Space Station Stock Is Plummeting Today
 - [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Yahoo Finance] Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks
-- [Yahoo Finance] Israel’s Largest Crypto Broker Reports Data Breach
-- [CoinDesk] The Coldcard hack proves reputation is not a security model
-- [Nasdaq] Wheat Falling Back Early on Monday
+- [Yahoo Finance] Anthropic’s $2 trillion IPO dream rests on staggering revenue bet
+- [CNBC] Chart analyst says it's time to hedge. The typical midterm election year turbulence starts this week
+- [Yahoo Finance] Accendra Health (ACH) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] N-able (NABL) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Heron (HRTX) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Sohu (SOHU) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Forget the Earnings Miss: Exxon's Underlying Numbers Tell a Different Story
 - [Nasdaq] Corn Holding Higher on Monday AM Trade
 - [Nasdaq] Soybeans Popping Higher on Monday Morning
 - [Nasdaq] Hogs Look to Monday Trade
+- [Nasdaq] Hogs Fade Lower into the Weekend
+- [Yahoo Finance] Rocket Lab Stock's Next Leg Rides On A Vehicle That Has Not Flown Yet
+- [Yahoo Finance] Why Western Digital Stock Popped Today
+- [Yahoo Finance] Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited
+- [Yahoo Finance] AppLovin (APP) Offers Attractive Cash Flow Multiple?
+- [Yahoo Finance] Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash
+- [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
+- [Yahoo Finance] Core Thesis Behind Lifecore Biomedical (LFCR): Monetizing Excess Capacity
+- [Yahoo Finance] KKR (KKR) Remains Strong Despite Credit Fears
+- [Yahoo Finance] PAR Technology (PAR) Positioned for Long Growth Runway
+- [CNBC] Lamborghini unveils Revuelto SV, its most powerful production car ever
+- [Yahoo Finance] Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting
+- [Nasdaq] Wheat Falling Back Early on Monday
+- [Yahoo Finance] The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter
+- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
+- [Yahoo Finance] GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control
 - [Nasdaq] Cattle Look to New Week Following Losses
 - [Nasdaq] Cotton Extending Higher on Monday Morning
-- [Yahoo Finance] Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%
-- [Yahoo Finance] Mueller Water Products (MWA) Slid on Broader Investor Concerns
-- [Yahoo Finance] US home builder sentiment ticks up in August but remains weak overall
-- [Nasdaq] Soybeans Find Strength to Close the Week
-- [Nasdaq] Soybeans Holding Higher on Friday
-- [CNBC] Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
-- [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
+- [Nasdaq] Cattle Face Losses on Friday
+- [Nasdaq] Cotton Heads into the Weekend with Strength
+- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
+- [Nasdaq] Hogs Fading Lower on Friday
+- [Yahoo Finance] Sell-Side Analysts Ignore Burford Capital’s (BUR) Massively Lucrative Protein Cases
 - [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
-- [Yahoo Finance] Tech searches for gains as stocks teeter at the open: AlphaCheck
-- [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
-- [Nasdaq] Corn Following Wheat Higher on Friday
-- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
+- [Yahoo Finance] Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline
+- [Yahoo Finance] Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock
