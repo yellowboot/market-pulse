@@ -6,56 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 16:25
-50 of 80 news items unmatched this run
+Generated: 17.08.2026 17:55
+35 of 80 news items unmatched this run
 
-- [Mining.com] American rare Earths, Novex to boost US magnet production
-- [Investing.com] BofA sees dollar weakness continuing with New Zealand dollar gains
-- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.87%
-- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.38%
-- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.27%
-- [Investing.com] European stocks lower as Trump threatens Oman and Hormuz traffic collapses
-- [Investing.com] Italy stocks lower at close of trade; Investing.com Italy 40 down 0.01%
-- [Yahoo Finance] Investors Remember Why They Love Memory-Chip Stocks
-- [Investing.com] Germany stocks lower at close of trade; DAX down 0.27%
-- [Investing.com] France stocks lower at close of trade; CAC 40 down 0.66%
-- [Investing.com] Belgium stocks higher at close of trade; BEL 20 up 1.73%
-- [Yahoo Finance] Why Gemini Space Station Stock Is Plummeting Today
-- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Yahoo Finance] Anthropic’s $2 trillion IPO dream rests on staggering revenue bet
-- [CNBC] Chart analyst says it's time to hedge. The typical midterm election year turbulence starts this week
-- [Yahoo Finance] Accendra Health (ACH) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] N-able (NABL) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Heron (HRTX) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Sohu (SOHU) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Forget the Earnings Miss: Exxon's Underlying Numbers Tell a Different Story
 - [Nasdaq] Corn Holding Higher on Monday AM Trade
+- [Nasdaq] Reminder: Fortis' Preference Shares, Series J Goes Ex-Dividend Soon
+- [Nasdaq] Dollar Weakness Boosts Cocoa Prices
+- [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
+- [Yahoo Finance] Is Nu Holdings' Mexico Business Finally Carrying Its Own Weight?
+- [Yahoo Finance] Dow Falls 0.3% While Memory Chip Stocks Keep the Nasdaq Afloat
+- [Investing.com] Canada stocks erase losses as gold, metals offset inflation worries
+- [Investing.com] Why is StubHub stock sliding today?
+- [Yahoo Finance] Vistra Is Under $150. Here's Why I Think It Won't Stay That Way.
+- [Yahoo Finance] Klarna Group Drops 7% Before Q2 Earnings, Sezzle Falls 5% as BNPL Names Diverge
+- [Nasdaq] Cotton Extending Higher on Monday Morning
+- [Yahoo Finance] Beyond Meat Falls 11% on 1-for-30 Reverse Split Reaction, Oatly Slips
+- [Yahoo Finance] Checkers & Rally’s Opens in Louisa, Virginia
+- [Investing.com] Bally’s stock plunges on going-concern warning, funding woes
+- [Yahoo Finance] The world’s third-largest shipping line has a new US chief
+- [Yahoo Finance] Chicken Salad Chick Names Drew Travis CFO
+- [Nasdaq] Coffee Prices Soar on Supply Concerns
 - [Nasdaq] Soybeans Popping Higher on Monday Morning
 - [Nasdaq] Hogs Look to Monday Trade
-- [Nasdaq] Hogs Fade Lower into the Weekend
-- [Yahoo Finance] Rocket Lab Stock's Next Leg Rides On A Vehicle That Has Not Flown Yet
-- [Yahoo Finance] Why Western Digital Stock Popped Today
-- [Yahoo Finance] Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited
-- [Yahoo Finance] AppLovin (APP) Offers Attractive Cash Flow Multiple?
-- [Yahoo Finance] Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash
-- [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
-- [Yahoo Finance] Core Thesis Behind Lifecore Biomedical (LFCR): Monetizing Excess Capacity
-- [Yahoo Finance] KKR (KKR) Remains Strong Despite Credit Fears
-- [Yahoo Finance] PAR Technology (PAR) Positioned for Long Growth Runway
-- [CNBC] Lamborghini unveils Revuelto SV, its most powerful production car ever
-- [Yahoo Finance] Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting
-- [Nasdaq] Wheat Falling Back Early on Monday
-- [Yahoo Finance] The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter
-- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
-- [Yahoo Finance] GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control
-- [Nasdaq] Cattle Look to New Week Following Losses
-- [Nasdaq] Cotton Extending Higher on Monday Morning
-- [Nasdaq] Cattle Face Losses on Friday
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Nasdaq] Cocoa Sees Some Support from Weak Dollar
-- [Nasdaq] Hogs Fading Lower on Friday
-- [Yahoo Finance] Sell-Side Analysts Ignore Burford Capital’s (BUR) Massively Lucrative Protein Cases
-- [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Yahoo Finance] Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline
-- [Yahoo Finance] Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock
+- [Yahoo Finance] OpenAI investors must consider latest CFO comments
+- [Yahoo Finance] Why Carrier Global Stock Could Soon Bounce Back
+- [Yahoo Finance] These 3 Dividend ETFs Quietly Pay You Every Month and Most Investors Have No Idea
+- [Investing.com] Rats, not power, could pose overlooked risk to AI data centers
+- [Yahoo Finance] Synchrony Financial partners with OpenAI for ChatGPT shopping
+- [CNBC] Refiner stocks are on a nearly unprecedented run. History says it could end soon
+- [Yahoo Finance] Autodesk's Multiple Falls Even If Its Shares Never Move
+- [Yahoo Finance] Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary
+- [Yahoo Finance] InspireMD, Inc. Q2 2026 Earnings Call Summary
+- [Yahoo Finance] Flexsteel Industries, Inc. Q4 2026 Earnings Call Summary
+- [CoinDesk] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
+- [Investing.com] Vogenx raises $81.3M in Nasdaq IPO managed by JonesTrading
+- [MarketWatch] Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up
+- [Mining.com] American rare Earths, Novex to boost US magnet production
+- [Yahoo Finance] Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies
+- [Yahoo Finance] Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout
