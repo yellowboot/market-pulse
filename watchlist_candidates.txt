@@ -6,59 +6,53 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 15:39
-53 of 80 news items unmatched this run
+Generated: 17.08.2026 14:09
+47 of 80 news items unmatched this run
 
-- [CNBC] Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36
-- [Investing.com] Stocks little changed at the open ahead of Fed minutes, retail earnings this week
-- [MarketWatch] The stock market is driving the economy in one major way
-- [Investing.com] General Atlantic weighs return to IPO plans after 2023 filing, WSJ reports
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Nasdaq] Corn Following Wheat Higher on Friday
+- [Yahoo Finance] Extreme Networks (EXTR) Rises on Strong AI Driven Results
+- [Yahoo Finance] L3Harris Replaces CEO After Conduct Investigation, Shares Retreat
+- [Yahoo Finance] TTM Technologies (TTMI) Shares Surge Following Strong Results and Outlook Raise
+- [CNBC] Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
+- [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
+- [Yahoo Finance] Balancing Factor Exposure Drives Bloom Energy Corp’s (BE) Gains
+- [Yahoo Finance] Synlait denies takeover talks with A2 Milk, Fonterra
+- [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
+- [Yahoo Finance] American Rare Earths, Novex sign MoU for rare earth oxides
+- [Investing.com] Alliance Laundry stock falls on secondary offering news
+- [Investing.com] Why is Faeth Therapeutics stock surging today?
+- [Investing.com] Why is Intuitive Machines stock rallying today?
+- [Yahoo Finance] Billionaire Bill Ackman's Hedge Fund Just Bought These 2 Financial Stocks That Warren Buffett-Led Berkshire Hathaway Sold in Q1. Here's What History Says Investors Should Do.
 - [Nasdaq] Soybeans Find Strength to Close the Week
 - [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Yahoo Finance] Target stock is on fire — but a big test lurks
+- [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
+- [Yahoo Finance] Crypto Influencer Predicts XRP Will Hit $5 by October Despite Trading at $1
+- [Investing.com] Why is Alliance Laundry stock sliding today?
+- [Investing.com] Why is Telecom Plus stock rallying today?
+- [Yahoo Finance] Insider Makes Big Purchase of Consumer Stock, Increases Holdings by 37%
+- [Nasdaq] Corn Following Wheat Higher on Friday
 - [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
-- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
-- [Investing.com] Baidu Q2 results preview: Should you buy the pre-earnings pullback?
-- [Investing.com] Why is Almonty Industries stock rallying today?
-- [Investing.com] Madison Air Solutions to buy German fan maker ebm-papst in $5.4 billion deal
-- [Investing.com] Guggenheim Names Top Stock Pick in Biotech Sector
-- [Nasdaq] This Fund Turns the Private-Credit Panic Into a Growing 6.4% Payout
-- [MarketWatch] Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.
-- [Yahoo Finance] Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets.
-- [Yahoo Finance] Sungrow to supply 152MW/606MWh BESS for Chile’s Observatorio project
-- [Yahoo Finance] Shein cuts Hong Kong IPO valuation target to $25 billion
-- [Investing.com] Uber, Zipline partner on US drone delivery for Uber Eats
-- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Yahoo Finance] Toast CFO Elena Gomez Sells 7,924 Shares
-- [Investing.com] Citi lifts Rolls-Royce target on data centre demand, stronger cash flow
-- [CNBC] This digital gatekeeper's rally will continue, Wells Fargo says
-- [Yahoo Finance] Energy Stock CEO Doubles Down, Purchases 1,600 Shares, Valued at $257,000
-- [Yahoo Finance] Jane Street $15 billion loss July Situational Awareness hedge fund
-- [Yahoo Finance] Meet Attovia: The Clinical-Stage Biotech That Aims to Stop Chronic Itch at the Source
-- [Nasdaq] This Stock Has A 6.91% Yield And Sells For Less Than Book
 - [Nasdaq] Soybeans Holding Higher on Friday
-- [Yahoo Finance] In November, Social Security Turns Line 11 of Your 2025 Tax Return Into Your 2027 Medicare Premium.
-- [Yahoo Finance] History Shows Right Now Could Be a Fantastic Time to Invest in the Stock Market. Here's Why.
-- [Yahoo Finance] Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week
+- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Investing.com] Canada’s TSX down as hotter-than-expected inlfation dampens investor enthusiasm
+- [Yahoo Finance] Figure Technology CFO Minchung Kgil Sells 4,000 Shares
+- [Nasdaq] Cotton Heads into the Weekend with Strength
+- [Yahoo Finance] OceanaGold to acquire Ausgold for $549m
+- [Yahoo Finance] Bitpanda Hit With Fine In Europe’s First MiCA Enforcement Case
+- [Yahoo Finance] Hyatt Hotels Corporation (H) Still Attractive Despite Recent Gains
+- [Yahoo Finance] FactSet Research Systems (FDS) Discounted Despite AI Workflow Integration
+- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
+- [Nasdaq] This Fund Turns the Private-Credit Panic Into a Growing 6.4% Payout
+- [Yahoo Finance] ‘Boring, Not Broken’ – Claude AI Just Bought Uber (UBER). Should You?
+- [Yahoo Finance] GenAI Disruption Fears Pullback in Morningstar (MORN) Despite Solid Financial Fundamentals
+- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
+- [CNBC] This digital gatekeeper's rally will continue, Wells Fargo says
+- [Yahoo Finance] Uber, Zipline partner on US drone delivery for Uber Eats
+- [Nasdaq] This Stock Has A 6.91% Yield And Sells For Less Than Book
 - [CNBC] Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer
-- [Yahoo Finance] Cavendish lifts Optima Health target as annual profit beats forecasts
-- [Yahoo Finance] ‘Never bet against America’: Scott Bessent endorses Warren Buffett’s forgotten rule for getting rich — use it now
-- [Yahoo Finance] Shein Loses UK Copyright Lawsuit Against Temu
-- [MarketWatch] The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.
-- [Yahoo Finance] Ferrero extends M&A spree with Purely Elizabeth
 - [Nasdaq] Upcoming Dividend Run For FFBC?
 - [Nasdaq] Upcoming Dividend Run For ACNB?
 - [Nasdaq] Upcoming Dividend Run For RF?
 - [Nasdaq] Upcoming Dividend Run For ATLO?
-- [Yahoo Finance] Seafood groups Nordian Group, Norvelita sold to PE firm
-- [Yahoo Finance] KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart
-- [Yahoo Finance] Stripe acquires AI model gateway OpenRouter for $7 billion
-- [Yahoo Finance] REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026?
+- [Yahoo Finance] China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut
 - [CNBC] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
-- [Yahoo Finance] Why the 'immaculate' stock market might not stay that way long
-- [MarketWatch] Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up
-- [Yahoo Finance] Stocks With This Number Of Letters In Their Symbols Do Best
-- [Yahoo Finance] Dohrn bets on camera data to cut fleet insurance costs
-- [CoinDesk] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
