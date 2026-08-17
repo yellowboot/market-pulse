@@ -6,38 +6,49 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 16.08.2026 15:24
-32 of 80 news items unmatched this run
+Generated: 17.08.2026 13:32
+43 of 80 news items unmatched this run
 
-- [Yahoo Finance] Neuroscience Is Becoming AbbVie's Quiet Powerhouse -- and Management Now Sees $12.7 Billion in Sales This Year
-- [Yahoo Finance] Why SK Hynix Stock Skyrocketed This Week
-- [Yahoo Finance] Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?
-- [Yahoo Finance] Bloom Energy Stock Has Surged 150% in 2026. Is It Still a Buy?
-- [CoinDesk] Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info
-- [Yahoo Finance] Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private
-- [Nasdaq] Upcoming Dividend Run For NWL?
-- [Nasdaq] Upcoming Dividend Run For CPF?
-- [Nasdaq] Upcoming Dividend Run For BEPC?
-- [Nasdaq] Upcoming Dividend Run For BIP?
-- [Nasdaq] Upcoming Dividend Run For BOH?
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.89%
-- [CNBC] Top Wall Street analysts like these 3 dividend stocks for steady income
-- [Yahoo Finance] Mortgage and refinance interest rates today, Sunday, August 16, 2026: Rates mostly lower than last week
-- [Yahoo Finance] Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY
-- [Nasdaq] Soybeans Holding Higher on Friday
-- [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Nasdaq] Soybeans Find Strength to Close the Week
-- [Investing.com] Peter Thiel buys 1% stake in Argentina’s Vista Energy
-- [Nasdaq] Cattle Face Losses on Friday
-- [Nasdaq] Cattle Falling on Friday
-- [Investing.com] Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows
+- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
+- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Yahoo Finance] Sungrow to supply 152MW/606MWh BESS for Chile’s Observatorio project
+- [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
+- [CNBC] This digital gatekeeper's rally will continue, Wells Fargo says
+- [Yahoo Finance] Uber, Zipline partner on US drone delivery for Uber Eats
+- [Yahoo Finance] Jane Street $15 billion loss July Situational Awareness hedge fund
+- [Yahoo Finance] Meet Attovia: The Clinical-Stage Biotech That Aims to Stop Chronic Itch at the Source
+- [Nasdaq] This Stock Has A 6.91% Yield And Sells For Less Than Book
 - [Nasdaq] Corn Following Wheat Higher on Friday
+- [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
 - [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Yahoo Finance] Historic retailer gets lifeline after warning it could collapse
-- [Defense One] The Army gave General Dynamics $533M to build an artillery plant that produced nothing
-- [MarketWatch] An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.
-- [OilPrice.com] Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First
-- [MarketWatch] Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend
-- [CoinDesk] Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price
-- [Yahoo Finance] 53-year-old lawn and garden giant faces Chapter 11, liquidation
-- [CNBC] Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.
+- [Nasdaq] Soybeans Find Strength to Close the Week
+- [Nasdaq] Soybeans Holding Higher on Friday
+- [Investing.com] HSBC Taps 2 Top Data Center Stocks Poised to Lead the AI Inference Boom
+- [CNBC] Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer
+- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
+- [Investing.com] Top insider buys and sells disclosed on Friday
+- [Yahoo Finance] Cavendish lifts Optima Health target as annual profit beats forecasts
+- [Yahoo Finance] Shein Loses UK Copyright Lawsuit Against Temu
+- [Investing.com] Barclays Says These European Utility Stocks Are Worth Watching After H1 FY26 Earnings
+- [Investing.com] Barclays Names Top Dollar Store Stocks Ahead of Q2 Earnings
+- [Yahoo Finance] Ferrero extends M&A spree with Purely Elizabeth
+- [Nasdaq] Upcoming Dividend Run For FFBC?
+- [Nasdaq] Upcoming Dividend Run For ACNB?
+- [Nasdaq] Upcoming Dividend Run For RF?
+- [Nasdaq] Upcoming Dividend Run For ATLO?
+- [Nasdaq] Upcoming Dividend Run For CCNE?
+- [Yahoo Finance] Seafood groups Nordian Group, Norvelita sold to PE firm
+- [Nasdaq] MTG Crosses Above Average Analyst Target
+- [Yahoo Finance] KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart
+- [Yahoo Finance] Stripe acquires AI model gateway OpenRouter for $7 billion
+- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.11%
+- [Yahoo Finance] REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026?
+- [Yahoo Finance] New Era secures key permits for Texas Critical Data Centers, sees capacity rising
+- [Yahoo Finance] 55 With Less Than $250,000 Saved? These 3 ETFs Are Built for Catching Up
+- [Yahoo Finance] Bimergen Energy shares rise after Q2 revenue reaches $7.9 million
+- [Yahoo Finance] Why the 'immaculate' stock market might not stay that way long
+- [MarketWatch] Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up
+- [Yahoo Finance] Stocks With This Number Of Letters In Their Symbols Do Best
+- [Yahoo Finance] Dohrn bets on camera data to cut fleet insurance costs
+- [CoinDesk] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
+- [Yahoo Finance] Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened – Quarterly Update Report
