@@ -850,16 +850,6 @@ INDEX_QUOTES = [
 ]
 
 
-def _downsample(values: list, max_points: int = 20) -> list:
-    """Evenly thins a list down to at most max_points values, keeping the
-    first and last point. Keeps news_data.js small regardless of how many
-    raw intraday points Yahoo returns for a given interval."""
-    if len(values) <= max_points:
-        return values
-    step = (len(values) - 1) / (max_points - 1)
-    return [values[round(i * step)] for i in range(max_points)]
-
-
 def fetch_index_quote(symbol: str, scale: float = 1.0):
     """Returns {"price", "change_abs", "change_pct", "spark"} for an index
     ticker, or None on any error (network, unexpected response format,
@@ -871,11 +861,15 @@ def fetch_index_quote(symbol: str, scale: float = 1.0):
     the real value. This doesn't affect change_pct, since that's a ratio
     and doesn't depend on scale.
     """
-    # range=1d + interval=15m gives ~26 intraday points for a regular US
-    # session — plenty for a sparkline without a huge payload. On a
-    # weekend/holiday Yahoo just returns the last available trading day
-    # instead of an empty result.
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1d&interval=15m"
+    # range=1d used to be enough (~26 15-min points for a regular US
+    # session), but it's unreliable for some symbols: ^RUT (Russell 2000)
+    # returns a completely empty series with range=1d regardless of
+    # interval, and every US index returns only 1-2 points in the first
+    # hour or so of its own session (today's candles simply haven't
+    # accumulated yet) — both show up as a broken-looking sparkline.
+    # range=5d is reliable for every symbol tested and always has plenty
+    # of history; we just keep the most recent points below.
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=5d&interval=15m"
     try:
         raw = fetch_url(url, timeout=10)
         data = json.loads(raw)
@@ -889,8 +883,10 @@ def fetch_index_quote(symbol: str, scale: float = 1.0):
         change_pct = (change_abs / prev_close) * 100
 
         closes = result.get("indicators", {}).get("quote", [{}])[0].get("close", []) or []
-        spark = [round(c * scale, 4) for c in closes if c is not None]
-        spark = _downsample(spark)
+        # Most recent ~20 candles, not an even spread across all 5 days —
+        # early in a session this naturally blends in yesterday's last
+        # few candles instead of showing a stub 1-2-point line.
+        spark = [round(c * scale, 4) for c in closes if c is not None][-20:]
 
         return {
             "price": round(price * scale, 2),

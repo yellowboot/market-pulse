@@ -6,49 +6,59 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 13:32
-43 of 80 news items unmatched this run
+Generated: 17.08.2026 15:39
+53 of 80 news items unmatched this run
 
-- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
+- [CNBC] Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36
+- [Investing.com] Stocks little changed at the open ahead of Fed minutes, retail earnings this week
+- [MarketWatch] The stock market is driving the economy in one major way
+- [Investing.com] General Atlantic weighs return to IPO plans after 2023 filing, WSJ reports
+- [Nasdaq] Cotton Heads into the Weekend with Strength
+- [Nasdaq] Corn Following Wheat Higher on Friday
+- [Nasdaq] Soybeans Find Strength to Close the Week
+- [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
 - [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
+- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
+- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
+- [Investing.com] Baidu Q2 results preview: Should you buy the pre-earnings pullback?
+- [Investing.com] Why is Almonty Industries stock rallying today?
+- [Investing.com] Madison Air Solutions to buy German fan maker ebm-papst in $5.4 billion deal
+- [Investing.com] Guggenheim Names Top Stock Pick in Biotech Sector
+- [Nasdaq] This Fund Turns the Private-Credit Panic Into a Growing 6.4% Payout
+- [MarketWatch] Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.
+- [Yahoo Finance] Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets.
 - [Yahoo Finance] Sungrow to supply 152MW/606MWh BESS for Chile’s Observatorio project
+- [Yahoo Finance] Shein cuts Hong Kong IPO valuation target to $25 billion
+- [Investing.com] Uber, Zipline partner on US drone delivery for Uber Eats
 - [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
+- [Yahoo Finance] Toast CFO Elena Gomez Sells 7,924 Shares
+- [Investing.com] Citi lifts Rolls-Royce target on data centre demand, stronger cash flow
 - [CNBC] This digital gatekeeper's rally will continue, Wells Fargo says
-- [Yahoo Finance] Uber, Zipline partner on US drone delivery for Uber Eats
+- [Yahoo Finance] Energy Stock CEO Doubles Down, Purchases 1,600 Shares, Valued at $257,000
 - [Yahoo Finance] Jane Street $15 billion loss July Situational Awareness hedge fund
 - [Yahoo Finance] Meet Attovia: The Clinical-Stage Biotech That Aims to Stop Chronic Itch at the Source
 - [Nasdaq] This Stock Has A 6.91% Yield And Sells For Less Than Book
-- [Nasdaq] Corn Following Wheat Higher on Friday
-- [Nasdaq] Wheat Bulls Put Premium in Heading into the Weekend
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Nasdaq] Soybeans Find Strength to Close the Week
 - [Nasdaq] Soybeans Holding Higher on Friday
-- [Investing.com] HSBC Taps 2 Top Data Center Stocks Poised to Lead the AI Inference Boom
+- [Yahoo Finance] In November, Social Security Turns Line 11 of Your 2025 Tax Return Into Your 2027 Medicare Premium.
+- [Yahoo Finance] History Shows Right Now Could Be a Fantastic Time to Invest in the Stock Market. Here's Why.
+- [Yahoo Finance] Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week
 - [CNBC] Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer
-- [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
-- [Investing.com] Top insider buys and sells disclosed on Friday
 - [Yahoo Finance] Cavendish lifts Optima Health target as annual profit beats forecasts
+- [Yahoo Finance] ‘Never bet against America’: Scott Bessent endorses Warren Buffett’s forgotten rule for getting rich — use it now
 - [Yahoo Finance] Shein Loses UK Copyright Lawsuit Against Temu
-- [Investing.com] Barclays Says These European Utility Stocks Are Worth Watching After H1 FY26 Earnings
-- [Investing.com] Barclays Names Top Dollar Store Stocks Ahead of Q2 Earnings
+- [MarketWatch] The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.
 - [Yahoo Finance] Ferrero extends M&A spree with Purely Elizabeth
 - [Nasdaq] Upcoming Dividend Run For FFBC?
 - [Nasdaq] Upcoming Dividend Run For ACNB?
 - [Nasdaq] Upcoming Dividend Run For RF?
 - [Nasdaq] Upcoming Dividend Run For ATLO?
-- [Nasdaq] Upcoming Dividend Run For CCNE?
 - [Yahoo Finance] Seafood groups Nordian Group, Norvelita sold to PE firm
-- [Nasdaq] MTG Crosses Above Average Analyst Target
 - [Yahoo Finance] KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart
 - [Yahoo Finance] Stripe acquires AI model gateway OpenRouter for $7 billion
-- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.11%
 - [Yahoo Finance] REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026?
-- [Yahoo Finance] New Era secures key permits for Texas Critical Data Centers, sees capacity rising
-- [Yahoo Finance] 55 With Less Than $250,000 Saved? These 3 ETFs Are Built for Catching Up
-- [Yahoo Finance] Bimergen Energy shares rise after Q2 revenue reaches $7.9 million
+- [CNBC] Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations
 - [Yahoo Finance] Why the 'immaculate' stock market might not stay that way long
 - [MarketWatch] Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up
 - [Yahoo Finance] Stocks With This Number Of Letters In Their Symbols Do Best
 - [Yahoo Finance] Dohrn bets on camera data to cut fleet insurance costs
 - [CoinDesk] Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers
-- [Yahoo Finance] Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened – Quarterly Update Report
