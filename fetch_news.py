@@ -105,6 +105,8 @@ COMPANY_MAP = [
     {"ticker": "TSM",  "sector": "Semiconductors",         "names": ["TSMC", "Taiwan Semiconductor"]},
     {"ticker": "ARM",  "sector": "Semiconductors",         "names": ["Arm Holdings"]},
     {"ticker": "SNDK", "sector": "Semiconductors",         "names": ["SanDisk"]},
+    {"ticker": "TTMI", "sector": "Semiconductors",         "names": ["TTM Technologies"]},
+    {"ticker": "EXTR", "sector": "Semiconductors",         "names": ["Extreme Networks"]},
 
     # ---- AI infrastructure / "neocloud" (GPU rental, AI servers) —
     # split out from Software / Cloud because these are hardware/compute
@@ -156,6 +158,7 @@ COMPANY_MAP = [
     {"ticker": "COST", "sector": "Consumer Goods", "names": ["Costco"]},
     {"ticker": "PG",   "sector": "Consumer Goods", "names": ["Procter & Gamble"]},
     {"ticker": "LULU", "sector": "Consumer Goods", "names": ["Lululemon"]},
+    {"ticker": "TGT",  "sector": "Consumer Goods", "names": ["Target"]},
     {"ticker": "DIS",  "sector": "Media / Entertainment",    "names": ["Disney"]},
     {"ticker": "NFLX", "sector": "Media / Entertainment",    "names": ["Netflix"]},
     {"ticker": "RDDT", "sector": "Media / Entertainment",    "names": ["Reddit"]},
@@ -168,6 +171,7 @@ COMPANY_MAP = [
     {"ticker": "BP",   "sector": "Oil & Gas",            "names": ["BP"]},
     {"ticker": "COP",  "sector": "Oil & Gas",            "names": ["ConocoPhillips"]},
     {"ticker": "OPEC", "sector": "Oil & Gas",            "names": ["OPEC", "OPEC+"]},
+    {"ticker": "VIST", "sector": "Oil & Gas",            "names": ["Vista Energy"]},
 
     # ---- Metals and mining ----
     {"ticker": "RIO",  "sector": "Metals & Mining",       "names": ["Rio Tinto"]},
@@ -183,7 +187,9 @@ COMPANY_MAP = [
     {"ticker": "BA",   "sector": "Defense",       "names": ["Boeing"]},
     {"ticker": "NOC",  "sector": "Defense",       "names": ["Northrop Grumman"]},
     {"ticker": "RTX",  "sector": "Defense",       "names": ["RTX", "Raytheon"]},
+    {"ticker": "LHX",  "sector": "Defense",       "names": ["L3Harris"]},
     {"ticker": "SPCX", "sector": "Space",                 "names": ["SpaceX"]},
+    {"ticker": "LUNR", "sector": "Space",                 "names": ["Intuitive Machines"]},
 
     # ---- Finance / banks / payments ----
     {"ticker": "JPM",  "sector": "Banking & Finance",        "names": ["JPMorgan", "JP Morgan"]},
@@ -191,6 +197,9 @@ COMPANY_MAP = [
     {"ticker": "BAC",  "sector": "Banking & Finance",        "names": ["Bank of America"]},
     {"ticker": "MS",   "sector": "Banking & Finance",        "names": ["Morgan Stanley"]},
     {"ticker": "SPGI", "sector": "Banking & Finance",        "names": ["S&P Global"]},
+    {"ticker": "WFC",  "sector": "Banking & Finance",        "names": ["Wells Fargo"]},
+    {"ticker": "BRK.B","sector": "Banking & Finance",        "names": ["Berkshire Hathaway"]},
+    {"ticker": "MORN", "sector": "Banking & Finance",        "names": ["Morningstar"]},
     {"ticker": "V",    "sector": "Payments / Fintech",       "names": ["Visa"]},
     {"ticker": "MA",   "sector": "Payments / Fintech",       "names": ["Mastercard"]},
     {"ticker": "PYPL", "sector": "Payments / Fintech",       "names": ["PayPal"]},
@@ -213,11 +222,13 @@ COMPANY_MAP = [
     {"ticker": "T",    "sector": "Telecom",                "names": ["AT&T"]},
     {"ticker": "VZ",   "sector": "Telecom",                "names": ["Verizon"]},
     {"ticker": "NEE",  "sector": "Utilities",        "names": ["NextEra Energy"]},
+    {"ticker": "BE",   "sector": "Utilities",        "names": ["Bloom Energy"]},
 
     # ---- Airlines / travel ----
     {"ticker": "DAL",  "sector": "Airlines / Travel", "names": ["Delta Air Lines"]},
     {"ticker": "UAL",  "sector": "Airlines / Travel", "names": ["United Airlines"]},
     {"ticker": "ABNB", "sector": "Airlines / Travel", "names": ["Airbnb"]},
+    {"ticker": "UBER", "sector": "Airlines / Travel", "names": ["Uber"]},
 
     # ---- Crypto ----
     {"ticker": "BTC",  "sector": "Cryptocurrencies",           "names": ["Bitcoin"]},
