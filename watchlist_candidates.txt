@@ -6,41 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 20:56
-36 of 80 news items unmatched this run
+Generated: 17.08.2026 21:51
+41 of 80 news items unmatched this run
 
-- [CNBC] Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
-- [Nasdaq] Cocoa Prices Supported by Dollar Weakness
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
-- [Nasdaq] Dollar Weakness Boosts Cocoa Prices
-- [Nasdaq] Cotton Extending Higher on Monday Morning
+- [Investing.com] Amylyx stock rises on Phase 3 trial results date
+- [Investing.com] NorthStrive Acquisition prices $100M IPO on Nasdaq
+- [Investing.com] Anthropic revenue run rate tops $65 billion, source says
+- [Investing.com] Kura Oncology stock rises on CEO insider purchase
+- [Investing.com] UPS vs FedEx: valuation, earnings, and dividend compared
+- [Investing.com] Paramount seeks $1.88 billion bond from state AGs over merger lawsuit
+- [Investing.com] Copper/Aluminum pair trade: a 16.5-point spread in three months
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.22%
+- [Investing.com] Textron Systems wins $231 million Navy contract for landing craft
 - [CNBC] Anthropic tells investors annualized revenue run rate climbed to $65 billion in July
-- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
-- [Nasdaq] Coffee Prices Soar on Supply Concerns
-- [Nasdaq] Principal Real Estate Income Fund (PGZ) Shares Cross Below 200 DMA
-- [Nasdaq] OEC Makes Notable Cross Below Critical Moving Average
-- [Nasdaq] Advanced Drainage Systems Breaks Below 200-Day Moving Average - Notable for WMS
-- [Investing.com] GPT Group receives buy rating from Citi after strong results
-- [Investing.com] Moody’s upgrades TKO rating to Ba1 on strong cash flow outlook
 - [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
-- [Nasdaq] Fortune Brands Innovations Breaks Below 200-Day Moving Average - Notable for FBIN
-- [Nasdaq] Enovis (ENOV) Shares Cross Below 200 DMA
-- [Nasdaq] United Parcel Service (UPS) Shares Cross Below 200 DMA
+- [Nasdaq] Cooler US Weather Forecasts Weigh on Nat-Gas Prices
+- [Nasdaq] EMHY Crosses Below Key Moving Average Level
+- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
+- [Nasdaq] Ballys is Now Oversold (BALY)
+- [Nasdaq] BellRing Brands Becomes Oversold (BRBR)
+- [Nasdaq] Oversold Conditions For Boston Omaha (BOC)
+- [Nasdaq] Cms Energy Enters Oversold Territory (CMSC)
+- [Nasdaq] iShares 25+ Year Treasury STRIPS Bond (GOVZ) Enters Oversold Territory
+- [Nasdaq] Relative Strength Alert For Dte Energy
+- [Nasdaq] PUMP Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] Crude Prices Jump as US-Iran War at a Standstill
+- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
+- [CNBC] Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
 - [CNBC] Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin
-- [Investing.com] Anthropic revenue run rate passed $65 billion in July - report
-- [MarketWatch] Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years
 - [CNBC] This small-cap ETF just hit a fresh high and its members have lots of cash. Wall Street likes these stocks
+- [CNBC] Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'
 - [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
 - [CNBC] Refiner stocks are on a nearly unprecedented run. History says it could end soon
 - [CoinDesk] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
 - [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
-- [MarketWatch] Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up
 - [Mining.com] American rare Earths, Novex to boost US magnet production
 - [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
-- [Defense One] Army’s Apache grounding prompted by deadly Texas crash will end this week, memo says
 - [Mining.com] AngloGold Ashanti in $42M deal to double Thesis stake
 - [Mining.com] Equinox Gold gains key federal permit for South Railroad, kicks off early works
 - [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
+- [CoinDesk] The Coldcard hack proves reputation is not a security model
 - [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
 - [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
 - [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
