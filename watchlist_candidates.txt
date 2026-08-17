@@ -6,29 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 14:26
-36 of 80 news items unmatched this run
+Generated: 17.08.2026 14:54
+46 of 80 news items unmatched this run
 
+- [CNBC] Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict
+- [Investing.com] Why is SK hynix stock surging today?
+- [Investing.com] Shopify stock falls after Phillip Securities downgrade
+- [Investing.com] Nestle looks to develop new products to serve users of weight-loss drugs
+- [Yahoo Finance] Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value
+- [Investing.com] Why is Ocular Therapeutix stock rallying today?
+- [Yahoo Finance] Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth
+- [Yahoo Finance] Innovative men's and women's jeans brand files Chapter 11
+- [Nasdaq] Reminder - Fortis (FTS) Goes Ex-Dividend Soon
+- [Nasdaq] Reminder - Powell Industries (POWL) Goes Ex-Dividend Soon
+- [Yahoo Finance] Wingstop Stock Is Down 62% in 1 Year. Could the Sell-Off Be Nearing an End?
+- [Investing.com] ByteDance signs AI copyright pact with Hollywood trade group
+- [MarketWatch] Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now.
+- [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
+- [Yahoo Finance] WhiteFiber agrees to buy two North Carolina data-center sites for $60 million
+- [Yahoo Finance] Aviva’s H1 profit falls by 49%
+- [Yahoo Finance] SoFi Is Dividing Wall Street. This Is the Bull Case for the Fintech Stock.
+- [Yahoo Finance] Billionaires Battle on One Stock: Warren Buffett’s Berkshire Sells While Dan Loeb Loads Up
+- [Yahoo Finance] Chip Stocks Make Another Run at a New Bull Market
+- [Yahoo Finance] Sazerac strikes deal for UK’s Au Vodka
+- [Yahoo Finance] U.S. Home-Builder Sentiment Still Muted by Affordability Concerns
+- [Investing.com] Why is Coherent stock rallying today?
+- [Yahoo Finance] KBW keeps HIVE at neutral after earnings beat, flags $276 million GPU funding need
 - [Nasdaq] Coffee Prices See Support from Slow Brazil Harvest
-- [Investing.com] Fulcrum Therapeutics stock rises on Slate Medicines merger deal
-- [Investing.com] Why is Rocket Lab stock rallying today?
+- [Yahoo Finance] Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks
 - [Yahoo Finance] Israel’s Largest Crypto Broker Reports Data Breach
+- [CoinDesk] The Coldcard hack proves reputation is not a security model
 - [Nasdaq] Wheat Falling Back Early on Monday
 - [Nasdaq] Corn Holding Higher on Monday AM Trade
 - [Nasdaq] Soybeans Popping Higher on Monday Morning
 - [Nasdaq] Hogs Look to Monday Trade
 - [Nasdaq] Cattle Look to New Week Following Losses
 - [Nasdaq] Cotton Extending Higher on Monday Morning
-- [Investing.com] Jefferies cuts China online beauty outlook after July slowdown
-- [Investing.com] Why is Peloton stock sliding today?
-- [Investing.com] Teva Pharmaceutical’s stock is near its yearly high; is it still a buy?
-- [Investing.com] Why is The Trade Desk stock sliding today?
-- [Yahoo Finance] 24/7 Wall St.’s Lumentum Recommendation is Up More than 1000%. Here’s Why the Stock Can Keep Rallying.
-- [Investing.com] Why is Molson Coors Brewing stock sliding today?
+- [Yahoo Finance] Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%
+- [Yahoo Finance] Mueller Water Products (MWA) Slid on Broader Investor Concerns
 - [Yahoo Finance] US home builder sentiment ticks up in August but remains weak overall
-- [Yahoo Finance] Vulcan outlines $39.4 million PIPE and 654 MW AI/HPC pipeline
-- [Yahoo Finance] The Market Is Sending a Signal And These Stocks Stand Out
-- [Yahoo Finance] GCM Grosvenor (GCMG) Q2 2026 Earnings Call Transcript
 - [Nasdaq] Soybeans Find Strength to Close the Week
 - [Nasdaq] Soybeans Holding Higher on Friday
 - [CNBC] Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test
@@ -39,9 +55,3 @@ Generated: 17.08.2026 14:26
 - [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
 - [Nasdaq] Corn Following Wheat Higher on Friday
 - [Nasdaq] Wheat Rallying as Russia Rejects Ukraine’s Proposal
-- [Nasdaq] Sugar Prices Fall Back from Wednesday’s 1.25-Year Highs
-- [Nasdaq] Cotton Heads into the Weekend with Strength
-- [Yahoo Finance] Bitpanda Hit With Fine In Europe’s First MiCA Enforcement Case
-- [Yahoo Finance] Hyatt Hotels Corporation (H) Still Attractive Despite Recent Gains
-- [Yahoo Finance] FactSet Research Systems (FDS) Discounted Despite AI Workflow Integration
-- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
