@@ -183,7 +183,16 @@
     display: flex;
     align-items: center;
     gap: 6px;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 2px 4px;
+    transition: background 0.15s ease;
   }
+  .ticker-item:hover, .ticker-item:focus-visible {
+    background: rgba(212,175,106,0.1);
+    outline: none;
+  }
+  .ticker-item:hover .sym, .ticker-item:focus-visible .sym { color: var(--gold-2); }
   .ticker-item .sym { color: var(--gold-1); }
   .ticker-item .count {
     background: rgba(212,175,106,0.14);
@@ -925,7 +934,7 @@
     `).join('');
 
     tickerWrap.style.display = 'block';
-    const items = tt.map(t => `<span class="ticker-item"><span class="sym">${t.ticker}</span><span class="count">${t.count} mentions</span></span>`);
+    const items = tt.map(t => `<span class="ticker-item" data-ticker="${escapeHtml(t.ticker)}" role="button" tabindex="0"><span class="sym">${t.ticker}</span><span class="count">${t.count} mentions</span></span>`);
     const itemsHtml = items.join('');
 
     // The seamless loop (see @keyframes scroll-left, -50% translateX) only
@@ -1305,6 +1314,29 @@
     searchQuery = e.target.value;
     searchClearBtn.style.display = searchQuery ? 'inline-block' : 'none';
     renderGrid();
+  });
+
+  // Clicking a ticker in the scrolling tape searches for it directly, same
+  // as if it had been typed into the search box. Event delegation on the
+  // track (not per-item listeners) because the tape content is rebuilt/
+  // repeated dynamically for the seamless-scroll effect.
+  function searchForTicker(ticker) {
+    searchQuery = ticker;
+    searchInput.value = ticker;
+    searchClearBtn.style.display = 'inline-block';
+    renderGrid();
+    document.querySelector('.controls-block').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  tickerTrack.addEventListener('click', (e) => {
+    const item = e.target.closest('.ticker-item');
+    if (item) searchForTicker(item.dataset.ticker);
+  });
+  tickerTrack.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const item = e.target.closest('.ticker-item');
+    if (!item) return;
+    e.preventDefault();
+    searchForTicker(item.dataset.ticker);
   });
   searchClearBtn.addEventListener('click', () => {
     searchQuery = '';
