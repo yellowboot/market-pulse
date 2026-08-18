@@ -6,24 +6,33 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 12:57
-43 of 80 news items unmatched this run
+Generated: 18.08.2026 13:35
+39 of 80 news items unmatched this run
 
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.03%
-- [Yahoo Finance] Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High
-- [Yahoo Finance] Baidu Q2 2026 earnings miss as ad revenue falls 19%
-- [Yahoo Finance] Billionaire David Tepper’s Top 5 Holdings Just Revealed
+- [Investing.com] American Airlines to add premium seats, bring back seatback screens fleetwide
+- [CNBC] Contrarian vs. the crowd: One trader made a massive bet against chip stocks
+- [Yahoo Finance] Japan’s St Cousair buys another US jam maker
+- [Yahoo Finance] Brookfield Corporation’s (BN) Strength Overshadowed by Sector Concerns
+- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
+- [Investing.com] American Airlines to restore seatback screens, add premium seats in profit push
+- [Investing.com] Why is BioMarin Pharmaceutical stock surging today?
+- [Investing.com] Why is Ondas stock sliding today?
+- [Yahoo Finance] Insider Dumps 1,000 Shares After Industrial Stock Surges by 49% in Last Year
+- [Investing.com] Ondas stock falls after $33M Aran Defense acquisition deal
+- [Investing.com] Monday’s insider activity: Major buys at Cardinal, Apollomics
+- [Investing.com] BioMarin stock surges on $275M Alesta acquisition deal
+- [CNBC] American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United
+- [CNBC] Crypto exchange Kraken launches cash back debit card in bid for consumer wallets
+- [Yahoo Finance] GrabAGun: Topline Beat and 290 bps of Margin Expansion – Quarterly Update Report
+- [Yahoo Finance] Strong Shareholder Backing Validates Republic Services’ (RSG) Attractive Valuation
 - [MarketWatch] Home Depot revenue rises even as customers turn away from bigger projects
-- [Yahoo Finance] Amer Sports Aims Higher After Firm Beats Q2 Forecast, Raises Outlook
-- [Yahoo Finance] Hold GE Aerospace Even as Wall Street Remains Bullish
-- [Investing.com] Indian bond yields rise as oil prices climb and RBI closes deposit scheme
-- [Yahoo Finance] Novig posts $125 million in first-week sports prediction market volume
-- [Yahoo Finance] Dutch seafood group Zalmhuys buys importer BML
+- [Yahoo Finance] Life Couriers gains new CEO with sale to private equity firm
 - [Yahoo Finance] Home Depot Beats Estimates in a “Frozen” Housing Market
+- [Nasdaq] New Strong Sell Stocks for August 18th
 - [Yahoo Finance] Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)
 - [CNBC] Popular language app is on the cusp of a turnaround. Buy the stock now, D.A. Davidson says
+- [Yahoo Finance] Texas Instruments Incorporated (TXN) Attractive on Strategic Advantages
 - [Yahoo Finance] Improving Demand Strengthens Corning (GLW)
-- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
 - [Nasdaq] Cocoa Prices Supported by Dollar Weakness
 - [Yahoo Finance] Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO
 - [Yahoo Finance] Brand Legacy Positions KKR (KKR) for Lasting Advantage
@@ -33,22 +42,9 @@ Generated: 18.08.2026 12:57
 - [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
 - [Yahoo Finance] Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
 - [Yahoo Finance] Hagerty’s (HGTY) Higher Growth Story Remains Mispriced?
-- [Yahoo Finance] Compass Diversified (CODI): Buybacks Below Value Signal Multi Bagger Potential
 - [MarketWatch] The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?
-- [Yahoo Finance] Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating
 - [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
-- [Yahoo Finance] Why Colgate-Palmolive Remains an Overlooked Dividend King
-- [Yahoo Finance] Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout Income Stock
-- [Yahoo Finance] Western Union’s High Yield is Raising Dividend Cut Concerns
-- [Yahoo Finance] Klarna trims full-year revenue, volume outlook as German retail weakens
-- [Yahoo Finance] Dauch Corporation’s (DCH) Costly Path To A Bigger Payoff
-- [Yahoo Finance] Chubb and Travelers: Comparing Dividend Growth in the Insurance Sector
-- [Yahoo Finance] Home Depot Q2 earnings beat Wall Street's forecast as customers stick to small projects
-- [Yahoo Finance] Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?
-- [Yahoo Finance] American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar
-- [Yahoo Finance] Two Consumer Staples, Two Dividend Strategies: Church & Dwight (CHD) and The Clorox Company (CLX)
-- [Yahoo Finance] Fiber Growth Collides With Legacy Revenue Pressure At Telephone & Data Systems (TDS)
 - [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
 - [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
+- [Mining.com] Lithium Chile’s $175M China deal faces Canada scrutiny
 - [CNBC] The startup using AI to help rare disease families develop custom treatments
-- [CNBC] Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
