@@ -6,47 +6,49 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 17.08.2026 21:51
-41 of 80 news items unmatched this run
+Generated: 18.08.2026 12:57
+43 of 80 news items unmatched this run
 
-- [Investing.com] Amylyx stock rises on Phase 3 trial results date
-- [Investing.com] NorthStrive Acquisition prices $100M IPO on Nasdaq
-- [Investing.com] Anthropic revenue run rate tops $65 billion, source says
-- [Investing.com] Kura Oncology stock rises on CEO insider purchase
-- [Investing.com] UPS vs FedEx: valuation, earnings, and dividend compared
-- [Investing.com] Paramount seeks $1.88 billion bond from state AGs over merger lawsuit
-- [Investing.com] Copper/Aluminum pair trade: a 16.5-point spread in three months
-- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.22%
-- [Investing.com] Textron Systems wins $231 million Navy contract for landing craft
-- [CNBC] Anthropic tells investors annualized revenue run rate climbed to $65 billion in July
-- [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
-- [Nasdaq] Cooler US Weather Forecasts Weigh on Nat-Gas Prices
-- [Nasdaq] EMHY Crosses Below Key Moving Average Level
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
-- [Nasdaq] Ballys is Now Oversold (BALY)
-- [Nasdaq] BellRing Brands Becomes Oversold (BRBR)
-- [Nasdaq] Oversold Conditions For Boston Omaha (BOC)
-- [Nasdaq] Cms Energy Enters Oversold Territory (CMSC)
-- [Nasdaq] iShares 25+ Year Treasury STRIPS Bond (GOVZ) Enters Oversold Territory
-- [Nasdaq] Relative Strength Alert For Dte Energy
-- [Nasdaq] PUMP Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] Crude Prices Jump as US-Iran War at a Standstill
+- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.03%
+- [Yahoo Finance] Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High
+- [Yahoo Finance] Baidu Q2 2026 earnings miss as ad revenue falls 19%
+- [Yahoo Finance] Billionaire David Tepper’s Top 5 Holdings Just Revealed
+- [MarketWatch] Home Depot revenue rises even as customers turn away from bigger projects
+- [Yahoo Finance] Amer Sports Aims Higher After Firm Beats Q2 Forecast, Raises Outlook
+- [Yahoo Finance] Hold GE Aerospace Even as Wall Street Remains Bullish
+- [Investing.com] Indian bond yields rise as oil prices climb and RBI closes deposit scheme
+- [Yahoo Finance] Novig posts $125 million in first-week sports prediction market volume
+- [Yahoo Finance] Dutch seafood group Zalmhuys buys importer BML
+- [Yahoo Finance] Home Depot Beats Estimates in a “Frozen” Housing Market
+- [Yahoo Finance] Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)
+- [CNBC] Popular language app is on the cusp of a turnaround. Buy the stock now, D.A. Davidson says
+- [Yahoo Finance] Improving Demand Strengthens Corning (GLW)
 - [Nasdaq] Global Sugar Deficit Fears Underpin Prices
-- [CNBC] Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay
-- [CNBC] Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin
-- [CNBC] This small-cap ETF just hit a fresh high and its members have lots of cash. Wall Street likes these stocks
-- [CNBC] Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'
-- [CNBC] Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails
-- [CNBC] Refiner stocks are on a nearly unprecedented run. History says it could end soon
-- [CoinDesk] BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees
-- [CNBC] OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
-- [Mining.com] American rare Earths, Novex to boost US magnet production
-- [CoinDesk] Compound bets $52 million, new leadership team in switch to institutional focus
-- [Mining.com] AngloGold Ashanti in $42M deal to double Thesis stake
-- [Mining.com] Equinox Gold gains key federal permit for South Railroad, kicks off early works
-- [CNBC] The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year
-- [CoinDesk] The Coldcard hack proves reputation is not a security model
-- [CoinDesk] How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds
-- [Yahoo Finance] Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain
-- [Yahoo Finance] Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report
-- [OilPrice.com] Russia Receives First Gasoline Cargo From India as Fuel Shortages Spread
+- [Nasdaq] Cocoa Prices Supported by Dollar Weakness
+- [Yahoo Finance] Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO
+- [Yahoo Finance] Brand Legacy Positions KKR (KKR) for Lasting Advantage
+- [Yahoo Finance] Chip designer Velaura AI valued at more than $1 billion after funding round
+- [CNBC] Prediction markets entrant Novig posts more than $125 million in trading volume during its first week
+- [Yahoo Finance] Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains
+- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+- [Yahoo Finance] Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+- [Yahoo Finance] Hagerty’s (HGTY) Higher Growth Story Remains Mispriced?
+- [Yahoo Finance] Compass Diversified (CODI): Buybacks Below Value Signal Multi Bagger Potential
+- [MarketWatch] The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?
+- [Yahoo Finance] Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating
+- [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
+- [Yahoo Finance] Why Colgate-Palmolive Remains an Overlooked Dividend King
+- [Yahoo Finance] Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout Income Stock
+- [Yahoo Finance] Western Union’s High Yield is Raising Dividend Cut Concerns
+- [Yahoo Finance] Klarna trims full-year revenue, volume outlook as German retail weakens
+- [Yahoo Finance] Dauch Corporation’s (DCH) Costly Path To A Bigger Payoff
+- [Yahoo Finance] Chubb and Travelers: Comparing Dividend Growth in the Insurance Sector
+- [Yahoo Finance] Home Depot Q2 earnings beat Wall Street's forecast as customers stick to small projects
+- [Yahoo Finance] Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?
+- [Yahoo Finance] American States Water Company (AWR): This Quiet Dividend King Keeps Raising the Bar
+- [Yahoo Finance] Two Consumer Staples, Two Dividend Strategies: Church & Dwight (CHD) and The Clorox Company (CLX)
+- [Yahoo Finance] Fiber Growth Collides With Legacy Revenue Pressure At Telephone & Data Systems (TDS)
+- [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
+- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
+- [CNBC] The startup using AI to help rare disease families develop custom treatments
+- [CNBC] Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
