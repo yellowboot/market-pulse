@@ -6,45 +6,50 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 13:35
-39 of 80 news items unmatched this run
+Generated: 18.08.2026 15:02
+44 of 80 news items unmatched this run
 
-- [Investing.com] American Airlines to add premium seats, bring back seatback screens fleetwide
-- [CNBC] Contrarian vs. the crowd: One trader made a massive bet against chip stocks
-- [Yahoo Finance] Japan’s St Cousair buys another US jam maker
-- [Yahoo Finance] Brookfield Corporation’s (BN) Strength Overshadowed by Sector Concerns
-- [Nasdaq] Global Sugar Deficit Fears Underpin Prices
-- [Investing.com] American Airlines to restore seatback screens, add premium seats in profit push
-- [Investing.com] Why is BioMarin Pharmaceutical stock surging today?
-- [Investing.com] Why is Ondas stock sliding today?
-- [Yahoo Finance] Insider Dumps 1,000 Shares After Industrial Stock Surges by 49% in Last Year
-- [Investing.com] Ondas stock falls after $33M Aran Defense acquisition deal
-- [Investing.com] Monday’s insider activity: Major buys at Cardinal, Apollomics
-- [Investing.com] BioMarin stock surges on $275M Alesta acquisition deal
-- [CNBC] American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United
-- [CNBC] Crypto exchange Kraken launches cash back debit card in bid for consumer wallets
-- [Yahoo Finance] GrabAGun: Topline Beat and 290 bps of Margin Expansion – Quarterly Update Report
-- [Yahoo Finance] Strong Shareholder Backing Validates Republic Services’ (RSG) Attractive Valuation
-- [MarketWatch] Home Depot revenue rises even as customers turn away from bigger projects
-- [Yahoo Finance] Life Couriers gains new CEO with sale to private equity firm
-- [Yahoo Finance] Home Depot Beats Estimates in a “Frozen” Housing Market
-- [Nasdaq] New Strong Sell Stocks for August 18th
-- [Yahoo Finance] Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)
-- [CNBC] Popular language app is on the cusp of a turnaround. Buy the stock now, D.A. Davidson says
-- [Yahoo Finance] Texas Instruments Incorporated (TXN) Attractive on Strategic Advantages
-- [Yahoo Finance] Improving Demand Strengthens Corning (GLW)
-- [Nasdaq] Cocoa Prices Supported by Dollar Weakness
-- [Yahoo Finance] Financial Firepower Signals Confidence in Copart’s (CPRT) New CEO
-- [Yahoo Finance] Brand Legacy Positions KKR (KKR) for Lasting Advantage
-- [Yahoo Finance] Chip designer Velaura AI valued at more than $1 billion after funding round
-- [CNBC] Prediction markets entrant Novig posts more than $125 million in trading volume during its first week
-- [Yahoo Finance] Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains
+- [CNBC] Anthropic tells investors annualized revenue run rate climbed to $65 billion in July
+- [Yahoo Finance] What's Going On With The Metals Company Stock?
+- [Investing.com] Why is Ciena stock sliding today?
+- [Investing.com] Six undervalued small-cap energy stocks to watch amid elevated energy prices
+- [Yahoo Finance] Specialty Structure Funds Gain Momentum Amid Evergreen Adoption
+- [Yahoo Finance] Aramark (ARMK) Q3 2026 Earnings Call Transcript
+- [Yahoo Finance] Cardinal Health (CAH) Q4 2026 Earnings Call Transcript
+- [Yahoo Finance] Venture Global (VG) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Tencent Music (TME) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] eToro (ETOR) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] IHG (IHG) Q2 2026 Earnings Call Transcript
+- [Investing.com] Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares
+- [Investing.com] AUD/JPY leads carry trade alternatives as MXN and TRY flash warning signs
+- [Investing.com] Dodgers owner Mark Walter’s insurer to cut $6.5 billion in investments amid probe
+- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
+- [Nasdaq] Cotton Gains Extending to Tuesday Morning, Following USDA Condition Cut
+- [Nasdaq] Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts
+- [Yahoo Finance] Algonquin Power (AQN) Bets Big on a US Move While Earnings Slip
+- [Yahoo Finance] Value Investing Legend Howard Marks Is Buying This Stock Down 30%. Should You Buy?
+- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [Yahoo Finance] Billionaire Howard Marks Just Bought This Beaten-Down Indian Stock. Don’t Miss The Opportunity
+- [Yahoo Finance] Baron Capital Adds Blackstone Digital Infrastructure Trust (BXDC) on Strong Leadership and Robust Pipeline
+- [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
+- [CNBC] Hims & Hers CEO says FTC lawsuit misunderstands how the company works
+- [Yahoo Finance] Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?
+- [Yahoo Finance] Interface (TILE) Posts Record Margins, But One Big Question Looms
+- [CNBC] This gene-based therapeutics stock could nearly triple, analysts say
+- [CNBC] A payments app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
+- [Yahoo Finance] Klarna stock plunges 20% on trimmed guidance as German retail sales slow
+- [Yahoo Finance] Klarna Stock Plunges On Weak Guidance. Rival Affirm's Shares Fall.
+- [Yahoo Finance] Why Is Baron Small Cap Fund Buying Wingstop (WING) Again?
+- [CoinDesk] HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
+- [Yahoo Finance] Vertiv Holdings (VRT) is Well Positioned for Key Tech Transitions
 - [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
-- [Yahoo Finance] Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
-- [Yahoo Finance] Hagerty’s (HGTY) Higher Growth Story Remains Mispriced?
-- [MarketWatch] The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?
+- [Nasdaq] Hogs Look to Tuesday After Closing Monday Steady
+- [Nasdaq] Cattle Look to Tuesday Trade Following a Mixed Monday
+- [Yahoo Finance] XRP Falls Below $1 For First Time Since 2024
+- [Yahoo Finance] Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth?
+- [Yahoo Finance] Global bond sell-off pressures stocks: AlphaCheck
+- [Yahoo Finance] Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?
 - [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
-- [Nasdaq] Concerns About a Global Supply Squeeze Lifts Coffee Prices
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Sugar Deficit
-- [Mining.com] Lithium Chile’s $175M China deal faces Canada scrutiny
-- [CNBC] The startup using AI to help rare disease families develop custom treatments
+- [Nasdaq] Realty Income's Data Center Bet: What Does It Mean for Growth?
+- [Nasdaq] This 12.2% Dividend Has "Paid Back" 97.6% of Our Investment (See How)
+- [Nasdaq] Seagate's Growth Engine Gains Momentum Across 3 Fronts
