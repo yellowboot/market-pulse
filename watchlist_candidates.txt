@@ -6,40 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 20:52
-38 of 80 news items unmatched this run
+Generated: 18.08.2026 21:49
+44 of 80 news items unmatched this run
 
-- [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
-- [Nasdaq] Soybeans Holding onto Tuesday Gains at Midday
-- [Nasdaq] Favorable West African Weather Weighs on Cocoa Prices
-- [Investing.com] Why is Backblaze stock sliding today?
+- [CNBC] Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
+- [CoinDesk] U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'
+- [Nasdaq] Crude Prices Gain on Reduced Middle Eastern Oil Supplies
+- [Nasdaq] Forecasts for Hot US Temperatures Lift Nat-Gas Prices
+- [Nasdaq] Ginkgo Bioworks Holdings Enters Oversold Territory (DNA)
+- [Nasdaq] Corporacion America Airports Enters Oversold Territory (CAAP)
+- [CNBC] OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'
+- [Investing.com] Anthropic moves to bolster founder control ahead of mega-IPO - The Information
+- [Nasdaq] Hogs Falling Lower on Tuesday
 - [Nasdaq] Cotton Fading Back Lower on Tuesday
-- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.82%
-- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.27%
-- [Investing.com] Why is Mercury Systems stock plunging today?
-- [Investing.com] Why is WhiteFiber stock plunging today?
+- [Nasdaq] Leverage Shares 2X Long BIDU Daily Getting Very Oversold
+- [Nasdaq] KBDU Crosses Critical Technical Indicator
+- [Nasdaq] Capri Holdings is Now Oversold (CPRI)
+- [CNBC] Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more
+- [Investing.com] Tech selloff weighs down Wall Street as bond yields climb
 - [Nasdaq] Global Supply Concerns Fuel a Rally in Sugar Prices
-- [Nasdaq] Cocoa Prices Fall on Exceptional Growing Conditions in West Africa
-- [Investing.com] WhiteFiber stock tumbles 25% on convertible notes offering
-- [Investing.com] Backblaze stock falls on $150M convertible notes offering
-- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
-- [Nasdaq] Tighter Coffee Supplies Push Prices Sharply Higher
-- [Nasdaq] Coffee Prices Surge on Supply Fears
-- [Nasdaq] Corn Fading Early Gains for Midday Tuesday Weakness
-- [Nasdaq] BPY's Preferred Units, Series 1 Crosses Above 10% Yield Territory
-- [Nasdaq] Telephone & Data Systems' Series UU Preferred Stock Shares Cross 8% Yield Mark
+- [Investing.com] Why is Evolution Petroleum stock sliding today?
+- [Investing.com] Why is WhiteFiber stock plunging today?
+- [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
+- [Investing.com] Why is La-Z-Boy stock plunging today?
+- [Investing.com] Why is Keysight Technologies stock surging today?
+- [Investing.com] Why is Backblaze stock sliding today?
+- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.82%
+- [MarketWatch] Here’s a ‘ridiculously cheap’ way to protect yourself against a stock-market selloff
+- [CNBC] If AI is a bubble, could rising yields pop it?
+- [CNBC] CNBC Points Pro: Can you buy a car with a credit card?
+- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
 - [CoinDesk] U.S. SEC proposes first major crypto rule in surprise announcement
-- [Nasdaq] Wheat Slipping Lower into Tuesday’s Midday
-- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
 - [CoinDesk] Wyoming joins $15 billion LayerZero exodus with state stablecoin move
-- [Yahoo Finance] State Farm's $5 billion dividend payout is largest in company history: Who's eligible?
 - [Mining.com] Wheaton’s new CEO sees billion-dollar streaming era
 - [Mining.com] Captura, ElectraLith team up on next-gen lithium technology
 - [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
 - [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
 - [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
 - [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
-- [Yahoo Finance] Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
+- [OilPrice.com] AI Could Make Big Oil Even Bigger
+- [OilPrice.com] Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge
 - [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
 - [CoinDesk] Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
 - [Mining.com] US awards $162M to turn mining waste into critical minerals
