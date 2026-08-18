@@ -6,48 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 16:29
-42 of 80 news items unmatched this run
+Generated: 18.08.2026 17:55
+38 of 80 news items unmatched this run
 
-- [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
-- [Investing.com] Weave Communications shares surge on $650 million buyout deal
-- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
-- [Investing.com] FTSE 100 today: Stocks edge up, boosted by energy majors; Iran tensions escalate
-- [Investing.com] STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty
-- [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
-- [Yahoo Finance] Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns
-- [Yahoo Finance] India’s Minda to invest Rs2.70bn for automotive TFT displays – report
-- [Investing.com] Why is Home Depot stock gaining today?
-- [Yahoo Finance] VGIT vs. IGIB: Which Bond ETF Offers the Better Buy for Income Investors?
-- [Investing.com] Why is Amylyx Pharmaceuticals stock surging today?
-- [Yahoo Finance] This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.05%
-- [Investing.com] European stocks fall to longest losing streak since 2025 on war risks
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.24%
-- [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.93%
-- [Nasdaq] Hogs Look to Tuesday After Closing Monday Steady
-- [Nasdaq] Cattle Look to Tuesday Trade Following a Mixed Monday
-- [Yahoo Finance] Why Baidu Stock Plunged Today
-- [Yahoo Finance] Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
-- [CNBC] Cramer likes this retailer ahead of earnings — but sees trouble for one of our tech giants
-- [Yahoo Finance] Mike’s Red Tacos Announces Andrew Feghali as CEO
-- [Nasdaq] Analyst Favorites: MP Materials Ranks As a Top Metals Pick
+- [Investing.com] Etched secures $700M at doubled valuation to scale AI inference hardware
+- [Investing.com] Gold miners fall as bullion retreats on yield surge
+- [Yahoo Finance] Which Space and Defense ETF Is the Better Buy: ARK's ARKX or First Trust's MISL?
+- [Yahoo Finance] Baidu Q2 Revenue Misses as Advertising Slides—Is the AI Thesis Still Intact?
+- [Yahoo Finance] Rocket Companies Slips as Mortgage Stocks Struggle: Can RKT Catch Up With UWM and Radian?
+- [Yahoo Finance] Nasdaq slides, yields elevated as Mideast conflict fears grow
+- [Yahoo Finance] Realty Income Yields 5.2%. Here's Why the Payout Keeps Growing.
+- [Investing.com] YouTube in talks for NBA local streaming rights deal worth over $1B - SBJ
+- [Nasdaq] Coffee Prices Surge on Supply Fears
+- [Nasdaq] Crude Prices Supported as Strait of Hormuz Remains Closed
 - [Nasdaq] Cotton Gains Extending to Tuesday Morning, Following USDA Condition Cut
-- [Nasdaq] Cotton Closes with Monday Gains, as USDA Cuts Conditions Ratings
-- [Yahoo Finance] Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
-- [CNBC] Photonics and optics: This AI-linked group is easily beating the rest of the market. How to trade it
-- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
-- [Yahoo Finance] Why Affirm Stock Shrugged Off Weak Klarna Guidance
-- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
-- [Yahoo Finance] Amer Sports Shares Up After Strong 2Q Performance, Raises 2026 Guidance
-- [Nasdaq] Wheat Close Monday Mixed
-- [Nasdaq] Tuesday 8/18 Insider Buying Report: CDNL, BFLY
-- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [Yahoo Finance] What Does the Sale of Atlassian Stock Worth $1.2 Million by Its Chief Revenue Officer Mean for Investors?
+- [Yahoo Finance] Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report
 - [Nasdaq] Corn Holds the Monday Rally into the Close, as USDA Trims Ratings
-- [Nasdaq] Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts
-- [Yahoo Finance] Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results
-- [Yahoo Finance] Forget AI Stocks: Value Investing Giant Seth Klarman Is Loading Up on Genuine Parts (GPC)
-- [Yahoo Finance] Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring
-- [Yahoo Finance] Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel
-- [Mining.com] US awards $162M to turn mining waste into critical minerals
+- [Investing.com] Why is Xylem stock sliding today?
+- [Investing.com] Xylem stock falls on CFO transition announcement
+- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
+- [Nasdaq] Wheat Close Monday Mixed
+- [Mining.com] Wheaton’s new CEO sees billion-dollar streaming era
+- [Mining.com] Captura, ElectraLith team up on next-gen lithium technology
+- [Investing.com] Anthropic targets $10B+ credit facility ahead of planned public debut - Bloomberg
+- [Yahoo Finance] Two Florida cities top the list of US regions where home sellers are most likely to lose money on their listings
+- [Yahoo Finance] Eltek Ltd. Q2 2026 Earnings Call Summary
+- [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
+- [MarketWatch] Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’
+- [Nasdaq] Dollar Supported by Weak Stocks and Rising Bond Yields
+- [Yahoo Finance] Ecopetrol Completes $1.2 Billion Brazilian Oil Deal
+- [Investing.com] Tech selloff pulls Wall Street to two-week lows as oil and yields climb
+- [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
+- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
+- [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
+- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [Nasdaq] Opendoor's Weekly Contracts Top 700: Can the Momentum Last?
+- [Nasdaq] Can Virtu Financial's New Buyback Tool Unlock More Execution Growth?
+- [Nasdaq] Cotton Closes with Monday Gains, as USDA Cuts Conditions Ratings
+- [Nasdaq] Tuesday's ETF with Unusual Volume: WTV
+- [Yahoo Finance] This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI
+- [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
