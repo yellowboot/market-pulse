@@ -6,50 +6,48 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 15:02
-44 of 80 news items unmatched this run
+Generated: 18.08.2026 16:29
+42 of 80 news items unmatched this run
 
-- [CNBC] Anthropic tells investors annualized revenue run rate climbed to $65 billion in July
-- [Yahoo Finance] What's Going On With The Metals Company Stock?
-- [Investing.com] Why is Ciena stock sliding today?
-- [Investing.com] Six undervalued small-cap energy stocks to watch amid elevated energy prices
-- [Yahoo Finance] Specialty Structure Funds Gain Momentum Amid Evergreen Adoption
-- [Yahoo Finance] Aramark (ARMK) Q3 2026 Earnings Call Transcript
-- [Yahoo Finance] Cardinal Health (CAH) Q4 2026 Earnings Call Transcript
-- [Yahoo Finance] Venture Global (VG) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Tencent Music (TME) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] eToro (ETOR) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] IHG (IHG) Q2 2026 Earnings Call Transcript
-- [Investing.com] Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares
-- [Investing.com] AUD/JPY leads carry trade alternatives as MXN and TRY flash warning signs
-- [Investing.com] Dodgers owner Mark Walter’s insurer to cut $6.5 billion in investments amid probe
-- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
-- [Nasdaq] Cotton Gains Extending to Tuesday Morning, Following USDA Condition Cut
-- [Nasdaq] Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts
-- [Yahoo Finance] Algonquin Power (AQN) Bets Big on a US Move While Earnings Slip
-- [Yahoo Finance] Value Investing Legend Howard Marks Is Buying This Stock Down 30%. Should You Buy?
-- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
-- [Yahoo Finance] Billionaire Howard Marks Just Bought This Beaten-Down Indian Stock. Don’t Miss The Opportunity
-- [Yahoo Finance] Baron Capital Adds Blackstone Digital Infrastructure Trust (BXDC) on Strong Leadership and Robust Pipeline
-- [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
-- [CNBC] Hims & Hers CEO says FTC lawsuit misunderstands how the company works
-- [Yahoo Finance] Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?
-- [Yahoo Finance] Interface (TILE) Posts Record Margins, But One Big Question Looms
-- [CNBC] This gene-based therapeutics stock could nearly triple, analysts say
-- [CNBC] A payments app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
-- [Yahoo Finance] Klarna stock plunges 20% on trimmed guidance as German retail sales slow
-- [Yahoo Finance] Klarna Stock Plunges On Weak Guidance. Rival Affirm's Shares Fall.
-- [Yahoo Finance] Why Is Baron Small Cap Fund Buying Wingstop (WING) Again?
-- [CoinDesk] HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
-- [Yahoo Finance] Vertiv Holdings (VRT) is Well Positioned for Key Tech Transitions
-- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+- [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
+- [Investing.com] Weave Communications shares surge on $650 million buyout deal
+- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
+- [Investing.com] FTSE 100 today: Stocks edge up, boosted by energy majors; Iran tensions escalate
+- [Investing.com] STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty
+- [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
+- [Yahoo Finance] Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns
+- [Yahoo Finance] India’s Minda to invest Rs2.70bn for automotive TFT displays – report
+- [Investing.com] Why is Home Depot stock gaining today?
+- [Yahoo Finance] VGIT vs. IGIB: Which Bond ETF Offers the Better Buy for Income Investors?
+- [Investing.com] Why is Amylyx Pharmaceuticals stock surging today?
+- [Yahoo Finance] This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.05%
+- [Investing.com] European stocks fall to longest losing streak since 2025 on war risks
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.24%
+- [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.93%
 - [Nasdaq] Hogs Look to Tuesday After Closing Monday Steady
 - [Nasdaq] Cattle Look to Tuesday Trade Following a Mixed Monday
-- [Yahoo Finance] XRP Falls Below $1 For First Time Since 2024
-- [Yahoo Finance] Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth?
-- [Yahoo Finance] Global bond sell-off pressures stocks: AlphaCheck
-- [Yahoo Finance] Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?
-- [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
-- [Nasdaq] Realty Income's Data Center Bet: What Does It Mean for Growth?
-- [Nasdaq] This 12.2% Dividend Has "Paid Back" 97.6% of Our Investment (See How)
-- [Nasdaq] Seagate's Growth Engine Gains Momentum Across 3 Fronts
+- [Yahoo Finance] Why Baidu Stock Plunged Today
+- [Yahoo Finance] Applied Optoelectronics Bets on U.S. Laser Capacity to Capture AI Data Center Demand
+- [CNBC] Cramer likes this retailer ahead of earnings — but sees trouble for one of our tech giants
+- [Yahoo Finance] Mike’s Red Tacos Announces Andrew Feghali as CEO
+- [Nasdaq] Analyst Favorites: MP Materials Ranks As a Top Metals Pick
+- [Nasdaq] Cotton Gains Extending to Tuesday Morning, Following USDA Condition Cut
+- [Nasdaq] Cotton Closes with Monday Gains, as USDA Cuts Conditions Ratings
+- [Yahoo Finance] Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
+- [CNBC] Photonics and optics: This AI-linked group is easily beating the rest of the market. How to trade it
+- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+- [Yahoo Finance] Why Affirm Stock Shrugged Off Weak Klarna Guidance
+- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
+- [Yahoo Finance] Amer Sports Shares Up After Strong 2Q Performance, Raises 2026 Guidance
+- [Nasdaq] Wheat Close Monday Mixed
+- [Nasdaq] Tuesday 8/18 Insider Buying Report: CDNL, BFLY
+- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [Nasdaq] Corn Holds the Monday Rally into the Close, as USDA Trims Ratings
+- [Nasdaq] Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts
+- [Yahoo Finance] Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results
+- [Yahoo Finance] Forget AI Stocks: Value Investing Giant Seth Klarman Is Loading Up on Genuine Parts (GPC)
+- [Yahoo Finance] Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring
+- [Yahoo Finance] Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel
+- [Mining.com] US awards $162M to turn mining waste into critical minerals
