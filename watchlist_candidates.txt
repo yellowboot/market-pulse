@@ -6,42 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 19:29
-36 of 80 news items unmatched this run
+Generated: 18.08.2026 20:52
+38 of 80 news items unmatched this run
 
-- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
-- [CoinDesk] U.S. SEC proposes first major crypto rule in surprise announcement
+- [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
 - [Nasdaq] Soybeans Holding onto Tuesday Gains at Midday
-- [Nasdaq] Cotton Fading Back Lower on Tuesday
-- [Nasdaq] Wheat Slipping Lower into Tuesday’s Midday
-- [Nasdaq] Corn Fading Early Gains for Midday Tuesday Weakness
-- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
-- [Nasdaq] Hogs Falling Lower on Tuesday
-- [Nasdaq] Cattle Bulls Pushing Higher at Tuesday’s Midday
-- [Nasdaq] Coffee Prices Surge on Supply Fears
-- [Nasdaq] Crude Prices Supported as Strait of Hormuz Remains Closed
-- [Investing.com] Tech selloff pulls Wall Street to two-week lows as bond yields climb
-- [CoinDesk] Wyoming joins $15 billion LayerZero exodus with state stablecoin move
-- [Nasdaq] Wheat Close Monday Mixed
-- [Investing.com] Why is Talen Energy stock tumbling today?
-- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
 - [Nasdaq] Favorable West African Weather Weighs on Cocoa Prices
-- [Nasdaq] Corn Holds the Monday Rally into the Close, as USDA Trims Ratings
-- [Investing.com] TikTok explores peer-to-peer payments via direct messages
-- [Investing.com] OpenAI pauses frontier model training to strengthen safeguards
-- [Investing.com] Total Wireless expands Western Union services to stores nationwide
-- [Investing.com] OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks
+- [Investing.com] Why is Backblaze stock sliding today?
+- [Nasdaq] Cotton Fading Back Lower on Tuesday
+- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.82%
+- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.27%
+- [Investing.com] Why is Mercury Systems stock plunging today?
+- [Investing.com] Why is WhiteFiber stock plunging today?
+- [Nasdaq] Global Supply Concerns Fuel a Rally in Sugar Prices
+- [Nasdaq] Cocoa Prices Fall on Exceptional Growing Conditions in West Africa
+- [Investing.com] WhiteFiber stock tumbles 25% on convertible notes offering
+- [Investing.com] Backblaze stock falls on $150M convertible notes offering
+- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
+- [Nasdaq] Tighter Coffee Supplies Push Prices Sharply Higher
+- [Nasdaq] Coffee Prices Surge on Supply Fears
+- [Nasdaq] Corn Fading Early Gains for Midday Tuesday Weakness
+- [Nasdaq] BPY's Preferred Units, Series 1 Crosses Above 10% Yield Territory
+- [Nasdaq] Telephone & Data Systems' Series UU Preferred Stock Shares Cross 8% Yield Mark
+- [CoinDesk] U.S. SEC proposes first major crypto rule in surprise announcement
+- [Nasdaq] Wheat Slipping Lower into Tuesday’s Midday
+- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [CoinDesk] Wyoming joins $15 billion LayerZero exodus with state stablecoin move
+- [Yahoo Finance] State Farm's $5 billion dividend payout is largest in company history: Who's eligible?
 - [Mining.com] Wheaton’s new CEO sees billion-dollar streaming era
 - [Mining.com] Captura, ElectraLith team up on next-gen lithium technology
-- [CNBC] Bond yields are climbing. Here’s what that means for mortgages and other consumer borrowing
 - [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
-- [MarketWatch] Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’
 - [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
 - [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
 - [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
 - [Yahoo Finance] Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
 - [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
 - [CoinDesk] Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
+- [Mining.com] US awards $162M to turn mining waste into critical minerals
 - [CNBC] Hims & Hers CEO says FTC lawsuit misunderstands how the company works
 - [Mining.com] Canadian Prime Minister announces $7B electricity project, Labrador mining upside
 - [CoinDesk] HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
+- [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
