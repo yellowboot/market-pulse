@@ -6,44 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 17:55
-38 of 80 news items unmatched this run
+Generated: 18.08.2026 19:29
+36 of 80 news items unmatched this run
 
-- [Investing.com] Etched secures $700M at doubled valuation to scale AI inference hardware
-- [Investing.com] Gold miners fall as bullion retreats on yield surge
-- [Yahoo Finance] Which Space and Defense ETF Is the Better Buy: ARK's ARKX or First Trust's MISL?
-- [Yahoo Finance] Baidu Q2 Revenue Misses as Advertising Slides—Is the AI Thesis Still Intact?
-- [Yahoo Finance] Rocket Companies Slips as Mortgage Stocks Struggle: Can RKT Catch Up With UWM and Radian?
-- [Yahoo Finance] Nasdaq slides, yields elevated as Mideast conflict fears grow
-- [Yahoo Finance] Realty Income Yields 5.2%. Here's Why the Payout Keeps Growing.
-- [Investing.com] YouTube in talks for NBA local streaming rights deal worth over $1B - SBJ
+- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
+- [CoinDesk] U.S. SEC proposes first major crypto rule in surprise announcement
+- [Nasdaq] Soybeans Holding onto Tuesday Gains at Midday
+- [Nasdaq] Cotton Fading Back Lower on Tuesday
+- [Nasdaq] Wheat Slipping Lower into Tuesday’s Midday
+- [Nasdaq] Corn Fading Early Gains for Midday Tuesday Weakness
+- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
+- [Nasdaq] Hogs Falling Lower on Tuesday
+- [Nasdaq] Cattle Bulls Pushing Higher at Tuesday’s Midday
 - [Nasdaq] Coffee Prices Surge on Supply Fears
 - [Nasdaq] Crude Prices Supported as Strait of Hormuz Remains Closed
-- [Nasdaq] Cotton Gains Extending to Tuesday Morning, Following USDA Condition Cut
-- [Yahoo Finance] What Does the Sale of Atlassian Stock Worth $1.2 Million by Its Chief Revenue Officer Mean for Investors?
-- [Yahoo Finance] Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report
-- [Nasdaq] Corn Holds the Monday Rally into the Close, as USDA Trims Ratings
-- [Investing.com] Why is Xylem stock sliding today?
-- [Investing.com] Xylem stock falls on CFO transition announcement
-- [Nasdaq] Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields
+- [Investing.com] Tech selloff pulls Wall Street to two-week lows as bond yields climb
+- [CoinDesk] Wyoming joins $15 billion LayerZero exodus with state stablecoin move
 - [Nasdaq] Wheat Close Monday Mixed
+- [Investing.com] Why is Talen Energy stock tumbling today?
+- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
+- [Nasdaq] Favorable West African Weather Weighs on Cocoa Prices
+- [Nasdaq] Corn Holds the Monday Rally into the Close, as USDA Trims Ratings
+- [Investing.com] TikTok explores peer-to-peer payments via direct messages
+- [Investing.com] OpenAI pauses frontier model training to strengthen safeguards
+- [Investing.com] Total Wireless expands Western Union services to stores nationwide
+- [Investing.com] OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks
 - [Mining.com] Wheaton’s new CEO sees billion-dollar streaming era
 - [Mining.com] Captura, ElectraLith team up on next-gen lithium technology
-- [Investing.com] Anthropic targets $10B+ credit facility ahead of planned public debut - Bloomberg
-- [Yahoo Finance] Two Florida cities top the list of US regions where home sellers are most likely to lose money on their listings
-- [Yahoo Finance] Eltek Ltd. Q2 2026 Earnings Call Summary
+- [CNBC] Bond yields are climbing. Here’s what that means for mortgages and other consumer borrowing
 - [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
 - [MarketWatch] Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’
-- [Nasdaq] Dollar Supported by Weak Stocks and Rising Bond Yields
-- [Yahoo Finance] Ecopetrol Completes $1.2 Billion Brazilian Oil Deal
-- [Investing.com] Tech selloff pulls Wall Street to two-week lows as oil and yields climb
 - [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
-- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
 - [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
-- [Nasdaq] Wheat Holding onto Mixed Trade on Tuesday Morning
-- [Nasdaq] Opendoor's Weekly Contracts Top 700: Can the Momentum Last?
-- [Nasdaq] Can Virtu Financial's New Buyback Tool Unlock More Execution Growth?
-- [Nasdaq] Cotton Closes with Monday Gains, as USDA Cuts Conditions Ratings
-- [Nasdaq] Tuesday's ETF with Unusual Volume: WTV
-- [Yahoo Finance] This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI
 - [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
+- [Yahoo Finance] Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks
+- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
+- [CoinDesk] Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
+- [CNBC] Hims & Hers CEO says FTC lawsuit misunderstands how the company works
+- [Mining.com] Canadian Prime Minister announces $7B electricity project, Labrador mining upside
+- [CoinDesk] HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
