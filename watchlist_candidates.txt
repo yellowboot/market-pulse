@@ -6,49 +6,49 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 17:50
+Generated: 19.08.2026 19:27
 43 of 80 news items unmatched this run
 
+- [CNBC] OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees
+- [Nasdaq] Corn Holding onto Wednesday Gains
+- [Nasdaq] Sugar Prices Turn Lower on Technical Selling
+- [Nasdaq] Wheat Taking Back Tuesday Weakness with Wednesday Strength
+- [Nasdaq] Soybeans Rallying on Wednesday
+- [Nasdaq] Cocoa Prices Climb on Dollar Weakness
+- [Nasdaq] Pebblebrook Hotel Trust's Series G Preferred Shares Yield Pushes Past 8%
+- [Nasdaq] Cattle Falling Despite a Resurgence in Beef
+- [Nasdaq] Hogs Posting Strength at Midday
+- [Nasdaq] Cotton Rallying Triple Digits on Wednesday
+- [Investing.com] Wall Street mostly higher as yields slide; Fed minutes hint at need for rate hikes
+- [Investing.com] Why is Century Aluminum stock sliding today?
+- [Investing.com] U.S. steel stocks drop on Canada tariff reduction report
+- [Nasdaq] Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates
+- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
+- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
+- [Investing.com] Payments firm Stripe to buy marketplace OpenRouter in AI push
+- [Investing.com] 3-2-1 crack spread near $70 a barrel: what it means for refining stocks
+- [CNBC] Bullish chart patterns are emerging for Range Resources, Frank Cappelleri says
+- [Investing.com] European stocks ends lower on higher yields and tech slump
+- [MarketWatch] Want to bet on the bond rally? Check out these overlooked funds.
 - [MarketWatch] Treasury-market reprieve could be fleeting with deluge of corporate-bond issuance due in September
 - [MarketWatch] Five reasons we’re headed for a 10% stock-market correction — or worse
-- [Investing.com] Why is Upstart stock surging today?
-- [Investing.com] Payments firm Stripe to buy AI developer platform OpenRouter
-- [Investing.com] Estée Lauder earnings analysis: questions answered and next catalysts
-- [Yahoo Finance] EU approves Mercedes, BMW and Seres joint control of Ionchi
-- [Nasdaq] Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates
-- [Nasdaq] Crude Prices Supported by Dollar Weakness and Middle East Tensions
-- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
-- [Yahoo Finance] What Investors Should Know About Sea Limited COO Gang Ye Selling 50,000 Shares for $5.9 Million
-- [Investing.com] Lowe’s earnings analysis: questions answered and next catalysts
-- [Investing.com] Lowe’s second-quarter profit beats on resilient home repair demand
-- [Nasdaq] Wheat Holding Steady so far on Wednesday Morning
-- [Yahoo Finance] Carvana stock drops 10% amid Mark Walter federal investigation
-- [Investing.com] Analog Devices earnings analysis: questions answered and next catalysts
-- [Yahoo Finance] Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine
-- [Yahoo Finance] BioMarin acquiring Alesta Therapeutics for $275 million
 - [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
-- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
-- [Yahoo Finance] Venture Global (VG): Record Earnings and Raised Outlook Signal Strong Growth
 - [CNBC] A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year
-- [Yahoo Finance] Saudi Arabia’s Biggest Driller Expands Into Oman
 - [Mining.com] Copper inventories surge 50%, easing LME squeeze
-- [Yahoo Finance] Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story
 - [CNBC] Stephanie Link is buying this little-known play on the AI food chain. And it's cheap
-- [Yahoo Finance] MemeCore Commits $1B in Tokens to ZeroStack
-- [MarketWatch] 9 stocks to ride the industrial sector’s blazing rally
-- [Yahoo Finance] Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty
-- [Nasdaq] Somnigroup Drops 28% in 6 Months: Buy the Dip or Sell the Stock?
-- [CNBC] Yields are driving the stock market right now. These are the stocks with the most at stake
-- [Yahoo Finance] US appeals court revives Signature Bank collapse lawsuit despite FDIC objection
-- [Nasdaq] Cisco Drops 10% Post Q4 Earnings: Buy, Sell or Hold the Stock?
-- [Nasdaq] AMLX Rises as Avexitide Nears 2026-End Filing With Phase III Study Win
-- [Yahoo Finance] 5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising
-- [Yahoo Finance] Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations
-- [Yahoo Finance] Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release
-- [Nasdaq] Arista Benefits From AI Networking Surge: Will Momentum Persist?
 - [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
-- [Yahoo Finance] IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally
 - [CNBC] Hedge funds are about to jump into prediction markets in a big way
-- [Yahoo Finance] Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth
-- [MarketWatch] Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging
 - [Mining.com] Community blockade keeps Endeavour’s Mexican mine shut
+- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [Mining.com] Friedland’s forgotten metal wins $400M US backing
+- [CoinDesk] AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says
+- [CoinDesk] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)
+- [CoinDesk] HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
+- [CoinDesk] Cantor opens Kalshi prediction markets to thousands of institutional clients
+- [CNBC] Car dealerships are relying more on parts and service for profits
+- [OilPrice.com] Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses
+- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
+- [Mining.com] Empire Metals shares jump as Pitfield titanium resource hits 8.2B tonnes
+- [OilPrice.com] World's Largest Electric Plane Flies for 27 Minutes on $5 of Power
+- [Retail Dive] Lowe’s cuts outlook as DIY spending remains pressured
+- [CNBC] World’s largest olive oil company surges over 20% as rivals circle in takeover battle
