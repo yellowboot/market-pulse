@@ -6,51 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 15:02
-45 of 80 news items unmatched this run
+Generated: 19.08.2026 16:30
+37 of 80 news items unmatched this run
 
-- [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
-- [CoinDesk] AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says
-- [CoinDesk] HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
-- [Yahoo Finance] Aramark’s (ARMK) AI Data Center Push Gains Traction Amid Strong Q3 Results
-- [Yahoo Finance] Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?
-- [Yahoo Finance] Why TJX Stock Dropped Today
-- [Yahoo Finance] Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite
-- [Nasdaq] September 2027 Options Now Available For McKesson (MCK)
-- [Nasdaq] Interesting JBL Put And Call Options For September 2027
-- [Investing.com] Why is Pilgrim’s Pride stock surging today?
-- [Yahoo Finance] Munich Re to acquire cyber insurtech company At-Bay for $575m
+- [Investing.com] Progressive Bounces Back: Wall Street Weighs a Quality Insurer at a Crossroads
+- [Yahoo Finance] 5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising
+- [Yahoo Finance] Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations
+- [Yahoo Finance] Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release
+- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.13%
 - [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
-- [Investing.com] TJ Maxx, Marshalls slowdown shadows TJX earnings beat as spending tapers
-- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
-- [Nasdaq] Soybeans Surging Higher on Wednesday Morning
-- [Investing.com] Marco Capital to acquire Pro Global insurance services
-- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
-- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
-- [Nasdaq] Cotton Back to Rally Mode on Wednesday Morning
-- [Nasdaq] Wheat Holding Steady so far on Wednesday Morning
-- [Nasdaq] Reminder - Brunswick (BC) Goes Ex-Dividend Soon
-- [Nasdaq] LCII Ex-Dividend Reminder - 8/21/26
-- [Nasdaq] Ex-Div Reminder for Hennessy Advisors (HNNA)
-- [Nasdaq] Reminder - AngloGold Ashanti (AU) Goes Ex-Dividend Soon
-- [Nasdaq] Reminder - LeMaitre Vascular (LMAT) Goes Ex-Dividend Soon
-- [Nasdaq] Primerica About To Put More Money In Your Pocket (PRI)
-- [Yahoo Finance] eToro’s (ETOR) Acquisition Spree Signals A Bigger Ambition Than Trading
-- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
-- [Investing.com] Dollar Index plunges to 98.78 with RSI at 23.6: Live levels
-- [CNBC] Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.
-- [Yahoo Finance] ‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock
-- [Yahoo Finance] Vestis (VSTS) Delivers Its First Real Pricing Win
-- [Yahoo Finance] Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck
-- [CNBC] Car dealerships are relying more on parts and service for profits
-- [Yahoo Finance] Can Intuit (INTU) Turn AI Disruption Into an Advantage?
-- [MarketWatch] Pressure on bonds abates as Treasury announces buybacks. What may come next.
-- [Yahoo Finance] Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul
-- [Yahoo Finance] Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO
-- [Yahoo Finance] Global bonds rally on signs of support for US Treasury market
-- [Yahoo Finance] Tether Remains Dominant Stablecoin Despite Rising Competition
-- [Yahoo Finance] Here’s Why MercadoLibre (MELI) Offers Long Runway for Growth?
-- [Yahoo Finance] Instant View: US Treasury will double some bond buy backs
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.44%
+- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.71%
+- [Yahoo Finance] IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally
 - [CNBC] Hedge funds are about to jump into prediction markets in a big way
-- [CNBC] What's behind the move higher in yields? Blame AI
-- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
+- [Yahoo Finance] One of Wall Street’s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks
+- [CNBC] Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’
+- [Nasdaq] Wednesday's ETF Movers: SIL, PTF
+- [Nasdaq] Wednesday Sector Laggards: Semiconductors, Computers
+- [Nasdaq] Wednesday Sector Leaders: Precious Metals, General Contractors & Builders
+- [CNBC] Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart
+- [Nasdaq] Daily Dividend Report: KSS,MTB,TRST,RGLD,SSNC,O
+- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
+- [MarketWatch] Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging
+- [Nasdaq] See How First Majestic Silver Ranks Among Analysts' Top Metals Picks
+- [Yahoo Finance] Indian fintech Navi to raise $100 million ahead of planned IPO
+- [Yahoo Finance] Indexed universal life insurance (IUL): Risks, costs, and how it works
+- [Yahoo Finance] Dollar weakens after Treasury boosts long-dated bond repurchases
+- [Yahoo Finance] Lyntris valued at $1.8 billion after shares fall in New York debut
+- [Yahoo Finance] A New Defense Stock Is Born: Lyntris IPO Set For Wednesday
+- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [Nasdaq] Dollar Edges Higher as Stocks Slide
+- [Nasdaq] DECK's International Segment Gains Traction on Strong HOKA, UGG Demand
+- [Nasdaq] Do Options Traders Know Something About NCR Voyix Stock We Don't?
+- [Yahoo Finance] FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap
+- [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
+- [Mining.com] Friedland’s forgotten metal wins $400M US backing
+- [Nasdaq] Wednesday 8/19 Insider Buying Report: AUGO, CODI
+- [CoinDesk] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)
+- [Yahoo Finance] Bessent Doubles Down on the Bond Market Nobody Wanted
+- [CoinDesk] Cantor opens Kalshi prediction markets to thousands of institutional clients
