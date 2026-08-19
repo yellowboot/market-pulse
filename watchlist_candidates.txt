@@ -6,43 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 13:37
-37 of 80 news items unmatched this run
+Generated: 19.08.2026 15:02
+45 of 80 news items unmatched this run
 
-- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
-- [Investing.com] Why is Pilgrim’s Pride stock surging today?
-- [Investing.com] FN stock: Is Fabrinet’s 19% post-earnings crash a buying trap?
-- [Investing.com] Pilgrim’s Pride stock jumps on JBS buyout proposal
-- [Yahoo Finance] Amentum (AMTM) Q3 2026 Earnings Call Transcript
-- [Investing.com] Estee Lauder forecasts strong annual profit on resilient fragrance demand
-- [Yahoo Finance] NHI (NHI) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] $500,000 and One Income ETF Slot: Which of SPYI, JEPQ and GPIQ Holds Up in a Dead Quiet Market?
-- [Investing.com] Tech stocks draw record inflows in data going back to 2008
-- [Investing.com] Why is PHLX Gold Silver Settlement stock sliding today?
-- [Yahoo Finance] Where Will Chipotle Mexican Grill's Stock Be in 5 Years?
-- [Investing.com] UBS cuts Cellnex as M&A uncertainty, MSA disputes weigh on outlook
-- [Yahoo Finance] RingCentral CFO Sells 3,437 Shares After Stock's 116% Rise
-- [Yahoo Finance] Director's Vote of Confidence: Mobileye Insider Buys Nearly 12,000 Shares Post-Decline
-- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
-- [MarketWatch] SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback
-- [CNBC] Short-dated debt still offers value amid global bond rout, says UBS. Here's why
-- [CNBC] U.S. government debt yields are surging at a bad time. Here's what's behind the move
-- [Yahoo Finance] A New Defense Stock Is Born: Lyntris IPO Set For Wednesday
-- [Nasdaq] Global Supply Concerns Fuel a Rally in Sugar Prices
-- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
 - [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
-- [CNBC] World’s largest olive oil company surges over 20% as rivals circle in takeover battle
-- [Yahoo Finance] How Howard Hughes Holdings’ (HHH) Vantage Acquisition Sets the Stage for Compound Growth?
-- [Yahoo Finance] Opera Hits Sour Note With Soft Full-Year Sales Guidance
-- [Yahoo Finance] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales
-- [Nasdaq] Tapestry's Direct-to-Consumer Model Emerges as a Key Growth Driver
-- [Mining.com] Copper prices run signals deeper supply squeeze: Sprott
-- [CoinDesk] China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week
-- [Nasdaq] 5 Stocks With Recent Price Strength to Enhance Your Portfolio Returns
-- [Nasdaq] 5 Value Stocks With Alluring EV-to-EBITDA Ratios to Scoop Up
-- [CNBC] Retail investors aren't entirely giving up on AI trade, but they appear more cautious
-- [CNBC] Dollar risks are mounting. Here’s what could weaken the greenback
-- [CNBC] Car dealerships are relying more on parts and service for profits
+- [CoinDesk] AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says
+- [CoinDesk] HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
+- [Yahoo Finance] Aramark’s (ARMK) AI Data Center Push Gains Traction Amid Strong Q3 Results
+- [Yahoo Finance] Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?
+- [Yahoo Finance] Why TJX Stock Dropped Today
+- [Yahoo Finance] Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite
+- [Nasdaq] September 2027 Options Now Available For McKesson (MCK)
+- [Nasdaq] Interesting JBL Put And Call Options For September 2027
+- [Investing.com] Why is Pilgrim’s Pride stock surging today?
+- [Yahoo Finance] Munich Re to acquire cyber insurtech company At-Bay for $575m
+- [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
+- [Investing.com] TJ Maxx, Marshalls slowdown shadows TJX earnings beat as spending tapers
+- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [Nasdaq] Soybeans Surging Higher on Wednesday Morning
+- [Investing.com] Marco Capital to acquire Pro Global insurance services
+- [MarketWatch] Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.
+- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
+- [Nasdaq] Cotton Back to Rally Mode on Wednesday Morning
+- [Nasdaq] Wheat Holding Steady so far on Wednesday Morning
+- [Nasdaq] Reminder - Brunswick (BC) Goes Ex-Dividend Soon
+- [Nasdaq] LCII Ex-Dividend Reminder - 8/21/26
+- [Nasdaq] Ex-Div Reminder for Hennessy Advisors (HNNA)
+- [Nasdaq] Reminder - AngloGold Ashanti (AU) Goes Ex-Dividend Soon
+- [Nasdaq] Reminder - LeMaitre Vascular (LMAT) Goes Ex-Dividend Soon
+- [Nasdaq] Primerica About To Put More Money In Your Pocket (PRI)
+- [Yahoo Finance] eToro’s (ETOR) Acquisition Spree Signals A Bigger Ambition Than Trading
+- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
+- [Investing.com] Dollar Index plunges to 98.78 with RSI at 23.6: Live levels
 - [CNBC] Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.
-- [Mining.com] Lundin Mining cuts copper outlook as Chile storms strike again
-- [CoinDesk] TikTok code includes peer-to-peer payments over messaging: Bloomberg
+- [Yahoo Finance] ‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock
+- [Yahoo Finance] Vestis (VSTS) Delivers Its First Real Pricing Win
+- [Yahoo Finance] Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck
+- [CNBC] Car dealerships are relying more on parts and service for profits
+- [Yahoo Finance] Can Intuit (INTU) Turn AI Disruption Into an Advantage?
+- [MarketWatch] Pressure on bonds abates as Treasury announces buybacks. What may come next.
+- [Yahoo Finance] Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul
+- [Yahoo Finance] Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO
+- [Yahoo Finance] Global bonds rally on signs of support for US Treasury market
+- [Yahoo Finance] Tether Remains Dominant Stablecoin Despite Rising Competition
+- [Yahoo Finance] Here’s Why MercadoLibre (MELI) Offers Long Runway for Growth?
+- [Yahoo Finance] Instant View: US Treasury will double some bond buy backs
+- [CNBC] Hedge funds are about to jump into prediction markets in a big way
+- [CNBC] What's behind the move higher in yields? Blame AI
+- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
