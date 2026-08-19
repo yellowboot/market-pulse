@@ -6,50 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 18.08.2026 21:49
-44 of 80 news items unmatched this run
+Generated: 19.08.2026 12:58
+38 of 80 news items unmatched this run
 
-- [CNBC] Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner
-- [CoinDesk] U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'
-- [Nasdaq] Crude Prices Gain on Reduced Middle Eastern Oil Supplies
-- [Nasdaq] Forecasts for Hot US Temperatures Lift Nat-Gas Prices
-- [Nasdaq] Ginkgo Bioworks Holdings Enters Oversold Territory (DNA)
-- [Nasdaq] Corporacion America Airports Enters Oversold Territory (CAAP)
-- [CNBC] OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'
-- [Investing.com] Anthropic moves to bolster founder control ahead of mega-IPO - The Information
-- [Nasdaq] Hogs Falling Lower on Tuesday
-- [Nasdaq] Cotton Fading Back Lower on Tuesday
-- [Nasdaq] Leverage Shares 2X Long BIDU Daily Getting Very Oversold
-- [Nasdaq] KBDU Crosses Critical Technical Indicator
-- [Nasdaq] Capri Holdings is Now Oversold (CPRI)
-- [CNBC] Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more
-- [Investing.com] Tech selloff weighs down Wall Street as bond yields climb
+- [CNBC] Treasury announces upscaled buyback operation for longer-term debt, sending yields lower
+- [MarketWatch] SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback
+- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.13%
+- [Yahoo Finance] Mortgage demand stalls as 30-year rate holds at 6.77%
+- [CNBC] Short-dated debt still offers value amid global bond rout, says UBS. Here's why
+- [Investing.com] Universal Display stock rises on new OLED architecture unveiling
+- [Yahoo Finance] Estée Lauder Q4 2026 earnings beat, fiscal 2027 profit forecast
+- [Yahoo Finance] VB vs ISCB: Which Small-Cap ETF Offers Better Value?
+- [Yahoo Finance] Most Investors Have Never Heard of the Bond ETFs That Lock In 5 Percent Yields Through 2030
+- [Yahoo Finance] The Next Massive Robotics IPO Is Coming. Will Robotics Stocks Be 2027’s Biggest Investing Trend?
+- [Investing.com] Why is United States Antimony stock climbing today?
+- [Investing.com] European stocks reel from worst day in a month; Lagarde, Fed minutes awaited
+- [Investing.com] US Antimony stock gains after $100M buyback approval
+- [Yahoo Finance] These Are 3 of the Cheapest Stocks on the Nasdaq-100 Right Now. Are They Deals, or Is There Underlying Risk Here?
+- [Yahoo Finance] A New Defense Stock Is Born: Lyntris IPO Set For Wednesday
+- [Yahoo Finance] EXCLUSIVE: Sunshine Biopharma Secures Canadian Approval for Generic Hypertension Drug
+- [Investing.com] BofA adds two tech bankers for semiconductors and Latin America - Bloomberg
 - [Nasdaq] Global Supply Concerns Fuel a Rally in Sugar Prices
-- [Investing.com] Why is Evolution Petroleum stock sliding today?
-- [Investing.com] Why is WhiteFiber stock plunging today?
-- [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
-- [Investing.com] Why is La-Z-Boy stock plunging today?
-- [Investing.com] Why is Keysight Technologies stock surging today?
-- [Investing.com] Why is Backblaze stock sliding today?
-- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.82%
-- [MarketWatch] Here’s a ‘ridiculously cheap’ way to protect yourself against a stock-market selloff
-- [CNBC] If AI is a bubble, could rising yields pop it?
-- [CNBC] CNBC Points Pro: Can you buy a car with a credit card?
-- [MarketWatch] Mortgage rates could move even higher — dealing a fresh blow to home buyers
-- [CoinDesk] U.S. SEC proposes first major crypto rule in surprise announcement
-- [CoinDesk] Wyoming joins $15 billion LayerZero exodus with state stablecoin move
-- [Mining.com] Wheaton’s new CEO sees billion-dollar streaming era
-- [Mining.com] Captura, ElectraLith team up on next-gen lithium technology
-- [CNBC] Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf
-- [CNBC] A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets
-- [CNBC] Cyclospora is changing the American workplace lunch: 'We switched our marketing immediately,' says Saladworks CEO
-- [CoinDesk] Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs
-- [OilPrice.com] AI Could Make Big Oil Even Bigger
-- [OilPrice.com] Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge
-- [CNBC] Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales
-- [CoinDesk] Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw
-- [Mining.com] US awards $162M to turn mining waste into critical minerals
-- [CNBC] Hims & Hers CEO says FTC lawsuit misunderstands how the company works
-- [Mining.com] Canadian Prime Minister announces $7B electricity project, Labrador mining upside
-- [CoinDesk] HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals
-- [CNBC] Home Depot reaffirms guidance amid 'frozen housing market conditions'
+- [Nasdaq] Sugar Prices Soar on Global Supply Concerns
+- [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
+- [CNBC] World’s largest olive oil company surges over 20% as rivals circle in takeover battle
+- [Yahoo Finance] How Howard Hughes Holdings’ (HHH) Vantage Acquisition Sets the Stage for Compound Growth?
+- [Yahoo Finance] Opera Hits Sour Note With Soft Full-Year Sales Guidance
+- [Yahoo Finance] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales
+- [Yahoo Finance] America's Greatest Opportunities: A Mobile Home Builder Emerges From A Market Correction
+- [Yahoo Finance] Elon Musk's 'Bank' Will Pay A Risk-Free 6% Yield On Your Cash
+- [Yahoo Finance] Is Resistance Futile Or Fiery? This AI Stock Checks Its Wires.
+- [Yahoo Finance] This Rare VIX Signal Says Now's the Time to Take Profits
+- [Yahoo Finance] What Makes Alcon (ALC) a Bullish Bet?
+- [Yahoo Finance] Is Intercontinental Exchange (ICE) a Simple, Durable Business Misunderstood by Market?
+- [CoinDesk] China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week
+- [Yahoo Finance] Buybacks and EPS Growth Strengthens Restaurant Brands International’s (QSR) Upside
+- [Yahoo Finance] Warren Buffett once said he’d buy a ‘couple hundred thousand’ American homes.
+- [Nasdaq] 5 Value Stocks With Alluring EV-to-EBITDA Ratios to Scoop Up
+- [CNBC] Retail investors aren't entirely giving up on AI trade, but they appear more cautious
+- [CNBC] Car dealerships are relying more on parts and service for profits
+- [CNBC] Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.
+- [Mining.com] Lundin Mining cuts copper outlook as Chile storms strike again
