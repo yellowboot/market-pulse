@@ -6,43 +6,49 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 16:30
-37 of 80 news items unmatched this run
+Generated: 19.08.2026 17:50
+43 of 80 news items unmatched this run
 
-- [Investing.com] Progressive Bounces Back: Wall Street Weighs a Quality Insurer at a Crossroads
+- [MarketWatch] Treasury-market reprieve could be fleeting with deluge of corporate-bond issuance due in September
+- [MarketWatch] Five reasons we’re headed for a 10% stock-market correction — or worse
+- [Investing.com] Why is Upstart stock surging today?
+- [Investing.com] Payments firm Stripe to buy AI developer platform OpenRouter
+- [Investing.com] Estée Lauder earnings analysis: questions answered and next catalysts
+- [Yahoo Finance] EU approves Mercedes, BMW and Seres joint control of Ionchi
+- [Nasdaq] Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates
+- [Nasdaq] Crude Prices Supported by Dollar Weakness and Middle East Tensions
+- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
+- [Yahoo Finance] What Investors Should Know About Sea Limited COO Gang Ye Selling 50,000 Shares for $5.9 Million
+- [Investing.com] Lowe’s earnings analysis: questions answered and next catalysts
+- [Investing.com] Lowe’s second-quarter profit beats on resilient home repair demand
+- [Nasdaq] Wheat Holding Steady so far on Wednesday Morning
+- [Yahoo Finance] Carvana stock drops 10% amid Mark Walter federal investigation
+- [Investing.com] Analog Devices earnings analysis: questions answered and next catalysts
+- [Yahoo Finance] Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine
+- [Yahoo Finance] BioMarin acquiring Alesta Therapeutics for $275 million
+- [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
+- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
+- [Yahoo Finance] Venture Global (VG): Record Earnings and Raised Outlook Signal Strong Growth
+- [CNBC] A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year
+- [Yahoo Finance] Saudi Arabia’s Biggest Driller Expands Into Oman
+- [Mining.com] Copper inventories surge 50%, easing LME squeeze
+- [Yahoo Finance] Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story
+- [CNBC] Stephanie Link is buying this little-known play on the AI food chain. And it's cheap
+- [Yahoo Finance] MemeCore Commits $1B in Tokens to ZeroStack
+- [MarketWatch] 9 stocks to ride the industrial sector’s blazing rally
+- [Yahoo Finance] Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty
+- [Nasdaq] Somnigroup Drops 28% in 6 Months: Buy the Dip or Sell the Stock?
+- [CNBC] Yields are driving the stock market right now. These are the stocks with the most at stake
+- [Yahoo Finance] US appeals court revives Signature Bank collapse lawsuit despite FDIC objection
+- [Nasdaq] Cisco Drops 10% Post Q4 Earnings: Buy, Sell or Hold the Stock?
+- [Nasdaq] AMLX Rises as Avexitide Nears 2026-End Filing With Phase III Study Win
 - [Yahoo Finance] 5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising
 - [Yahoo Finance] Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations
 - [Yahoo Finance] Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release
-- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.13%
+- [Nasdaq] Arista Benefits From AI Networking Surge: Will Momentum Persist?
 - [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.44%
-- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.71%
 - [Yahoo Finance] IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally
 - [CNBC] Hedge funds are about to jump into prediction markets in a big way
-- [Yahoo Finance] One of Wall Street’s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks
-- [CNBC] Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’
-- [Nasdaq] Wednesday's ETF Movers: SIL, PTF
-- [Nasdaq] Wednesday Sector Laggards: Semiconductors, Computers
-- [Nasdaq] Wednesday Sector Leaders: Precious Metals, General Contractors & Builders
-- [CNBC] Stock winners and losers as Anthropic passes OpenAI as hottest AI upstart
-- [Nasdaq] Daily Dividend Report: KSS,MTB,TRST,RGLD,SSNC,O
-- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
+- [Yahoo Finance] Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth
 - [MarketWatch] Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging
-- [Nasdaq] See How First Majestic Silver Ranks Among Analysts' Top Metals Picks
-- [Yahoo Finance] Indian fintech Navi to raise $100 million ahead of planned IPO
-- [Yahoo Finance] Indexed universal life insurance (IUL): Risks, costs, and how it works
-- [Yahoo Finance] Dollar weakens after Treasury boosts long-dated bond repurchases
-- [Yahoo Finance] Lyntris valued at $1.8 billion after shares fall in New York debut
-- [Yahoo Finance] A New Defense Stock Is Born: Lyntris IPO Set For Wednesday
-- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
-- [Nasdaq] Dollar Edges Higher as Stocks Slide
-- [Nasdaq] DECK's International Segment Gains Traction on Strong HOKA, UGG Demand
-- [Nasdaq] Do Options Traders Know Something About NCR Voyix Stock We Don't?
-- [Yahoo Finance] FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap
-- [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
-- [Mining.com] Friedland’s forgotten metal wins $400M US backing
-- [Nasdaq] Wednesday 8/19 Insider Buying Report: AUGO, CODI
-- [CoinDesk] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)
-- [Yahoo Finance] Bessent Doubles Down on the Bond Market Nobody Wanted
-- [CoinDesk] Cantor opens Kalshi prediction markets to thousands of institutional clients
+- [Mining.com] Community blockade keeps Endeavour’s Mexican mine shut
