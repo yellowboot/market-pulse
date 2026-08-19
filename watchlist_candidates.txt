@@ -6,26 +6,28 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 12:58
-38 of 80 news items unmatched this run
+Generated: 19.08.2026 13:37
+37 of 80 news items unmatched this run
 
-- [CNBC] Treasury announces upscaled buyback operation for longer-term debt, sending yields lower
+- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [Investing.com] Why is Pilgrim’s Pride stock surging today?
+- [Investing.com] FN stock: Is Fabrinet’s 19% post-earnings crash a buying trap?
+- [Investing.com] Pilgrim’s Pride stock jumps on JBS buyout proposal
+- [Yahoo Finance] Amentum (AMTM) Q3 2026 Earnings Call Transcript
+- [Investing.com] Estee Lauder forecasts strong annual profit on resilient fragrance demand
+- [Yahoo Finance] NHI (NHI) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] $500,000 and One Income ETF Slot: Which of SPYI, JEPQ and GPIQ Holds Up in a Dead Quiet Market?
+- [Investing.com] Tech stocks draw record inflows in data going back to 2008
+- [Investing.com] Why is PHLX Gold Silver Settlement stock sliding today?
+- [Yahoo Finance] Where Will Chipotle Mexican Grill's Stock Be in 5 Years?
+- [Investing.com] UBS cuts Cellnex as M&A uncertainty, MSA disputes weigh on outlook
+- [Yahoo Finance] RingCentral CFO Sells 3,437 Shares After Stock's 116% Rise
+- [Yahoo Finance] Director's Vote of Confidence: Mobileye Insider Buys Nearly 12,000 Shares Post-Decline
+- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
 - [MarketWatch] SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.13%
-- [Yahoo Finance] Mortgage demand stalls as 30-year rate holds at 6.77%
 - [CNBC] Short-dated debt still offers value amid global bond rout, says UBS. Here's why
-- [Investing.com] Universal Display stock rises on new OLED architecture unveiling
-- [Yahoo Finance] Estée Lauder Q4 2026 earnings beat, fiscal 2027 profit forecast
-- [Yahoo Finance] VB vs ISCB: Which Small-Cap ETF Offers Better Value?
-- [Yahoo Finance] Most Investors Have Never Heard of the Bond ETFs That Lock In 5 Percent Yields Through 2030
-- [Yahoo Finance] The Next Massive Robotics IPO Is Coming. Will Robotics Stocks Be 2027’s Biggest Investing Trend?
-- [Investing.com] Why is United States Antimony stock climbing today?
-- [Investing.com] European stocks reel from worst day in a month; Lagarde, Fed minutes awaited
-- [Investing.com] US Antimony stock gains after $100M buyback approval
-- [Yahoo Finance] These Are 3 of the Cheapest Stocks on the Nasdaq-100 Right Now. Are They Deals, or Is There Underlying Risk Here?
+- [CNBC] U.S. government debt yields are surging at a bad time. Here's what's behind the move
 - [Yahoo Finance] A New Defense Stock Is Born: Lyntris IPO Set For Wednesday
-- [Yahoo Finance] EXCLUSIVE: Sunshine Biopharma Secures Canadian Approval for Generic Hypertension Drug
-- [Investing.com] BofA adds two tech bankers for semiconductors and Latin America - Bloomberg
 - [Nasdaq] Global Supply Concerns Fuel a Rally in Sugar Prices
 - [Nasdaq] Sugar Prices Soar on Global Supply Concerns
 - [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
@@ -33,17 +35,14 @@ Generated: 19.08.2026 12:58
 - [Yahoo Finance] How Howard Hughes Holdings’ (HHH) Vantage Acquisition Sets the Stage for Compound Growth?
 - [Yahoo Finance] Opera Hits Sour Note With Soft Full-Year Sales Guidance
 - [Yahoo Finance] Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales
-- [Yahoo Finance] America's Greatest Opportunities: A Mobile Home Builder Emerges From A Market Correction
-- [Yahoo Finance] Elon Musk's 'Bank' Will Pay A Risk-Free 6% Yield On Your Cash
-- [Yahoo Finance] Is Resistance Futile Or Fiery? This AI Stock Checks Its Wires.
-- [Yahoo Finance] This Rare VIX Signal Says Now's the Time to Take Profits
-- [Yahoo Finance] What Makes Alcon (ALC) a Bullish Bet?
-- [Yahoo Finance] Is Intercontinental Exchange (ICE) a Simple, Durable Business Misunderstood by Market?
+- [Nasdaq] Tapestry's Direct-to-Consumer Model Emerges as a Key Growth Driver
+- [Mining.com] Copper prices run signals deeper supply squeeze: Sprott
 - [CoinDesk] China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week
-- [Yahoo Finance] Buybacks and EPS Growth Strengthens Restaurant Brands International’s (QSR) Upside
-- [Yahoo Finance] Warren Buffett once said he’d buy a ‘couple hundred thousand’ American homes.
+- [Nasdaq] 5 Stocks With Recent Price Strength to Enhance Your Portfolio Returns
 - [Nasdaq] 5 Value Stocks With Alluring EV-to-EBITDA Ratios to Scoop Up
 - [CNBC] Retail investors aren't entirely giving up on AI trade, but they appear more cautious
+- [CNBC] Dollar risks are mounting. Here’s what could weaken the greenback
 - [CNBC] Car dealerships are relying more on parts and service for profits
 - [CNBC] Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.
 - [Mining.com] Lundin Mining cuts copper outlook as Chile storms strike again
+- [CoinDesk] TikTok code includes peer-to-peer payments over messaging: Bloomberg
