@@ -6,44 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 20:56
-44 of 80 news items unmatched this run
+Generated: 19.08.2026 21:52
+38 of 80 news items unmatched this run
 
-- [Investing.com] Coty beats quarterly revenue, calls fiscal 2027 ’transition year’ on business overhaul
-- [Nasdaq] Concerns about Tighter Global Supplies Underpin Sugar Prices
-- [Nasdaq] Dollar Weakness Lifts Cocoa Prices
-- [Nasdaq] Brazil Coffee Harvest Pressures Weigh on Coffee Prices
+- [Nasdaq] Dollar Tumbles and Gold Prices Jump as US Treasury Boosts Liquidity
 - [Nasdaq] Wheat Taking Back Tuesday Weakness with Wednesday Strength
+- [Nasdaq] Heightened Middle East Tensions Boost Crude Oil Prices
+- [Investing.com] Canada closes higher helped by rally in mining stocks as tariffs deal linger
+- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 1.23%
+- [Nasdaq] Cattle Falling Despite a Resurgence in Beef
+- [Investing.com] Why is Nordson stock surging today?
+- [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
+- [Investing.com] Why is Webull stock surging today?
+- [Investing.com] Why is Wolfspeed stock sliding today?
+- [Investing.com] Coty beats quarterly revenue estimates, names former BAT finance chief as CFO
+- [Nasdaq] Dollar Weakness Lifts Cocoa Prices
+- [Nasdaq] Corn Holding onto Wednesday Gains
+- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
+- [Nasdaq] Nat-Gas Prices Rally on Hot US Weather Forecasts
+- [Nasdaq] Concerns about Tighter Global Supplies Underpin Sugar Prices
+- [Nasdaq] Brazil Coffee Harvest Pressures Weigh on Coffee Prices
 - [Mining.com] Gold Fields boosts stake in Suriname-focused Founders for $55M
-- [Nasdaq] Cable One Enters Oversold Territory (CABO)
-- [Nasdaq] Markel Group Becomes Oversold (MKL)
-- [Nasdaq] RSI Alert: Controladora Vuela Compania De Aviacion (VLRS) Now Oversold
-- [Nasdaq] RBC Bearings is Now Oversold (RBC)
-- [Nasdaq] Oversold Conditions For Southwest Airlines (LUV)
-- [Investing.com] Air Products outlook raised to stable by S&P on lower spending
-- [Nasdaq] Gold Fields Breaks Above 200-Day Moving Average - Bullish for GFI
-- [Nasdaq] CLF Crosses Below Key Moving Average Level
-- [Nasdaq] GSK Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] Hecla Mining (HL) Shares Cross Above 200 DMA
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - CMC
-- [Investing.com] Aurinia stock falls on Teva patent settlement for voclosporin
-- [Investing.com] Edesa Biotech stock tumbles on public offering launch
-- [Investing.com] Wall Street snaps three-day losing run as Treasury provides relief to bond markets
 - [CNBC] Stripe to buy OpenRouter as fintech expands deeper into AI
 - [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
-- [CNBC] You don't need a rewards card — you need a lower interest rate. Here are 3 zero-interest cards to consider
 - [CNBC] OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees
-- [MarketWatch] You can now Venmo your kid’s college tuition. But should you?
 - [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
 - [CNBC] Getting in on single-stock futures? Watch for these potential tax surprises
-- [CoinDesk] HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.
 - [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
 - [CNBC] This fintech turned bank is winning with AI-powered lending and the right customers
+- [CoinDesk] Crypto campaign fund Fairshake faces $2 million setback in Florida primaries
 - [CNBC] A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year
 - [Mining.com] Copper inventories surge 50%, easing LME squeeze
 - [CNBC] Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’
-- [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
 - [CNBC] Hedge funds are about to jump into prediction markets in a big way
+- [OilPrice.com] SLB Prepares to Restart 15 Oil Rigs in Venezuela
 - [Mining.com] Community blockade keeps Endeavour’s Mexican mine shut
 - [OilPrice.com] $100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests
 - [Mining.com] Friedland’s forgotten metal wins $400M US backing
@@ -51,5 +47,3 @@ Generated: 19.08.2026 20:56
 - [CoinDesk] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)
 - [CoinDesk] HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
 - [CoinDesk] Cantor opens Kalshi prediction markets to thousands of institutional clients
-- [OilPrice.com] Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses
-- [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
