@@ -6,49 +6,50 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 19.08.2026 19:27
-43 of 80 news items unmatched this run
+Generated: 19.08.2026 20:56
+44 of 80 news items unmatched this run
 
-- [CNBC] OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees
-- [Nasdaq] Corn Holding onto Wednesday Gains
-- [Nasdaq] Sugar Prices Turn Lower on Technical Selling
+- [Investing.com] Coty beats quarterly revenue, calls fiscal 2027 ’transition year’ on business overhaul
+- [Nasdaq] Concerns about Tighter Global Supplies Underpin Sugar Prices
+- [Nasdaq] Dollar Weakness Lifts Cocoa Prices
+- [Nasdaq] Brazil Coffee Harvest Pressures Weigh on Coffee Prices
 - [Nasdaq] Wheat Taking Back Tuesday Weakness with Wednesday Strength
-- [Nasdaq] Soybeans Rallying on Wednesday
-- [Nasdaq] Cocoa Prices Climb on Dollar Weakness
-- [Nasdaq] Pebblebrook Hotel Trust's Series G Preferred Shares Yield Pushes Past 8%
-- [Nasdaq] Cattle Falling Despite a Resurgence in Beef
-- [Nasdaq] Hogs Posting Strength at Midday
-- [Nasdaq] Cotton Rallying Triple Digits on Wednesday
-- [Investing.com] Wall Street mostly higher as yields slide; Fed minutes hint at need for rate hikes
-- [Investing.com] Why is Century Aluminum stock sliding today?
-- [Investing.com] U.S. steel stocks drop on Canada tariff reduction report
-- [Nasdaq] Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates
-- [Nasdaq] Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks
-- [Nasdaq] Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline
-- [Investing.com] Payments firm Stripe to buy marketplace OpenRouter in AI push
-- [Investing.com] 3-2-1 crack spread near $70 a barrel: what it means for refining stocks
-- [CNBC] Bullish chart patterns are emerging for Range Resources, Frank Cappelleri says
-- [Investing.com] European stocks ends lower on higher yields and tech slump
-- [MarketWatch] Want to bet on the bond rally? Check out these overlooked funds.
-- [MarketWatch] Treasury-market reprieve could be fleeting with deluge of corporate-bond issuance due in September
-- [MarketWatch] Five reasons we’re headed for a 10% stock-market correction — or worse
+- [Mining.com] Gold Fields boosts stake in Suriname-focused Founders for $55M
+- [Nasdaq] Cable One Enters Oversold Territory (CABO)
+- [Nasdaq] Markel Group Becomes Oversold (MKL)
+- [Nasdaq] RSI Alert: Controladora Vuela Compania De Aviacion (VLRS) Now Oversold
+- [Nasdaq] RBC Bearings is Now Oversold (RBC)
+- [Nasdaq] Oversold Conditions For Southwest Airlines (LUV)
+- [Investing.com] Air Products outlook raised to stable by S&P on lower spending
+- [Nasdaq] Gold Fields Breaks Above 200-Day Moving Average - Bullish for GFI
+- [Nasdaq] CLF Crosses Below Key Moving Average Level
+- [Nasdaq] GSK Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] Hecla Mining (HL) Shares Cross Above 200 DMA
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - CMC
+- [Investing.com] Aurinia stock falls on Teva patent settlement for voclosporin
+- [Investing.com] Edesa Biotech stock tumbles on public offering launch
+- [Investing.com] Wall Street snaps three-day losing run as Treasury provides relief to bond markets
+- [CNBC] Stripe to buy OpenRouter as fintech expands deeper into AI
+- [MarketWatch] Hidden Valley Ranch dressing may be a victim of this summer’s salad scare
+- [CNBC] You don't need a rewards card — you need a lower interest rate. Here are 3 zero-interest cards to consider
+- [CNBC] OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees
+- [MarketWatch] You can now Venmo your kid’s college tuition. But should you?
 - [CNBC] Lowe's gives muted outlook as it sees 'pressure' in home improvement spending
+- [CNBC] Getting in on single-stock futures? Watch for these potential tax surprises
+- [CoinDesk] HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.
+- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [CNBC] This fintech turned bank is winning with AI-powered lending and the right customers
 - [CNBC] A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year
 - [Mining.com] Copper inventories surge 50%, easing LME squeeze
-- [CNBC] Stephanie Link is buying this little-known play on the AI food chain. And it's cheap
+- [CNBC] Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’
 - [CNBC] Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters
 - [CNBC] Hedge funds are about to jump into prediction markets in a big way
 - [Mining.com] Community blockade keeps Endeavour’s Mexican mine shut
-- [CNBC] Treasury doubles debt buybacks as Bessent moves to steady bond market
+- [OilPrice.com] $100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests
 - [Mining.com] Friedland’s forgotten metal wins $400M US backing
 - [CoinDesk] AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says
 - [CoinDesk] Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)
 - [CoinDesk] HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger
 - [CoinDesk] Cantor opens Kalshi prediction markets to thousands of institutional clients
-- [CNBC] Car dealerships are relying more on parts and service for profits
 - [OilPrice.com] Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses
 - [CoinDesk] Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility
-- [Mining.com] Empire Metals shares jump as Pitfield titanium resource hits 8.2B tonnes
-- [OilPrice.com] World's Largest Electric Plane Flies for 27 Minutes on $5 of Power
-- [Retail Dive] Lowe’s cuts outlook as DIY spending remains pressured
-- [CNBC] World’s largest olive oil company surges over 20% as rivals circle in takeover battle
