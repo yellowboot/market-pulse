@@ -6,56 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 16:33
-50 of 80 news items unmatched this run
+Generated: 20.08.2026 17:56
+40 of 80 news items unmatched this run
 
-- [Yahoo Finance] Why Wolfspeed Stock Crashed Today
+- [CNBC] Here's how the Los Angeles Lakers' $12.5B sale impacts the value of all 30 NBA teams
+- [MarketWatch] U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan
+- [Nasdaq] The Outlook for a Smaller Ghana Cocoa Crop Supports Prices
+- [Yahoo Finance] XRP ETF Inflows Just Returned. Is $5.8 Million Enough to Defend $1?
+- [Yahoo Finance] Cost-cutting is Paying Off for Unifi
+- [Yahoo Finance] NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What’s Behind the Nuclear Stock Selloff?
+- [Investing.com] US Treasury buyback briefly eases bond rout, but debt worries persist
+- [Investing.com] EverBank reportedly explores sale three years after buyout
+- [Yahoo Finance] Kids Discount Retailer Reaps Rich Rewards As Stock Hits New Highs, Nears A Buy Point
+- [Yahoo Finance] Billionaire George Soros makes sevenfold move on AI chip stock in latest 13F
+- [Nasdaq] Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz
+- [Investing.com] Bank of Montreal reorganizes international capital markets unit
+- [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
+- [Investing.com] Fresenius raises €300 million from Medical Care stake sale
+- [Yahoo Finance] SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report
+- [Nasdaq] Arabica Coffee Consolidating Below This Week’s 6.5-Month High
 - [Nasdaq] Corn Rallying to Near the Spring Highs as Weaker Tour Yields Continue
-- [Nasdaq] Cotton Slipping Back Early on Thursday
+- [Investing.com] Invesco cuts property fund fees 20% amid redemption backlog - Bloomberg
 - [Nasdaq] Wheat Posts Wednesday Strength
-- [Yahoo Finance] Charter Closes Its $34.5B Cox Deal. Why the Stock Is Sinking.
-- [Yahoo Finance] Golar (GLNG) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Applied Industrial (AIT) Q4 2026 Earnings Call Transcript
-- [Yahoo Finance] 6 Big Takeaways From Retail’s Big Week of Earnings
-- [Nasdaq] Thursday's ETF Movers: MOO, XAR
-- [Investing.com] European shares drop for 7th session as hawkish central banks counter bond rebound
-- [Nasdaq] See Which Recent 13F Filers Hold HD But New Harbor Financial Group, Boothbay Fund Management and Voloridge Investment Management Exited
-- [CNBC] Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure
-- [Nasdaq] Thursday Sector Laggards: Apparel Stores, Aerospace & Defense Stocks
-- [Nasdaq] Thursday Sector Leaders: Rental, Leasing, & Royalty, Oil & Gas Exploration & Production Stocks
+- [Nasdaq] Concerns about Tighter Global Supplies Underpin Sugar Prices
+- [Yahoo Finance] Futu Holdings Limited Q2 2026 Earnings Call Summary
+- [Yahoo Finance] ScanSource, Inc. Q4 2026 Earnings Call Summary
+- [Yahoo Finance] Stock Market Today: Dow Off On 'Economic D-Day' Threat; These Oil Stocks, ETFs Catch Fire (Live Coverage)
+- [CNBC] Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure
+- [Yahoo Finance] AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance
+- [Nasdaq] Dollar Rebounds on Strong US Economic News
+- [Nasdaq] United Natural Foods Advances Digital Services: Can it Fuel Growth?
+- [Nasdaq] Domino's Holds 23% Pizza Share: How Much Growth Runway Is Left?
+- [CNBC] Tom Lee's favorite buy ideas heading into the fall
+- [MarketWatch] The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why.
 - [Yahoo Finance] Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case
 - [Yahoo Finance] Byline Bancorp (BY): Has This Bank Stock Reached Its Full Potential?
 - [Yahoo Finance] Americold Realty Trust (COLD): Why Was This Position Liquidated?
 - [Yahoo Finance] UMB Financial (UMBF): Why This Regional Bank Could Be Built for Long-Term Growth
-- [Nasdaq] Dollar Rebounds on Strong US Economic News
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.02%
 - [Yahoo Finance] IPG Photonics (IPG): Could a Manufacturing Recovery Spark a Stock Rebound?
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.15%
 - [Yahoo Finance] Huron Consulting Group (HURN): Is AI Fears Overblown for This Consulting Stock?
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.48%
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.03%
 - [Yahoo Finance] Mercury Systems (MRCY): Is This Defense Stock Entering a New Growth Phase?
 - [Yahoo Finance] Leaderboard Chip Stock Called 'Technology Disruptor'
 - [Yahoo Finance] MACOM Technology Solutions (MTSI): Can Data Center and 5G Demand Drive More Upside?
-- [Investing.com] Why is Aegon stock sliding today?
-- [Nasdaq] Wheat Kicking Off Thursday with Gains
-- [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
 - [CNBC] Why our cyber stocks are dropping and our favorite memory play is rallying
-- [Nasdaq] See How IAMGold Ranks Among Analysts' Top Metals Picks
-- [Yahoo Finance] Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)
-- [CNBC] Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
-- [Yahoo Finance] Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding
-- [Yahoo Finance] FIGS (FIGS) Slipped Despite Reporting Strong Quarter
-- [MarketWatch] U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan
-- [Yahoo Finance] Interactive Brokers Group (IBKR) Delivers Exceptional Growth at Scale
-- [Yahoo Finance] Ashtead Technology Gets Sunk by Delayed Projects
-- [Yahoo Finance] Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks
-- [Yahoo Finance] Strong Sales Power Birkenstock Holding plc’s (BIRK) Q2 Rally
-- [CNBC] Bessent says Treasury buyback operation could be more than $4 billion
-- [Yahoo Finance] JD Sports Trips Over the Sneaker Cycle
-- [Yahoo Finance] Red Rock Resorts (RRR) Shares Jump 22.4% in Q2 as Construction Disruptions Subside
-- [Yahoo Finance] Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
-- [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
-- [Yahoo Finance] Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts
-- [Yahoo Finance] Tyson cuts 3,200 jobs and closes 3 beef plants as U.S. cattle herds shrink to their lowest level since the 1950s
-- [Yahoo Finance] Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
