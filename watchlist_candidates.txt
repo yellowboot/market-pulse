@@ -6,33 +6,24 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 20:58
-40 of 80 news items unmatched this run
+Generated: 20.08.2026 21:55
+34 of 80 news items unmatched this run
 
-- [Investing.com] DSV Leads Jefferies’ Global Transport & Logistics Picks
-- [Nasdaq] Crude Oil Prices Rally as President Trump Escalates Pressure on Iran
-- [Nasdaq] Nat-Gas Prices Drop on a Cooler US Weather Outlook
-- [Nasdaq] Corn Holding onto Thursday Gains as December Tests $5
-- [Nasdaq] Dollar Rebounds on Strong US Economic News
-- [Investing.com] Ross Stores raises annual profit forecast again on discounted apparel demand
-- [Nasdaq] Sugar Prices Extend Recent Rally as India Eases Sugar Import Duties
-- [Nasdaq] Sugar Prices Rally as India Cuts Sugar Import Duties
-- [Investing.com] Holcim acquires James Hardie’s European unit for €840 million
-- [Investing.com] Why is OSI Systems stock sliding today?
-- [Investing.com] Moody’s affirms Polaris stock rating, shifts outlook to stable
-- [Nasdaq] Smaller Ghana Cocoa Crop Supports Prices
-- [Nasdaq] Soybeans Holding onto Thursday Gains
+- [CNBC] Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC
 - [Nasdaq] The Outlook for a Smaller Ghana Cocoa Crop Supports Prices
-- [Investing.com] Moody’s upgrades VF Corp. outlook on debt reduction progress
+- [Investing.com] Abbott agrees to $670 million settlement of infant formula cases
+- [Nasdaq] UL Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] DRD Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] See Which Recent 13F Filers Hold IUSV
+- [Nasdaq] Soybeans Holding onto Thursday Gains
+- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.55%
+- [Nasdaq] Dollar Recovers Early Losses on US Economic Strength
+- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 0.37%
+- [Investing.com] Russia stocks lower at close of trade; MOEX Russia Index down 2.34%
+- [Investing.com] Brazil launches AI supercomputer push, splits projects between Chinese, US firms
+- [Investing.com] Delta, Aeromexico win court battle to keep joint venture
 - [Mining.com] High-grade Ima resource boosts Idaho tungsten revival
-- [Investing.com] Why is Flowers Foods stock sliding today?
-- [Investing.com] Largo stock rises after debt restructuring extends maturity
-- [Investing.com] TSX ends lower hurt by slump in financial and technology stocks
-- [Nasdaq] PVH Breaks Below 200-Day Moving Average - Notable for PVH
-- [Nasdaq] Albany International Breaks Below 200-Day Moving Average - Notable for AIN
-- [Nasdaq] DB Gold Double Long ETN Breaks Above 200-Day Moving Average - Bullish for DGP
-- [Nasdaq] RCL Crosses Below Key Moving Average Level
-- [CNBC] Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC
+- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
 - [CNBC] Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure
 - [CNBC] Wall Street loves these high-yielding AI bonds. What income investors should know
 - [MarketWatch] The bond market is going to burst the stock-market bubble
@@ -40,10 +31,13 @@ Generated: 20.08.2026 20:58
 - [Mining.com] British Columbia First Nation rescinds support for Seabridge’s KSM gold project
 - [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
 - [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
+- [OilPrice.com] How Solar Panel Prices Fell 90 Percent In 15 Years
 - [CNBC] Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
+- [CoinDesk] Crypto for Advisors: What are tokenized deposits?
 - [CNBC] A household appliance maker made it into Josh Brown's Best Stocks list this month. It is soaring in 2026
 - [CNBC] Where commercial real estate demand is the highest, according to new data
 - [Mining.com] Colombia gold mine collapse kills 13 workers
+- [OilPrice.com] China Is Squeezing India Out of Russia’s Oil Trade
 - [CNBC] Treasury proposes low-cost investment rules for Trump Accounts
 - [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
 - [Retail Dive] Michaels launches 3D digital frame builder
