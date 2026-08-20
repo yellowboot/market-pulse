@@ -6,45 +6,56 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 15:05
-39 of 80 news items unmatched this run
+Generated: 20.08.2026 16:33
+50 of 80 news items unmatched this run
 
-- [CNBC] A household appliance maker made it into Josh Brown's Best Stocks list this month. It is soaring in 2026
-- [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
-- [Yahoo Finance] BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss
-- [CNBC] Oil prices rise 2% as Trump sharpens Iran rhetoric amid diplomatic impasse
-- [Yahoo Finance] How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle
-- [Yahoo Finance] Strong Track Record Reinforces Arista Networks’ (ANET) Long Term Delivery
-- [Yahoo Finance] The Dividend Yield on Barrick Mining Just Crossed 2%. Here's Why It's Sustainable.
-- [Yahoo Finance] Earnings Beat and Raised Guidance Send Entegris (ENTG) Higher
-- [Yahoo Finance] Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O’Reilly Automotive Slips
-- [Yahoo Finance] Warning: The Buffett Portfolio Your OMAH ETF Copies Is Disappearing One 13F at a Time
-- [Investing.com] Why is Riot Platforms stock rallying today?
-- [Yahoo Finance] Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases
-- [Nasdaq] SPG April 2027 Options Begin Trading
-- [Nasdaq] Interesting DVN Put And Call Options For April 2027
-- [Nasdaq] Interesting JBL Put And Call Options For October 16th
-- [Nasdaq] DAR April 2027 Options Begin Trading
-- [Nasdaq] Interesting DINO Put And Call Options For October 16th
-- [Investing.com] Waymo builds custom chip for robotaxis to boost performance
-- [Yahoo Finance] Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal
-- [Nasdaq] Soybeans Pushing Gains to Thursday
-- [Nasdaq] Wheat Kicking Off Thursday with Gains
-- [Nasdaq] Wheat Taking Back Tuesday Weakness with Wednesday Strength
-- [Yahoo Finance] Copart’s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability
-- [Investing.com] Why is Bitdeer Technologies stock surging today?
-- [Yahoo Finance] Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results
+- [Yahoo Finance] Why Wolfspeed Stock Crashed Today
 - [Nasdaq] Corn Rallying to Near the Spring Highs as Weaker Tour Yields Continue
 - [Nasdaq] Cotton Slipping Back Early on Thursday
-- [Nasdaq] Cotton Rallies Triple Digits on Wednesday
-- [Investing.com] Crypto shares climb after Trump advocates for Clarity Act
-- [Investing.com] Why is Marathon Digital stock surging today?
-- [Yahoo Finance] Arch Capital’s (ACGL) Valuation Supports Strategic Capital Allocation
-- [Investing.com] Why is LandBridge stock surging today?
-- [Yahoo Finance] Dollar hits 3-month low vs euro, pares losses after Treasury move
-- [Investing.com] China semiconductor equipment imports grow 9% in July, Barclays comments
-- [Yahoo Finance] End-Market Strength & Data Center Demand Drive Texas Instruments Incorporated’s (TXN) Growth
-- [Yahoo Finance] Vishal Garg, the CEO who fired 900 on Zoom, offers to work for $1 a year to reclaim Better after $1.5 billion in losses
-- [Yahoo Finance] Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea
-- [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
-- [MarketWatch] Want to bet on the bond rally? Check out these overlooked funds.
+- [Nasdaq] Wheat Posts Wednesday Strength
+- [Yahoo Finance] Charter Closes Its $34.5B Cox Deal. Why the Stock Is Sinking.
+- [Yahoo Finance] Golar (GLNG) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Applied Industrial (AIT) Q4 2026 Earnings Call Transcript
+- [Yahoo Finance] 6 Big Takeaways From Retail’s Big Week of Earnings
+- [Nasdaq] Thursday's ETF Movers: MOO, XAR
+- [Investing.com] European shares drop for 7th session as hawkish central banks counter bond rebound
+- [Nasdaq] See Which Recent 13F Filers Hold HD But New Harbor Financial Group, Boothbay Fund Management and Voloridge Investment Management Exited
+- [CNBC] Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure
+- [Nasdaq] Thursday Sector Laggards: Apparel Stores, Aerospace & Defense Stocks
+- [Nasdaq] Thursday Sector Leaders: Rental, Leasing, & Royalty, Oil & Gas Exploration & Production Stocks
+- [Yahoo Finance] Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case
+- [Yahoo Finance] Byline Bancorp (BY): Has This Bank Stock Reached Its Full Potential?
+- [Yahoo Finance] Americold Realty Trust (COLD): Why Was This Position Liquidated?
+- [Yahoo Finance] UMB Financial (UMBF): Why This Regional Bank Could Be Built for Long-Term Growth
+- [Nasdaq] Dollar Rebounds on Strong US Economic News
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.02%
+- [Yahoo Finance] IPG Photonics (IPG): Could a Manufacturing Recovery Spark a Stock Rebound?
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.15%
+- [Yahoo Finance] Huron Consulting Group (HURN): Is AI Fears Overblown for This Consulting Stock?
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.48%
+- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.03%
+- [Yahoo Finance] Mercury Systems (MRCY): Is This Defense Stock Entering a New Growth Phase?
+- [Yahoo Finance] Leaderboard Chip Stock Called 'Technology Disruptor'
+- [Yahoo Finance] MACOM Technology Solutions (MTSI): Can Data Center and 5G Demand Drive More Upside?
+- [Investing.com] Why is Aegon stock sliding today?
+- [Nasdaq] Wheat Kicking Off Thursday with Gains
+- [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
+- [CNBC] Why our cyber stocks are dropping and our favorite memory play is rallying
+- [Nasdaq] See How IAMGold Ranks Among Analysts' Top Metals Picks
+- [Yahoo Finance] Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)
+- [CNBC] Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
+- [Yahoo Finance] Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding
+- [Yahoo Finance] FIGS (FIGS) Slipped Despite Reporting Strong Quarter
+- [MarketWatch] U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan
+- [Yahoo Finance] Interactive Brokers Group (IBKR) Delivers Exceptional Growth at Scale
+- [Yahoo Finance] Ashtead Technology Gets Sunk by Delayed Projects
+- [Yahoo Finance] Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks
+- [Yahoo Finance] Strong Sales Power Birkenstock Holding plc’s (BIRK) Q2 Rally
+- [CNBC] Bessent says Treasury buyback operation could be more than $4 billion
+- [Yahoo Finance] JD Sports Trips Over the Sneaker Cycle
+- [Yahoo Finance] Red Rock Resorts (RRR) Shares Jump 22.4% in Q2 as Construction Disruptions Subside
+- [Yahoo Finance] Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
+- [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
+- [Yahoo Finance] Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts
+- [Yahoo Finance] Tyson cuts 3,200 jobs and closes 3 beef plants as U.S. cattle herds shrink to their lowest level since the 1950s
+- [Yahoo Finance] Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
