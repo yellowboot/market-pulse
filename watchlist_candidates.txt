@@ -6,38 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 19:33
-32 of 80 news items unmatched this run
+Generated: 20.08.2026 20:58
+40 of 80 news items unmatched this run
 
-- [CNBC] Wall Street loves these high-yielding AI bonds. What income investors should know
-- [Investing.com] Dollar Index clings to 98.80 support amid ADX 51 selloff: Live
-- [MarketWatch] The bond market is going to burst the stock-market bubble
-- [Nasdaq] Cattle Bulls Pushing Back on Thursday
-- [Nasdaq] Hogs Back to Weaker Trade on Thursday
+- [Investing.com] DSV Leads Jefferies’ Global Transport & Logistics Picks
+- [Nasdaq] Crude Oil Prices Rally as President Trump Escalates Pressure on Iran
+- [Nasdaq] Nat-Gas Prices Drop on a Cooler US Weather Outlook
 - [Nasdaq] Corn Holding onto Thursday Gains as December Tests $5
-- [Nasdaq] Soybeans Holding onto Thursday Gains
-- [Nasdaq] Wheat Slipping back to Mixed Action on Thursday
-- [Nasdaq] Cotton Holding Steady at Midday
-- [Nasdaq] Sugar Prices Rally as India Cuts Sugar Import Duties
 - [Nasdaq] Dollar Rebounds on Strong US Economic News
-- [CNBC] Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure
+- [Investing.com] Ross Stores raises annual profit forecast again on discounted apparel demand
+- [Nasdaq] Sugar Prices Extend Recent Rally as India Eases Sugar Import Duties
+- [Nasdaq] Sugar Prices Rally as India Cuts Sugar Import Duties
+- [Investing.com] Holcim acquires James Hardie’s European unit for €840 million
+- [Investing.com] Why is OSI Systems stock sliding today?
+- [Investing.com] Moody’s affirms Polaris stock rating, shifts outlook to stable
+- [Nasdaq] Smaller Ghana Cocoa Crop Supports Prices
+- [Nasdaq] Soybeans Holding onto Thursday Gains
 - [Nasdaq] The Outlook for a Smaller Ghana Cocoa Crop Supports Prices
-- [Nasdaq] Cattle Look to Thursday Trade as Beef Pushes Back Above $390
-- [Nasdaq] See Which Recent 13F Filers Hold LQD
-- [Nasdaq] Arabica Coffee Consolidating Below This Week’s 6.5-Month High
-- [MarketWatch] U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan
+- [Investing.com] Moody’s upgrades VF Corp. outlook on debt reduction progress
+- [Mining.com] High-grade Ima resource boosts Idaho tungsten revival
+- [Investing.com] Why is Flowers Foods stock sliding today?
+- [Investing.com] Largo stock rises after debt restructuring extends maturity
+- [Investing.com] TSX ends lower hurt by slump in financial and technology stocks
+- [Nasdaq] PVH Breaks Below 200-Day Moving Average - Notable for PVH
+- [Nasdaq] Albany International Breaks Below 200-Day Moving Average - Notable for AIN
+- [Nasdaq] DB Gold Double Long ETN Breaks Above 200-Day Moving Average - Bullish for DGP
+- [Nasdaq] RCL Crosses Below Key Moving Average Level
+- [CNBC] Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC
+- [CNBC] Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure
+- [CNBC] Wall Street loves these high-yielding AI bonds. What income investors should know
+- [MarketWatch] The bond market is going to burst the stock-market bubble
+- [CNBC] A rare stumble at TJX has Wall Street spooked. We see a buying opportunity
+- [Mining.com] British Columbia First Nation rescinds support for Seabridge’s KSM gold project
 - [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
 - [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
 - [CNBC] Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
-- [Yahoo Finance] Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks
-- [CNBC] Bessent says Treasury buyback operation could be more than $4 billion
-- [Yahoo Finance] Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes
 - [CNBC] A household appliance maker made it into Josh Brown's Best Stocks list this month. It is soaring in 2026
 - [CNBC] Where commercial real estate demand is the highest, according to new data
+- [Mining.com] Colombia gold mine collapse kills 13 workers
 - [CNBC] Treasury proposes low-cost investment rules for Trump Accounts
 - [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
 - [Retail Dive] Michaels launches 3D digital frame builder
 - [OilPrice.com] Continental Resources Expands Permian Footprint
 - [Mining.com] Las Bambas halt adds to South America copper woes
-- [CoinDesk] Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
-- [OilPrice.com] Norway’s Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On
