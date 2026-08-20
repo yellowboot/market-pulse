@@ -6,43 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 12:26
-37 of 80 news items unmatched this run
+Generated: 20.08.2026 13:38
+32 of 80 news items unmatched this run
 
-- [Yahoo Finance] Fortescue settles Queensland dispute over Gladstone electrolyser facility
-- [Yahoo Finance] Deere Q3 2026 earnings: profit rises as construction offsets farm weakness
-- [Investing.com] Exclusive-Fidelity International plans to pull out of wholly owned China fund unit, sources say
-- [Investing.com] Wolfe remains "broadly bullish on AI semis stocks", names Top Pick
-- [Yahoo Finance] BKV Maps Path to 2.9 GW Power Buildout, CCUS Growth and Contracted Cash Flow
-- [Yahoo Finance] Feel The Flow With This Water Utility Stock
-- [Yahoo Finance] This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion
-- [Yahoo Finance] Here’s Why Intuit Could Deliver an Upside Surprise For Investors on August 25th
+- [Investing.com] Chinese e-commerce giant JD.com offers EU remedies in Ceconomy takeover probe
+- [Yahoo Finance] Dynasty Fine Wines issues another profit warning
+- [Yahoo Finance] De-alc business Strategic Beverage Services acquires BevZero US assets
+- [Yahoo Finance] Unitree CEO Reveals When Robots Could Reach Their ‘ChatGPT Moment’
+- [Yahoo Finance] Another Broken Egg Launches New Refranchising Program
+- [Yahoo Finance] Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?
+- [Yahoo Finance] UK watchdog clears Vandemoortele-Délifrance deal with new proviso
+- [Investing.com] Barclays upgrades American Tower and Crown Castle on valuation, growth catalysts
+- [Investing.com] Sypris Solutions stock jumps on satellite power unit contract
+- [Investing.com] Why is Amentum stock climbing today?
+- [Investing.com] Why is Fluence Energy stock sliding today?
+- [Nasdaq] See Which Recent 13F Filers Hold TJX But Asset Allocation & Management, Rwwm and Retirement Planning Group Exited
+- [Nasdaq] Upcoming Dividend Run For CRC?
+- [Nasdaq] Upcoming Dividend Run For KIM?
+- [Nasdaq] Upcoming Dividend Run For CURI?
+- [Investing.com] Amentum stock rises 3% on $974M NASA contract win
+- [Investing.com] Wednesday’s insider activity: Major buys and sells disclosed
+- [Investing.com] Shein delays IPO to September 1, sources say
+- [Yahoo Finance] Plug Power’s (PLUG) Turnaround Math Finally Starts Adding Up
+- [Yahoo Finance] Could EQT (EQT) Be a Major Winner From LNG and Data Center Power Demand?
+- [Yahoo Finance] 30% Free Cash Flow Yield Positions Charter Communications (CHTR) for De-leveraging and Shareholder Return
+- [Yahoo Finance] AECOM’s (ACM) Record Backlog Collides With A Costly Charge
+- [Yahoo Finance] Cargojet to pass large pilot wage increase onto customers
+- [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
+- [Yahoo Finance] CVC deepens insurance bet with Standard Life partnership
+- [MarketWatch] Want to bet on the bond rally? Check out these overlooked funds.
+- [Yahoo Finance] ACV Auctions (ACVA) Reports Record Revenue and EBITDA Growth As Market Softens
+- [Yahoo Finance] Teamsters reveal TP Freight’s sudden shutdown
+- [Yahoo Finance] Brookdale Senior Living (BKD) Bets Big On Real Estate While Occupancy Lags
 - [CoinDesk] Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
 - [CNBC] Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse
-- [Yahoo Finance] Paysafe (PSFE) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts
-- [Yahoo Finance] Helios Technologies (HLIO) Just Posted Record Numbers, Can It Keep Climbing
-- [Yahoo Finance] Delaware North Promotes Seth Rose to President of Patina Group
-- [Investing.com] Which European metals stocks stand to gain from a U.S.-Canada tariff rollback?
 - [CoinDesk] Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
-- [Investing.com] Bernstein upgrades Analog Devices on Q3 beat, improving risk-reward
-- [Investing.com] US Treasury buyback limits bond market pain, but relief may be brief
-- [Investing.com] Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges
-- [CNBC] ChatGPT for Teens makes vital safety strides, says expert. 'The real question is, does any of this work?'
-- [MarketWatch] Why Bessent’s Treasury operations have breathed life back into the gold trade
-- [CoinDesk] Elon Musk's X is exploring stablecoins to pay influencers and content providers
-- [CoinDesk] BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so
-- [Nasdaq] Bull of the Day: Ceva (CEVA)
-- [CNBC] Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says
-- [CNBC] Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion
-- [Nasdaq] New Strong Sell Stocks for August 20th
-- [CNBC] Singapore's Temasek is on a hot streak in India as three bets surge after IPOs
-- [OilPrice.com] Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists
-- [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
-- [OilPrice.com] Middle East Oil Crisis Sends Supertanker Prices to Record Highs
-- [CNBC] China is defying the global bond yield surge, boosting its diversification appeal
-- [OilPrice.com] Elevated Oil Prices Push Japan’s Imports to an All-Time High
-- [Nasdaq] Corn Rally to Wednesday’s Final Bell
-- [Nasdaq] Cotton Rallies Triple Digits on Wednesday
-- [Nasdaq] Cattle Falling Despite a Resurgence in Beef
-- [Nasdaq] Hogs Rebound Higher on Wednesday
