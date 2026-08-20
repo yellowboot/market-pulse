@@ -10,9 +10,9 @@ on:
     #   EST (roughly Nov-Mar): session 14:30-21:00 UTC -> buffer 14:00-21:30
     # i.e. 13:00-21:30 UTC covers the 30-min pre/post buffer year-round
     # (with a bit of extra slack on the side that isn't currently in DST).
-    # Extra 12:00 run added on top for earlier pre-market coverage; the
+    # Earliest weekday run added on top for extra pre-market coverage; the
     # end of the day is unchanged.
-    - cron: '0 12 * * 1-5'
+    - cron: '30 11 * * 1-5'
     - cron: '0 13 * * 1-5'
     - cron: '30 14 * * 1-5'
     - cron: '0 16 * * 1-5'
