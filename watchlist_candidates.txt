@@ -6,38 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 13:38
-32 of 80 news items unmatched this run
+Generated: 20.08.2026 15:05
+39 of 80 news items unmatched this run
 
-- [Investing.com] Chinese e-commerce giant JD.com offers EU remedies in Ceconomy takeover probe
-- [Yahoo Finance] Dynasty Fine Wines issues another profit warning
-- [Yahoo Finance] De-alc business Strategic Beverage Services acquires BevZero US assets
-- [Yahoo Finance] Unitree CEO Reveals When Robots Could Reach Their ‘ChatGPT Moment’
-- [Yahoo Finance] Another Broken Egg Launches New Refranchising Program
-- [Yahoo Finance] Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?
-- [Yahoo Finance] UK watchdog clears Vandemoortele-Délifrance deal with new proviso
-- [Investing.com] Barclays upgrades American Tower and Crown Castle on valuation, growth catalysts
-- [Investing.com] Sypris Solutions stock jumps on satellite power unit contract
-- [Investing.com] Why is Amentum stock climbing today?
-- [Investing.com] Why is Fluence Energy stock sliding today?
-- [Nasdaq] See Which Recent 13F Filers Hold TJX But Asset Allocation & Management, Rwwm and Retirement Planning Group Exited
-- [Nasdaq] Upcoming Dividend Run For CRC?
-- [Nasdaq] Upcoming Dividend Run For KIM?
-- [Nasdaq] Upcoming Dividend Run For CURI?
-- [Investing.com] Amentum stock rises 3% on $974M NASA contract win
-- [Investing.com] Wednesday’s insider activity: Major buys and sells disclosed
-- [Investing.com] Shein delays IPO to September 1, sources say
-- [Yahoo Finance] Plug Power’s (PLUG) Turnaround Math Finally Starts Adding Up
-- [Yahoo Finance] Could EQT (EQT) Be a Major Winner From LNG and Data Center Power Demand?
-- [Yahoo Finance] 30% Free Cash Flow Yield Positions Charter Communications (CHTR) for De-leveraging and Shareholder Return
-- [Yahoo Finance] AECOM’s (ACM) Record Backlog Collides With A Costly Charge
-- [Yahoo Finance] Cargojet to pass large pilot wage increase onto customers
+- [CNBC] A household appliance maker made it into Josh Brown's Best Stocks list this month. It is soaring in 2026
+- [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
+- [Yahoo Finance] BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss
+- [CNBC] Oil prices rise 2% as Trump sharpens Iran rhetoric amid diplomatic impasse
+- [Yahoo Finance] How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle
+- [Yahoo Finance] Strong Track Record Reinforces Arista Networks’ (ANET) Long Term Delivery
+- [Yahoo Finance] The Dividend Yield on Barrick Mining Just Crossed 2%. Here's Why It's Sustainable.
+- [Yahoo Finance] Earnings Beat and Raised Guidance Send Entegris (ENTG) Higher
+- [Yahoo Finance] Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O’Reilly Automotive Slips
+- [Yahoo Finance] Warning: The Buffett Portfolio Your OMAH ETF Copies Is Disappearing One 13F at a Time
+- [Investing.com] Why is Riot Platforms stock rallying today?
+- [Yahoo Finance] Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases
+- [Nasdaq] SPG April 2027 Options Begin Trading
+- [Nasdaq] Interesting DVN Put And Call Options For April 2027
+- [Nasdaq] Interesting JBL Put And Call Options For October 16th
+- [Nasdaq] DAR April 2027 Options Begin Trading
+- [Nasdaq] Interesting DINO Put And Call Options For October 16th
+- [Investing.com] Waymo builds custom chip for robotaxis to boost performance
+- [Yahoo Finance] Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal
+- [Nasdaq] Soybeans Pushing Gains to Thursday
+- [Nasdaq] Wheat Kicking Off Thursday with Gains
+- [Nasdaq] Wheat Taking Back Tuesday Weakness with Wednesday Strength
+- [Yahoo Finance] Copart’s (CPRT) Financials Show Resilience; Leadership Changes Highlight Stability
+- [Investing.com] Why is Bitdeer Technologies stock surging today?
+- [Yahoo Finance] Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results
+- [Nasdaq] Corn Rallying to Near the Spring Highs as Weaker Tour Yields Continue
+- [Nasdaq] Cotton Slipping Back Early on Thursday
+- [Nasdaq] Cotton Rallies Triple Digits on Wednesday
+- [Investing.com] Crypto shares climb after Trump advocates for Clarity Act
+- [Investing.com] Why is Marathon Digital stock surging today?
+- [Yahoo Finance] Arch Capital’s (ACGL) Valuation Supports Strategic Capital Allocation
+- [Investing.com] Why is LandBridge stock surging today?
+- [Yahoo Finance] Dollar hits 3-month low vs euro, pares losses after Treasury move
+- [Investing.com] China semiconductor equipment imports grow 9% in July, Barclays comments
+- [Yahoo Finance] End-Market Strength & Data Center Demand Drive Texas Instruments Incorporated’s (TXN) Growth
+- [Yahoo Finance] Vishal Garg, the CEO who fired 900 on Zoom, offers to work for $1 a year to reclaim Better after $1.5 billion in losses
+- [Yahoo Finance] Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea
 - [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
-- [Yahoo Finance] CVC deepens insurance bet with Standard Life partnership
 - [MarketWatch] Want to bet on the bond rally? Check out these overlooked funds.
-- [Yahoo Finance] ACV Auctions (ACVA) Reports Record Revenue and EBITDA Growth As Market Softens
-- [Yahoo Finance] Teamsters reveal TP Freight’s sudden shutdown
-- [Yahoo Finance] Brookdale Senior Living (BKD) Bets Big On Real Estate While Occupancy Lags
-- [CoinDesk] Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users
-- [CNBC] Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse
-- [CoinDesk] Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern
