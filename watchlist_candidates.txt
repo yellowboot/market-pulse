@@ -6,40 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 20.08.2026 21:55
-34 of 80 news items unmatched this run
+Generated: 21.08.2026 11:53
+38 of 80 news items unmatched this run
 
-- [CNBC] Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC
-- [Nasdaq] The Outlook for a Smaller Ghana Cocoa Crop Supports Prices
-- [Investing.com] Abbott agrees to $670 million settlement of infant formula cases
-- [Nasdaq] UL Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] DRD Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] See Which Recent 13F Filers Hold IUSV
-- [Nasdaq] Soybeans Holding onto Thursday Gains
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.55%
+- [CNBC] Stock futures rise as Wall Street tries to recover from yield-driven selloff: Live updates
+- [Investing.com] BofA Names 5 European Semicap Stocks to Watch as China Import Data Shifts
+- [Investing.com] Why is Buckle stock surging today?
+- [Investing.com] Steadfast Group accepts A$7.7 billion takeover offer
+- [Investing.com] Why is Ubiquiti Networks stock climbing today?
+- [Investing.com] Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast
+- [Investing.com] Chery’s robot affiliate AiMOGA eyes IPO, targets overseas market
+- [Investing.com] UBS says bull market has further to run
+- [Investing.com] Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades
+- [CoinDesk] Nomura-backed Laser Digital wins Japan's first crypto approval in four years
+- [CNBC] Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better
+- [MarketWatch] Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup
+- [CNBC] Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback
+- [Nasdaq] Company News for Aug 21, 2026
+- [Nasdaq] New Strong Sell Stocks for August 21st
+- [OilPrice.com] East African Nations Offered 30% Share of Dangote’s Kenya Mega-Refinery
+- [CoinDesk] MANTRA token plunges 18% to record low as blockchain halts after exploit
+- [CoinDesk] Ripple backs an RLUSD credit fund amid XRP's best week in months
+- [OilPrice.com] Iranian Oil Supply to China Is Rapidly Drying Up
 - [Nasdaq] Dollar Recovers Early Losses on US Economic Strength
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 0.37%
-- [Investing.com] Russia stocks lower at close of trade; MOEX Russia Index down 2.34%
-- [Investing.com] Brazil launches AI supercomputer push, splits projects between Chinese, US firms
-- [Investing.com] Delta, Aeromexico win court battle to keep joint venture
+- [OilPrice.com] China’s Oil Imports Set to Rebound as Refiners Hunt for New Supply
+- [Nasdaq] Sugar Prices Rally as India Cuts Sugar Import Duties
+- [CoinDesk] A $2 million bet on XRP volatility crosses the tape as prices surge
+- [OilPrice.com] Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas
+- [Nasdaq] Cattle Firms Up on Thursday
+- [Nasdaq] Soybeans Fade Lower into Thursday’s Close
+- [Nasdaq] Arabica Coffee Settles Higher on Supply Concerns
+- [Nasdaq] Wheat Sees Mixed Trade on Thursday
+- [OilPrice.com] Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount
+- [Nasdaq] Corn Holds Higher on Thursday as December Breaches $5
+- [Nasdaq] Cotton Sticks Near Unchanged on Thursday
+- [Nasdaq] Hogs Fall Back Weaker on Thursday
+- [Mining.com] Lassonde-backed Cadillac drilling points to more Ontario gold
+- [Nasdaq] Smaller Ghana Cocoa Crop Supports Prices
+- [Nasdaq] Arabica Coffee Consolidating Below This Week’s 6.5-Month High
+- [CNBC] Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC
 - [Mining.com] High-grade Ima resource boosts Idaho tungsten revival
 - [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
-- [CNBC] Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure
-- [CNBC] Wall Street loves these high-yielding AI bonds. What income investors should know
-- [MarketWatch] The bond market is going to burst the stock-market bubble
-- [CNBC] A rare stumble at TJX has Wall Street spooked. We see a buying opportunity
-- [Mining.com] British Columbia First Nation rescinds support for Seabridge’s KSM gold project
-- [CNBC] Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say
-- [CNBC] California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'
-- [OilPrice.com] How Solar Panel Prices Fell 90 Percent In 15 Years
-- [CNBC] Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades
-- [CoinDesk] Crypto for Advisors: What are tokenized deposits?
-- [CNBC] A household appliance maker made it into Josh Brown's Best Stocks list this month. It is soaring in 2026
-- [CNBC] Where commercial real estate demand is the highest, according to new data
-- [Mining.com] Colombia gold mine collapse kills 13 workers
-- [OilPrice.com] China Is Squeezing India Out of Russia’s Oil Trade
-- [CNBC] Treasury proposes low-cost investment rules for Trump Accounts
-- [CNBC] Hyundai's new flagship vehicle is a large luxury Genesis EV
-- [Retail Dive] Michaels launches 3D digital frame builder
-- [OilPrice.com] Continental Resources Expands Permian Footprint
-- [Mining.com] Las Bambas halt adds to South America copper woes
