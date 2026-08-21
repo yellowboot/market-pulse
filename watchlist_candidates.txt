@@ -6,47 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 17:56
-41 of 80 news items unmatched this run
+Generated: 21.08.2026 19:27
+37 of 80 news items unmatched this run
 
-- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
-- [Nasdaq] See Which Recent 13F Filers Hold DE But Opal Wealth Advisors Exited
-- [CNBC] Jim Cramer looks at why our AI data center stocks are among the worst of the week
-- [Nasdaq] See Which Recent 13F Filers Hold VYM But Ascentis Independent Advisors Exited
+- [Investing.com] Top weekly stock gainers led by ZSTK’s 203.6% surge
+- [Nasdaq] Wheat Facing Friday Pressure
+- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
+- [Nasdaq] Corn Pushing Higher into the Weekend
+- [Nasdaq] Cotton Trading Steady on Friday
+- [Nasdaq] Hogs Firming into the Weekend
+- [Nasdaq] Cattle Pulling off Early Lows, but Still Weaker as Tariff Quotas Lifted
 - [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
 - [Nasdaq] Crude Oil Prices Consolidate Below Thursday’s 1-Month High
-- [Investing.com] Nscale seeks $3 billion US IPO amid AI data center rush
-- [Yahoo Finance] Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What’s Driving Quantum Computing Stocks Now?
-- [Yahoo Finance] AI Stock JFrog Jumps 159% From A Low, Eyes Entry As Earnings Accelerate
-- [Yahoo Finance] Citadel unwinds 80% of Situational Awareness portfolio
-- [Yahoo Finance] Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.
-- [Yahoo Finance] These Copper Miners Top Buy Points Amid Supply, Demand Crunch
-- [Yahoo Finance] IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'
-- [Yahoo Finance] REPOWR, ATBS team up to expand trailer access for owner-operators
-- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
-- [Yahoo Finance] Ross Stores Trounces Earnings, Set To Retake Buy Point
-- [Investing.com] Wall Street rises as materials and crypto stocks offset continued bond sell-off
-- [Mining.com] Silver price 20% August surge sends miners soaring
-- [Yahoo Finance] Bond yields head higher again, giving back almost all gains since Treasury Department intervention
-- [Yahoo Finance] Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'
-- [Investing.com] Guggenheim fund shares hit 17-year low after short-seller report
-- [Investing.com] Allianz Commercial names Emma Woolley to specialty role
-- [Yahoo Finance] Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report
-- [Nasdaq] Will FEMSA's Digital Push Through SPIN Unlock More Growth?
-- [Investing.com] Ken Griffin’s Citadel sheds over $4 billion of Situational Awareness’ bets
-- [Investing.com] European stocks gain, but inflation worries drive weekly decline
-- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
-- [Nasdaq] Corn Slipping Back on Friday Morning
-- [Yahoo Finance] Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth
-- [Nasdaq] Ross Stores Q2 Earnings Top Estimates on Strong Sales Growth Momentum
-- [Yahoo Finance] U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale
-- [Yahoo Finance] Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight
-- [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
-- [Yahoo Finance] A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test
+- [Nasdaq] See Which Recent 13F Filers Hold AGG
 - [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
-- [Yahoo Finance] Global stocks close out a tough week as bond yields, oil stay high
-- [Yahoo Finance] Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar
-- [Yahoo Finance] Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns
+- [MarketWatch] Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’
+- [Investing.com] Ken Griffin’s Citadel sheds over 80% of Situational Awareness’ bets
+- [Investing.com] Raymond James sees token pricing gap widen in August 2026
+- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
+- [Investing.com] Canada’s Big Six banks head into Q3 2026 earnings on four-quarter beat streaks
+- [Nasdaq] Global Supply Concerns Support Sugar Prices
+- [Investing.com] BJ’s Wholesale Club earnings analysis: questions answered and next catalysts
+- [Nasdaq] Friday 8/21 Insider Buying Report: IAUX, MED
+- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
+- [Mining.com] Silver price 20% August surge sends miners soaring
+- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
+- [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
 - [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
-- [Yahoo Finance] Three Biotech Stocks Stick Out With Their Stellar Charts
-- [Yahoo Finance] Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities
+- [Mining.com] Europe relies increasingly on Russia for uranium needs, Sprott says
+- [Mining.com] Gold price gets US bond policy boost
+- [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
+- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
+- [OilPrice.com] Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling
+- [Retail Dive] In off price, Ross is the new boss
+- [OilPrice.com] US Oil Drillers See Pullback as Oil Prices Rise
+- [Mining.com] Bunker Hill to buy Silver47 in $163M all-stock deal
+- [OilPrice.com] India Boosts Battery Investment to Cut Solar Power Waste
+- [Retail Dive] Roots to be acquired by Roberto Cavalli parent company
+- [Yahoo Finance] Hyundai considers Georgia Metaplant expansion to 800,000 units
+- [Retail Dive] Home Depot rolls out express delivery in 3 hours or less across US
+- [Mining.com] Metals Exploration locks in $27M as La India first gold nears
