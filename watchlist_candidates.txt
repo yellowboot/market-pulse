@@ -6,41 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 15:04
-35 of 80 news items unmatched this run
+Generated: 21.08.2026 16:32
+37 of 80 news items unmatched this run
 
-- [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
-- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
-- [Investing.com] Boston Beer stock falls as CFO Reynoso to depart
-- [Investing.com] Greece stocks higher at close of trade; Athens General Composite up 1.34%
-- [Investing.com] Why is Cleveland-Cliffs stock surging today?
-- [Yahoo Finance] Star Equity (STRR) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] How a 76-Year-Old Collects $5,600 a Month From Just Two Funds: JEPQ and VYM
-- [Yahoo Finance] Looking to Generate Passive Income From Stocks? 3 Magnificent High-Yield Dividend Stocks to Buy Now
+- [Nasdaq] Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes
 - [Nasdaq] Corn Slipping Back on Friday Morning
-- [Nasdaq] Wheat Falling Back to Start Friday Trade
-- [Yahoo Finance] This Stock Could Be a Major AI Winner Through 2027. What’s It Worth?
-- [Yahoo Finance] JD.com offers concessions in EU probe of Ceconomy takeover bid
-- [Nasdaq] Hogs Look to Round Out the Week
-- [Nasdaq] Cattle Look to Friday Trade as President Trump Lifts Import Tariffs for 90 Days
+- [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
+- [Yahoo Finance] Global stocks close out a tough week as bond yields, oil stay high
+- [Yahoo Finance] Insider Alert: Sonoco CEO Coker Both Acquires and Disposes of 4,345 Shares
+- [Yahoo Finance] Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar
+- [Yahoo Finance] Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns
+- [Yahoo Finance] Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks?
+- [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
+- [Yahoo Finance] Three Biotech Stocks Stick Out With Their Stellar Charts
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.75%
+- [Investing.com] Spain stocks higher at close of trade; IBEX 35 up 0.76%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.78%
+- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.29%
+- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.12%
+- [Investing.com] Germany stocks higher at close of trade; DAX up 0.56%
+- [Investing.com] France stocks higher at close of trade; CAC 40 up 0.37%
+- [Investing.com] Barclays sees music streaming growth narrow gap with Spotify
+- [Investing.com] Belgium stocks higher at close of trade; BEL 20 up 1.11%
+- [Yahoo Finance] Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities
 - [Nasdaq] Cotton Back to Rallying Early on Friday
-- [Nasdaq] Soybeans Facing Modest Pressure on Friday Morning
-- [Yahoo Finance] USA Rare Earth Rises 8%, Critical Metals Jumps 10%, MP Materials Climbs 5% as the Resource Sector Catches a Bid
-- [Nasdaq] WIA Ex-Dividend Reminder - 8/24/26
-- [Nasdaq] Flaherty & Crumrine Preferred Securities Income Fund Incorporated About To Put More Money In Your Pocket (FFC)
-- [Nasdaq] Cash Dividend On The Way From Pan American Silver (PAAS)
-- [Nasdaq] Cash Dividend On The Way From Templeton Emerging Markets Income Fund (TEI)
-- [Nasdaq] Ryder System About To Put More Money In Your Pocket (R)
-- [Yahoo Finance] Crypto Miner Poolin Files For Bankruptcy
-- [Yahoo Finance] Dollar near three-month low on Treasury buyback worries
+- [Nasdaq] Daily Dividend Report: HD,DDS,MDT,SYY,FDX
+- [Nasdaq] Friday's ETF Movers: REMX, PTF
+- [Nasdaq] Friday Sector Laggards: Construction, Electric Utilities
+- [Nasdaq] Friday Sector Leaders: Metals & Mining, Shipping Stocks
+- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
+- [Nasdaq] See How Pan American Silver Ranks Among Analysts' Top Metals Picks
+- [Nasdaq] Cattle Look to Friday Trade as President Trump Lifts Import Tariffs for 90 Days
+- [Nasdaq] Wheat Falling Back to Start Friday Trade
+- [Nasdaq] Cattle Firms Up on Thursday
+- [Yahoo Finance] Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone
+- [Yahoo Finance] Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity
+- [Yahoo Finance] Ross Stores Trounces Earnings, Set To Retake Buy Point
+- [Yahoo Finance] Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes
+- [Yahoo Finance] RoadOne expands Port of Charleston operations with acquisition
 - [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
 - [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
-- [CNBC] Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent
-- [MarketWatch] When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger
-- [Mining.com] Bunker Hill to buy Silver47 in $163M all-stock deal
-- [Yahoo Finance] Hyundai considers Georgia Metaplant expansion to 800,000 units
-- [Mining.com] Metals Exploration locks in $27M as La India first gold nears
-- [CoinDesk] Nomura-backed Laser Digital wins Japan's first crypto approval in four years
-- [OilPrice.com] Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes
-- [OilPrice.com] Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia
-- [OilPrice.com] Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis
