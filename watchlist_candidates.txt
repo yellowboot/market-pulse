@@ -6,43 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 20:52
+Generated: 21.08.2026 21:51
 37 of 80 news items unmatched this run
 
-- [Investing.com] CoVolt Power files for proposed IPO
-- [Investing.com] MongoDB gets bullish call as Atlas, AI and enterprise push gain traction
-- [Investing.com] Mizuho Names Top Small & Midcap Biotech Stock
-- [Investing.com] TSX ends higher as gold rally lifts mining shares
-- [Investing.com] Canada stocks higher at close of trade; S&P/TSX Composite up 0.70%
-- [Investing.com] Brazil stocks higher at close of trade; Bovespa up 1.85%
+- [CNBC] Anthropic IPO filing will show AI backlash as a risk factor, sources say
+- [Investing.com] OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%
+- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 2.14%
+- [Investing.com] Fitch upgrades Summit Midstream rating on financial strength
+- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 0.61%
+- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.60%
+- [Nasdaq] Crude Oil Prices Rise as Middle East Hostilities Persist
+- [Nasdaq] Hot US Weather Forecasts Push Nat-Gas Prices Higher
+- [Nasdaq] Cocoa Prices Retreat as Global Supplies Improve
 - [Nasdaq] Brazil Harvest Pressures Weigh on Coffee Prices
 - [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
 - [Nasdaq] Cotton Trading Steady on Friday
-- [Nasdaq] Wheat Facing Friday Pressure
-- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
 - [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
-- [Nasdaq] Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes
+- [Nasdaq] See Which Recent 13F Filers Hold IEMG But Avaii Wealth Management and TrueWealth Financial Partners Exited
+- [Nasdaq] Dollar Ends Little Changed as Stocks Rally
+- [Nasdaq] Wheat Facing Friday Pressure
+- [Nasdaq] Sugar Prices Consolidate Recent Rally
+- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
+- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
 - [MarketWatch] Retirees: This investment gives you a guaranteed 5% safe withdrawal rate
-- [Nasdaq] Global Supply Concerns Support Sugar Prices
-- [Nasdaq] Cocoa Prices Retreat as Global Supplies Improve
-- [Nasdaq] RELX Crosses Above Key Moving Average Level
-- [Nasdaq] Amplify Alternative Harvest Breaks Above 200-Day Moving Average - Bullish for MJ
-- [Nasdaq] Entergy Breaks Below 200-Day Moving Average - Notable for ETR
-- [Nasdaq] Pinnacle West Capital (PNW) Shares Cross Below 200 DMA
+- [CNBC] Accordia Bank is offering a 5.00% APY booster on high-yield savings account for its rebrand — how to get it
 - [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
 - [CNBC] U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May
 - [CNBC] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
 - [Mining.com] Silver price 20% August surge sends miners soaring
-- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
 - [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
 - [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
+- [CNBC] Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent
 - [Mining.com] Gold price gets US bond policy boost
 - [OilPrice.com] Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis
+- [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
 - [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
 - [OilPrice.com] Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling
 - [Retail Dive] In off price, Ross is the new boss
 - [OilPrice.com] US Oil Drillers See Pullback as Oil Prices Rise
 - [Mining.com] Bunker Hill to buy Silver47 in $163M all-stock deal
 - [OilPrice.com] India Boosts Battery Investment to Cut Solar Power Waste
-- [Retail Dive] Roots to be acquired by Roberto Cavalli parent company
-- [Yahoo Finance] Hyundai considers Georgia Metaplant expansion to 800,000 units
