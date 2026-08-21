@@ -6,43 +6,47 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 16:32
-37 of 80 news items unmatched this run
+Generated: 21.08.2026 17:56
+41 of 80 news items unmatched this run
 
-- [Nasdaq] Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes
+- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
+- [Nasdaq] See Which Recent 13F Filers Hold DE But Opal Wealth Advisors Exited
+- [CNBC] Jim Cramer looks at why our AI data center stocks are among the worst of the week
+- [Nasdaq] See Which Recent 13F Filers Hold VYM But Ascentis Independent Advisors Exited
+- [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
+- [Nasdaq] Crude Oil Prices Consolidate Below Thursday’s 1-Month High
+- [Investing.com] Nscale seeks $3 billion US IPO amid AI data center rush
+- [Yahoo Finance] Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What’s Driving Quantum Computing Stocks Now?
+- [Yahoo Finance] AI Stock JFrog Jumps 159% From A Low, Eyes Entry As Earnings Accelerate
+- [Yahoo Finance] Citadel unwinds 80% of Situational Awareness portfolio
+- [Yahoo Finance] Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.
+- [Yahoo Finance] These Copper Miners Top Buy Points Amid Supply, Demand Crunch
+- [Yahoo Finance] IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'
+- [Yahoo Finance] REPOWR, ATBS team up to expand trailer access for owner-operators
+- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
+- [Yahoo Finance] Ross Stores Trounces Earnings, Set To Retake Buy Point
+- [Investing.com] Wall Street rises as materials and crypto stocks offset continued bond sell-off
+- [Mining.com] Silver price 20% August surge sends miners soaring
+- [Yahoo Finance] Bond yields head higher again, giving back almost all gains since Treasury Department intervention
+- [Yahoo Finance] Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'
+- [Investing.com] Guggenheim fund shares hit 17-year low after short-seller report
+- [Investing.com] Allianz Commercial names Emma Woolley to specialty role
+- [Yahoo Finance] Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report
+- [Nasdaq] Will FEMSA's Digital Push Through SPIN Unlock More Growth?
+- [Investing.com] Ken Griffin’s Citadel sheds over $4 billion of Situational Awareness’ bets
+- [Investing.com] European stocks gain, but inflation worries drive weekly decline
+- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
 - [Nasdaq] Corn Slipping Back on Friday Morning
+- [Yahoo Finance] Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth
+- [Nasdaq] Ross Stores Q2 Earnings Top Estimates on Strong Sales Growth Momentum
+- [Yahoo Finance] U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale
+- [Yahoo Finance] Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight
+- [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
+- [Yahoo Finance] A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test
 - [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
 - [Yahoo Finance] Global stocks close out a tough week as bond yields, oil stay high
-- [Yahoo Finance] Insider Alert: Sonoco CEO Coker Both Acquires and Disposes of 4,345 Shares
 - [Yahoo Finance] Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar
 - [Yahoo Finance] Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns
-- [Yahoo Finance] Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks?
 - [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
 - [Yahoo Finance] Three Biotech Stocks Stick Out With Their Stellar Charts
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.75%
-- [Investing.com] Spain stocks higher at close of trade; IBEX 35 up 0.76%
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.78%
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.29%
-- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.12%
-- [Investing.com] Germany stocks higher at close of trade; DAX up 0.56%
-- [Investing.com] France stocks higher at close of trade; CAC 40 up 0.37%
-- [Investing.com] Barclays sees music streaming growth narrow gap with Spotify
-- [Investing.com] Belgium stocks higher at close of trade; BEL 20 up 1.11%
 - [Yahoo Finance] Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities
-- [Nasdaq] Cotton Back to Rallying Early on Friday
-- [Nasdaq] Daily Dividend Report: HD,DDS,MDT,SYY,FDX
-- [Nasdaq] Friday's ETF Movers: REMX, PTF
-- [Nasdaq] Friday Sector Laggards: Construction, Electric Utilities
-- [Nasdaq] Friday Sector Leaders: Metals & Mining, Shipping Stocks
-- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
-- [Nasdaq] See How Pan American Silver Ranks Among Analysts' Top Metals Picks
-- [Nasdaq] Cattle Look to Friday Trade as President Trump Lifts Import Tariffs for 90 Days
-- [Nasdaq] Wheat Falling Back to Start Friday Trade
-- [Nasdaq] Cattle Firms Up on Thursday
-- [Yahoo Finance] Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone
-- [Yahoo Finance] Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity
-- [Yahoo Finance] Ross Stores Trounces Earnings, Set To Retake Buy Point
-- [Yahoo Finance] Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes
-- [Yahoo Finance] RoadOne expands Port of Charleston operations with acquisition
-- [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
-- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
