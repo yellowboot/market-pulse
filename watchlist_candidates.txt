@@ -6,36 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 19:27
+Generated: 21.08.2026 20:52
 37 of 80 news items unmatched this run
 
-- [Investing.com] Top weekly stock gainers led by ZSTK’s 203.6% surge
-- [Nasdaq] Wheat Facing Friday Pressure
+- [Investing.com] CoVolt Power files for proposed IPO
+- [Investing.com] MongoDB gets bullish call as Atlas, AI and enterprise push gain traction
+- [Investing.com] Mizuho Names Top Small & Midcap Biotech Stock
+- [Investing.com] TSX ends higher as gold rally lifts mining shares
+- [Investing.com] Canada stocks higher at close of trade; S&P/TSX Composite up 0.70%
+- [Investing.com] Brazil stocks higher at close of trade; Bovespa up 1.85%
+- [Nasdaq] Brazil Harvest Pressures Weigh on Coffee Prices
 - [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
-- [Nasdaq] Corn Pushing Higher into the Weekend
 - [Nasdaq] Cotton Trading Steady on Friday
-- [Nasdaq] Hogs Firming into the Weekend
-- [Nasdaq] Cattle Pulling off Early Lows, but Still Weaker as Tariff Quotas Lifted
-- [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
-- [Nasdaq] Crude Oil Prices Consolidate Below Thursday’s 1-Month High
-- [Nasdaq] See Which Recent 13F Filers Hold AGG
-- [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
-- [MarketWatch] Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’
-- [Investing.com] Ken Griffin’s Citadel sheds over 80% of Situational Awareness’ bets
-- [Investing.com] Raymond James sees token pricing gap widen in August 2026
+- [Nasdaq] Wheat Facing Friday Pressure
 - [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
-- [Investing.com] Canada’s Big Six banks head into Q3 2026 earnings on four-quarter beat streaks
+- [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
+- [Nasdaq] Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes
+- [MarketWatch] Retirees: This investment gives you a guaranteed 5% safe withdrawal rate
 - [Nasdaq] Global Supply Concerns Support Sugar Prices
-- [Investing.com] BJ’s Wholesale Club earnings analysis: questions answered and next catalysts
-- [Nasdaq] Friday 8/21 Insider Buying Report: IAUX, MED
-- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
+- [Nasdaq] Cocoa Prices Retreat as Global Supplies Improve
+- [Nasdaq] RELX Crosses Above Key Moving Average Level
+- [Nasdaq] Amplify Alternative Harvest Breaks Above 200-Day Moving Average - Bullish for MJ
+- [Nasdaq] Entergy Breaks Below 200-Day Moving Average - Notable for ETR
+- [Nasdaq] Pinnacle West Capital (PNW) Shares Cross Below 200 DMA
+- [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
+- [CNBC] U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May
+- [CNBC] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
 - [Mining.com] Silver price 20% August surge sends miners soaring
 - [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
 - [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
 - [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
-- [Mining.com] Europe relies increasingly on Russia for uranium needs, Sprott says
 - [Mining.com] Gold price gets US bond policy boost
-- [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
+- [OilPrice.com] Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis
 - [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
 - [OilPrice.com] Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling
 - [Retail Dive] In off price, Ross is the new boss
@@ -44,5 +46,3 @@ Generated: 21.08.2026 19:27
 - [OilPrice.com] India Boosts Battery Investment to Cut Solar Power Waste
 - [Retail Dive] Roots to be acquired by Roberto Cavalli parent company
 - [Yahoo Finance] Hyundai considers Georgia Metaplant expansion to 800,000 units
-- [Retail Dive] Home Depot rolls out express delivery in 3 hours or less across US
-- [Mining.com] Metals Exploration locks in $27M as La India first gold nears
