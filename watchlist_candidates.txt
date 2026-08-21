@@ -6,44 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 11:53
-38 of 80 news items unmatched this run
+Generated: 21.08.2026 13:38
+37 of 80 news items unmatched this run
 
-- [CNBC] Stock futures rise as Wall Street tries to recover from yield-driven selloff: Live updates
-- [Investing.com] BofA Names 5 European Semicap Stocks to Watch as China Import Data Shifts
-- [Investing.com] Why is Buckle stock surging today?
-- [Investing.com] Steadfast Group accepts A$7.7 billion takeover offer
-- [Investing.com] Why is Ubiquiti Networks stock climbing today?
-- [Investing.com] Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast
-- [Investing.com] Chery’s robot affiliate AiMOGA eyes IPO, targets overseas market
-- [Investing.com] UBS says bull market has further to run
-- [Investing.com] Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades
+- [CNBC] Stocks rebound after sell-off but remain on pace for weekly decline: Live updates
+- [Investing.com] Modine shares rise after bullish Hunterbrook report
+- [Investing.com] Nuclear maritime investing: SMR stocks and LNG shipping in a shifting energy landscape
+- [Investing.com] European stocks inch up; course to cap worst week since July on bond pressure
+- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
+- [Investing.com] DeepSeek unveils multimodal model to rival Anthropic
+- [CNBC] Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent
+- [Investing.com] These 4 stocks offer strong risk-reward after recent wild swings
+- [Investing.com] Top insider buys and sells disclosed for Thursday
+- [Investing.com] BMO starts chip stocks coverage: Here are its preferred picks
+- [MarketWatch] When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger
+- [Nasdaq] Here's Why You Should Retain DOW Stock in Your Portfolio
+- [Nasdaq] Buy 3 Outdoor Industry Stocks Amid Short-Term Double-Digit Potential
+- [Yahoo Finance] Hyundai considers Georgia Metaplant expansion to 800,000 units
+- [Nasdaq] Stitch Fix Boosts Growth With Category Expansion & AI Personalization
+- [Nasdaq] Under Armour's EMEA & Latin America Markets Support Global Growth
+- [Mining.com] Metals Exploration locks in $27M as La India first gold nears
+- [Nasdaq] Bull of the Day: The Cheesecake Factory (CAKE)
+- [Nasdaq] Bear of the Day: Dropbox (DBX)
 - [CoinDesk] Nomura-backed Laser Digital wins Japan's first crypto approval in four years
-- [CNBC] Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better
-- [MarketWatch] Hedge funds are doubling down on Big Tech even after summer volatility triggered a massive portfolio cleanup
+- [Nasdaq] Targa Resources' Stock Near 52-Week High: Time to Lock in Gains? (Revised)
+- [Yahoo Finance] Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks
+- [MarketWatch] Hedge funds are doubling down on megacap tech stocks after summer volatility triggers massive portfolio cleanup
 - [CNBC] Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback
 - [Nasdaq] Company News for Aug 21, 2026
 - [Nasdaq] New Strong Sell Stocks for August 21st
-- [OilPrice.com] East African Nations Offered 30% Share of Dangote’s Kenya Mega-Refinery
+- [OilPrice.com] Oil Bulls Take Control as Iran Deal Collapses and Hormuz Stays Restricted
 - [CoinDesk] MANTRA token plunges 18% to record low as blockchain halts after exploit
 - [CoinDesk] Ripple backs an RLUSD credit fund amid XRP's best week in months
-- [OilPrice.com] Iranian Oil Supply to China Is Rapidly Drying Up
 - [Nasdaq] Dollar Recovers Early Losses on US Economic Strength
-- [OilPrice.com] China’s Oil Imports Set to Rebound as Refiners Hunt for New Supply
 - [Nasdaq] Sugar Prices Rally as India Cuts Sugar Import Duties
 - [CoinDesk] A $2 million bet on XRP volatility crosses the tape as prices surge
-- [OilPrice.com] Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas
 - [Nasdaq] Cattle Firms Up on Thursday
 - [Nasdaq] Soybeans Fade Lower into Thursday’s Close
 - [Nasdaq] Arabica Coffee Settles Higher on Supply Concerns
-- [Nasdaq] Wheat Sees Mixed Trade on Thursday
 - [OilPrice.com] Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount
-- [Nasdaq] Corn Holds Higher on Thursday as December Breaches $5
-- [Nasdaq] Cotton Sticks Near Unchanged on Thursday
-- [Nasdaq] Hogs Fall Back Weaker on Thursday
 - [Mining.com] Lassonde-backed Cadillac drilling points to more Ontario gold
-- [Nasdaq] Smaller Ghana Cocoa Crop Supports Prices
-- [Nasdaq] Arabica Coffee Consolidating Below This Week’s 6.5-Month High
-- [CNBC] Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC
-- [Mining.com] High-grade Ima resource boosts Idaho tungsten revival
-- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
