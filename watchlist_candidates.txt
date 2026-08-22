@@ -6,43 +6,50 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 21.08.2026 21:51
-37 of 80 news items unmatched this run
+Generated: 22.08.2026 15:23
+44 of 80 news items unmatched this run
 
-- [CNBC] Anthropic IPO filing will show AI backlash as a risk factor, sources say
-- [Investing.com] OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 2.14%
-- [Investing.com] Fitch upgrades Summit Midstream rating on financial strength
-- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 0.61%
-- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.60%
-- [Nasdaq] Crude Oil Prices Rise as Middle East Hostilities Persist
-- [Nasdaq] Hot US Weather Forecasts Push Nat-Gas Prices Higher
-- [Nasdaq] Cocoa Prices Retreat as Global Supplies Improve
-- [Nasdaq] Brazil Harvest Pressures Weigh on Coffee Prices
-- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
-- [Nasdaq] Cotton Trading Steady on Friday
-- [Nasdaq] Coffee Prices Slip on Brazil Harvest Pressures
-- [Nasdaq] See Which Recent 13F Filers Hold IEMG But Avaii Wealth Management and TrueWealth Financial Partners Exited
+- [CoinDesk] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown
+- [Yahoo Finance] Occupancy Is Not Saving Office Loans From DSCR Stress
+- [Yahoo Finance] NYC Office REIT Faces Going Concern Doubt on $249M Debt
+- [Yahoo Finance] Warren Buffett sends investors 10-word stock market warning
+- [Yahoo Finance] When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it
+- [Yahoo Finance] Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.
+- [Yahoo Finance] Gillette Buys South Boston Life Science Site for $99.29M
+- [Yahoo Finance] 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround
+- [Yahoo Finance] Kroger has a customer problem that may be its own fault
+- [Yahoo Finance] Is Upstart Stock a Buy After Falling 55% This Year? Here's What to Know as One Insider Disposes of Shares
+- [Yahoo Finance] AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires
+- [Yahoo Finance] Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.
+- [CoinDesk] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit
+- [Yahoo Finance] BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' — and urges Americans to invest
+- [CoinDesk] Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says
+- [Investing.com] CTA equity positioning back to pre-Iran levels: BofA
+- [Yahoo Finance] U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?
+- [Yahoo Finance] India Leaves the Door Ajar for China’s Investors
+- [Yahoo Finance] The tax loophole that turns a Trump Account into tax-free millions — do you know how to exploit it?
+- [MarketWatch] Move over, credit cards: Social-media stars are tapping magic wands to buy things
+- [Yahoo Finance] ‘Always the best time to buy’: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100
+- [Investing.com] BofA maintains underperform ratings on six BDC stocks
+- [Investing.com] Wolfe Research sees CNH stock flat 2027 outlook on commodity prices
+- [CNBC] For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer
+- [Yahoo Finance] Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here’s who loses
+- [Investing.com] Jefferies sees metals breakout on currency concerns
+- [Investing.com] BofA says CTA Treasury shorts stable, euro short-cover risk rises
+- [Yahoo Finance] Billionaire Leon Cooperman says today's AI boom echoes a big bust from the 1970s — a lesson from the 'Nifty Fifty' crash
+- [CNBC] Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon
+- [Investing.com] These 3 AI stocks are bought by both hedge funds and mutual funds
+- [MarketWatch] A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it
+- [Yahoo Finance] Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling
+- [Yahoo Finance] Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY
+- [Nasdaq] Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields
+- [Nasdaq] Soybeans Firm Higher Late on Friday
+- [Nasdaq] Cattle Pull off Early Friday Lows, as Cattle on Feed Shows Fewer Placements
+- [Investing.com] Judge narrows Ben & Jerry’s lawsuit accusing Unilever of silencing social activism
+- [Nasdaq] Wheat Fades Lower into the Weekend
+- [Nasdaq] Cotton Closes Steady on Friday
+- [Nasdaq] Hogs Push Higher into the Weekend
 - [Nasdaq] Dollar Ends Little Changed as Stocks Rally
-- [Nasdaq] Wheat Facing Friday Pressure
-- [Nasdaq] Sugar Prices Consolidate Recent Rally
-- [Nasdaq] Cocoa Prices Fall on Rising Nigerian Cocoa Exports
-- [CNBC] Trump to allow import of 300,000 metric tons of ground beef without tariff
-- [MarketWatch] Retirees: This investment gives you a guaranteed 5% safe withdrawal rate
-- [CNBC] Accordia Bank is offering a 5.00% APY booster on high-yield savings account for its rebrand — how to get it
-- [CNBC] Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio
-- [CNBC] U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May
-- [CNBC] Bessent's bond gambit aimed at calming markets is instead stirring inflation worries
-- [Mining.com] Silver price 20% August surge sends miners soaring
-- [CNBC] Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
-- [CoinDesk] Ethena's ENA token surges 48%, but altcoin season will have to wait
-- [CNBC] Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent
-- [Mining.com] Gold price gets US bond policy boost
-- [OilPrice.com] Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis
-- [CNBC] How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown
-- [CNBC] The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth
-- [OilPrice.com] Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling
-- [Retail Dive] In off price, Ross is the new boss
-- [OilPrice.com] US Oil Drillers See Pullback as Oil Prices Rise
-- [Mining.com] Bunker Hill to buy Silver47 in $163M all-stock deal
-- [OilPrice.com] India Boosts Battery Investment to Cut Solar Power Waste
+- [Nasdaq] Crude Oil Prices Rise as Middle East Hostilities Persist
+- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
+- [Nasdaq] Hot US Weather Forecasts Push Nat-Gas Prices Higher
