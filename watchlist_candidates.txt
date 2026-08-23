@@ -6,50 +6,48 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 22.08.2026 15:23
-44 of 80 news items unmatched this run
+Generated: 23.08.2026 15:24
+42 of 80 news items unmatched this run
 
-- [CoinDesk] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown
-- [Yahoo Finance] Occupancy Is Not Saving Office Loans From DSCR Stress
-- [Yahoo Finance] NYC Office REIT Faces Going Concern Doubt on $249M Debt
-- [Yahoo Finance] Warren Buffett sends investors 10-word stock market warning
-- [Yahoo Finance] When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it
-- [Yahoo Finance] Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.
-- [Yahoo Finance] Gillette Buys South Boston Life Science Site for $99.29M
-- [Yahoo Finance] 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround
-- [Yahoo Finance] Kroger has a customer problem that may be its own fault
-- [Yahoo Finance] Is Upstart Stock a Buy After Falling 55% This Year? Here's What to Know as One Insider Disposes of Shares
-- [Yahoo Finance] AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires
-- [Yahoo Finance] Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.
-- [CoinDesk] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit
-- [Yahoo Finance] BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' — and urges Americans to invest
-- [CoinDesk] Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says
-- [Investing.com] CTA equity positioning back to pre-Iran levels: BofA
-- [Yahoo Finance] U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?
-- [Yahoo Finance] India Leaves the Door Ajar for China’s Investors
-- [Yahoo Finance] The tax loophole that turns a Trump Account into tax-free millions — do you know how to exploit it?
-- [MarketWatch] Move over, credit cards: Social-media stars are tapping magic wands to buy things
-- [Yahoo Finance] ‘Always the best time to buy’: Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100
-- [Investing.com] BofA maintains underperform ratings on six BDC stocks
-- [Investing.com] Wolfe Research sees CNH stock flat 2027 outlook on commodity prices
-- [CNBC] For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer
-- [Yahoo Finance] Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here’s who loses
-- [Investing.com] Jefferies sees metals breakout on currency concerns
-- [Investing.com] BofA says CTA Treasury shorts stable, euro short-cover risk rises
-- [Yahoo Finance] Billionaire Leon Cooperman says today's AI boom echoes a big bust from the 1970s — a lesson from the 'Nifty Fifty' crash
-- [CNBC] Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon
-- [Investing.com] These 3 AI stocks are bought by both hedge funds and mutual funds
-- [MarketWatch] A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it
-- [Yahoo Finance] Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling
-- [Yahoo Finance] Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY
+- [Yahoo Finance] This is One of the Cheapest Magnificent Seven Stocks Right Now
+- [Yahoo Finance] Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners
+- [CoinDesk] Crypto card spending tops $1 billion as stablecoins move into everyday purchases
+- [Yahoo Finance] Investor bullishness surges as BofA survey shows cash levels near historic lows
+- [Yahoo Finance] PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?
+- [Yahoo Finance] How to Build $11,800 a Month in Dividend Income Without Selling a Single Share
+- [Yahoo Finance] Is the 60/40 Dead Or Just Playing Possum?
+- [Yahoo Finance] Choosing This Retirement Account Over a Traditional 401(k) Could Mean Keeping More of Your Social Security Benefits
+- [Investing.com] Gulf markets rise as oil prices climb on Iran sanction fears
+- [Yahoo Finance] Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?
+- [Yahoo Finance] Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds
+- [Investing.com] Up another 12% Friday, this AI-picked energy stock is now up +90%
+- [CNBC] Small UK power generator shut down after cyberattack linked to Iran: Telegraph
+- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%
+- [CNBC] Bearproof stocks: These stocks have a history of holding up when the market struggles
+- [CNBC] Top Wall Street analysts believe in the growth potential of these 3 stocks
+- [Investing.com] Eni targets commercial fusion power plant in Europe by 2040s
+- [OilPrice.com] Underwater Volcanoes Are Geothermal Energy’s Next Frontier
+- [Yahoo Finance] Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up
+- [Yahoo Finance] Best CD rates today, Sunday, August 23, 2026: Lock in up to 4.35% APY
+- [Investing.com] Korean retail traders chase 40% coupons after historic stock rout - report
 - [Nasdaq] Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields
-- [Nasdaq] Soybeans Firm Higher Late on Friday
 - [Nasdaq] Cattle Pull off Early Friday Lows, as Cattle on Feed Shows Fewer Placements
-- [Investing.com] Judge narrows Ben & Jerry’s lawsuit accusing Unilever of silencing social activism
 - [Nasdaq] Wheat Fades Lower into the Weekend
 - [Nasdaq] Cotton Closes Steady on Friday
-- [Nasdaq] Hogs Push Higher into the Weekend
-- [Nasdaq] Dollar Ends Little Changed as Stocks Rally
-- [Nasdaq] Crude Oil Prices Rise as Middle East Hostilities Persist
+- [Yahoo Finance] 91-year-old supermarket chain closes stores, lays off employees
+- [Nasdaq] Cotton Trading Steady on Friday
+- [Nasdaq] Wheat Facing Friday Pressure
+- [Nasdaq] Corn Pushing Higher into the Weekend
+- [Nasdaq] Brazil Harvest Pressures Weigh on Coffee Prices
 - [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
-- [Nasdaq] Hot US Weather Forecasts Push Nat-Gas Prices Higher
+- [CNBC] Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit
+- [Nasdaq] Hogs Firming into the Weekend
+- [Nasdaq] Cattle Pulling off Early Lows, but Still Weaker as Tariff Quotas Lifted
+- [Yahoo Finance] Iconic fast-food fried chicken chain closes over 300 restaurants
+- [OilPrice.com] The Gas Turbine Shortage Just Became AI’s Biggest Constraint
+- [CoinDesk] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown
+- [CNBC] Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks
+- [Yahoo Finance] Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.
+- [CoinDesk] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit
+- [Nasdaq] Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach
+- [Yahoo Finance] 2 Software Stocks That Whale Rock Is Betting Will Survive the Apocalypse
