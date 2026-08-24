@@ -6,41 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 19:31
-35 of 80 news items unmatched this run
+Generated: 24.08.2026 21:01
+34 of 80 news items unmatched this run
 
-- [Investing.com] California cancels talks with Paramount over Warner Bros deal
-- [Investing.com] Automakers down on Trump threats: is there a TACO trade here?
-- [Investing.com] PDD Holdings earnings analysis: questions answered and next catalysts
-- [Nasdaq] Slow Pace of Brazil Harvest and Tight Inventories Boost Coffee Prices
-- [Nasdaq] Cotton Starting Monday on the Lower Side
-- [Nasdaq] Corn Shooting Higher on Monday Morning
-- [Nasdaq] Soybeans Fading the Rest of the Grains on Monday Morning
-- [Investing.com] Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
-- [Nasdaq] Signs of Abundant Cocoa Supplies Undercut Prices
-- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
-- [Nasdaq] Wheat Rallying on Monday Morning
-- [Nasdaq] Wheat Fades Lower into the Weekend
-- [CNBC] A massive trade just happened in gold. The options market is buzzing
+- [Investing.com] Citi says patience needed for EVT asset sales worth A$800 mln
+- [Nasdaq] Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz
+- [Nasdaq] Nat-Gas Prices Supported by Hot US Weather
+- [Nasdaq] Sugar Prices Consolidate Below Last Week’s Significant Highs
+- [Nasdaq] Coffee Prices Soar as Supplies Tighten
 - [Nasdaq] Sugar Prices Slip as ISMA Says India has No Sugar Shortage
-- [Nasdaq] Soybeans Firm Higher Late on Friday
-- [Investing.com] SLB options activity surges as call volume outpaces puts nearly 6-to-1
-- [Investing.com] Saudi Aramco signs deals with French firms worth over $3.7bn
+- [Investing.com] Aggreko files for NYSE IPO under ticker AGKO
+- [Investing.com] WestJet cabin crew approve proposed deal after strike
+- [Investing.com] WestJet flight attendants approve deal with 18% wage increase
+- [Nasdaq] Cocoa Prices Fall as Supply Concerns Ease
+- [Nasdaq] Wheat Posting Mixed Midday Action
+- [Investing.com] Amrize stock falls as CFO Baris Oran steps down
+- [Nasdaq] Relative Strength Alert For Fluence Energy
+- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
+- [Nasdaq] Oversold Conditions For Blue Bird (BLBD)
+- [Nasdaq] MBIA Enters Oversold Territory (MBI)
+- [Investing.com] Aggreko files for IPO on NYSE
+- [Nasdaq] Granite Ridge Resources Breaks Below 200-Day Moving Average - Notable for GRNT
+- [Mining.com] Top of Mine: Costa sees mining as the cheapest way to invest in AI
+- [MarketWatch] Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation
+- [CNBC] These 'overlooked gems' pay attractive income, a dividend specialist says
+- [CNBC] A massive trade just happened in gold. The options market is buzzing
 - [CNBC] Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
-- [Nasdaq] Monday 8/24 Insider Buying Report: ELAN, BWA
 - [Mining.com] Gold price rises, silver slips on Treasury cash-pile buyback signal
 - [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
-- [CNBC] There's one agriculture stock emerging from a 'corrective phase', says Katie Stockton
 - [CNBC] Zillow settles FTC claims it paid Redfin to stop competing on apartment listings
 - [Mining.com] Hydro, Statkraft sign long-term power agreement
 - [Mining.com] US preps $1.1B loan for Ivanhoe’s Santa Cruz copper project
+- [OilPrice.com] Norway Warns Oil and Gas Output Could Collapse After 2030
 - [OilPrice.com] TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz
-- [Yahoo Finance] Gemini crypto exchange review 2026: Bank-grade security comes at a price
 - [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
 - [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
 - [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
-- [CNBC] Santoli: Why all the fuss about bond yields is happening now
 - [CNBC] A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
-- [CoinDesk] Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
-- [CoinDesk] Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
-- [Retail Dive] Fragrance drives beauty sales as consumers seek ‘emotional and functional value’
