@@ -6,27 +6,32 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 21:01
-34 of 80 news items unmatched this run
+Generated: 24.08.2026 21:54
+39 of 80 news items unmatched this run
 
-- [Investing.com] Citi says patience needed for EVT asset sales worth A$800 mln
-- [Nasdaq] Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz
-- [Nasdaq] Nat-Gas Prices Supported by Hot US Weather
-- [Nasdaq] Sugar Prices Consolidate Below Last Week’s Significant Highs
-- [Nasdaq] Coffee Prices Soar as Supplies Tighten
-- [Nasdaq] Sugar Prices Slip as ISMA Says India has No Sugar Shortage
-- [Investing.com] Aggreko files for NYSE IPO under ticker AGKO
-- [Investing.com] WestJet cabin crew approve proposed deal after strike
-- [Investing.com] WestJet flight attendants approve deal with 18% wage increase
+- [CNBC] Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers
 - [Nasdaq] Cocoa Prices Fall as Supply Concerns Ease
+- [Nasdaq] Coffee Prices Soar as Supplies Tighten
+- [Nasdaq] Signs of Abundant Cocoa Supplies Undercut Prices
+- [Investing.com] Oura targets up to $3B in US IPO at a valuation exceeding $16B - Bloomberg
+- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.06%
+- [Investing.com] US SEC investigating Situational Awareness trades that led to July meltdown, source says
+- [CNBC] Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
+- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 2.09%
+- [Nasdaq] Dollar Moves Higher as US Ramps Up Pressure on Iran
+- [Investing.com] General Dynamics wins $54 million Army contract
+- [Nasdaq] Nat-Gas Prices Supported by Hot US Weather
+- [Mining.com] Agnico buys Quebec gold junior stake for $41M
+- [Investing.com] Moody’s downgrades Crane NXT senior secured debt on recovery value
+- [Nasdaq] Sugar Prices Consolidate Below Last Week’s Significant Highs
+- [Investing.com] Hormel Foods names former Tyson executive Ash Bhumbla as CFO
+- [Nasdaq] Corn Holding onto Double Digit Gains at Midday
+- [Nasdaq] Sugar Prices Slip as ISMA Says India has No Sugar Shortage
+- [Nasdaq] Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz
 - [Nasdaq] Wheat Posting Mixed Midday Action
-- [Investing.com] Amrize stock falls as CFO Baris Oran steps down
 - [Nasdaq] Relative Strength Alert For Fluence Energy
 - [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
 - [Nasdaq] Oversold Conditions For Blue Bird (BLBD)
-- [Nasdaq] MBIA Enters Oversold Territory (MBI)
-- [Investing.com] Aggreko files for IPO on NYSE
-- [Nasdaq] Granite Ridge Resources Breaks Below 200-Day Moving Average - Notable for GRNT
 - [Mining.com] Top of Mine: Costa sees mining as the cheapest way to invest in AI
 - [MarketWatch] Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation
 - [CNBC] These 'overlooked gems' pay attractive income, a dividend specialist says
@@ -42,4 +47,4 @@ Generated: 24.08.2026 21:01
 - [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
 - [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
 - [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
-- [CNBC] A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
+- [CNBC] Santoli: Why all the fuss about bond yields is happening now
