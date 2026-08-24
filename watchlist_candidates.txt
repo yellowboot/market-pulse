@@ -6,38 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 11:54
-32 of 80 news items unmatched this run
+Generated: 24.08.2026 13:43
+40 of 80 news items unmatched this run
 
-- [CNBC] Trump Interim CEO Kevin McGurn on Truth API: This was demand that came to us from the market
-- [Yahoo Finance] Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion
-- [CoinDesk] Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
+- [Yahoo Finance] Oil falls ahead of US announcement of new sanctions on Iran
+- [Investing.com] Cantor Fitzgerald Just Named This Chip Giant Its Top Semiconductor Pick
+- [Investing.com] Xpeng forecast disappoints as China EV competition heats up
+- [Investing.com] US FTC to file order resolving litigation against Zillow, Redfin
+- [Yahoo Finance] AB InBev invests in New York Cutwater production
+- [Yahoo Finance] KLA (KLAC) Gains From Advanced Nodes, HBM and Packaging
+- [Yahoo Finance] Applied Optoelectronics Sinks 12% on $600M Equity Offering, Lumentum and Coherent Drop 5%
+- [Yahoo Finance] Lam Research (LRCX) Sees Strong Growth Extend Into 2027 as AI Spending Accelerates
+- [Yahoo Finance] Bessent Quietly Built a $950 Billion War Chest Sitting In An Account At The Fed. Now We Know What It’s For
+- [Yahoo Finance] Mondelez CEO Dirk Van De Put Sells 134,000 Shares for $8.5 Million
+- [Yahoo Finance] Chewy Is Down 80% From Its All-Time High. Is This a No-Brainer Buy for Growth Stock Investors?
+- [Investing.com] Intuit earnings preview: Can FQ4 results unlock more upside after recent rally?
+- [Nasdaq] Wheat Fades Lower into the Weekend
+- [Nasdaq] Wheat Facing Friday Pressure
+- [Nasdaq] Corn Pushing Higher into the Weekend
+- [Yahoo Finance] Navios Maritime (NMM) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] American Resources' ReElement adds seven executives
+- [Yahoo Finance] The Hidden Reason SPHY and SPYD Diverged So Sharply in 2026
+- [Yahoo Finance] First Majestic Silver vs. MP Materials: Which Metals Stock Is a Better Buy in 2026?
 - [Yahoo Finance] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse
-- [Yahoo Finance] US awards $500m to seven critical minerals and battery projects
-- [Yahoo Finance] Evaluating RELX PLC’s (RELX) Enterprise Advantages in the AI Era
-- [Yahoo Finance] InterContinental Hotels Group (IHG): AI Search Functions Improve Visibility and Customer Reach
-- [Yahoo Finance] Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Put Wall Street on Notice With This $863 Million Warning
-- [Yahoo Finance] Can Phillips 66, Marathon, or Valero Afford Delek US Holdings Now?
-- [Yahoo Finance] Navigating W.W. Grainger’s (GWW) New Competitive Landscape
-- [Yahoo Finance] Inside Cintas Corp. (CTAS) Operational AI Integration
-- [Investing.com] Why is Biomea Fusion stock climbing today?
-- [Yahoo Finance] How SAP SE (SAP) Is Monetizing AI Through Joule and Data Cloud
-- [Yahoo Finance] Wintermute Boosts Crypto Shorts to $191M as It Moves Millions to Binance
-- [Yahoo Finance] Exxon Expands Automated Drilling in Permian to Boost Oil Production
-- [Investing.com] Norwegian energy firms team up for frontier exploration
-- [Yahoo Finance] Neura Robotics acquires ADLATUS to build physical AI powerhouse
-- [Yahoo Finance] Birkenstock Shares Rebound as Investors Reassess Valuation
-- [Investing.com] TotalEnergies to invest in Abu Dhabi pipeline expansion
-- [Yahoo Finance] Royal De Vries folding-carton plant closes after 152 years
-- [Yahoo Finance] Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
-- [CNBC] A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
-- [Investing.com] Why is Applied Optoelectronics stock sliding today?
-- [CNBC] UPS is investing $2 billion in international, healthcare and supply chain businesses
-- [Investing.com] California cancels settlement talks with Paramount over merger - NYT
-- [CoinDesk] Gemini strikes Apex deal to widen prediction markets reach
-- [Investing.com] Jersey Mike’s shares rise as brokerages start coverage, cite growth pipeline
-- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
-- [Yahoo Finance] Exclusive-India plans first tokenised bond issue in September, sources say
-- [Nasdaq] Bear of the Day: AECOM (ACM)
-- [Nasdaq] New Strong Sell Stocks for August 24th
-- [Nasdaq] Bull of the Day: EnerSys (ENS)
+- [Yahoo Finance] Samsung Electronics stock drops after shareholder return plan disappoints
+- [Yahoo Finance] This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax’s Moat
+- [Investing.com] Top insider buys and sells disclosed on Friday
+- [Yahoo Finance] Gemini crypto exchange review 2026: Bank-grade security comes at a price
+- [Nasdaq] Cotton Closes Steady on Friday
+- [Nasdaq] Hogs Push Higher into the Weekend
+- [Nasdaq] Cattle Pull off Early Friday Lows, as Cattle on Feed Shows Fewer Placements
+- [Nasdaq] Soybeans Firm Higher Late on Friday
+- [Nasdaq] Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields
+- [Nasdaq] Cotton Trading Steady on Friday
+- [Nasdaq] Hogs Firming into the Weekend
+- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
+- [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
+- [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
+- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.86%
+- [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
+- [Yahoo Finance] Nasdaq (NDAQ) Has Quietly Built a More Durable Business Beyond Trading
+- [Yahoo Finance] Why this analyst predicts Circle stock could surge 75%
+- [Nasdaq] Sugar Prices Consolidate Recent Rally
+- [MarketWatch] Temu owner’s shares rise as results beat estimates despite tumbling profits
