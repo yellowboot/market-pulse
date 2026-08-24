@@ -6,48 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 23.08.2026 15:24
-42 of 80 news items unmatched this run
+Generated: 24.08.2026 11:54
+32 of 80 news items unmatched this run
 
-- [Yahoo Finance] This is One of the Cheapest Magnificent Seven Stocks Right Now
-- [Yahoo Finance] Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners
-- [CoinDesk] Crypto card spending tops $1 billion as stablecoins move into everyday purchases
-- [Yahoo Finance] Investor bullishness surges as BofA survey shows cash levels near historic lows
-- [Yahoo Finance] PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?
-- [Yahoo Finance] How to Build $11,800 a Month in Dividend Income Without Selling a Single Share
-- [Yahoo Finance] Is the 60/40 Dead Or Just Playing Possum?
-- [Yahoo Finance] Choosing This Retirement Account Over a Traditional 401(k) Could Mean Keeping More of Your Social Security Benefits
-- [Investing.com] Gulf markets rise as oil prices climb on Iran sanction fears
-- [Yahoo Finance] Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?
-- [Yahoo Finance] Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds
-- [Investing.com] Up another 12% Friday, this AI-picked energy stock is now up +90%
-- [CNBC] Small UK power generator shut down after cyberattack linked to Iran: Telegraph
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%
-- [CNBC] Bearproof stocks: These stocks have a history of holding up when the market struggles
-- [CNBC] Top Wall Street analysts believe in the growth potential of these 3 stocks
-- [Investing.com] Eni targets commercial fusion power plant in Europe by 2040s
-- [OilPrice.com] Underwater Volcanoes Are Geothermal Energy’s Next Frontier
-- [Yahoo Finance] Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up
-- [Yahoo Finance] Best CD rates today, Sunday, August 23, 2026: Lock in up to 4.35% APY
-- [Investing.com] Korean retail traders chase 40% coupons after historic stock rout - report
-- [Nasdaq] Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields
-- [Nasdaq] Cattle Pull off Early Friday Lows, as Cattle on Feed Shows Fewer Placements
-- [Nasdaq] Wheat Fades Lower into the Weekend
-- [Nasdaq] Cotton Closes Steady on Friday
-- [Yahoo Finance] 91-year-old supermarket chain closes stores, lays off employees
-- [Nasdaq] Cotton Trading Steady on Friday
-- [Nasdaq] Wheat Facing Friday Pressure
-- [Nasdaq] Corn Pushing Higher into the Weekend
-- [Nasdaq] Brazil Harvest Pressures Weigh on Coffee Prices
-- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
-- [CNBC] Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit
-- [Nasdaq] Hogs Firming into the Weekend
-- [Nasdaq] Cattle Pulling off Early Lows, but Still Weaker as Tariff Quotas Lifted
-- [Yahoo Finance] Iconic fast-food fried chicken chain closes over 300 restaurants
-- [OilPrice.com] The Gas Turbine Shortage Just Became AI’s Biggest Constraint
-- [CoinDesk] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown
-- [CNBC] Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks
-- [Yahoo Finance] Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.
-- [CoinDesk] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit
-- [Nasdaq] Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach
-- [Yahoo Finance] 2 Software Stocks That Whale Rock Is Betting Will Survive the Apocalypse
+- [CNBC] Trump Interim CEO Kevin McGurn on Truth API: This was demand that came to us from the market
+- [Yahoo Finance] Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion
+- [CoinDesk] Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
+- [Yahoo Finance] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse
+- [Yahoo Finance] US awards $500m to seven critical minerals and battery projects
+- [Yahoo Finance] Evaluating RELX PLC’s (RELX) Enterprise Advantages in the AI Era
+- [Yahoo Finance] InterContinental Hotels Group (IHG): AI Search Functions Improve Visibility and Customer Reach
+- [Yahoo Finance] Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Put Wall Street on Notice With This $863 Million Warning
+- [Yahoo Finance] Can Phillips 66, Marathon, or Valero Afford Delek US Holdings Now?
+- [Yahoo Finance] Navigating W.W. Grainger’s (GWW) New Competitive Landscape
+- [Yahoo Finance] Inside Cintas Corp. (CTAS) Operational AI Integration
+- [Investing.com] Why is Biomea Fusion stock climbing today?
+- [Yahoo Finance] How SAP SE (SAP) Is Monetizing AI Through Joule and Data Cloud
+- [Yahoo Finance] Wintermute Boosts Crypto Shorts to $191M as It Moves Millions to Binance
+- [Yahoo Finance] Exxon Expands Automated Drilling in Permian to Boost Oil Production
+- [Investing.com] Norwegian energy firms team up for frontier exploration
+- [Yahoo Finance] Neura Robotics acquires ADLATUS to build physical AI powerhouse
+- [Yahoo Finance] Birkenstock Shares Rebound as Investors Reassess Valuation
+- [Investing.com] TotalEnergies to invest in Abu Dhabi pipeline expansion
+- [Yahoo Finance] Royal De Vries folding-carton plant closes after 152 years
+- [Yahoo Finance] Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
+- [CNBC] A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
+- [Investing.com] Why is Applied Optoelectronics stock sliding today?
+- [CNBC] UPS is investing $2 billion in international, healthcare and supply chain businesses
+- [Investing.com] California cancels settlement talks with Paramount over merger - NYT
+- [CoinDesk] Gemini strikes Apex deal to widen prediction markets reach
+- [Investing.com] Jersey Mike’s shares rise as brokerages start coverage, cite growth pipeline
+- [MarketWatch] 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
+- [Yahoo Finance] Exclusive-India plans first tokenised bond issue in September, sources say
+- [Nasdaq] Bear of the Day: AECOM (ACM)
+- [Nasdaq] New Strong Sell Stocks for August 24th
+- [Nasdaq] Bull of the Day: EnerSys (ENS)
