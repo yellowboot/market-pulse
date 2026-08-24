@@ -6,46 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 13:43
+Generated: 24.08.2026 15:10
 40 of 80 news items unmatched this run
 
-- [Yahoo Finance] Oil falls ahead of US announcement of new sanctions on Iran
-- [Investing.com] Cantor Fitzgerald Just Named This Chip Giant Its Top Semiconductor Pick
-- [Investing.com] Xpeng forecast disappoints as China EV competition heats up
-- [Investing.com] US FTC to file order resolving litigation against Zillow, Redfin
-- [Yahoo Finance] AB InBev invests in New York Cutwater production
-- [Yahoo Finance] KLA (KLAC) Gains From Advanced Nodes, HBM and Packaging
-- [Yahoo Finance] Applied Optoelectronics Sinks 12% on $600M Equity Offering, Lumentum and Coherent Drop 5%
-- [Yahoo Finance] Lam Research (LRCX) Sees Strong Growth Extend Into 2027 as AI Spending Accelerates
-- [Yahoo Finance] Bessent Quietly Built a $950 Billion War Chest Sitting In An Account At The Fed. Now We Know What It’s For
-- [Yahoo Finance] Mondelez CEO Dirk Van De Put Sells 134,000 Shares for $8.5 Million
-- [Yahoo Finance] Chewy Is Down 80% From Its All-Time High. Is This a No-Brainer Buy for Growth Stock Investors?
-- [Investing.com] Intuit earnings preview: Can FQ4 results unlock more upside after recent rally?
+- [Yahoo Finance] Grant Thornton Australia to join international advisory platform
 - [Nasdaq] Wheat Fades Lower into the Weekend
-- [Nasdaq] Wheat Facing Friday Pressure
-- [Nasdaq] Corn Pushing Higher into the Weekend
-- [Yahoo Finance] Navios Maritime (NMM) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] American Resources' ReElement adds seven executives
-- [Yahoo Finance] The Hidden Reason SPHY and SPYD Diverged So Sharply in 2026
-- [Yahoo Finance] First Majestic Silver vs. MP Materials: Which Metals Stock Is a Better Buy in 2026?
-- [Yahoo Finance] U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse
-- [Yahoo Finance] Samsung Electronics stock drops after shareholder return plan disappoints
-- [Yahoo Finance] This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax’s Moat
-- [Investing.com] Top insider buys and sells disclosed on Friday
-- [Yahoo Finance] Gemini crypto exchange review 2026: Bank-grade security comes at a price
-- [Nasdaq] Cotton Closes Steady on Friday
-- [Nasdaq] Hogs Push Higher into the Weekend
-- [Nasdaq] Cattle Pull off Early Friday Lows, as Cattle on Feed Shows Fewer Placements
-- [Nasdaq] Soybeans Firm Higher Late on Friday
-- [Nasdaq] Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields
-- [Nasdaq] Cotton Trading Steady on Friday
-- [Nasdaq] Hogs Firming into the Weekend
-- [Nasdaq] Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements
-- [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
-- [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.86%
-- [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
-- [Yahoo Finance] Nasdaq (NDAQ) Has Quietly Built a More Durable Business Beyond Trading
-- [Yahoo Finance] Why this analyst predicts Circle stock could surge 75%
-- [Nasdaq] Sugar Prices Consolidate Recent Rally
-- [MarketWatch] Temu owner’s shares rise as results beat estimates despite tumbling profits
+- [Investing.com] Norway stocks lower at close of trade; Oslo OBX down 0.14%
+- [Investing.com] Citi maintains buy ratings on Argentina power firms amid sector shifts
+- [Investing.com] Israel stocks lower at close of trade; TA 35 down 1.09%
+- [Investing.com] Biomea Fusion stock surges on diabetes trial enrollment completion
+- [Investing.com] Zillow settles FTC claims it paid Redfin to stop competing on apartment listings
+- [Nasdaq] Wheat Rallying on Monday Morning
+- [Nasdaq] Dollar Ends Little Changed as Stocks Rally
+- [Investing.com] Monte Rosa stock falls as phase 2 prostate cancer study begins
+- [Investing.com] Greece stocks lower at close of trade; Athens General Composite down 0.08%
+- [Yahoo Finance] Is MP Materials Stock a Buy After Earnings?
+- [Yahoo Finance] Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties
+- [Investing.com] Why is Circle Internet stock climbing today?
+- [Yahoo Finance] Steadfast agrees $5.51bn buyout by KKR-led consortium
+- [Yahoo Finance] State Farm Just Handed $5 Billion Back to Customers. Here’s What That Says About Where Car Insurance Profits Are Headed
+- [Yahoo Finance] Billionaire Ken Griffin Just Loaded Up on AbbVie and Abbott. Here's Whether Investors Should Follow His Lead.
+- [Nasdaq] Cotton Starting Monday on the Lower Side
+- [Nasdaq] Corn Shooting Higher on Monday Morning
+- [Nasdaq] Soybeans Fading the Rest of the Grains on Monday Morning
+- [Yahoo Finance] ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project
+- [Yahoo Finance] UBS says record earnings, not hype, are driving 'one of the most significant bull markets in history'
+- [Yahoo Finance] The Smart Money Is Sending a Mixed Signal on AI Stocks
+- [Nasdaq] Snag This Cheap Energy Stock Even Lower Than Director Fitch Did
+- [Nasdaq] Reminder - Invesco Mortgage Capital (IVR) Goes Ex-Dividend Soon
+- [Nasdaq] Cash Dividend On The Way From Marcus (MCS)
+- [Nasdaq] Westlake About To Put More Money In Your Pocket (WLK)
+- [Nasdaq] Ex-Div Reminder for Robert Half (RHI)
+- [Nasdaq] Ex-Div Reminder for RB Global (RBA)
+- [Nasdaq] Prudential Financial About To Put More Money In Your Pocket (PRU)
+- [Yahoo Finance] California Accuses Paramount Of 'A Lack Of Good Faith;' Calls Off Settlement Talks
+- [CNBC] Shares of this sandwich chain that recently went public may surge, Loop Capital says
+- [Yahoo Finance] Is Linde (LIN) Set to Benefit From a Global Industrial Recovery?
+- [MarketWatch] Oil trades lower even as Bessent promises ‘economic D-Day’ announcement on Iran
+- [Yahoo Finance] SGA Exits Alcon (ALC) as Cataract Demand Slows and Competition Rises
+- [Yahoo Finance] SGA Is Betting on Equinix (EQIX) as AI Demand Accelerates
+- [Yahoo Finance] SGA Sold Intuit (INTU) as TurboTax and Mailchimp Weakness Deepened
+- [Yahoo Finance] Gemini Expands Prediction Market Offering
+- [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
+- [CNBC] Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said
