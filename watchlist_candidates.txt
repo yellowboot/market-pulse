@@ -6,46 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 16:35
-40 of 80 news items unmatched this run
+Generated: 24.08.2026 17:57
+37 of 80 news items unmatched this run
 
-- [CNBC] Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates
-- [Yahoo Finance] FNCL vs. FTXO: Which Financial Sector ETF Is the Better Buy for Investors?
-- [Nasdaq] Dollar Gains on Weak Stocks
-- [CNBC] Cramer says this stock tied to the AI data center trade may be up next for a trim
-- [Yahoo Finance] Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties
-- [Investing.com] FTSE 100 today: Stocks close up as Iran sanctions loom
-- [Yahoo Finance] Royal Caribbean Is Down 20% From Its 52-Week High. Is the Dip Worth Buying?
-- [Yahoo Finance] Hickory Tavern Trims Footprint Amid Brand Revitalization
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.36%
+- [Investing.com] Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
+- [Yahoo Finance] RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up
+- [Mining.com] Gold price rises, silver slips on Treasury cash-pile buyback signal
+- [Investing.com] California expected to seek TV channel sales from Paramount-Warner, WSJ reports
+- [Investing.com] California cancels talks with Paramount over Warner Bros deal
 - [Investing.com] Wall Street mixed amid falling tech stocks, rising U.S.-Canada trade tensions
-- [Investing.com] Italy stocks lower at close of trade; Investing.com Italy 40 down 0.28%
-- [Investing.com] Microchip Technology options surge to record call volume as diagonal spread signals institutional bet
-- [Investing.com] Germany stocks lower at close of trade; DAX down 0.07%
-- [Investing.com] France stocks lower at close of trade; CAC 40 down 0.37%
-- [Investing.com] Belgium stocks higher at close of trade; BEL 20 up 0.11%
-- [Investing.com] Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.05%
-- [Yahoo Finance] Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets
-- [Nasdaq] Crude Oil Prices Rise as Middle East Hostilities Persist
-- [Yahoo Finance] Shares dip on pressure from technology; yields and oil fall
-- [MarketWatch] U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada
-- [Yahoo Finance] Freightos (CRGO) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Vanguard vs. Fidelity: Is VIG or FDVV the Better Buy for Dividend Investors?
-- [Yahoo Finance] Zillow Shares Climb on Proposed Redfin Rental Listings Settlement. What It Means for the Stocks—And You.
-- [Nasdaq] Monday 8/24 Insider Buying Report: GWRS, ALK
-- [Yahoo Finance] Digi Power X president, CEO both buy shares in open-market purchases
-- [Nasdaq] YieldBoost PRIM From 0.4% To 16.5% Using Options
-- [CNBC] Zillow settles FTC claims it paid Redfin to stop competing on apartment listings
-- [Nasdaq] Dollar Ends Little Changed as Stocks Rally
-- [Yahoo Finance] Billionaire Ron Baron makes $24.9 billion bet on controversial giant
-- [Yahoo Finance] This Tech Stock Is Being Highly Overlooked in the AI Race
-- [Nasdaq] EWZ, NBIZ: Big ETF Outflows
-- [Nasdaq] Here's Why You Should Retain OPK Stock in Your Portfolio for Now
-- [Nasdaq] Can IBM's New AI-Powered 2026 US Open Innovations Drive Growth?
-- [Nasdaq] Hogs Look to Monday Trade
-- [Nasdaq] Hogs Push Higher into the Weekend
-- [CNBC] Biotech stocks are breaking out. How Josh Brown is trading them
-- [Yahoo Finance] Dollar edges up, loonie drops after U.S. announces tariffs
-- [Yahoo Finance] Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks
-- [Yahoo Finance] ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project
-- [Yahoo Finance] Descartes acquires Tai for $100M
+- [Yahoo Finance] Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally
+- [Yahoo Finance] Dov Hertz Sells Staten Island Industrial Site for $167M
+- [Yahoo Finance] Fisher Brothers Taps Israeli Bond Market for Office Buyout
+- [Nasdaq] Slow Pace of Brazil Harvest and Tight Inventories Boost Coffee Prices
+- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
+- [Nasdaq] Cotton Starting Monday on the Lower Side
+- [Nasdaq] Wheat Rallying on Monday Morning
+- [Nasdaq] Corn Shooting Higher on Monday Morning
+- [Nasdaq] Soybeans Fading the Rest of the Grains on Monday Morning
+- [Nasdaq] Soybeans Firm Higher Late on Friday
+- [Nasdaq] Wheat Fades Lower into the Weekend
+- [Yahoo Finance] California Attorney General Cancels Paramount Meeting, Citing Leaks
+- [Nasdaq] Analyst Favorites: Vale Ranks As a Top Metals Pick
+- [Yahoo Finance] Delek Logistics EVP Hobbs Buys 4,000 Shares for $200,000
+- [Yahoo Finance] Canada’s Big Banks Expected to Log Another Strong Quarter While Valuations Stretched
+- [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
+- [Yahoo Finance] A 21 Year Old Called Dave Ramsey’s Show Owing $184,000 on Three Cars He Never Drove
+- [Yahoo Finance] Expion shares surge on $9M private placement to fund Louisiana oil and gas push
+- [Yahoo Finance] Celebrity brand whiskey distillery enters Chapter 7 liquidation
+- [Yahoo Finance] Oil slips ahead of US announcement of new sanctions on Iran
+- [Yahoo Finance] Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)
+- [CNBC] A Goldman portfolio of favorite stocks is up 29% this year. Here are the new members
+- [Investing.com] Top Infrastructure Services Stocks to Watch, Says DA Davidson
+- [Yahoo Finance] Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran
+- [Yahoo Finance] TGTX Stock Outperforms 95% of Stocks. Here's Why.
+- [Nasdaq] Sugar Prices Consolidate Recent Rally
+- [Yahoo Finance] Gogoro Inc. Q2 2026 Earnings Call Summary
+- [Investing.com] Why is Veradermics stock sliding today?
+- [CNBC] Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
+- [CNBC] A massive trade just happened in gold. The options market is buzzing
+- [Yahoo Finance] President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own
