@@ -6,43 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 17:57
-37 of 80 news items unmatched this run
+Generated: 24.08.2026 19:31
+35 of 80 news items unmatched this run
 
-- [Investing.com] Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
-- [Yahoo Finance] RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up
-- [Mining.com] Gold price rises, silver slips on Treasury cash-pile buyback signal
-- [Investing.com] California expected to seek TV channel sales from Paramount-Warner, WSJ reports
 - [Investing.com] California cancels talks with Paramount over Warner Bros deal
-- [Investing.com] Wall Street mixed amid falling tech stocks, rising U.S.-Canada trade tensions
-- [Yahoo Finance] Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally
-- [Yahoo Finance] Dov Hertz Sells Staten Island Industrial Site for $167M
-- [Yahoo Finance] Fisher Brothers Taps Israeli Bond Market for Office Buyout
+- [Investing.com] Automakers down on Trump threats: is there a TACO trade here?
+- [Investing.com] PDD Holdings earnings analysis: questions answered and next catalysts
 - [Nasdaq] Slow Pace of Brazil Harvest and Tight Inventories Boost Coffee Prices
-- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
 - [Nasdaq] Cotton Starting Monday on the Lower Side
-- [Nasdaq] Wheat Rallying on Monday Morning
 - [Nasdaq] Corn Shooting Higher on Monday Morning
 - [Nasdaq] Soybeans Fading the Rest of the Grains on Monday Morning
-- [Nasdaq] Soybeans Firm Higher Late on Friday
+- [Investing.com] Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
+- [Nasdaq] Signs of Abundant Cocoa Supplies Undercut Prices
+- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
+- [Nasdaq] Wheat Rallying on Monday Morning
 - [Nasdaq] Wheat Fades Lower into the Weekend
-- [Yahoo Finance] California Attorney General Cancels Paramount Meeting, Citing Leaks
-- [Nasdaq] Analyst Favorites: Vale Ranks As a Top Metals Pick
-- [Yahoo Finance] Delek Logistics EVP Hobbs Buys 4,000 Shares for $200,000
-- [Yahoo Finance] Canada’s Big Banks Expected to Log Another Strong Quarter While Valuations Stretched
-- [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
-- [Yahoo Finance] A 21 Year Old Called Dave Ramsey’s Show Owing $184,000 on Three Cars He Never Drove
-- [Yahoo Finance] Expion shares surge on $9M private placement to fund Louisiana oil and gas push
-- [Yahoo Finance] Celebrity brand whiskey distillery enters Chapter 7 liquidation
-- [Yahoo Finance] Oil slips ahead of US announcement of new sanctions on Iran
-- [Yahoo Finance] Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)
-- [CNBC] A Goldman portfolio of favorite stocks is up 29% this year. Here are the new members
-- [Investing.com] Top Infrastructure Services Stocks to Watch, Says DA Davidson
-- [Yahoo Finance] Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran
-- [Yahoo Finance] TGTX Stock Outperforms 95% of Stocks. Here's Why.
-- [Nasdaq] Sugar Prices Consolidate Recent Rally
-- [Yahoo Finance] Gogoro Inc. Q2 2026 Earnings Call Summary
-- [Investing.com] Why is Veradermics stock sliding today?
-- [CNBC] Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
 - [CNBC] A massive trade just happened in gold. The options market is buzzing
-- [Yahoo Finance] President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own
+- [Nasdaq] Sugar Prices Slip as ISMA Says India has No Sugar Shortage
+- [Nasdaq] Soybeans Firm Higher Late on Friday
+- [Investing.com] SLB options activity surges as call volume outpaces puts nearly 6-to-1
+- [Investing.com] Saudi Aramco signs deals with French firms worth over $3.7bn
+- [CNBC] Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
+- [Nasdaq] Monday 8/24 Insider Buying Report: ELAN, BWA
+- [Mining.com] Gold price rises, silver slips on Treasury cash-pile buyback signal
+- [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
+- [CNBC] There's one agriculture stock emerging from a 'corrective phase', says Katie Stockton
+- [CNBC] Zillow settles FTC claims it paid Redfin to stop competing on apartment listings
+- [Mining.com] Hydro, Statkraft sign long-term power agreement
+- [Mining.com] US preps $1.1B loan for Ivanhoe’s Santa Cruz copper project
+- [OilPrice.com] TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz
+- [Yahoo Finance] Gemini crypto exchange review 2026: Bank-grade security comes at a price
+- [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
+- [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
+- [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
+- [CNBC] Santoli: Why all the fuss about bond yields is happening now
+- [CNBC] A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one
+- [CoinDesk] Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin
+- [CoinDesk] Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline
+- [Retail Dive] Fragrance drives beauty sales as consumers seek ‘emotional and functional value’
