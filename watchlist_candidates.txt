@@ -6,44 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 11:55
+Generated: 25.08.2026 13:41
 38 of 80 news items unmatched this run
 
-- [Investing.com] Why is Immatics stock climbing today?
-- [Investing.com] Why is Dynatrace stock rallying today?
+- [CNBC] Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market
+- [Nasdaq] Home Reno Boom 2.0 Is Coming. This Dividend (up 238%) Is Our "In"
+- [Yahoo Finance] Vnet Group (VNET) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] “Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation
+- [Yahoo Finance] Cathie Wood's Ark Innovation Fund Returned 17% Over the Past Year. Is It Still a Buy After Years of Underperformance?
+- [Yahoo Finance] Vanguard Growth Index Fund Admiral Shares (VIGAX): What Investors Should Know
+- [Yahoo Finance] Teradyne CEO Gregory Smith Sells 4,000 Shares for $1.7 Million
+- [Nasdaq] Upcoming Dividend Run For ESEA?
+- [Nasdaq] Upcoming Dividend Run For HPQ?
+- [Nasdaq] Upcoming Dividend Run For KSS?
+- [Nasdaq] Upcoming Dividend Run For EHLD?
+- [Yahoo Finance] XRP’s Old SWIFT Advantage Is Disappearing as Banks Move Tokenized Money Onchain
+- [Yahoo Finance] Magnum welcomes pruning of Ben & Jerry’s lawsuit
+- [Yahoo Finance] Good Good Golf and Callaway Apologize for ‘Scary’ Ad
+- [Investing.com] Europe A&D roundup: Airbus strike resumes, BAE wins Italy rocket approval
+- [MarketWatch] Investors poured into Canadian ETFs right before trade talks broke down
+- [Investing.com] European stocks trade at one-week highs as sanctions threat proves toothless
+- [Nasdaq] Coffee Prices Soar as Supplies Tighten
+- [MarketWatch] Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says
+- [Investing.com] ByteDance fined $30M in Brazil over teen data violations
+- [Investing.com] Why This U.S. Auto Retail Stock is Barclays’ Top Pick Right Now
+- [Nasdaq] Buy 3 Mid-Sized Defense Equipment Stocks Amid Geopolitical Conflicts
+- [Investing.com] BlackBerry CEO says robotics is fastest-growing QNX business
+- [Nasdaq] Zumiez Gains From Private Label Expansion & Category Momentum
+- [Nasdaq] 5 Solid Stocks to Boost Your Portfolio on Surging Restaurant Sales
+- [Investing.com] Dick’s Sporting Goods cuts annual forecasts as demand weakens, shares tumble
+- [Yahoo Finance] Silver prices today, Tuesday, August 25, 2026: Silver prices pull back slightly, but remain over $68
+- [Yahoo Finance] Equinor Eyes Major Oil Discovery Offshore Namibia
+- [MarketWatch] Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ threat against Iran
+- [Nasdaq] Why You Should Add Air Products Stock to Your Portfolio Now
+- [Nasdaq] AEM vs. BTG: Which Gold Mining Stock Should You Invest in Now?
+- [Nasdaq] RS Shares Rally 21% in 6 Months: Here's What's Driving the Upside
+- [Nasdaq] Agnico Eagle to Acquire 10.45% Stake in Radisson Mining Resources
+- [Yahoo Finance] Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning
+- [Yahoo Finance] Cybersecurity Stocks Are Priced For Big AI Growth. Earnings Could Bring Fireworks.
+- [Yahoo Finance] Likely BMO swan song shows trucking credit strengthening
+- [Yahoo Finance] Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'
 - [CNBC] SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse
-- [Investing.com] Avoid these 3 auto stocks as Trump threatens 50% Canada tariffs
-- [CNBC] Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’
-- [Investing.com] Bessent’s buyback gambit may be engineering a CTA short squeeze at 5.34%
-- [Investing.com] Kura Oncology stock jumps after CEO buys $1.24M in shares
-- [MarketWatch] Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says
-- [CNBC] Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market
-- [Yahoo Finance] Commonwealth Bank unveils payout platform ahead of cheque exit
-- [Yahoo Finance] Jim Cramer says data center backlash favors big tech hyperscalers
-- [Investing.com] Why is Navitas Semiconductor stock rallying today?
-- [Investing.com] Canadian lenders BMO, Scotiabank beat profit estimates
-- [Yahoo Finance] Guardant ordered to pay $245m in DNA sequencing patent dispute
-- [Yahoo Finance] Butterball reaches settlement in turkey pricing case
-- [Yahoo Finance] XRP to $29? Tyler Winklevoss Touts ‘Ripple Army’ Win as Gemini Opens Singapore XRPL Transfers
-- [CNBC] Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines
-- [Yahoo Finance] How to Invest for an AI Boom, AI Bust, or...Both: These ETFs Can Help.
-- [Yahoo Finance] Quantum Flex Pack buys Fujifilm press in US
-- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
-- [Yahoo Finance] Eco Buildings' Dr Etrur Albani: New board hires to sharpen governance as momentum builds
-- [Yahoo Finance] US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project
-- [Yahoo Finance] Crux closes $215m tax equity deal for Pleasant Prairie project
-- [Yahoo Finance] Citi Raises Corn, Soybean and Wheat Price Targets as El Niño Risks Intensify
-- [Yahoo Finance] Cancer Vaccine Breakthrough Lifts 5 Biotech Names. Here’s Who’s Best Positioned.
-- [Yahoo Finance] Aramco signs agreements, MoU worth $3.7bn with French companies
-- [Yahoo Finance] ShardLab invests in StoreHub, launches payments JV
-- [Yahoo Finance] SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High
-- [Yahoo Finance] WAWWA invests in automated fabric cutting to save time and reduce waste
-- [Yahoo Finance] 1 Popular Cryptocurrency to Buy Before It Surges by 920%, According to Cathie Wood's Ark Invest
-- [MarketWatch] Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ for Iran
-- [CoinDesk] Solana ETFs extend growth streak to 5 days after year's biggest inflows
-- [Yahoo Finance] Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning
-- [Yahoo Finance] Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers
-- [MarketWatch] One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.
-- [CNBC] BlackBerry CEO says robotics is one of its fastest-growing businesses
-- [CNBC] Dragon Ball Z theme park gets $7 billion green light
-- [CoinDesk] U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
