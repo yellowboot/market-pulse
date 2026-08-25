@@ -6,47 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 15:21
-41 of 80 news items unmatched this run
+Generated: 25.08.2026 16:35
+40 of 80 news items unmatched this run
 
-- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
-- [Yahoo Finance] Helen of Troy Shareholders Back Board, Pay Plan as CEO Maps Turnaround Roadmap
-- [Yahoo Finance] SCHMID Group Q2 Earnings Call Highlights
-- [Yahoo Finance] Bank of Nova Scotia Q3 Earnings Call Highlights
-- [Yahoo Finance] Citi Trends Q2 Earnings Call Highlights
-- [Yahoo Finance] OpenAI's IPO Won't Likely Happen Until 2027. Here's Why That's the Right Call.
-- [Yahoo Finance] Buffett Just Made a $37 Billion Bet on This Tech Giant. Should You Buy?
-- [Yahoo Finance] Levi’s Cybersecurity Breach Puts Apparel Industry Risks in Focus
-- [Yahoo Finance] Critical Metals Spikes 19%, MP Materials and United States Antimony Lag: Is the European Lithium Merger Driving the Move?
-- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
-- [Nasdaq] Wheat Facing Pressure Early on Tuesday
-- [Yahoo Finance] Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit
+- [CNBC] Cash is no longer king in home sales
+- [CNBC] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail
+- [CoinDesk] LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
+- [Yahoo Finance] AI is Sharpening Ryan Specialty Holdings (RYAN), Not Replacing Them
+- [Yahoo Finance] Executive Sells $1.4 Million Worth of Travel Stock, Following 54% Rally
+- [Yahoo Finance] Kura Oncology CEO Buys 100,000 Shares for $1.2 Million. Does This Large Buy Bode Well for Shares in 2026?
+- [Investing.com] Why is Standard Nuclear stock surging today?
+- [Nasdaq] Dollar Slips on Weaker-Than-Expected US Economic News
+- [Nasdaq] Soybeans Extending Weakness to Tuesday AM Trade
 - [Nasdaq] Corn Pulls Off Highs, Still Closes Monday with Strength as Ratings Fall
-- [Investing.com] ATI Inc options activity: put volume surges to 4,102 contracts, dwarfing calls
-- [Investing.com] Greece stocks higher at close of trade; Athens General Composite up 0.81%
-- [CNBC] Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market
-- [Yahoo Finance] Anavex Life Sciences Advances Alzheimer’s Phase 3 Planning as Cash Runway Extends Into Fiscal 2028
-- [Yahoo Finance] Lavish Enterprises Introduces FleetPath Ace Autonomous Trucking Operator Ahead of Beta Testing
-- [MarketWatch] Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts
-- [Investing.com] MongoDB stock may move 14% on Sept. 1 earnings release
-- [Investing.com] Credo Technology shares may move 12% on Sept. 1 earnings
-- [Investing.com] Gitlab stock may move 14% on Sept. 1 earnings report
-- [Investing.com] Fintech stocks with strong momentum: neobanks, market makers, and value plays
+- [Yahoo Finance] Amer Sports (AS) Q2 2026 Earnings Call Transcript
+- [Yahoo Finance] Klarna (KLAR) Q2 2026 Earnings Call Transcript
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.33%
+- [Yahoo Finance] Robinhood Rises 7%, Webull Climbs 4% as a Day Trading Rule Repeal Ignites Retail Crypto Orders
+- [Investing.com] Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.83%
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.21%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.57%
+- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.15%
+- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.39%
+- [Yahoo Finance] The Floor Under BSX Stock Is Being Tested Again
+- [Yahoo Finance] Insider Sells 5,200 Shares, After Stock Falls 42% in a Year
+- [Yahoo Finance] Vanguard's VOO draws $4.3 billion during red week
+- [Yahoo Finance] Air T Shareholders Approve Board, Pay and Deloitte as Rex Engine Constraints Persist
+- [Yahoo Finance] Gold Fields H1 Earnings Call Highlights
+- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
 - [Nasdaq] Coffee Prices Soar as Supplies Tighten
-- [Yahoo Finance] Affirm (AFRM) Slipped After Klarna Cut Guidance. Category Warning or Share-Gain Opportunity?
-- [Nasdaq] LB Ex-Dividend Reminder - 8/27/26
-- [Nasdaq] First Bancorp About To Put More Money In Your Pocket (FBP)
-- [Nasdaq] Cash Dividend On The Way From Xylem (XYL)
-- [Nasdaq] Ex-Div Reminder for Hyatt Hotels (H)
-- [Nasdaq] Ex-Div Reminder for Embecta (EMBC)
-- [Nasdaq] Expedia Group About To Put More Money In Your Pocket (EXPE)
-- [Nasdaq] Ex-Div Reminder for Olin
-- [Nasdaq] Ex-Div Reminder for Rand Capital
-- [Yahoo Finance] SK hynix (SKHY) Announces a $28.6 Billion Buyback. Capital-Return Breakthrough or AI-Cycle Warning?
-- [Yahoo Finance] Zerostack’s Crypto Holdings Top $1 Billion
-- [Yahoo Finance] Grayscale Launches First Zcash Exchange-Traded Fund
-- [Yahoo Finance] Coty (COTY) Shares Came Under Pressure. Is the “Transition Year” Hiding a Deeper Portfolio Problem?
-- [MarketWatch] Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says
-- [Yahoo Finance] Opera (OPRA) Moved Its Earnings Forward. Can AI Browser Growth Produce Another Guidance Increase?
-- [Yahoo Finance] Investors rotate into tech stocks as inflation concerns ease: AlphaCheck
-- [CoinDesk] Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
+- [Yahoo Finance] Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit
+- [Nasdaq] Wheat Facing Pressure Early on Tuesday
+- [Yahoo Finance] Ultragenyx (RARE) Jumped 7.5% on FDA Approval. Can a $2.7 Million Gene Therapy Become a Commercial Success?
+- [Yahoo Finance] AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?
+- [Yahoo Finance] Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?
+- [Nasdaq] YieldBoost UWM Holdings To 47.3% Using Options
+- [Yahoo Finance] Bitdeer Adds 28 MW at Soluna’s Wind-Powered Texas Mining Site
+- [CNBC] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war
+- [Yahoo Finance] Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks
+- [MarketWatch] Home prices in Chicago have risen more than in any other U.S. city over the past year
+- [Yahoo Finance] AIR Global’s Best-in-Class 1H Performance Amid Disruptions, 2H Recovery – Quarterly Update Report
+- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
+- [Nasdaq] Cotton Falling on Tuesday Morning
+- [Nasdaq] Higher GMV, More Consumers: What Could Drive Affirm's Q4 Earnings?
