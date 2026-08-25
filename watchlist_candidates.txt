@@ -6,44 +6,47 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 13:41
-38 of 80 news items unmatched this run
+Generated: 25.08.2026 15:21
+41 of 80 news items unmatched this run
 
-- [CNBC] Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market
-- [Nasdaq] Home Reno Boom 2.0 Is Coming. This Dividend (up 238%) Is Our "In"
-- [Yahoo Finance] Vnet Group (VNET) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] “Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation
-- [Yahoo Finance] Cathie Wood's Ark Innovation Fund Returned 17% Over the Past Year. Is It Still a Buy After Years of Underperformance?
-- [Yahoo Finance] Vanguard Growth Index Fund Admiral Shares (VIGAX): What Investors Should Know
-- [Yahoo Finance] Teradyne CEO Gregory Smith Sells 4,000 Shares for $1.7 Million
-- [Nasdaq] Upcoming Dividend Run For ESEA?
-- [Nasdaq] Upcoming Dividend Run For HPQ?
-- [Nasdaq] Upcoming Dividend Run For KSS?
-- [Nasdaq] Upcoming Dividend Run For EHLD?
-- [Yahoo Finance] XRP’s Old SWIFT Advantage Is Disappearing as Banks Move Tokenized Money Onchain
-- [Yahoo Finance] Magnum welcomes pruning of Ben & Jerry’s lawsuit
-- [Yahoo Finance] Good Good Golf and Callaway Apologize for ‘Scary’ Ad
-- [Investing.com] Europe A&D roundup: Airbus strike resumes, BAE wins Italy rocket approval
-- [MarketWatch] Investors poured into Canadian ETFs right before trade talks broke down
-- [Investing.com] European stocks trade at one-week highs as sanctions threat proves toothless
+- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
+- [Yahoo Finance] Helen of Troy Shareholders Back Board, Pay Plan as CEO Maps Turnaround Roadmap
+- [Yahoo Finance] SCHMID Group Q2 Earnings Call Highlights
+- [Yahoo Finance] Bank of Nova Scotia Q3 Earnings Call Highlights
+- [Yahoo Finance] Citi Trends Q2 Earnings Call Highlights
+- [Yahoo Finance] OpenAI's IPO Won't Likely Happen Until 2027. Here's Why That's the Right Call.
+- [Yahoo Finance] Buffett Just Made a $37 Billion Bet on This Tech Giant. Should You Buy?
+- [Yahoo Finance] Levi’s Cybersecurity Breach Puts Apparel Industry Risks in Focus
+- [Yahoo Finance] Critical Metals Spikes 19%, MP Materials and United States Antimony Lag: Is the European Lithium Merger Driving the Move?
+- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
+- [Nasdaq] Wheat Facing Pressure Early on Tuesday
+- [Yahoo Finance] Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit
+- [Nasdaq] Corn Pulls Off Highs, Still Closes Monday with Strength as Ratings Fall
+- [Investing.com] ATI Inc options activity: put volume surges to 4,102 contracts, dwarfing calls
+- [Investing.com] Greece stocks higher at close of trade; Athens General Composite up 0.81%
+- [CNBC] Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market
+- [Yahoo Finance] Anavex Life Sciences Advances Alzheimer’s Phase 3 Planning as Cash Runway Extends Into Fiscal 2028
+- [Yahoo Finance] Lavish Enterprises Introduces FleetPath Ace Autonomous Trucking Operator Ahead of Beta Testing
+- [MarketWatch] Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts
+- [Investing.com] MongoDB stock may move 14% on Sept. 1 earnings release
+- [Investing.com] Credo Technology shares may move 12% on Sept. 1 earnings
+- [Investing.com] Gitlab stock may move 14% on Sept. 1 earnings report
+- [Investing.com] Fintech stocks with strong momentum: neobanks, market makers, and value plays
 - [Nasdaq] Coffee Prices Soar as Supplies Tighten
+- [Yahoo Finance] Affirm (AFRM) Slipped After Klarna Cut Guidance. Category Warning or Share-Gain Opportunity?
+- [Nasdaq] LB Ex-Dividend Reminder - 8/27/26
+- [Nasdaq] First Bancorp About To Put More Money In Your Pocket (FBP)
+- [Nasdaq] Cash Dividend On The Way From Xylem (XYL)
+- [Nasdaq] Ex-Div Reminder for Hyatt Hotels (H)
+- [Nasdaq] Ex-Div Reminder for Embecta (EMBC)
+- [Nasdaq] Expedia Group About To Put More Money In Your Pocket (EXPE)
+- [Nasdaq] Ex-Div Reminder for Olin
+- [Nasdaq] Ex-Div Reminder for Rand Capital
+- [Yahoo Finance] SK hynix (SKHY) Announces a $28.6 Billion Buyback. Capital-Return Breakthrough or AI-Cycle Warning?
+- [Yahoo Finance] Zerostack’s Crypto Holdings Top $1 Billion
+- [Yahoo Finance] Grayscale Launches First Zcash Exchange-Traded Fund
+- [Yahoo Finance] Coty (COTY) Shares Came Under Pressure. Is the “Transition Year” Hiding a Deeper Portfolio Problem?
 - [MarketWatch] Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says
-- [Investing.com] ByteDance fined $30M in Brazil over teen data violations
-- [Investing.com] Why This U.S. Auto Retail Stock is Barclays’ Top Pick Right Now
-- [Nasdaq] Buy 3 Mid-Sized Defense Equipment Stocks Amid Geopolitical Conflicts
-- [Investing.com] BlackBerry CEO says robotics is fastest-growing QNX business
-- [Nasdaq] Zumiez Gains From Private Label Expansion & Category Momentum
-- [Nasdaq] 5 Solid Stocks to Boost Your Portfolio on Surging Restaurant Sales
-- [Investing.com] Dick’s Sporting Goods cuts annual forecasts as demand weakens, shares tumble
-- [Yahoo Finance] Silver prices today, Tuesday, August 25, 2026: Silver prices pull back slightly, but remain over $68
-- [Yahoo Finance] Equinor Eyes Major Oil Discovery Offshore Namibia
-- [MarketWatch] Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ threat against Iran
-- [Nasdaq] Why You Should Add Air Products Stock to Your Portfolio Now
-- [Nasdaq] AEM vs. BTG: Which Gold Mining Stock Should You Invest in Now?
-- [Nasdaq] RS Shares Rally 21% in 6 Months: Here's What's Driving the Upside
-- [Nasdaq] Agnico Eagle to Acquire 10.45% Stake in Radisson Mining Resources
-- [Yahoo Finance] Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning
-- [Yahoo Finance] Cybersecurity Stocks Are Priced For Big AI Growth. Earnings Could Bring Fireworks.
-- [Yahoo Finance] Likely BMO swan song shows trucking credit strengthening
-- [Yahoo Finance] Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'
-- [CNBC] SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse
+- [Yahoo Finance] Opera (OPRA) Moved Its Earnings Forward. Can AI Browser Growth Produce Another Guidance Increase?
+- [Yahoo Finance] Investors rotate into tech stocks as inflation concerns ease: AlphaCheck
+- [CoinDesk] Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
