@@ -6,45 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 19:34
+Generated: 25.08.2026 20:57
 39 of 80 news items unmatched this run
 
-- [CNBC] Investor competition for commercial real estate sees strongest growth in a year
-- [Nasdaq] Corn Rallying on Tuesday, Hitting $5 Spot Futures
-- [Nasdaq] Soybeans Shrugging Off Overnight Lows by Double Digits
-- [Nasdaq] Wheat Bulls Powering Through at Midday
+- [Nasdaq] Crude Oil Prices Sharply Lower as Middle East Hostilities Subside
+- [Nasdaq] Nat-Gas Prices Fall in Sympathy with Crude Oil
+- [Nasdaq] Sugar Prices Retreat as India May Import Less Sugar Than Anticipated
 - [Nasdaq] Sugar Prices Fall as India May Import Less Sugar Than Anticipated
-- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
-- [Investing.com] McKesson stock jumps on $2.25B Precision Medicine deal
-- [Nasdaq] Cotton Holding onto Tuesday Weakness
-- [Investing.com] Guggenheim says affiliates may buy discounted loan after debt falls - Bloomberg
-- [Nasdaq] Hogs Posting Tuesday Weakness
-- [Nasdaq] Hogs Look to Tuesday Trade
-- [Nasdaq] Cattle Falling on Tuesday
-- [Investing.com] Why is Thomson Reuters stock sliding today?
-- [Investing.com] Why is Synopsys stock rallying today?
-- [CNBC] Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.
-- [Investing.com] TSX exporters most exposed to new U.S. tariffs: banks, energy, and materials
-- [Mining.com] Tungsten West scores $97M UK investment, stock soars
-- [Investing.com] Intuit options skew toward puts ahead of earnings as traders hedge downside
-- [Investing.com] California AG says no settlement talks scheduled with Paramount
-- [Investing.com] Semtech options activity points to bullish bets on a breakout by September 18
+- [CNBC] Investor competition for commercial real estate sees strongest growth in a year
+- [CNBC] Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market
+- [Nasdaq] Coffee Prices Erase Early Gains as Brazil’s Coffee Warehouses Fill
 - [Nasdaq] Easing Supply Concerns Weigh on Cocoa Prices
-- [Nasdaq] Coffee Prices Retreat on the Outlook for Bigger Brazil Exports
-- [Nasdaq] 5 Life Insurance Stocks to Watch Despite Low-Interest Rate Environment
+- [Nasdaq] Dollar Slips on Weaker-Than-Expected US Economic News
+- [Nasdaq] Callaway Golf is Now Oversold (CALY)
+- [Nasdaq] RSI Alert: Polestar Automotive Holding (PSNY) Now Oversold
+- [Nasdaq] Finance of America Companies Enters Oversold Territory (FOA)
+- [Nasdaq] York Space Systems is Now Oversold (YSS)
+- [Nasdaq] Omnicell Becomes Oversold (OMCL)
+- [Nasdaq] Cocoa Prices Pressured by Signs of Abundant Supplies
+- [Investing.com] Why is Zoom Video Communications stock sliding today?
+- [Investing.com] Canada stocks higher at close of trade; S&P/TSX Composite up 0.66%
+- [Investing.com] Brazil stocks higher at close of trade; Bovespa up 1.55%
+- [Investing.com] S&P upgrades Southwest Airlines outlook on earnings growth
+- [Investing.com] Why is Intuit stock plunging today?
+- [Investing.com] Wall Street ends higher on tech stocks, falling oil prices, and bond market rally
+- [Investing.com] Semtech surges on strong Q2 beat and upbeat Q3 guidance
+- [Investing.com] US SEC subpoenas Wall Street lenders over Situational Awareness meltdown, source says
+- [CNBC] Bond rout ending? Massive bets on bond rally dominate options market
+- [CoinDesk] South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move
+- [CNBC] Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.
+- [Mining.com] Tungsten West scores $97M UK investment, stock soars
 - [Mining.com] Copper price sets fresh record as US tariff threat wipes out global surplus
 - [CNBC] Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it
-- [MarketWatch] Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers
+- [CNBC] Cash is no longer king in home sales
 - [CoinDesk] LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
 - [Mining.com] Fortescue suspends executive over sexual harassment allegations
 - [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
-- [CNBC] Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market
+- [OilPrice.com] Uranium Prices Surge as Nuclear Demand Accelerates
 - [OilPrice.com] Satellite Images Show Seven Tankers Loading Iraqi Crude at Once
-- [OilPrice.com] Norway’s Troll Gas Expansion Buys Europe Time—But Not New Supply
 - [CoinDesk] Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
-- [CNBC] To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers
+- [CoinDesk] MiCA revolutionised European crypto, and left Poland licking its wounds
 - [OilPrice.com] BLM Sets October Oil and Gas Lease Sale for Montana and Dakotas
 - [Retail Dive] Dick’s keeps Foot Locker in the game despite losses, gloomy outlook
-- [Yahoo Finance] Silver prices today, Tuesday, August 25, 2026: Silver prices pull back slightly, but remain over $68
-- [Yahoo Finance] Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning
-- [OilPrice.com] The Race to Power AI Is Reviving America's Nuclear Ambitions
