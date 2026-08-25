@@ -6,45 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 24.08.2026 21:54
-39 of 80 news items unmatched this run
+Generated: 25.08.2026 11:55
+38 of 80 news items unmatched this run
 
-- [CNBC] Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers
-- [Nasdaq] Cocoa Prices Fall as Supply Concerns Ease
-- [Nasdaq] Coffee Prices Soar as Supplies Tighten
-- [Nasdaq] Signs of Abundant Cocoa Supplies Undercut Prices
-- [Investing.com] Oura targets up to $3B in US IPO at a valuation exceeding $16B - Bloomberg
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.06%
-- [Investing.com] US SEC investigating Situational Awareness trades that led to July meltdown, source says
-- [CNBC] Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
-- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 2.09%
-- [Nasdaq] Dollar Moves Higher as US Ramps Up Pressure on Iran
-- [Investing.com] General Dynamics wins $54 million Army contract
-- [Nasdaq] Nat-Gas Prices Supported by Hot US Weather
-- [Mining.com] Agnico buys Quebec gold junior stake for $41M
-- [Investing.com] Moody’s downgrades Crane NXT senior secured debt on recovery value
-- [Nasdaq] Sugar Prices Consolidate Below Last Week’s Significant Highs
-- [Investing.com] Hormel Foods names former Tyson executive Ash Bhumbla as CFO
-- [Nasdaq] Corn Holding onto Double Digit Gains at Midday
-- [Nasdaq] Sugar Prices Slip as ISMA Says India has No Sugar Shortage
-- [Nasdaq] Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz
-- [Nasdaq] Wheat Posting Mixed Midday Action
-- [Nasdaq] Relative Strength Alert For Fluence Energy
-- [Nasdaq] Crude Prices Fall as Oil Supplies Move Through the Strait of Hormuz
-- [Nasdaq] Oversold Conditions For Blue Bird (BLBD)
-- [Mining.com] Top of Mine: Costa sees mining as the cheapest way to invest in AI
-- [MarketWatch] Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation
-- [CNBC] These 'overlooked gems' pay attractive income, a dividend specialist says
-- [CNBC] A massive trade just happened in gold. The options market is buzzing
-- [CNBC] Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up
-- [Mining.com] Gold price rises, silver slips on Treasury cash-pile buyback signal
-- [CNBC] California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'
-- [CNBC] Zillow settles FTC claims it paid Redfin to stop competing on apartment listings
-- [Mining.com] Hydro, Statkraft sign long-term power agreement
-- [Mining.com] US preps $1.1B loan for Ivanhoe’s Santa Cruz copper project
-- [OilPrice.com] Norway Warns Oil and Gas Output Could Collapse After 2030
-- [OilPrice.com] TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz
-- [CoinDesk] New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation
-- [Yahoo Finance] Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month
-- [Yahoo Finance] Gold prices today, Monday, August 24, 2026: 'Gold to stay hot through the end of the month'
-- [CNBC] Santoli: Why all the fuss about bond yields is happening now
+- [Investing.com] Why is Immatics stock climbing today?
+- [Investing.com] Why is Dynatrace stock rallying today?
+- [CNBC] SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse
+- [Investing.com] Avoid these 3 auto stocks as Trump threatens 50% Canada tariffs
+- [CNBC] Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’
+- [Investing.com] Bessent’s buyback gambit may be engineering a CTA short squeeze at 5.34%
+- [Investing.com] Kura Oncology stock jumps after CEO buys $1.24M in shares
+- [MarketWatch] Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says
+- [CNBC] Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market
+- [Yahoo Finance] Commonwealth Bank unveils payout platform ahead of cheque exit
+- [Yahoo Finance] Jim Cramer says data center backlash favors big tech hyperscalers
+- [Investing.com] Why is Navitas Semiconductor stock rallying today?
+- [Investing.com] Canadian lenders BMO, Scotiabank beat profit estimates
+- [Yahoo Finance] Guardant ordered to pay $245m in DNA sequencing patent dispute
+- [Yahoo Finance] Butterball reaches settlement in turkey pricing case
+- [Yahoo Finance] XRP to $29? Tyler Winklevoss Touts ‘Ripple Army’ Win as Gemini Opens Singapore XRPL Transfers
+- [CNBC] Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines
+- [Yahoo Finance] How to Invest for an AI Boom, AI Bust, or...Both: These ETFs Can Help.
+- [Yahoo Finance] Quantum Flex Pack buys Fujifilm press in US
+- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
+- [Yahoo Finance] Eco Buildings' Dr Etrur Albani: New board hires to sharpen governance as momentum builds
+- [Yahoo Finance] US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project
+- [Yahoo Finance] Crux closes $215m tax equity deal for Pleasant Prairie project
+- [Yahoo Finance] Citi Raises Corn, Soybean and Wheat Price Targets as El Niño Risks Intensify
+- [Yahoo Finance] Cancer Vaccine Breakthrough Lifts 5 Biotech Names. Here’s Who’s Best Positioned.
+- [Yahoo Finance] Aramco signs agreements, MoU worth $3.7bn with French companies
+- [Yahoo Finance] ShardLab invests in StoreHub, launches payments JV
+- [Yahoo Finance] SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High
+- [Yahoo Finance] WAWWA invests in automated fabric cutting to save time and reduce waste
+- [Yahoo Finance] 1 Popular Cryptocurrency to Buy Before It Surges by 920%, According to Cathie Wood's Ark Invest
+- [MarketWatch] Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ for Iran
+- [CoinDesk] Solana ETFs extend growth streak to 5 days after year's biggest inflows
+- [Yahoo Finance] Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning
+- [Yahoo Finance] Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers
+- [MarketWatch] One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.
+- [CNBC] BlackBerry CEO says robotics is one of its fastest-growing businesses
+- [CNBC] Dragon Ball Z theme park gets $7 billion green light
+- [CoinDesk] U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology
