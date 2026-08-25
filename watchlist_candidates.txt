@@ -6,46 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 16:35
+Generated: 25.08.2026 17:56
 40 of 80 news items unmatched this run
 
-- [CNBC] Cash is no longer king in home sales
+- [CNBC] Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it
+- [Yahoo Finance] RGAIA Bets on GitLab (GTLB) for Its AI-Driven Growth Potential
+- [Yahoo Finance] Galaxy Unveils Crypto-Backed Line of Credit Service
+- [Yahoo Finance] Schwab SCHD draws $679M as dividend ETF climbs 2.39%
+- [Yahoo Finance] Aberdeen Goes Global With £700M Merged Fund
+- [CNBC] Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.
+- [Yahoo Finance] Bilbel Capital Sold CareCloud (CCLD) for More Attractive Opportunities
+- [Yahoo Finance] Interface CEO Laurel Hurd Sells 7,000 Shares
+- [Nasdaq] Coffee Prices Retreat on the Outlook for Bigger Brazil Exports
+- [Nasdaq] Dollar Slips on Weaker-Than-Expected US Economic News
+- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
+- [Yahoo Finance] 1 Quantum Computing Stock Everyone's Ignoring While IonQ Gets the Headlines
+- [Yahoo Finance] Why Richtech Robotics Stock Popped Today
+- [Yahoo Finance] SNAP: Priced Like A Decline, Paying Like A Machine
+- [Yahoo Finance] Canadian Pacific Kansas City (CP) Reaffirms 36.9% Locomotive Emissions Reduction Goal by 2030
+- [Yahoo Finance] Anthropic pitches IPO investors on $30 trillion market opportunity
+- [Nasdaq] Crude Prices Tumble on Signs of Easing US-Iran Hostilities
+- [Nasdaq] Corn Pulls Off Highs, Still Closes Monday with Strength as Ratings Fall
 - [CNBC] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail
+- [Yahoo Finance] Stock Market Today: Nasdaq Leads Charge As Chip Names Gain; Gold Stocks Advance (Live Coverage)
+- [Yahoo Finance] FedEx, Stock Of The Day, Eyes Buy Point — And A High-Margin Pivot
+- [Investing.com] Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports
+- [MarketWatch] Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers
+- [Yahoo Finance] Broker RXO sees TL spot rate surge extend into Q3
+- [Yahoo Finance] The Marzetti Company Q4 2026 Earnings Call Summary
+- [Yahoo Finance] This Business Travel Software Stock Flies High. What Will Be Its Next Move?
+- [Yahoo Finance] What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?
+- [Nasdaq] Dollar Moves Higher as US Ramps Up Pressure on Iran
+- [Yahoo Finance] Citi Trends, Inc. Q2 2026 Earnings Call Summary
+- [Investing.com] European shares gain on softer US Iran sanctions, falling oil prices
+- [Yahoo Finance] QXO (QXO) is Rebuilding Business Models for Greater Value
+- [Investing.com] Gatik raises $200 million as autonomous freight demand grows
+- [Investing.com] Banco BPM faces takeover bid from Monte Paschi with no premium
+- [Yahoo Finance] Gold's rally just hit a wall — how to play a tactical pullback with limited risk: Alpha Options Playbook
+- [Investing.com] Monte dei Paschi stake sale on hold until takeover battle ends
 - [CoinDesk] LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
 - [Yahoo Finance] AI is Sharpening Ryan Specialty Holdings (RYAN), Not Replacing Them
-- [Yahoo Finance] Executive Sells $1.4 Million Worth of Travel Stock, Following 54% Rally
-- [Yahoo Finance] Kura Oncology CEO Buys 100,000 Shares for $1.2 Million. Does This Large Buy Bode Well for Shares in 2026?
-- [Investing.com] Why is Standard Nuclear stock surging today?
-- [Nasdaq] Dollar Slips on Weaker-Than-Expected US Economic News
 - [Nasdaq] Soybeans Extending Weakness to Tuesday AM Trade
-- [Nasdaq] Corn Pulls Off Highs, Still Closes Monday with Strength as Ratings Fall
-- [Yahoo Finance] Amer Sports (AS) Q2 2026 Earnings Call Transcript
-- [Yahoo Finance] Klarna (KLAR) Q2 2026 Earnings Call Transcript
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.33%
-- [Yahoo Finance] Robinhood Rises 7%, Webull Climbs 4% as a Day Trading Rule Repeal Ignites Retail Crypto Orders
-- [Investing.com] Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.83%
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.21%
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.57%
-- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.15%
-- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.39%
-- [Yahoo Finance] The Floor Under BSX Stock Is Being Tested Again
-- [Yahoo Finance] Insider Sells 5,200 Shares, After Stock Falls 42% in a Year
-- [Yahoo Finance] Vanguard's VOO draws $4.3 billion during red week
-- [Yahoo Finance] Air T Shareholders Approve Board, Pay and Deloitte as Rex Engine Constraints Persist
-- [Yahoo Finance] Gold Fields H1 Earnings Call Highlights
-- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
-- [Nasdaq] Coffee Prices Soar as Supplies Tighten
-- [Yahoo Finance] Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit
-- [Nasdaq] Wheat Facing Pressure Early on Tuesday
-- [Yahoo Finance] Ultragenyx (RARE) Jumped 7.5% on FDA Approval. Can a $2.7 Million Gene Therapy Become a Commercial Success?
-- [Yahoo Finance] AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?
-- [Yahoo Finance] Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?
-- [Nasdaq] YieldBoost UWM Holdings To 47.3% Using Options
-- [Yahoo Finance] Bitdeer Adds 28 MW at Soluna’s Wind-Powered Texas Mining Site
-- [CNBC] Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war
-- [Yahoo Finance] Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks
-- [MarketWatch] Home prices in Chicago have risen more than in any other U.S. city over the past year
-- [Yahoo Finance] AIR Global’s Best-in-Class 1H Performance Amid Disruptions, 2H Recovery – Quarterly Update Report
-- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
-- [Nasdaq] Cotton Falling on Tuesday Morning
-- [Nasdaq] Higher GMV, More Consumers: What Could Drive Affirm's Q4 Earnings?
+- [Nasdaq] Do Options Traders Know Something About ADT Stock We Don't?
+- [Nasdaq] THG Stock Trades at 2.16x Book Value: Is the Valuation Worth It?
