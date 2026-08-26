@@ -6,45 +6,37 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 26.08.2026 11:56
-39 of 80 news items unmatched this run
+Generated: 26.08.2026 13:45
+31 of 80 news items unmatched this run
 
-- [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
-- [Yahoo Finance] Why Is Intuit Stock Tumbling After a Strong Quarter?
-- [CoinDesk] Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
-- [Yahoo Finance] Brownes Dairy starts search for buyer
-- [Investing.com] Factbox-US companies face rise in cyber attacks
-- [Yahoo Finance] Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets
-- [Investing.com] Why is Summit Therapeutics stock surging today?
-- [Yahoo Finance] NatWest revives US expansion plans after UK ringfencing rule changes – report
-- [Yahoo Finance] Metsera backers establish new biotech armed with China-licensed immunology asset
-- [Yahoo Finance] Intuit stock falls 12% as TurboTax loses customers over price
-- [CNBC] Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
-- [Investing.com] Bath & Body Works forecasts wider-than-expected third quarter sales decline on weak store traffic
-- [Yahoo Finance] Zoom Stock Retreats As Q2 Earnings, Guidance Underwhelm Amid Consumer Slowdown
-- [CNBC] Mortgage rates hit highest level in 3 weeks, weakening demand further
-- [Investing.com] Department store chain Kohl’s misses quarterly sales estimates amid cautious spending
-- [Investing.com] Summit Therapeutics stock jumps on partner’s cancer trial data
-- [Investing.com] Why is Kohl’s stock sliding today?
-- [Yahoo Finance] 2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts
-- [Yahoo Finance] Shiba Inu (SHIB) Breaks 11-Month Downtrend After Japan Approval
-- [Yahoo Finance] Chipotle CEO Scott Boatwright Sells 31,522 Shares for $1.1 Million
+- [Yahoo Finance] Vanguard to acquire fintech platform Altruist for $4 billion
 - [MarketWatch] There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities
-- [Yahoo Finance] Space tech VC funding tops 2025 in just six months
-- [CNBC] Are investors backing the ‘wrong future’ in AI? Analyst sees unexpected winners — and bad news for hyperscalers
-- [CNBC] This solar stock is about to get a big boost from a change in U.S. policy, UBS says
-- [Nasdaq] Bull of the Day: Carter's (CRI)
-- [Nasdaq] Bear of the Day: Agnico Eagle Mines (AEM)
-- [Nasdaq] New Strong Sell Stocks for August 26th
-- [CoinDesk] Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe
-- [MarketWatch] Customers are fleeing TurboTax over price, and Intuit’s stock is sliding
-- [CNBC] Haidilao shares jump as delivery growth and new restaurant brands boost outlook
-- [MarketWatch] Japan got caught in the tech selloff. Now it’s time to buy the dip, says strategist.
-- [CoinDesk] Japan to start stocks and bonds tokenization development plans this year
-- [CoinDesk] Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally
+- [Yahoo Finance] Vanguard to acquire Altruist in Wealth Management Push
+- [Investing.com] Moody’s upgrades CenterPoint Energy Resources commercial paper rating
+- [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
+- [Investing.com] Vanguard to acquire Altruist to expand financial advice reach
+- [Investing.com] Unrivaled valuation hits $650M as Ten Pillars leads Series C
+- [Yahoo Finance] State Farm is distributing $5 billion to auto customers — with payouts reaching up to $173
+- [Yahoo Finance] J.M. Smucker Q1 2027 earnings beat, raises fiscal 2027 forecast
+- [Yahoo Finance] Is IBM Stock A Bargain After Its 28% Drawdown?
+- [Yahoo Finance] Kohl’s Falls 6% Despite Raised Guidance and a $150M Tariff Refund, Ross and TJX Hold Flat
 - [CNBC] China's short-drama producers flood the market with cheap bets — and let audiences pick the winners
-- [CNBC] Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.
-- [OilPrice.com] Qatar Loses $24 Billion as LNG Exports Collapse 96%
-- [Nasdaq] Soybeans Extend Gains to Tuesday’s Close
-- [CoinDesk] XRP’s 44% rally brings leverage back, raising risk of sharper pullback
-- [CoinDesk] Crypto greed gauge hits highest since just before October’s $19 billion wipeout
+- [Yahoo Finance] Fidelity vs VanEck Healthcare ETFs: Broad Exposure or Pharma Focus
+- [Yahoo Finance] Abercrombie & Fitch raises full-year outlook as Q2 earnings top estimates
+- [Yahoo Finance] These 3 Companies Are Helping to Take Crypto Mainstream. Which Is the Best Crypto Stock to Buy Right Now?
+- [Investing.com] Vanguard to acquire fintech Altruist for about $4 billion
+- [Investing.com] DAZN to buy EverPass Media to expand into US commercial venues
+- [Yahoo Finance] Boston Scientific Hammered After Cyber Attack Tampers With Shipments
+- [CNBC] Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe
+- [Nasdaq] Corn Rallying on Tuesday, Hitting $5 Spot Futures
+- [Yahoo Finance] Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.
+- [Nasdaq] Upcoming Dividend Run For LGI?
+- [Nasdaq] Upcoming Dividend Run For VFC?
+- [Nasdaq] Upcoming Dividend Run For UBCP?
+- [Nasdaq] Upcoming Dividend Run For ECC?
+- [Yahoo Finance] Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
+- [Nasdaq] NVO vs. GPCR: Which Obesity Stock Is the Better Buy Right Now?
+- [Yahoo Finance] Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
+- [MarketWatch] Wall Street’s biggest optimist says he ‘wouldn’t jump into the AI trade right now’
+- [Nasdaq] Cannabis Stock VRNO Rises 10% in a Month: Time to Buy, Hold or Sell?
+- [Yahoo Finance] Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
