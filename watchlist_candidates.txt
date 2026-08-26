@@ -6,48 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 25.08.2026 21:54
-42 of 80 news items unmatched this run
+Generated: 26.08.2026 11:56
+39 of 80 news items unmatched this run
 
-- [CNBC] Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.
-- [Nasdaq] Coffee Prices Erase Early Gains as Brazil’s Coffee Warehouses Fill
-- [Nasdaq] Dollar Slips on Weaker-Than-Expected US Economic News
-- [CoinDesk] Zerohash back for second effort at OCC trust bank charter
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.79%
-- [CNBC] OpenAI data center chief Chris Malone is out, the latest in a string of executive exits
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 0.09%
-- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 2.70%
-- [Nasdaq] Dollar Slightly Lower on Strong Stocks and Weak Crude
-- [Investing.com] EchoStar faces examiner probe over Hughes deals
-- [Investing.com] Zoom forecasts quarterly profit below estimates
-- [Investing.com] D-Wave Quantum stock slips as CFO announces retirement
-- [MarketWatch] Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot
-- [Nasdaq] Sugar Prices Retreat as India May Import Less Sugar Than Anticipated
-- [Nasdaq] Cocoa Prices Pressured by Signs of Abundant Supplies
-- [Nasdaq] Corn Fading Lower on Tuesday Morning Despite Ratings Drop
-- [Nasdaq] Crude Oil Prices Sharply Lower as Middle East Hostilities Subside
-- [Nasdaq] Nat-Gas Prices Fall in Sympathy with Crude Oil
-- [Nasdaq] Sugar Prices Fall as India May Import Less Sugar Than Anticipated
-- [CNBC] Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market
-- [Nasdaq] Easing Supply Concerns Weigh on Cocoa Prices
-- [Nasdaq] Callaway Golf is Now Oversold (CALY)
-- [Nasdaq] RSI Alert: Polestar Automotive Holding (PSNY) Now Oversold
-- [Nasdaq] Finance of America Companies Enters Oversold Territory (FOA)
-- [CNBC] Bond rout ending? Massive bets on bond rally dominate options market
-- [CoinDesk] South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move
-- [MarketWatch] Has AI gotten any better at stock picking?
-- [CNBC] Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war
-- [Mining.com] Tungsten West scores $97M UK investment, stock soars
-- [Mining.com] Copper price sets fresh record as US tariff threat wipes out global surplus
-- [CNBC] Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it
-- [CNBC] Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail
-- [CoinDesk] LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges
-- [OilPrice.com] SPR Sinks Toward Operational Minimum as U.S. Crude Inventories Build
-- [OilPrice.com] U.S. Refiners Face New Crude Squeeze as Canada Cuts Oil Sands Output
-- [Mining.com] Fortescue suspends executive over sexual harassment allegations
-- [CNBC] The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
-- [OilPrice.com] Uranium Prices Surge as Nuclear Demand Accelerates
-- [OilPrice.com] Satellite Images Show Seven Tankers Loading Iraqi Crude at Once
-- [OilPrice.com] Norway’s Troll Gas Expansion Buys Europe Time—But Not New Supply
-- [CoinDesk] Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price
-- [CoinDesk] MiCA revolutionised European crypto, and left Poland licking its wounds
+- [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
+- [Yahoo Finance] Why Is Intuit Stock Tumbling After a Strong Quarter?
+- [CoinDesk] Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
+- [Yahoo Finance] Brownes Dairy starts search for buyer
+- [Investing.com] Factbox-US companies face rise in cyber attacks
+- [Yahoo Finance] Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets
+- [Investing.com] Why is Summit Therapeutics stock surging today?
+- [Yahoo Finance] NatWest revives US expansion plans after UK ringfencing rule changes – report
+- [Yahoo Finance] Metsera backers establish new biotech armed with China-licensed immunology asset
+- [Yahoo Finance] Intuit stock falls 12% as TurboTax loses customers over price
+- [CNBC] Stocks making the biggest moves premarket: Intuit, Zoom, Semtech, SolarEdge & more
+- [Investing.com] Bath & Body Works forecasts wider-than-expected third quarter sales decline on weak store traffic
+- [Yahoo Finance] Zoom Stock Retreats As Q2 Earnings, Guidance Underwhelm Amid Consumer Slowdown
+- [CNBC] Mortgage rates hit highest level in 3 weeks, weakening demand further
+- [Investing.com] Department store chain Kohl’s misses quarterly sales estimates amid cautious spending
+- [Investing.com] Summit Therapeutics stock jumps on partner’s cancer trial data
+- [Investing.com] Why is Kohl’s stock sliding today?
+- [Yahoo Finance] 2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts
+- [Yahoo Finance] Shiba Inu (SHIB) Breaks 11-Month Downtrend After Japan Approval
+- [Yahoo Finance] Chipotle CEO Scott Boatwright Sells 31,522 Shares for $1.1 Million
+- [MarketWatch] There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities
+- [Yahoo Finance] Space tech VC funding tops 2025 in just six months
+- [CNBC] Are investors backing the ‘wrong future’ in AI? Analyst sees unexpected winners — and bad news for hyperscalers
+- [CNBC] This solar stock is about to get a big boost from a change in U.S. policy, UBS says
+- [Nasdaq] Bull of the Day: Carter's (CRI)
+- [Nasdaq] Bear of the Day: Agnico Eagle Mines (AEM)
+- [Nasdaq] New Strong Sell Stocks for August 26th
+- [CoinDesk] Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe
+- [MarketWatch] Customers are fleeing TurboTax over price, and Intuit’s stock is sliding
+- [CNBC] Haidilao shares jump as delivery growth and new restaurant brands boost outlook
+- [MarketWatch] Japan got caught in the tech selloff. Now it’s time to buy the dip, says strategist.
+- [CoinDesk] Japan to start stocks and bonds tokenization development plans this year
+- [CoinDesk] Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally
+- [CNBC] China's short-drama producers flood the market with cheap bets — and let audiences pick the winners
+- [CNBC] Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.
+- [OilPrice.com] Qatar Loses $24 Billion as LNG Exports Collapse 96%
+- [Nasdaq] Soybeans Extend Gains to Tuesday’s Close
+- [CoinDesk] XRP’s 44% rally brings leverage back, raising risk of sharper pullback
+- [CoinDesk] Crypto greed gauge hits highest since just before October’s $19 billion wipeout
