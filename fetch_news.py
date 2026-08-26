@@ -107,6 +107,8 @@ COMPANY_MAP = [
     {"ticker": "SNDK", "sector": "Semiconductors",         "names": ["SanDisk"]},
     {"ticker": "TTMI", "sector": "Semiconductors",         "names": ["TTM Technologies"]},
     {"ticker": "EXTR", "sector": "Semiconductors",         "names": ["Extreme Networks"]},
+    {"ticker": "SNPS", "sector": "Semiconductors",         "names": ["Synopsys"]},
+    {"ticker": "HPQ",  "sector": "Semiconductors",         "names": ["HP Inc"]},
 
     # ---- AI infrastructure / "neocloud" (GPU rental, AI servers) —
     # split out from Software / Cloud because these are hardware/compute
@@ -147,6 +149,7 @@ COMPANY_MAP = [
     {"ticker": "TM",   "sector": "Automotive / EV",          "names": ["Toyota"]},
     {"ticker": "BYDDY","sector": "Automotive / EV",          "names": ["BYD"]},
     {"ticker": "STLA", "sector": "Automotive / EV",          "names": ["Stellantis"]},
+    {"ticker": "HYMTF","sector": "Automotive / EV",          "names": ["Hyundai"]},
 
     # ---- Consumer sector (real businesses: food, retail, brands) ----
     {"ticker": "NKE",  "sector": "Consumer Goods", "names": ["Nike"]},
@@ -159,10 +162,15 @@ COMPANY_MAP = [
     {"ticker": "PG",   "sector": "Consumer Goods", "names": ["Procter & Gamble"]},
     {"ticker": "LULU", "sector": "Consumer Goods", "names": ["Lululemon"]},
     {"ticker": "TGT",  "sector": "Consumer Goods", "names": ["Target"]},
+    {"ticker": "M",    "sector": "Consumer Goods", "names": ["Macy's", "Macys"]},
+    {"ticker": "KSS",  "sector": "Consumer Goods", "names": ["Kohl's", "Kohls"]},
+    {"ticker": "GAP",  "sector": "Consumer Goods", "names": ["Gap Inc"]},
     {"ticker": "DIS",  "sector": "Media / Entertainment",    "names": ["Disney"]},
     {"ticker": "NFLX", "sector": "Media / Entertainment",    "names": ["Netflix"]},
     {"ticker": "RDDT", "sector": "Media / Entertainment",    "names": ["Reddit"]},
     {"ticker": "NTDOY","sector": "Media / Entertainment",    "names": ["Nintendo"]},
+    {"ticker": "PARA", "sector": "Media / Entertainment",    "names": ["Paramount Global"]},
+    {"ticker": "WBD",  "sector": "Media / Entertainment",    "names": ["Warner Bros Discovery", "Warner Bros. Discovery"]},
 
     # ---- Energy (oil and gas) ----
     {"ticker": "XOM",  "sector": "Oil & Gas",            "names": ["ExxonMobil", "Exxon Mobil"]},
@@ -200,6 +208,7 @@ COMPANY_MAP = [
     {"ticker": "WFC",  "sector": "Banking & Finance",        "names": ["Wells Fargo"]},
     {"ticker": "BRK.B","sector": "Banking & Finance",        "names": ["Berkshire Hathaway"]},
     {"ticker": "MORN", "sector": "Banking & Finance",        "names": ["Morningstar"]},
+    {"ticker": "EQH",  "sector": "Banking & Finance",        "names": ["Equitable Holdings"]},
     {"ticker": "V",    "sector": "Payments / Fintech",       "names": ["Visa"]},
     {"ticker": "MA",   "sector": "Payments / Fintech",       "names": ["Mastercard"]},
     {"ticker": "PYPL", "sector": "Payments / Fintech",       "names": ["PayPal"]},
@@ -212,6 +221,8 @@ COMPANY_MAP = [
     {"ticker": "UNH",  "sector": "Healthcare",        "names": ["UnitedHealth"]},
     {"ticker": "MRNA", "sector": "Healthcare",        "names": ["Moderna"]},
     {"ticker": "GILD", "sector": "Healthcare",        "names": ["Gilead Sciences", "Gilead"]},
+    {"ticker": "BSX",  "sector": "Healthcare",        "names": ["Boston Scientific"]},
+    {"ticker": "RVMD", "sector": "Healthcare",        "names": ["Revolution Medicines"]},
 
     # ---- Industrials / infrastructure ----
     {"ticker": "CAT",  "sector": "Industrials",         "names": ["Caterpillar"]},
@@ -229,6 +240,7 @@ COMPANY_MAP = [
     {"ticker": "UAL",  "sector": "Airlines / Travel", "names": ["United Airlines"]},
     {"ticker": "ABNB", "sector": "Airlines / Travel", "names": ["Airbnb"]},
     {"ticker": "UBER", "sector": "Airlines / Travel", "names": ["Uber"]},
+    {"ticker": "LVS",  "sector": "Airlines / Travel", "names": ["Las Vegas Sands"]},
 
     # ---- Crypto ----
     {"ticker": "BTC",  "sector": "Cryptocurrencies",           "names": ["Bitcoin"]},
