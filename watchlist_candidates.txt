@@ -6,40 +6,52 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 26.08.2026 16:47
-34 of 80 news items unmatched this run
+Generated: 26.08.2026 19:24
+46 of 80 news items unmatched this run
 
-- [CNBC] Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures
-- [Nasdaq] Cotton Bulls Pushing Bach Higher on Wednesday Morning
+- [Nasdaq] Wednesday 8/26 Insider Buying Report: MAIR, USAC
+- [Nasdaq] Equitable Holdings' Preferred Stock Series C Yield Pushes Past 6.5%
+- [Nasdaq] Hogs Posting Mixed Midweek Trade
+- [Nasdaq] Wheat Rallying to New Highs as Russia Looks to Escalation
+- [Nasdaq] Soybeans Joining in on the Grain Rally
+- [Nasdaq] Corn Rallies to Fresh 3-year Highs
+- [Nasdaq] Cattle Facing Midday Weakness
+- [Nasdaq] Cotton Showing Modest Strength on Wednesday Morning
+- [CNBC] OpenAI releases sweeping report on Hugging Face AI agent hack
+- [Investing.com] Synopsys options activity points to expectations of a near-term rebound
+- [Investing.com] Trump administration to announce Medicaid drug pricing deals with biotechs - Bloomberg
+- [Investing.com] MTN Group seeks buyers for IHS Nigeria stake worth up to $1.1bn - Bloomberg
+- [Investing.com] Macy’s options activity heats up ahead of earnings next month
+- [Nasdaq] Sugar Prices Mixed on Reduced Output in France and Smaller Indian Sugar Imports
+- [Nasdaq] Coffee Prices Plunge in Anticipation of Larger Brazil Supplies
+- [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
+- [Investing.com] HP Inc earnings outlook: bearish options positioning ahead of tonight’s print
+- [Investing.com] Mark Walter’s TWG is working with regulators, says ’no fraud’
+- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
 - [Nasdaq] Soybeans Posting Early Wednesday Strength
-- [Yahoo Finance] Spyre Therapeutics Plunges; Why Analysts Aren't Sweating
-- [Yahoo Finance] Abercrombie & Fitch Shares Rise 37 Percent on Q2 Sales Beat and Raised 2026 Forecast
-- [Yahoo Finance] Cadence Design Systems SVP Chin-Chi Teng Sells 4,732 Shares for $1.5 Million
-- [Nasdaq] Dollar Rises on US Economic News
-- [Yahoo Finance] Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026
-- [Yahoo Finance] Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns
-- [Investing.com] KNDS IPO restart planned as defense sector recovers - Bloomberg
-- [Yahoo Finance] Why Photronics' Stock Briefly Soared 27% This Morning
-- [Nasdaq] Wednesday's ETF with Unusual Volume: NFRA
-- [Investing.com] Vanguard strikes deal for fintech platform Altruist
-- [Yahoo Finance] The Two Humanoid-Robot Funds Are 30 Points Apart This Year. The Winner Owns the Parts, Not the Promises
-- [Nasdaq] Wednesday's ETF Movers: MLPX, SGDM
-- [Yahoo Finance] Plug Power Sinks 5%, Bloom and FuelCell Slip: Is the Hydrogen Trade Narrowing to One Name?
-- [Nasdaq] Daily Dividend Report: BEN,MOV,FMNB,GEF.B,QNBC
-- [Nasdaq] Wednesday Sector Laggards: Shipping, Precious Metals
-- [Nasdaq] Wednesday Sector Leaders: Apparel Stores, Computers
-- [Yahoo Finance] DeFi Development Launches Real-Time Solana Data Platform
-- [Nasdaq] Analyst Favorites: Reliance Ranks As a Top Metals Pick
+- [Investing.com] Revolution’s lifesaving pancreatic cancer drug wins speedy FDA approval
+- [CNBC] Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw
+- [CNBC] Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents
+- [Investing.com] Gap options activity points to big post-earnings move
+- [MarketWatch] 5 affordable cities to retire in the U.S. right now
+- [CNBC] Anthropic and Nscale strike $45 billion cloud deal, sources say
+- [CNBC] How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'
+- [CNBC] An auto parts stock bottomed in May and is set to keep rallying, according to the charts
+- [CNBC] Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman
+- [MarketWatch] Two-thirds of parents are failing at this vital safety measure for their children
+- [MarketWatch] The biggest risk to retirement plans may no longer be a stock market crash or inflation
+- [MarketWatch] The U.S. economy is better than it looks — but it might be due for a slowdown
+- [Mining.com] Clean tech startup scores $35M funding for new aluminum-based energy system
+- [Mining.com] Real move in mining stocks just beginning, veteran market analyst says
 - [CNBC] Revolution Medicines gets FDA nod for targeted pancreatic cancer drug
-- [Nasdaq] Corn Closing in on 3-year Highs
-- [Nasdaq] Wheat Rallying Early on Wednesday
-- [Nasdaq] Implied Volatility Surging for Cracker Barrel Stock Options
-- [Yahoo Finance] Oil slips as investors focus on Hormuz talks
-- [Nasdaq] Here's Why You Should Retain IQVIA Stock in Your Portfolio Now
-- [Yahoo Finance] Enbridge Buys $600 Million Permian Crude Network
+- [Mining.com] Scandium Canada hits long runs in Quebec as it preps update
 - [CoinDesk] Crypto Long & Short: Tokenized equities: the model underneath the trade
 - [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
-- [Yahoo Finance] Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense
 - [CNBC] Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next
-- [MarketWatch] Customers are fleeing TurboTax over price, and Intuit’s stock is sliding
-- [CNBC] Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh
+- [OilPrice.com] Oil Drops as Tankers Begin Moving More Gulf Crude
+- [Yahoo Finance] Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
+- [Retail Dive] Is Sephora becoming a problem for Kohl’s?
+- [Yahoo Finance] Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
+- [CNBC] Hyundai has grown more than any automaker in the U.S. — and it's not done yet
+- [CoinDesk] Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
+- [CNBC] Mortgage rates hit highest level in 3 weeks, weakening demand further
