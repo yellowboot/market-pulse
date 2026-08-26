@@ -6,52 +6,35 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 26.08.2026 19:24
-46 of 80 news items unmatched this run
+Generated: 26.08.2026 21:42
+29 of 80 news items unmatched this run
 
-- [Nasdaq] Wednesday 8/26 Insider Buying Report: MAIR, USAC
-- [Nasdaq] Equitable Holdings' Preferred Stock Series C Yield Pushes Past 6.5%
+- [Nasdaq] Signs of Weak European Sugar Production Support Prices
+- [CNBC] Okta pops 20% after topping estimates as AI threat spikes demand for identity security
+- [Nasdaq] Dollar Supported by US Economic Strength
+- [Nasdaq] Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen
+- [Nasdaq] Nat-Gas Prices Jump on Hot US Temps and Expectations of a Smaller Storage Build
+- [Nasdaq] Cocoa Prices Pressured by Abundant Supplies
 - [Nasdaq] Hogs Posting Mixed Midweek Trade
+- [Investing.com] Why is Veeva Systems stock surging today?
+- [Investing.com] Why is HP stock sliding today?
+- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
 - [Nasdaq] Wheat Rallying to New Highs as Russia Looks to Escalation
 - [Nasdaq] Soybeans Joining in on the Grain Rally
-- [Nasdaq] Corn Rallies to Fresh 3-year Highs
-- [Nasdaq] Cattle Facing Midday Weakness
 - [Nasdaq] Cotton Showing Modest Strength on Wednesday Morning
-- [CNBC] OpenAI releases sweeping report on Hugging Face AI agent hack
-- [Investing.com] Synopsys options activity points to expectations of a near-term rebound
-- [Investing.com] Trump administration to announce Medicaid drug pricing deals with biotechs - Bloomberg
-- [Investing.com] MTN Group seeks buyers for IHS Nigeria stake worth up to $1.1bn - Bloomberg
-- [Investing.com] Macy’s options activity heats up ahead of earnings next month
 - [Nasdaq] Sugar Prices Mixed on Reduced Output in France and Smaller Indian Sugar Imports
-- [Nasdaq] Coffee Prices Plunge in Anticipation of Larger Brazil Supplies
-- [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
-- [Investing.com] HP Inc earnings outlook: bearish options positioning ahead of tonight’s print
-- [Investing.com] Mark Walter’s TWG is working with regulators, says ’no fraud’
 - [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
-- [Nasdaq] Soybeans Posting Early Wednesday Strength
-- [Investing.com] Revolution’s lifesaving pancreatic cancer drug wins speedy FDA approval
-- [CNBC] Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw
-- [CNBC] Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents
-- [Investing.com] Gap options activity points to big post-earnings move
-- [MarketWatch] 5 affordable cities to retire in the U.S. right now
+- [Nasdaq] Papa John's International is Now Oversold (PZZA)
+- [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
 - [CNBC] Anthropic and Nscale strike $45 billion cloud deal, sources say
-- [CNBC] How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'
-- [CNBC] An auto parts stock bottomed in May and is set to keep rallying, according to the charts
-- [CNBC] Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman
-- [MarketWatch] Two-thirds of parents are failing at this vital safety measure for their children
-- [MarketWatch] The biggest risk to retirement plans may no longer be a stock market crash or inflation
-- [MarketWatch] The U.S. economy is better than it looks — but it might be due for a slowdown
 - [Mining.com] Clean tech startup scores $35M funding for new aluminum-based energy system
+- [CNBC] Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures
+- [Mining.com] Sprott lifts Sask hydrogen stake beyond 24%
 - [Mining.com] Real move in mining stocks just beginning, veteran market analyst says
-- [CNBC] Revolution Medicines gets FDA nod for targeted pancreatic cancer drug
+- [OilPrice.com] Octopus Boss Warns UK Is Too Exposed to Global Gas Prices
 - [Mining.com] Scandium Canada hits long runs in Quebec as it preps update
 - [CoinDesk] Crypto Long & Short: Tokenized equities: the model underneath the trade
-- [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
-- [CNBC] Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next
+- [OilPrice.com] Aramco Finds a New Way to Keep Saudi Crude Flowing to China
+- [Mining.com] NexGen expands Sask program after high-grade uranium results
+- [OilPrice.com] CNOOC Posts Record Profit as China Pumps More Oil at Home
 - [OilPrice.com] Oil Drops as Tankers Begin Moving More Gulf Crude
-- [Yahoo Finance] Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain
-- [Retail Dive] Is Sephora becoming a problem for Kohl’s?
-- [Yahoo Finance] Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700
-- [CNBC] Hyundai has grown more than any automaker in the U.S. — and it's not done yet
-- [CoinDesk] Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity
-- [CNBC] Mortgage rates hit highest level in 3 weeks, weakening demand further
