@@ -6,37 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 26.08.2026 15:59
-31 of 80 news items unmatched this run
+Generated: 26.08.2026 16:47
+34 of 80 news items unmatched this run
 
-- [Investing.com] China’s Huawei, US PC maker HP sign multi-year Wi-Fi patent deal
-- [Investing.com] Kraft Heinz options see heavy call activity amid stock selloff
-- [Investing.com] Poland stocks higher at close of trade; WIG30 up 0.81%
+- [CNBC] Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures
 - [Nasdaq] Cotton Bulls Pushing Bach Higher on Wednesday Morning
-- [Investing.com] Mark Walter’s TWG is working with regulators, says ’no fraud’
-- [Nasdaq] Corn Closing in on 3-year Highs
 - [Nasdaq] Soybeans Posting Early Wednesday Strength
-- [Yahoo Finance] Why Intuit Stock Dropped Today
-- [Yahoo Finance] Gold Has Soared to $4,600. Is It Too Late to Buy This ETF?
-- [Investing.com] Citi confirms solid memory market outlook after Korea tech tour
-- [Yahoo Finance] Abercrombie & Fitch Soars 37% on a $100M Tariff Refund and Raised Guidance, Ross and Kohl’s Hold Steady
-- [Investing.com] Turkey stocks higher at close of trade; BIST 100 up 0.95%
-- [Investing.com] Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.74%
-- [Yahoo Finance] XRP Leads Crypto Pullback as Leverage Unwind Tests Rally
-- [Yahoo Finance] Sanmina Stopped Retiring Stock, And Then Its Shares Pulled Back
-- [Yahoo Finance] Why Abercrombie & Fitch Stock Is Having Its Best Day in 9 Months
+- [Yahoo Finance] Spyre Therapeutics Plunges; Why Analysts Aren't Sweating
+- [Yahoo Finance] Abercrombie & Fitch Shares Rise 37 Percent on Q2 Sales Beat and Raised 2026 Forecast
+- [Yahoo Finance] Cadence Design Systems SVP Chin-Chi Teng Sells 4,732 Shares for $1.5 Million
+- [Nasdaq] Dollar Rises on US Economic News
+- [Yahoo Finance] Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026
+- [Yahoo Finance] Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns
+- [Investing.com] KNDS IPO restart planned as defense sector recovers - Bloomberg
+- [Yahoo Finance] Why Photronics' Stock Briefly Soared 27% This Morning
+- [Nasdaq] Wednesday's ETF with Unusual Volume: NFRA
+- [Investing.com] Vanguard strikes deal for fintech platform Altruist
+- [Yahoo Finance] The Two Humanoid-Robot Funds Are 30 Points Apart This Year. The Winner Owns the Parts, Not the Promises
+- [Nasdaq] Wednesday's ETF Movers: MLPX, SGDM
+- [Yahoo Finance] Plug Power Sinks 5%, Bloom and FuelCell Slip: Is the Hydrogen Trade Narrowing to One Name?
+- [Nasdaq] Daily Dividend Report: BEN,MOV,FMNB,GEF.B,QNBC
+- [Nasdaq] Wednesday Sector Laggards: Shipping, Precious Metals
+- [Nasdaq] Wednesday Sector Leaders: Apparel Stores, Computers
+- [Yahoo Finance] DeFi Development Launches Real-Time Solana Data Platform
+- [Nasdaq] Analyst Favorites: Reliance Ranks As a Top Metals Pick
+- [CNBC] Revolution Medicines gets FDA nod for targeted pancreatic cancer drug
+- [Nasdaq] Corn Closing in on 3-year Highs
 - [Nasdaq] Wheat Rallying Early on Wednesday
-- [Yahoo Finance] Wingstop’s chief brand officer is departing the company
+- [Nasdaq] Implied Volatility Surging for Cracker Barrel Stock Options
 - [Yahoo Finance] Oil slips as investors focus on Hormuz talks
-- [Yahoo Finance] D-Wave Sinks 8% as Its CFO Retires; Rigetti Slides 5%, IonQ Falls 3%
+- [Nasdaq] Here's Why You Should Retain IQVIA Stock in Your Portfolio Now
 - [Yahoo Finance] Enbridge Buys $600 Million Permian Crude Network
+- [CoinDesk] Crypto Long & Short: Tokenized equities: the model underneath the trade
 - [CNBC] Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling
 - [Yahoo Finance] Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense
-- [Nasdaq] AVLV, COHC: Big ETF Inflows
-- [Nasdaq] Noteworthy ETF Outflows: DUHP, ROST, LNG, AMP
-- [Nasdaq] Noteworthy ETF Inflows: IGLB
-- [Nasdaq] Notable ETF Outflow Detected - IBDU
 - [CNBC] Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next
 - [MarketWatch] Customers are fleeing TurboTax over price, and Intuit’s stock is sliding
-- [CNBC] Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe
-- [CNBC] Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+- [CNBC] Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh
