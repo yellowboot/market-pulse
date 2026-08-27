@@ -6,32 +6,33 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 26.08.2026 21:42
-29 of 80 news items unmatched this run
+Generated: 27.08.2026 00:00
+30 of 80 news items unmatched this run
 
-- [Nasdaq] Signs of Weak European Sugar Production Support Prices
-- [CNBC] Okta pops 20% after topping estimates as AI threat spikes demand for identity security
+- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
+- [Nasdaq] Cocoa Prices Pressured by Abundant Supplies
+- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
+- [Nasdaq] Corn Rallies to Fresh 3-year Highs
+- [Investing.com] Australian carrier Qantas’ full-year profit falls 14%
+- [Investing.com] Exclusive-Trian has no plans to make bid for Wendy’s right now, sources say
+- [Investing.com] Rainier Acquisition prices $75M IPO on Nasdaq
 - [Nasdaq] Dollar Supported by US Economic Strength
 - [Nasdaq] Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen
-- [Nasdaq] Nat-Gas Prices Jump on Hot US Temps and Expectations of a Smaller Storage Build
-- [Nasdaq] Cocoa Prices Pressured by Abundant Supplies
 - [Nasdaq] Hogs Posting Mixed Midweek Trade
-- [Investing.com] Why is Veeva Systems stock surging today?
-- [Investing.com] Why is HP stock sliding today?
-- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
-- [Nasdaq] Wheat Rallying to New Highs as Russia Looks to Escalation
-- [Nasdaq] Soybeans Joining in on the Grain Rally
 - [Nasdaq] Cotton Showing Modest Strength on Wednesday Morning
-- [Nasdaq] Sugar Prices Mixed on Reduced Output in France and Smaller Indian Sugar Imports
-- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
-- [Nasdaq] Papa John's International is Now Oversold (PZZA)
+- [Investing.com] Canadian Solar explores options for Recurrent Energy unit - Bloomberg
+- [Investing.com] +13% post-market, this AI-picked software giant crushed results and is now up +42%
+- [Nasdaq] Dollar Rises on US Economic News
+- [Investing.com] Wendy’s drops as Trian reins in take-private ambitions
+- [Nasdaq] Signs of Weak European Sugar Production Support Prices
+- [CNBC] Okta pops 20% after topping estimates as AI threat spikes demand for identity security
+- [Nasdaq] Are Options Traders Betting on a Big Move in Evercore Stock?
 - [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
 - [CNBC] Anthropic and Nscale strike $45 billion cloud deal, sources say
+- [OilPrice.com] MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production
 - [Mining.com] Clean tech startup scores $35M funding for new aluminum-based energy system
-- [CNBC] Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures
 - [Mining.com] Sprott lifts Sask hydrogen stake beyond 24%
 - [Mining.com] Real move in mining stocks just beginning, veteran market analyst says
-- [OilPrice.com] Octopus Boss Warns UK Is Too Exposed to Global Gas Prices
 - [Mining.com] Scandium Canada hits long runs in Quebec as it preps update
 - [CoinDesk] Crypto Long & Short: Tokenized equities: the model underneath the trade
 - [OilPrice.com] Aramco Finds a New Way to Keep Saudi Crude Flowing to China
