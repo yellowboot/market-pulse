@@ -6,37 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 27.08.2026 00:59
-31 of 80 news items unmatched this run
+Generated: 27.08.2026 21:05
+36 of 80 news items unmatched this run
 
-- [Nasdaq] Soybeans Rally to New Highs on Wednesday
-- [Nasdaq] Cotton Rounds Out Wednesday with Gains
-- [Nasdaq] Cocoa Prices Pressured by Abundant Supplies
-- [Nasdaq] Dollar Supported by US Economic Strength
-- [Investing.com] Qantas upbeat on revenue, brings forward A380 exit as profit falls
-- [Nasdaq] Wheat Rallying to New Highs as Russia Looks to Escalation
-- [Nasdaq] Cotton Showing Modest Strength on Wednesday Morning
-- [Nasdaq] Corn Rallies to Fresh 3-year Highs with Help from Limit Gains in Wheat
-- [Nasdaq] Cattle Post Mixed Wednesday Action
-- [Nasdaq] Hogs Post Strength on Wednesday
-- [Investing.com] Kioxia to invest $6.27 billion in new Japan memory facility- Nikkei
-- [Investing.com] HP’s PC shipments drop overshadows strong revenue growth, shares slide
-- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
-- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
-- [Nasdaq] Corn Rallies to Fresh 3-year Highs
-- [CoinDesk] SEC resurrecting U.S. crypto custody rule the previous administration failed to land
-- [Investing.com] Exclusive-Trian has no plans to make bid for Wendy’s right now, sources say
-- [Nasdaq] Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen
-- [CNBC] Okta pops 20% after topping estimates as AI threat spikes demand for identity security
-- [CNBC] OpenAI releases sweeping report on Hugging Face AI agent hack
-- [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
-- [CNBC] Anthropic and Nscale strike $45 billion cloud deal, sources say
-- [OilPrice.com] MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production
-- [Mining.com] Clean tech startup scores $35M funding for new aluminum-based energy system
-- [Mining.com] Sprott lifts Sask hydrogen stake beyond 24%
-- [Mining.com] Real move in mining stocks just beginning, veteran market analyst says
-- [Mining.com] Scandium Canada hits long runs in Quebec as it preps update
-- [CoinDesk] Crypto Long & Short: Tokenized equities: the model underneath the trade
-- [OilPrice.com] Aramco Finds a New Way to Keep Saudi Crude Flowing to China
-- [Mining.com] NexGen expands Sask program after high-grade uranium results
-- [OilPrice.com] CNOOC Posts Record Profit as China Pumps More Oil at Home
+- [CNBC] Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
+- [Nasdaq] Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War
+- [Nasdaq] Hot US Temps and Below-Normal Storage Build Lifts Nat-Gas Prices
+- [Nasdaq] Crude Oil Prices Pressured as Middle East Crude Supplies Increase
+- [MarketWatch] 20 stocks likely to lose money even if the bull market continues
+- [CNBC] Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
+- [Mining.com] Zinc price jumps to 4-year high as LME stocks plunge 64%
+- [Nasdaq] Supply Risks Boost Sugar Prices
+- [Nasdaq] Cocoa Prices Surge on West African Cocoa Quality Concerns
+- [Nasdaq] Hogs Posting Mixed Midday Action
+- [Nasdaq] Ferrovial Shares Becomes Oversold (FER)
+- [Nasdaq] HDFC Bank Enters Oversold Territory (HDB)
+- [Nasdaq] Relmada Therapeutics is Now Oversold (RLMD)
+- [Investing.com] Why is Elastic stock surging today?
+- [CNBC] BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds
+- [Investing.com] Workday’s outlook meets estimates despite AI demand, shares slip
+- [Investing.com] Build-A-Bear shares drop most ever on weak annual revenue outlook
+- [Investing.com] Why is Gap stock surging today?
+- [Investing.com] Why is Lifevantage stock sliding today?
+- [Investing.com] Celsius downgrade reflects slower recovery as shares outrun fundamentals
+- [CNBC] UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports
+- [MarketWatch] Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
+- [Mining.com] First Mining inks development agreement with First Nations
+- [CNBC] Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker
+- [CNBC] AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap
+- [CNBC] August apartment rents turn positive for the first time in four years
+- [CNBC] SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway
+- [Mining.com] Lithium price: BMI raises forecast, warns rally has outrun fundamentals
+- [Mining.com] Copper price extends retreat from record as China tests the tariff trade
+- [CoinDesk] Ethena surges as buyback vote, VC unlock overhaul boost token outlook
+- [Mining.com] Finnvera to finance up to $132M in Troilus gold-copper project
+- [CoinDesk] GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal
+- [CoinDesk] MoonPay’s newest integration lets AI agents handle crypto lending on Solana
+- [OilPrice.com] U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields
+- [CoinDesk] Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets
+- [Mining.com] Boliden’s $1.3B Nexa buy adds South American zinc, silver
