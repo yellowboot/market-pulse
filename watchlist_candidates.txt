@@ -6,31 +6,33 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 27.08.2026 21:05
-36 of 80 news items unmatched this run
+Generated: 27.08.2026 22:42
+37 of 80 news items unmatched this run
 
+- [Nasdaq] Cocoa Prices Jump on Concern Over West African Crop Quality
+- [MarketWatch] Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
 - [CNBC] Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
+- [Investing.com] Ulta Beauty lifts annual forecasts as marketing, product investments fuel growth
+- [Nasdaq] Dollar Finishes Slightly Higher Ahead of Fed Chair Warsh
+- [Investing.com] Air New Zealand logs biggest annual loss since 2023 as fuel, engine costs bite
+- [Investing.com] Why is Solstice Advanced Materials stock surging today?
+- [Investing.com] Why is Element Solutions stock rallying today?
+- [Investing.com] Activist investor Carl Icahn gives up JetBlue board seats
+- [CNBC] Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
+- [Investing.com] Solstice stock surges 14% as Element deal scrapped, buyback set
+- [Investing.com] Anthropic explored MatX acquisition for chip development - Reuters
 - [Nasdaq] Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War
+- [Nasdaq] Cocoa Prices Surge on West African Cocoa Quality Concerns
+- [Nasdaq] Coffee Prices Extend Losses as Supply Fears Ease
+- [Nasdaq] Supply Risks Boost Sugar Prices
+- [Nasdaq] Coffee Prices Retreat as Supply Situation Improves
 - [Nasdaq] Hot US Temps and Below-Normal Storage Build Lifts Nat-Gas Prices
 - [Nasdaq] Crude Oil Prices Pressured as Middle East Crude Supplies Increase
 - [MarketWatch] 20 stocks likely to lose money even if the bull market continues
-- [CNBC] Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
 - [Mining.com] Zinc price jumps to 4-year high as LME stocks plunge 64%
-- [Nasdaq] Supply Risks Boost Sugar Prices
-- [Nasdaq] Cocoa Prices Surge on West African Cocoa Quality Concerns
 - [Nasdaq] Hogs Posting Mixed Midday Action
-- [Nasdaq] Ferrovial Shares Becomes Oversold (FER)
-- [Nasdaq] HDFC Bank Enters Oversold Territory (HDB)
-- [Nasdaq] Relmada Therapeutics is Now Oversold (RLMD)
-- [Investing.com] Why is Elastic stock surging today?
 - [CNBC] BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds
-- [Investing.com] Workday’s outlook meets estimates despite AI demand, shares slip
-- [Investing.com] Build-A-Bear shares drop most ever on weak annual revenue outlook
-- [Investing.com] Why is Gap stock surging today?
-- [Investing.com] Why is Lifevantage stock sliding today?
-- [Investing.com] Celsius downgrade reflects slower recovery as shares outrun fundamentals
-- [CNBC] UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports
-- [MarketWatch] Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
+- [CNBC] AI bursts to the front of Massachusetts Democratic Senate primary
 - [Mining.com] First Mining inks development agreement with First Nations
 - [CNBC] Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker
 - [CNBC] AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap
@@ -39,9 +41,8 @@ Generated: 27.08.2026 21:05
 - [Mining.com] Lithium price: BMI raises forecast, warns rally has outrun fundamentals
 - [Mining.com] Copper price extends retreat from record as China tests the tariff trade
 - [CoinDesk] Ethena surges as buyback vote, VC unlock overhaul boost token outlook
+- [OilPrice.com] DoE Begins Tests for Fracked Geothermal
 - [Mining.com] Finnvera to finance up to $132M in Troilus gold-copper project
 - [CoinDesk] GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal
 - [CoinDesk] MoonPay’s newest integration lets AI agents handle crypto lending on Solana
-- [OilPrice.com] U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields
-- [CoinDesk] Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets
-- [Mining.com] Boliden’s $1.3B Nexa buy adds South American zinc, silver
+- [CoinDesk] 240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025
