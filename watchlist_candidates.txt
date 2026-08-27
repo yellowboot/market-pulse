@@ -6,27 +6,29 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 27.08.2026 00:00
-30 of 80 news items unmatched this run
+Generated: 27.08.2026 00:59
+31 of 80 news items unmatched this run
 
-- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
+- [Nasdaq] Soybeans Rally to New Highs on Wednesday
+- [Nasdaq] Cotton Rounds Out Wednesday with Gains
 - [Nasdaq] Cocoa Prices Pressured by Abundant Supplies
-- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
-- [Nasdaq] Corn Rallies to Fresh 3-year Highs
-- [Investing.com] Australian carrier Qantas’ full-year profit falls 14%
-- [Investing.com] Exclusive-Trian has no plans to make bid for Wendy’s right now, sources say
-- [Investing.com] Rainier Acquisition prices $75M IPO on Nasdaq
 - [Nasdaq] Dollar Supported by US Economic Strength
-- [Nasdaq] Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen
-- [Nasdaq] Hogs Posting Mixed Midweek Trade
+- [Investing.com] Qantas upbeat on revenue, brings forward A380 exit as profit falls
+- [Nasdaq] Wheat Rallying to New Highs as Russia Looks to Escalation
 - [Nasdaq] Cotton Showing Modest Strength on Wednesday Morning
-- [Investing.com] Canadian Solar explores options for Recurrent Energy unit - Bloomberg
-- [Investing.com] +13% post-market, this AI-picked software giant crushed results and is now up +42%
-- [Nasdaq] Dollar Rises on US Economic News
-- [Investing.com] Wendy’s drops as Trian reins in take-private ambitions
-- [Nasdaq] Signs of Weak European Sugar Production Support Prices
+- [Nasdaq] Corn Rallies to Fresh 3-year Highs with Help from Limit Gains in Wheat
+- [Nasdaq] Cattle Post Mixed Wednesday Action
+- [Nasdaq] Hogs Post Strength on Wednesday
+- [Investing.com] Kioxia to invest $6.27 billion in new Japan memory facility- Nikkei
+- [Investing.com] HP’s PC shipments drop overshadows strong revenue growth, shares slide
+- [Nasdaq] Easing Supply Fears Weigh on Cocoa Prices
+- [Nasdaq] Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies
+- [Nasdaq] Corn Rallies to Fresh 3-year Highs
+- [CoinDesk] SEC resurrecting U.S. crypto custody rule the previous administration failed to land
+- [Investing.com] Exclusive-Trian has no plans to make bid for Wendy’s right now, sources say
+- [Nasdaq] Crude Oil Prices Slip on Hopes Strait of Hormuz to Reopen
 - [CNBC] Okta pops 20% after topping estimates as AI threat spikes demand for identity security
-- [Nasdaq] Are Options Traders Betting on a Big Move in Evercore Stock?
+- [CNBC] OpenAI releases sweeping report on Hugging Face AI agent hack
 - [Mining.com] Gold price retreats from three-month high as inflation US gauge runs warm
 - [CNBC] Anthropic and Nscale strike $45 billion cloud deal, sources say
 - [OilPrice.com] MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production
@@ -38,4 +40,3 @@ Generated: 27.08.2026 00:00
 - [OilPrice.com] Aramco Finds a New Way to Keep Saudi Crude Flowing to China
 - [Mining.com] NexGen expands Sask program after high-grade uranium results
 - [OilPrice.com] CNOOC Posts Record Profit as China Pumps More Oil at Home
-- [OilPrice.com] Oil Drops as Tankers Begin Moving More Gulf Crude
