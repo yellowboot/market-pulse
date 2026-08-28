@@ -6,21 +6,27 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 28.08.2026 04:26
-39 of 80 news items unmatched this run
+Generated: 28.08.2026 05:33
+40 of 80 news items unmatched this run
 
+- [Nasdaq] Cattle Bounce into Thursday’s Final Bell
+- [Nasdaq] Cattle Bouncing Higher on Thursday
+- [Investing.com] Virgin Australia to trim domestic capacity in line with Qantas, expects revenue gains
+- [Investing.com] 5 above 30% MTD: Q2 earnings kept these AI-picked breakouts climbing this week
+- [Investing.com] Chinese chip stocks: These are the best value plays
+- [Investing.com] Royalties royalty: These are Japan’s top IP licensing stocks
+- [Investing.com] Chinese state oil giant CNOOC sees potential for US-China energy cooperation
+- [Investing.com] Gift Nifty 50 coils at 24,289 in tight range: Live levels
 - [CNBC] Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise
 - [CNBC] OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access
+- [Investing.com] Asia stocks muted, KOSPI falls as tech rally cools in anticipation of Warsh
 - [MarketWatch] Judge says Trump administration’s blacklist of Anthropic was illegal
-- [Investing.com] Gap taps industry veteran to revive struggling Old Navy brand, shares jump
-- [Investing.com] Judge rules Pentagon’s Anthropic blacklist unlawful
 - [CNBC] Judge blocks Pentagon blacklist of Anthropic as supply chain risk
-- [CNBC] DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market
 - [Nasdaq] Hogs Close Thursday with Strength
-- [Nasdaq] Cattle Bounce into Thursday’s Final Bell
 - [Nasdaq] Corn Bulls Take a Breather on Thursday’s Pullback
 - [Nasdaq] Wheat Extends to 3-year Highs on Thursday
 - [Nasdaq] Cotton Rallies on Thursday Despite Weaker Export Sales
+- [OilPrice.com] Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions
 - [Mining.com] NioCorp taps Railveyor technology for Elk Creek
 - [Nasdaq] Soybeans Hold onto Thursday Gains
 - [Nasdaq] Supply Risks Boost Sugar Prices
@@ -36,15 +42,10 @@ Generated: 28.08.2026 04:26
 - [MarketWatch] 20 stocks likely to lose money even if the bull market continues
 - [Mining.com] Zinc price jumps to 4-year high as LME stocks plunge 64%
 - [CNBC] BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds
-- [CNBC] There's one metric that shows investors are being pickier about the stocks they buy
 - [Mining.com] First Mining inks development agreement with First Nations
 - [CNBC] AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap
-- [CNBC] August apartment rents turn positive for the first time in four years
+- [CoinDesk] Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight
 - [CNBC] SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway
-- [OilPrice.com] East Africa’s Oil Rivalry Spurs Multi-Billion-Dollar Projects Across The Region
 - [Mining.com] Lithium price: BMI raises forecast, warns rally has outrun fundamentals
 - [Mining.com] Copper price extends retreat from record as China tests the tariff trade
 - [CoinDesk] Ethena surges as buyback vote, VC unlock overhaul boost token outlook
-- [OilPrice.com] DoE Begins Tests for Fracked Geothermal
-- [Mining.com] Finnvera to finance up to $132M in Troilus gold-copper project
-- [CoinDesk] GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal
