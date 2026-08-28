@@ -6,32 +6,33 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 28.08.2026 21:28
-43 of 80 news items unmatched this run
+Generated: 28.08.2026 22:48
+40 of 80 news items unmatched this run
 
+- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
+- [Nasdaq] Corn Holding Higher at Midday
+- [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
+- [Nasdaq] Cattle Falling Back Under Pressure on Friday
+- [Mining.com] Gold’s huge August
+- [Nasdaq] Cocoa Prices Surge on West African Crop Risks
 - [Nasdaq] Cotton Facing Friday Weakness
+- [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%
+- [Nasdaq] Hogs Holding Steady at Midday
+- [CoinDesk] Kalshi takes legal blow in court ruling confirming state powers over prediction markets
+- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.28%
+- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.86%
+- [Investing.com] BAE Systems wins $167M Navy contract modification
+- [Investing.com] Pinterest finance chief Julia Donnelly to step down in October
+- [Investing.com] Electra Therapeutics files for IPO to fund immune disease drugs
 - [Investing.com] Honda and Nissan to jointly develop vehicle sofware, Nikkei reports
 - [Nasdaq] Nat-Gas Prices Fall Ahead of Opening of Texas Pipeline
 - [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
-- [Nasdaq] Cocoa Prices Surge on West African Crop Risks
-- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
-- [Nasdaq] Hogs Holding Steady at Midday
-- [Nasdaq] Cattle Falling Back Under Pressure on Friday
 - [Nasdaq] Wheat Rallying into the Weekend
-- [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
 - [Nasdaq] Dollar Strength and Increased Middle East Oil Flows Weigh on Crude Prices
 - [Nasdaq] Supply Fears Push Cocoa Prices to 11-Month Highs
 - [Investing.com] Juul Labs gets FDA nod for Juul2 device on switching data
 - [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
-- [Nasdaq] Arabica Coffee Supported by a Slump in ICE Inventories
-- [Nasdaq] Corn Back to Rally Mode Early on Friday
-- [Nasdaq] RSI Alert: Generac Holdings (GNRC) Now Oversold
-- [Investing.com] Pentagon in talks for Venezuelan oil fields deal through middleman - Bloomberg
-- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.76%
-- [Investing.com] Brazil stocks higher at close of trade; Bovespa up 0.30%
-- [Investing.com] Pinterest stock falls as CFO Julia Donnelly resigns
-- [Investing.com] Wall Street ends lower on hawkish Warsh at Jackson Hole, but rises for the week
-- [CNBC] Next week will show how sustainable the AI trade is. Here's what's ahead, including a jobs report
 - [CNBC] CEO of buy now, pay later giant Affirm says high gas prices are hitting U.S. shoppers
 - [CNBC] Corn and wheat prices jump to highest prices in more than three years
 - [CNBC] Bolster your portfolio with these dividend-paying cash cows as midterms approach
@@ -39,16 +40,12 @@ Generated: 28.08.2026 21:28
 - [Yahoo Finance] Dunkin' comes back to major market after 12-year absence
 - [Yahoo Finance] Okta’s AI boom just created a new security problem
 - [CoinDesk] Solana vote to double disinflation passes by a hair in dramatic finish
-- [CNBC] 52% of Gen Z investors have redirected investing money to sports bets
 - [Yahoo Finance] 183-year-old giant tool company closes factory, lays off dozens
 - [Mining.com] Radiant World sued by Mizuho Bank, Incomlend
 - [CoinDesk] BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout
 - [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
 - [CoinDesk] Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation
-- [OilPrice.com] The AI Boom Could Triple Data Center Water Use by 2030
 - [CNBC] How Taylor Farms became integral to America's food supply system
 - [CoinDesk] The Clarity Act slipped to September. Banks are building anyway
 - [CoinDesk] Ethena looks beyond crypto to squeeze yield from booming equity perpetuals
-- [OilPrice.com] The Iran War Has Turned VLCCs Into $650,000-a-Day Assets
 - [OilPrice.com] U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise
-- [CoinDesk] SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia
