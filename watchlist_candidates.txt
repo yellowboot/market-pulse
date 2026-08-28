@@ -6,24 +6,21 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 28.08.2026 02:26
-44 of 80 news items unmatched this run
+Generated: 28.08.2026 04:26
+39 of 80 news items unmatched this run
 
+- [CNBC] Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise
+- [CNBC] OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access
+- [MarketWatch] Judge says Trump administration’s blacklist of Anthropic was illegal
+- [Investing.com] Gap taps industry veteran to revive struggling Old Navy brand, shares jump
+- [Investing.com] Judge rules Pentagon’s Anthropic blacklist unlawful
 - [CNBC] Judge blocks Pentagon blacklist of Anthropic as supply chain risk
 - [CNBC] DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market
-- [Investing.com] SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030
-- [Investing.com] SK Telecom, Kakao and KT chosen for AI for All project- reports
 - [Nasdaq] Hogs Close Thursday with Strength
 - [Nasdaq] Cattle Bounce into Thursday’s Final Bell
 - [Nasdaq] Corn Bulls Take a Breather on Thursday’s Pullback
-- [Investing.com] US judge rules Pentagon blacklisting of Anthropic unlawful
-- [Investing.com] Why is Dentsu Soken stock surging today?
-- [Investing.com] Air New Zealand FY loss slightly below expectations; engine issues seen easing
 - [Nasdaq] Wheat Extends to 3-year Highs on Thursday
-- [Investing.com] SK Hynix stalls at KRW 1,710,000 resistance: Live levels
 - [Nasdaq] Cotton Rallies on Thursday Despite Weaker Export Sales
-- [Investing.com] Japan’s Dentsu Soken confirms privatization offer from Itochu
-- [Investing.com] Air New Zealand sees engine disruption easing, posts smaller loss than expected
 - [Mining.com] NioCorp taps Railveyor technology for Elk Creek
 - [Nasdaq] Soybeans Hold onto Thursday Gains
 - [Nasdaq] Supply Risks Boost Sugar Prices
@@ -33,16 +30,15 @@ Generated: 28.08.2026 02:26
 - [Nasdaq] Hogs Posting Mixed Midday Action
 - [MarketWatch] Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
 - [CNBC] Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
+- [Nasdaq] Dollar Finishes Slightly Higher Ahead of Fed Chair Warsh
 - [CNBC] Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
 - [Mining.com] Cyclic Materials lands $75M to expand US rare earth recycling
 - [MarketWatch] 20 stocks likely to lose money even if the bull market continues
 - [Mining.com] Zinc price jumps to 4-year high as LME stocks plunge 64%
 - [CNBC] BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds
 - [CNBC] There's one metric that shows investors are being pickier about the stocks they buy
-- [CNBC] The best tools to build an emergency fund when you live paycheck to paycheck
 - [Mining.com] First Mining inks development agreement with First Nations
 - [CNBC] AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap
-- [OilPrice.com] Egypt’s LNG Comeback Is Set to Start in Cyprus
 - [CNBC] August apartment rents turn positive for the first time in four years
 - [CNBC] SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway
 - [OilPrice.com] East Africa’s Oil Rivalry Spurs Multi-Billion-Dollar Projects Across The Region
@@ -52,4 +48,3 @@ Generated: 28.08.2026 02:26
 - [OilPrice.com] DoE Begins Tests for Fracked Geothermal
 - [Mining.com] Finnvera to finance up to $132M in Troilus gold-copper project
 - [CoinDesk] GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal
-- [CoinDesk] MoonPay’s newest integration lets AI agents handle crypto lending on Solana
