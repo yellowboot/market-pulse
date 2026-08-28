@@ -6,35 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 27.08.2026 23:52
-39 of 80 news items unmatched this run
+Generated: 28.08.2026 00:45
+43 of 80 news items unmatched this run
 
+- [Nasdaq] Wheat Extends to 3-year Highs on Thursday
+- [Nasdaq] Cotton Rallies on Thursday Despite Weaker Export Sales
+- [Nasdaq] Corn Bulls Take a Breather on Thursday’s Pullback
+- [Mining.com] NioCorp taps Railveyor technology for Elk Creek
+- [Nasdaq] Hogs Close Thursday with Strength
+- [Nasdaq] Cattle Bounce into Thursday’s Final Bell
+- [Nasdaq] Soybeans Hold onto Thursday Gains
+- [Nasdaq] Supply Risks Boost Sugar Prices
 - [Nasdaq] Corn Slipping Back at Thursday’s Midday
 - [Nasdaq] Cocoa Prices Jump on Concern Over West African Crop Quality
 - [Nasdaq] Coffee Prices Retreat as Supply Situation Improves
 - [Nasdaq] Hogs Posting Mixed Midday Action
+- [MarketWatch] Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
 - [CNBC] Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more
 - [Investing.com] Ulta Beauty lifts annual forecasts as marketing, product investments fuel growth
+- [Nasdaq] Dollar Finishes Slightly Higher Ahead of Fed Chair Warsh
 - [Investing.com] Air New Zealand logs biggest annual loss since 2023 as fuel, engine costs bite
 - [Investing.com] Why is Solstice Advanced Materials stock surging today?
 - [Investing.com] Why is Element Solutions stock rallying today?
+- [Investing.com] US FDA approves updated COVID vaccines for 2026-27 season
 - [Investing.com] Activist investor Carl Icahn gives up JetBlue board seats
 - [CNBC] Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand
 - [Investing.com] Solstice stock surges 14% as Element deal scrapped, buyback set
 - [Investing.com] Anthropic explored MatX acquisition for chip development - Reuters
 - [Mining.com] Cyclic Materials lands $75M to expand US rare earth recycling
-- [Nasdaq] Are Options Traders Betting on a Big Move in BOK Financial Stock?
-- [Nasdaq] Is the Options Market Predicting a Spike in DMC Global Stock?
-- [Nasdaq] Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War
-- [Nasdaq] Cocoa Prices Surge on West African Cocoa Quality Concerns
-- [Nasdaq] Coffee Prices Extend Losses as Supply Fears Ease
-- [Nasdaq] Supply Risks Boost Sugar Prices
-- [Nasdaq] Hot US Temps and Below-Normal Storage Build Lifts Nat-Gas Prices
-- [Nasdaq] Crude Oil Prices Pressured as Middle East Crude Supplies Increase
+- [CNBC] UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports
 - [MarketWatch] 20 stocks likely to lose money even if the bull market continues
 - [Mining.com] Zinc price jumps to 4-year high as LME stocks plunge 64%
 - [CNBC] BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds
-- [CNBC] There's one metric that shows investors are being pickier about the stocks they buy
 - [Mining.com] First Mining inks development agreement with First Nations
 - [CNBC] Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker
 - [CNBC] AI needs more power. Stephanie Link is buying this natural gas stock while it's cheap
@@ -44,7 +47,8 @@ Generated: 27.08.2026 23:52
 - [Mining.com] Lithium price: BMI raises forecast, warns rally has outrun fundamentals
 - [Mining.com] Copper price extends retreat from record as China tests the tariff trade
 - [CoinDesk] Ethena surges as buyback vote, VC unlock overhaul boost token outlook
-- [OilPrice.com] DoE Begins Tests for Fracked Geothermal
 - [Mining.com] Finnvera to finance up to $132M in Troilus gold-copper project
 - [CoinDesk] GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal
+- [OilPrice.com] Europe Heads Into Winter With Gas Storage at a Two-Decade Low
 - [CoinDesk] MoonPay’s newest integration lets AI agents handle crypto lending on Solana
+- [CoinDesk] 240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025
