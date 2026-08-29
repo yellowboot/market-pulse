@@ -6,40 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 29.08.2026 03:17
-34 of 80 news items unmatched this run
+Generated: 29.08.2026 18:13
+37 of 80 news items unmatched this run
 
-- [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
-- [Investing.com] Indian bank stocks show widest exchange price gap in decades
-- [Nasdaq] Soybeans Rally with the Products on Friday
+- [Yahoo Finance] Music publishers sue Anthropic, allege "blantant theft" of copyrighted music
+- [Yahoo Finance] Why I Wouldn't Touch IonQ, Even With Quantum Computing Stocks Soaring
+- [Yahoo Finance] Interactive Brokers Profits When Trading Is Hot. What Happens When It Cools?
+- [Investing.com] Glencore takes $480 mln provision on Radiant World exposure - Bloomberg
+- [Yahoo Finance] Is D-Wave Quantum a Buy?
+- [Yahoo Finance] Patients with the deadliest cancer finally have something that works
+- [Yahoo Finance] A Magnite Director Sells Nearly 50,000 Shares Worth $1.2 Million Amid a Rising Stock Price
+- [Yahoo Finance] Alico Maps Shift From Citrus to Florida Land Development at IDEAS Conference
+- [Investing.com] HDFC Bank CEO Jagdishan to step down in October as governance pressures mount
+- [Yahoo Finance] 72% of homebuyers have paused their search waiting for lower mortgage rates — and 41% already regret it
+- [CoinDesk] Swift’s $1.5 quadrillion network faces a blockchain test
+- [CoinDesk] The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet
+- [CNBC] Goodyear burning rubber and cash as turnaround plan continues
+- [Yahoo Finance] Stock Market Week Ahead: Chips, Cybersecurity And Jobs
+- [CNBC] Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million
+- [CoinDesk] Tokenized assets are busier than the data shows
+- [CNBC] Stocks eked out a winning week. Here are the names that are now overbought
+- [OilPrice.com] America’s Electricity Boom Is Outrunning Its Power Grid
+- [MarketWatch] Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.
 - [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
-- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
-- [Investing.com] Truist, Fifth Third pause products tied to Mark Walter firm amid probe
-- [CNBC] Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
+- [Yahoo Finance] Mortgage and refinance interest rates today, Saturday, August 29, 2026: Fixed rates move slightly higher into the weekend
+- [MarketWatch] Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.
+- [CNBC] CFTC fines former White House aide $172,000 for trading on Trump speech information
+- [Yahoo Finance] Best CD rates today, Saturday, August 29, 2026: Lock in up to 4.30% APY with a 16- or 18-month CD
+- [Investing.com] Lower Saxony premier urges agreement on VW restructuring before board meeting
+- [Investing.com] How networking became the critical layer of AI
+- [Investing.com] German regional banks face strain as Volksbank Brawo troubles deepen
 - [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
+- [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
+- [Nasdaq] Soybeans Rally with the Products on Friday
+- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
 - [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
 - [Nasdaq] Hogs Rally into the Weekend
 - [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
 - [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
 - [Nasdaq] Cattle Face Friday Pressure to Close Week of Losses
-- [Mining.com] Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah
-- [Nasdaq] Corn Holding Higher at Midday
-- [Nasdaq] Cattle Falling Back Under Pressure on Friday
-- [Nasdaq] Cocoa Prices Surge on West African Crop Risks
-- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.28%
-- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.86%
-- [MarketWatch] Dolly Parton’s music, books and theme park see spikes in interest following her death
-- [CNBC] Next week will show how sustainable the AI trade is. Here's what's ahead, including a jobs report
-- [CNBC] CEO of buy now, pay later giant Affirm says high gas prices are hitting U.S. shoppers
-- [CNBC] Corn and wheat prices jump to highest prices in more than three years
-- [CNBC] Bolster your portfolio with these dividend-paying cash cows as midterms approach
-- [CNBC] What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire
-- [CNBC] Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike
-- [Yahoo Finance] Okta’s AI boom just created a new security problem
-- [CoinDesk] Solana vote to double disinflation passes by a hair in dramatic finish
-- [Mining.com] Radiant World sued by Mizuho Bank, Incomlend
-- [CoinDesk] BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout
-- [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
-- [CoinDesk] Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation
-- [CoinDesk] The Clarity Act slipped to September. Banks are building anyway
+- [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
