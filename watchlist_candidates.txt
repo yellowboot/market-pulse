@@ -6,25 +6,27 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 28.08.2026 23:37
-44 of 80 news items unmatched this run
+Generated: 29.08.2026 00:24
+45 of 80 news items unmatched this run
 
+- [Investing.com] Truist, Fifth Third pause products tied to Mark Walter firm amid probe
 - [CNBC] Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
+- [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
+- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
 - [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
 - [Nasdaq] Hogs Rally into the Weekend
 - [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
 - [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
-- [Nasdaq] Soybeans Rally with the Products on Friday
 - [Nasdaq] Cattle Face Friday Pressure to Close Week of Losses
-- [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
-- [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
-- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
 - [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
+- [Nasdaq] Soybeans Rally with the Products on Friday
+- [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
 - [Mining.com] Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah
 - [Nasdaq] Corn Holding Higher at Midday
 - [Nasdaq] Cattle Falling Back Under Pressure on Friday
 - [Mining.com] Gold’s huge August
 - [Nasdaq] Cocoa Prices Surge on West African Crop Risks
+- [Investing.com] Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules
 - [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%
 - [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.28%
 - [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.86%
@@ -32,10 +34,9 @@ Generated: 28.08.2026 23:37
 - [Investing.com] Pinterest finance chief Julia Donnelly to step down in October
 - [Investing.com] Electra Therapeutics files for IPO to fund immune disease drugs
 - [Investing.com] Honda and Nissan to jointly develop vehicle sofware, Nikkei reports
-- [Investing.com] Juul Labs gets FDA nod for Juul2 device on switching data
 - [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
-- [MarketWatch] Dolly Parton’s music, books and theme park see spikes in interest following her death
 - [Mining.com] Op-Ed: Ethiopia’s hidden SEDEX deposit — part of Africa’s next great basin?
+- [CNBC] Next week will show how sustainable the AI trade is. Here's what's ahead, including a jobs report
 - [CNBC] CEO of buy now, pay later giant Affirm says high gas prices are hitting U.S. shoppers
 - [MarketWatch] AI wants to help you pick a Medicare plan. Should you let it?
 - [CNBC] Corn and wheat prices jump to highest prices in more than three years
@@ -43,13 +44,13 @@ Generated: 28.08.2026 23:37
 - [CNBC] Bolster your portfolio with these dividend-paying cash cows as midterms approach
 - [CNBC] What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire
 - [CNBC] Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike
-- [Yahoo Finance] Okta’s AI boom just created a new security problem
 - [Yahoo Finance] Dunkin' comes back to major market after 12-year absence
+- [Yahoo Finance] Okta’s AI boom just created a new security problem
 - [CoinDesk] Solana vote to double disinflation passes by a hair in dramatic finish
 - [Yahoo Finance] 183-year-old giant tool company closes factory, lays off dozens
 - [Mining.com] Radiant World sued by Mizuho Bank, Incomlend
 - [CoinDesk] BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout
 - [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
-- [CNBC] How Taylor Farms became integral to America's food supply system
+- [CoinDesk] Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation
 - [CoinDesk] The Clarity Act slipped to September. Banks are building anyway
 - [CoinDesk] Ethena looks beyond crypto to squeeze yield from booming equity perpetuals
