@@ -6,27 +6,26 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 29.08.2026 00:24
-45 of 80 news items unmatched this run
+Generated: 29.08.2026 01:05
+41 of 80 news items unmatched this run
 
+- [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
+- [Nasdaq] Soybeans Rally with the Products on Friday
+- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
 - [Investing.com] Truist, Fifth Third pause products tied to Mark Walter firm amid probe
 - [CNBC] Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
 - [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
-- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
 - [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
 - [Nasdaq] Hogs Rally into the Weekend
 - [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
 - [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
 - [Nasdaq] Cattle Face Friday Pressure to Close Week of Losses
-- [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
-- [Nasdaq] Soybeans Rally with the Products on Friday
 - [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
 - [Mining.com] Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah
 - [Nasdaq] Corn Holding Higher at Midday
 - [Nasdaq] Cattle Falling Back Under Pressure on Friday
 - [Mining.com] Gold’s huge August
 - [Nasdaq] Cocoa Prices Surge on West African Crop Risks
-- [Investing.com] Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules
 - [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%
 - [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.28%
 - [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.86%
@@ -35,14 +34,11 @@ Generated: 29.08.2026 00:24
 - [Investing.com] Electra Therapeutics files for IPO to fund immune disease drugs
 - [Investing.com] Honda and Nissan to jointly develop vehicle sofware, Nikkei reports
 - [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
+- [MarketWatch] Dolly Parton’s music, books and theme park see spikes in interest following her death
 - [Mining.com] Op-Ed: Ethiopia’s hidden SEDEX deposit — part of Africa’s next great basin?
-- [CNBC] Next week will show how sustainable the AI trade is. Here's what's ahead, including a jobs report
 - [CNBC] CEO of buy now, pay later giant Affirm says high gas prices are hitting U.S. shoppers
-- [MarketWatch] AI wants to help you pick a Medicare plan. Should you let it?
 - [CNBC] Corn and wheat prices jump to highest prices in more than three years
-- [MarketWatch] Meet Generation Renter — young Americans who don’t expect to ever own a home
 - [CNBC] Bolster your portfolio with these dividend-paying cash cows as midterms approach
-- [CNBC] What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire
 - [CNBC] Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike
 - [Yahoo Finance] Dunkin' comes back to major market after 12-year absence
 - [Yahoo Finance] Okta’s AI boom just created a new security problem
