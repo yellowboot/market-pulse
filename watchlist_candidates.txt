@@ -6,43 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 29.08.2026 18:13
-37 of 80 news items unmatched this run
+Generated: 30.08.2026 18:29
+34 of 80 news items unmatched this run
 
-- [Yahoo Finance] Music publishers sue Anthropic, allege "blantant theft" of copyrighted music
-- [Yahoo Finance] Why I Wouldn't Touch IonQ, Even With Quantum Computing Stocks Soaring
-- [Yahoo Finance] Interactive Brokers Profits When Trading Is Hot. What Happens When It Cools?
-- [Investing.com] Glencore takes $480 mln provision on Radiant World exposure - Bloomberg
-- [Yahoo Finance] Is D-Wave Quantum a Buy?
-- [Yahoo Finance] Patients with the deadliest cancer finally have something that works
-- [Yahoo Finance] A Magnite Director Sells Nearly 50,000 Shares Worth $1.2 Million Amid a Rising Stock Price
-- [Yahoo Finance] Alico Maps Shift From Citrus to Florida Land Development at IDEAS Conference
-- [Investing.com] HDFC Bank CEO Jagdishan to step down in October as governance pressures mount
-- [Yahoo Finance] 72% of homebuyers have paused their search waiting for lower mortgage rates — and 41% already regret it
-- [CoinDesk] Swift’s $1.5 quadrillion network faces a blockchain test
-- [CoinDesk] The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet
-- [CNBC] Goodyear burning rubber and cash as turnaround plan continues
-- [Yahoo Finance] Stock Market Week Ahead: Chips, Cybersecurity And Jobs
-- [CNBC] Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million
-- [CoinDesk] Tokenized assets are busier than the data shows
-- [CNBC] Stocks eked out a winning week. Here are the names that are now overbought
-- [OilPrice.com] America’s Electricity Boom Is Outrunning Its Power Grid
-- [MarketWatch] Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.
-- [Nasdaq] Sugar Prices Erase Early Gains as Real Strength Spurs Long Liquidation
-- [Yahoo Finance] Mortgage and refinance interest rates today, Saturday, August 29, 2026: Fixed rates move slightly higher into the weekend
-- [MarketWatch] Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.
-- [CNBC] CFTC fines former White House aide $172,000 for trading on Trump speech information
-- [Yahoo Finance] Best CD rates today, Saturday, August 29, 2026: Lock in up to 4.30% APY with a 16- or 18-month CD
-- [Investing.com] Lower Saxony premier urges agreement on VW restructuring before board meeting
-- [Investing.com] How networking became the critical layer of AI
-- [Investing.com] German regional banks face strain as Volksbank Brawo troubles deepen
-- [Nasdaq] Sugar Prices Retreat on Long Liquidation Pressures
-- [CNBC] Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
-- [Nasdaq] Soybeans Rally with the Products on Friday
-- [Nasdaq] Falling ICE Inventories Boost Arabica Coffee Prices
-- [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
+- [Yahoo Finance] Honda (HMC), Nissan Edge Toward a Software Alliance
+- [CNBC] Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for
+- [Yahoo Finance] 2 ‘Perfect 10’ Stocks Wall Street Is Betting On
+- [Yahoo Finance] What Affirm’s (AFRM) Blowout Quarter and Cautious CEO Say About the Consumer
+- [Investing.com] Aon close to acquiring USI Insurance from KKR in $17 billion deal, WSJ reports
+- [Yahoo Finance] GE Vernova vs. Vistra: The AI Power Stock to Buy Now for 2026 and Beyond
+- [Yahoo Finance] Dollar Tree Says Higher Fuel Prices Are Becoming a ‘Very, Very Meaningful’ Headwind
+- [Yahoo Finance] Futures Set to Trade Ahead of Jobs Data, Tech Earnings
+- [Investing.com] Aon nears around $17B deal to buy KKR-backed USI Insurance – WSJ
+- [Yahoo Finance] This "Boring" Pipeline Stock Has Never Cut Its Dividend. Here's the 1 Number I'd Watch.
+- [Yahoo Finance] How to Earn $500 a Month From SAIC Stock Ahead of Q2 Earnings
+- [Yahoo Finance] Cathie Wood buys $53 million of popular semiconductor stock
+- [Yahoo Finance] The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next.
+- [Investing.com] Up +57% since July, this AI-picked software giant can’t stop rallying
+- [Yahoo Finance] Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks
+- [CNBC] What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals
+- [Yahoo Finance] Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits
+- [MarketWatch] These charts show how leverage-happy investors are transforming the stock market
+- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.71%
+- [MarketWatch] Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage
+- [CNBC] The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
+- [OilPrice.com] Data Centers Are Driving a New U.S. Natural Gas Buildout
+- [MarketWatch] AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October
+- [CNBC] Top Wall Street analysts suggest these 3 dividend stocks for consistent income
+- [CNBC] Analysts like this humanoid supplier, even if the robots remain concepts — for now
+- [CNBC] Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
+- [Yahoo Finance] Major fruit grower lays off nearly 1,000 workers
+- [CoinDesk] A $1.1 million crypto card hack crashed a neobank's token 49%
 - [Nasdaq] Hogs Rally into the Weekend
 - [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
 - [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
 - [Nasdaq] Cattle Face Friday Pressure to Close Week of Losses
-- [Nasdaq] Hawkish Fed Chair Warsh Boosts the Dollar and Sinks Gold
+- [Nasdaq] Cotton Facing Friday Weakness
+- [Nasdaq] Wheat Rallying into the Weekend
