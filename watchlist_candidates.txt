@@ -6,35 +6,35 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 31.08.2026 19:19
-43 of 80 news items unmatched this run
+Generated: 31.08.2026 20:16
+41 of 80 news items unmatched this run
 
-- [CNBC] Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel
-- [CNBC] Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon
-- [CNBC] Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers
-- [CNBC] AI data centers need massive amounts of cooling. Jenny Harrington is buying this HVAC stock
-- [CNBC] Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
-- [Nasdaq] Soybeans Fading Lower on Monday AM Trade
-- [Nasdaq] Cotton Rallying Back on Monday Morning
-- [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
-- [Investing.com] Canada’s Big 6 banks sweep Q3 earnings estimates, but market reaction is mixed
-- [Investing.com] Top healthcare services stock to watch, according to Jefferies
-- [Investing.com] Colgate vs P&G: valuation, margins, and the pairs trade
-- [Investing.com] Why is Canadian Natural Resources stock climbing today?
-- [CNBC] Stocks fall after U.S. strikes Iran, but Wall Street heads for winning month: Live updates
-- [Nasdaq] Wheat Falling Back to Start Month-End Trade
-- [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
-- [CNBC] Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower
-- [Investing.com] Avis Budget Group stock analysis: technicals, key levels, and what’s driving Monday’s rally
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Deficit
-- [Nasdaq] West African Cocoa Crop Concerns Underpin Prices
-- [Nasdaq] Corn Pausing Rally on Monday Morning as August Comes to a Close
-- [CNBC] Brent jumps above $90 after flare-up in U.S.-Iran hostilities
-- [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
-- [Nasdaq] Monday 8/31 Insider Buying Report: CTEV, IPGP
+- [CNBC] Avoid these potential earnings 'blow-ups', says Wolfe Research
+- [Nasdaq] Global Supply Fears Underpin Sugar Prices
+- [Nasdaq] Cocoa Prices Rise on Concern Over West African Cocoa Quality
+- [Nasdaq] Arabica Coffee Posts Moderate Losses as Prices Consolidate
+- [Nasdaq] VYX Crosses Below Key Moving Average Level
+- [Nasdaq] MTN Makes Notable Cross Below Critical Moving Average
+- [Nasdaq] AON Makes Notable Cross Below Critical Moving Average
+- [Nasdaq] Eastern Bankshares is Oversold
+- [Nasdaq] CSL Crosses Below Key Moving Average Level
+- [Nasdaq] L Crosses Below Key Moving Average Level
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - ITA
+- [Nasdaq] Cattle Getting A Bounce at Month End
+- [Nasdaq] Hogs Rallying to Close Out August
+- [Nasdaq] Wheat Falling Back to Close Out the Month
 - [Nasdaq] Arabica Coffee Consolidates Recent Losses
-- [Nasdaq] Soybeans Rally with the Products on Friday
-- [CNBC] American Airlines announces Trump Accounts matching program
+- [MarketWatch] Global oil prices settle above $90 a barrel after U.S. and Iran exchange fire for first time in a month
+- [Investing.com] Top international banks: stability champions, value plays and turnaround stories
+- [CNBC] Brent jumps above $90 after flare-up in U.S.-Iran hostilities
+- [Investing.com] Leveraged ETF outlook: caution signals across TQQQ, SOXL, and UPRO
+- [Investing.com] GitLab options volume surges ahead of September 1 earnings
+- [MarketWatch] Jerome Powell still has one vote on whether rates go up — the same as Kevin Warsh
+- [Investing.com] First Solar stands out in solar sector amid Musk capacity announcement and rate pressures
+- [CNBC] Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
+- [Investing.com] SLB options activity shows bullish tilt as stock hits 52-week high
+- [CNBC] Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities
+- [CNBC] Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower
 - [CNBC] OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate
 - [Mining.com] Talamore gets key road permit for Coffee gold project in Yukon Territory
 - [Mining.com] Smackover seals 10-year lithium-supply deal with LG Energy
@@ -42,7 +42,6 @@ Generated: 31.08.2026 19:19
 - [CNBC] Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI
 - [Mining.com] Defense Metals drills 6% rare earths in British Columbia
 - [CoinDesk] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
-- [OilPrice.com] Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders
 - [CoinDesk] Ireland bars crypto from new tax-advantaged investment accounts
 - [OilPrice.com] Russian Oil Is No Longer India’s Easy Bargain
 - [CoinDesk] Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3
@@ -50,5 +49,4 @@ Generated: 31.08.2026 19:19
 - [Yahoo Finance] Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
 - [OilPrice.com] SLB Makes $3.4 Billion Bet on AI Data Center Boom
 - [Mining.com] Glencore stands between Anglo-Teck and $1.4B copper prize
-- [Retail Dive] Nuuly drives Urban Outfitters’ record second-quarter revenue
-- [OilPrice.com] Europe Gas Prices Jump 5% to Highest Level Since 2023
+- [OilPrice.com] Conflict and Climate Are Driving Food Prices Higher
