@@ -6,40 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 30.08.2026 18:29
-34 of 80 news items unmatched this run
+Generated: 31.08.2026 18:05
+45 of 80 news items unmatched this run
 
-- [Yahoo Finance] Honda (HMC), Nissan Edge Toward a Software Alliance
-- [CNBC] Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for
-- [Yahoo Finance] 2 ‘Perfect 10’ Stocks Wall Street Is Betting On
-- [Yahoo Finance] What Affirm’s (AFRM) Blowout Quarter and Cautious CEO Say About the Consumer
-- [Investing.com] Aon close to acquiring USI Insurance from KKR in $17 billion deal, WSJ reports
-- [Yahoo Finance] GE Vernova vs. Vistra: The AI Power Stock to Buy Now for 2026 and Beyond
-- [Yahoo Finance] Dollar Tree Says Higher Fuel Prices Are Becoming a ‘Very, Very Meaningful’ Headwind
-- [Yahoo Finance] Futures Set to Trade Ahead of Jobs Data, Tech Earnings
-- [Investing.com] Aon nears around $17B deal to buy KKR-backed USI Insurance – WSJ
-- [Yahoo Finance] This "Boring" Pipeline Stock Has Never Cut Its Dividend. Here's the 1 Number I'd Watch.
-- [Yahoo Finance] How to Earn $500 a Month From SAIC Stock Ahead of Q2 Earnings
-- [Yahoo Finance] Cathie Wood buys $53 million of popular semiconductor stock
-- [Yahoo Finance] The Stock Market Is Repeating a Pattern Not Seen Since 2000. Here's What History Says Comes Next.
-- [Investing.com] Up +57% since July, this AI-picked software giant can’t stop rallying
-- [Yahoo Finance] Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks
-- [CNBC] What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals
-- [Yahoo Finance] Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits
-- [MarketWatch] These charts show how leverage-happy investors are transforming the stock market
-- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.71%
-- [MarketWatch] Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage
-- [CNBC] The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently
-- [OilPrice.com] Data Centers Are Driving a New U.S. Natural Gas Buildout
-- [MarketWatch] AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October
-- [CNBC] Top Wall Street analysts suggest these 3 dividend stocks for consistent income
-- [CNBC] Analysts like this humanoid supplier, even if the robots remain concepts — for now
-- [CNBC] Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves
-- [Yahoo Finance] Major fruit grower lays off nearly 1,000 workers
-- [CoinDesk] A $1.1 million crypto card hack crashed a neobank's token 49%
-- [Nasdaq] Hogs Rally into the Weekend
-- [Nasdaq] Cotton Sees Profit Taking Pressure to Close the Week
+- [CNBC] Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
+- [Nasdaq] Arabica Coffee Consolidates Recent Losses
+- [Nasdaq] Soybeans Fading Lower on Monday AM Trade
+- [Nasdaq] Cotton Rallying Back on Monday Morning
+- [Nasdaq] Corn Pausing Rally on Monday Morning as August Comes to a Close
+- [Nasdaq] Wheat Falling Back to Start Month-End Trade
+- [Nasdaq] Corn Pushes Gains into the Weekend as Specs Expand Length
+- [Nasdaq] Soybeans Rally with the Products on Friday
+- [Nasdaq] West African Cocoa Crop Concerns Underpin Prices
+- [CNBC] Stocks fall after U.S. strikes Iran, but Wall Street heads for winning month: Live updates
 - [Nasdaq] Wheat Extend Rally to 3-Year Highs into the Weekend
-- [Nasdaq] Cattle Face Friday Pressure to Close Week of Losses
-- [Nasdaq] Cotton Facing Friday Weakness
-- [Nasdaq] Wheat Rallying into the Weekend
+- [Nasdaq] Reminder: Great-West Lifeco's Preferred Shares, Series M Goes Ex-Dividend Soon
+- [Nasdaq] Chimera Investment's Series D Preferred Stock Ex-Dividend Reminder - 9/1/26
+- [Nasdaq] Cash Dividend On The Way From Great-West Lifeco's Preferred Shares, Series P
+- [Nasdaq] Ex-Div Reminder for Great-West Lifeco's Preferred Shares, Series R
+- [Nasdaq] Cash Dividend On The Way From Chimera Investment's Series B Preferred Stock
+- [CNBC] Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers
+- [MarketWatch] PG&E, other utility stocks sink as California leaves investors exposed to wildfire liability
+- [Investing.com] ICE and Nasdaq shares fall on rumor Hyperliquid is eyeing U.S. entry
+- [CNBC] Crypto technicals are improving. Katie Stockton is keeping an eye on these levels
+- [CNBC] OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate
+- [Investing.com] OpenAI’s ad business hits $1 billion annualized revenue run rate
+- [Investing.com] Trump administration to announce drug pricing deals
+- [Investing.com] European stocks post 5th monthly gain amid Energy surge and central bank fears
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.27%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.07%
+- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.59%
+- [Mining.com] Talamore gets key road permit for Coffee gold project
+- [CNBC] Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report
+- [CoinDesk] Kalshi lays down first lifetime ban for ex-member of Congress George Santos
+- [Mining.com] Smackover seals 10-year lithium-supply deal with LG Energy
+- [CNBC] Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says
+- [CNBC] Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI
+- [Mining.com] Defense Metals drills 6% rare earths in British Columbia
+- [CoinDesk] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
+- [CoinDesk] Ireland bars crypto from new tax-advantaged investment accounts
+- [OilPrice.com] Russian Oil Is No Longer India’s Easy Bargain
+- [CoinDesk] Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3
+- [Yahoo Finance] Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise
+- [Yahoo Finance] Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran
+- [CNBC] Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities
+- [OilPrice.com] SLB Makes $3.4 Billion Bet on AI Data Center Boom
+- [Mining.com] Glencore stands between Anglo-Teck and $1.4B copper prize
+- [Retail Dive] Nuuly drives Urban Outfitters’ record second-quarter revenue
+- [OilPrice.com] Europe Gas Prices Jump 5% to Highest Level Since 2023
