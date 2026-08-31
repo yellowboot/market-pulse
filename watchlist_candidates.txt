@@ -6,48 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 31.08.2026 21:59
-42 of 80 news items unmatched this run
+Generated: 31.08.2026 23:08
+34 of 80 news items unmatched this run
 
+- [CNBC] Stock futures are little changed after Wall Street closes out winning August: Live updates
+- [Investing.com] THIRTY WINS OVER +30%: A new list of AI picks for September is coming TOMORROW
+- [Nasdaq] Cocoa Prices Rise on Concern Over West African Cocoa Quality
+- [Nasdaq] Arabica Coffee Posts Moderate Losses as Prices Consolidate
+- [Nasdaq] Soybeans Posting Modest Monday Gains
+- [Nasdaq] Wheat Falling Back to Close Out the Month
+- [Nasdaq] Nat-Gas Prices Climb on Sweltering US Heat
+- [Nasdaq] Global Supply Fears Underpin Sugar Prices
+- [Nasdaq] Hogs Rallying to Close Out August
+- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Deficit
+- [Investing.com] US to announce sharply lower vehicle fuel economy requirements
+- [Investing.com] Shein set for lacklustre debut after setbacks cause huge drop in valuation
+- [Investing.com] Ares raises $4 billion for Japan logistics fund in unit’s largest fundraise
 - [Investing.com] Why is Metallus stock sliding today?
 - [Investing.com] Metallus stock falls on CEO retirement announcement
-- [Nasdaq] Nat-Gas Prices Climb on Sweltering US Heat
-- [Nasdaq] Arabica Coffee Posts Moderate Losses as Prices Consolidate
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Deficit
 - [Nasdaq] Arabica Coffee Consolidates Recent Losses
-- [Investing.com] KKR-backed OPI nail polish owner Wella Co files for US IPO
-- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.08%
 - [Nasdaq] Dollar Slips on Dovish Bessent Comments
 - [Nasdaq] Dollar Weakens on Strength in the Chinese Yuan
-- [Investing.com] General Dynamics IT wins $43.9M Navy contract modification
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.34%
 - [Nasdaq] Cattle Getting A Bounce at Month End
 - [CNBC] Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon
-- [Investing.com] Brookfield’s HomeServe plans $1.8B bond deal for $600M dividend - Bloomberg
-- [Nasdaq] Global Supply Fears Underpin Sugar Prices
-- [Nasdaq] Renewed US-Iran Hostilities Push Crude Prices Higher
-- [Nasdaq] Cocoa Prices Rise on Concern Over West African Cocoa Quality
-- [Nasdaq] Hogs Rallying to Close Out August
 - [CNBC] KKR-backed OPI nail polish owner Wella Co. files for U.S. IPO
 - [CNBC] Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month
-- [Nasdaq] FMNY Crosses Critical Technical Indicator
-- [Nasdaq] FLMB Crowded With Sellers
+- [MarketWatch] This maneuver is boosting oil shipments through the Strait of Hormuz
 - [CNBC] Avoid these potential earnings 'blow-ups', says Wolfe Research
-- [MarketWatch] PG&E, other utility stocks sink as California leaves investors exposed to wildfire liability
-- [CNBC] Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
 - [CNBC] Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities
 - [CNBC] Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower
 - [CNBC] Kalshi permanently bans former GOP Rep. George Santos over illegal trading
 - [CNBC] American Airlines announces Trump Accounts matching program
 - [CNBC] OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate
-- [OilPrice.com] Iran War Triggers Billions in New Oil Pipeline and Port Investment
-- [OilPrice.com] Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze
 - [Mining.com] Talamore gets key road permit for Coffee gold project in Yukon Territory
-- [CNBC] Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report
 - [Mining.com] Smackover seals 10-year lithium-supply deal with LG Energy
-- [CNBC] Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI
 - [Mining.com] Defense Metals drills 6% rare earths in British Columbia
 - [CoinDesk] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
-- [OilPrice.com] Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders
 - [CoinDesk] Ireland bars crypto from new tax-advantaged investment accounts
-- [CoinDesk] Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3
