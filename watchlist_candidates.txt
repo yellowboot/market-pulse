@@ -6,10 +6,16 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 00:02
-43 of 80 news items unmatched this run
+Generated: 01.09.2026 00:44
+38 of 80 news items unmatched this run
 
+- [Nasdaq] Soybeans Close August with Gains as Condition Ratings Fall
+- [Nasdaq] Cotton Rallies to Close August
+- [Nasdaq] Corn Pushes Higher to Close August, as Conditions Slip
 - [CNBC] Stock futures are little changed after Wall Street closes out winning August: Live updates
+- [Nasdaq] Wheat Fades to Round Out August, but Bulls Fight Back into the Close
+- [Nasdaq] Hogs Rally to Close Out August
+- [Nasdaq] Cattle Bounce into the End of the Month
 - [Nasdaq] Cotton Posting Monday Rally
 - [Mining.com] Court ruling backs Perpetua’s $1.3B Stibnite build
 - [Investing.com] Shein set for lacklustre debut after setbacks cause huge drop in valuation
@@ -24,30 +30,19 @@ Generated: 01.09.2026 00:02
 - [Nasdaq] Nat-Gas Prices Climb on Sweltering US Heat
 - [Nasdaq] Global Supply Fears Underpin Sugar Prices
 - [Nasdaq] Hogs Rallying to Close Out August
-- [Nasdaq] Sugar Prices Supported by the Outlook for a Global Deficit
+- [Investing.com] US to announce sharply lower vehicle fuel economy requirements
 - [Investing.com] Ares raises $4 billion for Japan logistics fund in unit’s largest fundraise
-- [Nasdaq] Arabica Coffee Consolidates Recent Losses
-- [Nasdaq] Dollar Slips on Dovish Bessent Comments
-- [Nasdaq] Dollar Weakens on Strength in the Chinese Yuan
-- [Nasdaq] Cattle Getting A Bounce at Month End
 - [CNBC] Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon
 - [CNBC] KKR-backed OPI nail polish owner Wella Co. files for U.S. IPO
-- [MarketWatch] This maneuver is boosting oil shipments through the Strait of Hormuz
-- [MarketWatch] With Warsh running the Fed, should bond investors be worried?
 - [CNBC] Avoid these potential earnings 'blow-ups', says Wolfe Research
-- [Yahoo Finance] Uphold review 2026: One account for crypto, metals, and cash
-- [CNBC] Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
 - [CNBC] Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities
 - [CNBC] Where to find some of the highest CD rates heading into September
 - [OilPrice.com] New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem
 - [CNBC] Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower
-- [OilPrice.com] Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem
-- [CNBC] CNBC Points Pro: Which card has primary rental car insurance, lounge access and 2X points?
 - [CNBC] American Airlines announces Trump Accounts matching program
-- [CNBC] OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate
 - [OilPrice.com] Iran War Triggers Billions in New Oil Pipeline and Port Investment
-- [OilPrice.com] Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze
 - [Mining.com] Talamore gets key road permit for Coffee gold project in Yukon Territory
+- [CNBC] Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report
 - [Mining.com] Smackover seals 10-year lithium-supply deal with LG Energy
 - [Mining.com] Defense Metals drills 6% rare earths in British Columbia
 - [CoinDesk] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
