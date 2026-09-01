@@ -6,40 +6,49 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 31.08.2026 23:08
-34 of 80 news items unmatched this run
+Generated: 01.09.2026 00:02
+43 of 80 news items unmatched this run
 
 - [CNBC] Stock futures are little changed after Wall Street closes out winning August: Live updates
+- [Nasdaq] Cotton Posting Monday Rally
+- [Mining.com] Court ruling backs Perpetua’s $1.3B Stibnite build
+- [Investing.com] Shein set for lacklustre debut after setbacks cause huge drop in valuation
+- [Investing.com] California opposes Paramount request for $1.88 billion bond
+- [CNBC] August was the month of the comeback kids. Cramer reviews what drove the biggest winners
+- [Nasdaq] Arabica Coffee Posts Moderate Losses as Prices Consolidate
+- [Mining.com] IperionX lands second US Army order for domestic titanium
+- [Nasdaq] Wheat Falling Back to Close Out the Month
 - [Investing.com] THIRTY WINS OVER +30%: A new list of AI picks for September is coming TOMORROW
 - [Nasdaq] Cocoa Prices Rise on Concern Over West African Cocoa Quality
-- [Nasdaq] Arabica Coffee Posts Moderate Losses as Prices Consolidate
 - [Nasdaq] Soybeans Posting Modest Monday Gains
-- [Nasdaq] Wheat Falling Back to Close Out the Month
 - [Nasdaq] Nat-Gas Prices Climb on Sweltering US Heat
 - [Nasdaq] Global Supply Fears Underpin Sugar Prices
 - [Nasdaq] Hogs Rallying to Close Out August
 - [Nasdaq] Sugar Prices Supported by the Outlook for a Global Deficit
-- [Investing.com] US to announce sharply lower vehicle fuel economy requirements
-- [Investing.com] Shein set for lacklustre debut after setbacks cause huge drop in valuation
 - [Investing.com] Ares raises $4 billion for Japan logistics fund in unit’s largest fundraise
-- [Investing.com] Why is Metallus stock sliding today?
-- [Investing.com] Metallus stock falls on CEO retirement announcement
 - [Nasdaq] Arabica Coffee Consolidates Recent Losses
 - [Nasdaq] Dollar Slips on Dovish Bessent Comments
 - [Nasdaq] Dollar Weakens on Strength in the Chinese Yuan
 - [Nasdaq] Cattle Getting A Bounce at Month End
 - [CNBC] Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon
 - [CNBC] KKR-backed OPI nail polish owner Wella Co. files for U.S. IPO
-- [CNBC] Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month
 - [MarketWatch] This maneuver is boosting oil shipments through the Strait of Hormuz
+- [MarketWatch] With Warsh running the Fed, should bond investors be worried?
 - [CNBC] Avoid these potential earnings 'blow-ups', says Wolfe Research
+- [Yahoo Finance] Uphold review 2026: One account for crypto, metals, and cash
+- [CNBC] Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
 - [CNBC] Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities
+- [CNBC] Where to find some of the highest CD rates heading into September
+- [OilPrice.com] New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem
 - [CNBC] Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower
-- [CNBC] Kalshi permanently bans former GOP Rep. George Santos over illegal trading
+- [OilPrice.com] Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem
+- [CNBC] CNBC Points Pro: Which card has primary rental car insurance, lounge access and 2X points?
 - [CNBC] American Airlines announces Trump Accounts matching program
 - [CNBC] OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate
+- [OilPrice.com] Iran War Triggers Billions in New Oil Pipeline and Port Investment
+- [OilPrice.com] Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze
 - [Mining.com] Talamore gets key road permit for Coffee gold project in Yukon Territory
 - [Mining.com] Smackover seals 10-year lithium-supply deal with LG Energy
 - [Mining.com] Defense Metals drills 6% rare earths in British Columbia
 - [CoinDesk] NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm
-- [CoinDesk] Ireland bars crypto from new tax-advantaged investment accounts
+- [OilPrice.com] Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders
