@@ -6,37 +6,36 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 21:38
+Generated: 01.09.2026 22:46
 40 of 80 news items unmatched this run
 
-- [Nasdaq] Dollar Firms on Rising T-Note Yields and Crude Prices
-- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
-- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 1.86%
-- [Nasdaq] Crude Prices Surge on Escalation of US-Iran Hostilities
+- [Investing.com] Yum says Pizza Hut CEO Aaron Powell resigns
+- [Nasdaq] Soybeans Rallying on Tuesday Following EPA News, Ratings Drop
+- [Nasdaq] Cattle Slipping Back on Tuesday
 - [Nasdaq] Hogs Holding Steady on Tuesday
-- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.44%
-- [Investing.com] Chegg stock rises as company repays debt, achieves debt-free status
-- [Investing.com] Wolfe Research Names Top Media and Entertainment Stocks for 2026
-- [Investing.com] S&P upgrades Viper Energy outlook on parent’s cash flow
-- [Nasdaq] Nat-Gas Prices Slip as US Weather Forecasts Turn Cooler
+- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
+- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
+- [Nasdaq] Crude Prices Surge on Escalation of US-Iran Hostilities
 - [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
 - [Nasdaq] Cocoa Prices Fall on Larger Supplies from the Ivory Coast
 - [Nasdaq] Coffee Prices Pressured by Rising Supplies
-- [Investing.com] Why is GitLab stock surging today?
-- [Nasdaq] Corn Rallying on Tuesday
-- [Nasdaq] Cotton Fading Back Lower on Turnaround Tuesday
-- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
+- [Nasdaq] Dollar Firms on Rising T-Note Yields and Crude Prices
+- [Nasdaq] Nat-Gas Prices Slip as US Weather Forecasts Turn Cooler
+- [Investing.com] Why is Dropbox stock sliding today?
+- [Investing.com] Blue Origin wins Mars network contract on strong infrastructure plan
+- [Investing.com] Dropbox stock falls after Bloomberg reports data breach
+- [MarketWatch] Dow drops below a key chart level, warning of more trouble ahead
+- [Nasdaq] Wheat Bulls Extending Higher on Tuesday
 - [CNBC] Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion
-- [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 1.40%
+- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 1.86%
 - [CNBC] GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%
 - [CNBC] OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability
 - [MarketWatch] Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz
 - [CNBC] AI token prices are hitting new record lows
 - [Mining.com] Collective extends Colombia’s Apollo on 15-g/t gold hit
 - [CNBC] Anthropic changes data retention policy after pushback from customers
-- [MarketWatch] Manufacturers are getting frustrated: ‘The economy is annoying’
 - [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
-- [CNBC] Crypto enters September with legislative policy gamble hanging by a thread
 - [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
 - [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
 - [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
@@ -47,5 +46,6 @@ Generated: 01.09.2026 21:38
 - [OilPrice.com] U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
 - [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
 - [OilPrice.com] U.S. Lithium Miners Finally Have a Shot at Cashing In
+- [CoinDesk] Musk’s X hit by wave of unsolicited password reset emails
 - [OilPrice.com] Bessent Says Strait of Hormuz Obsolete Within Two Years
 - [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
