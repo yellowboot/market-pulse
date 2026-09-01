@@ -6,44 +6,58 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 17:04
-38 of 80 news items unmatched this run
+Generated: 01.09.2026 17:54
+52 of 80 news items unmatched this run
 
-- [CNBC] AI token prices are hitting new record lows
+- [MarketWatch] Buy these stocks to ride the next big AI wave — connectivity, analyst says
+- [Yahoo Finance] A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine
+- [Yahoo Finance] BMO (BMO) Q3 2026 Earnings Call Transcript
+- [Nasdaq] Bigger Supplies from the Ivory Coast Knock Cocoa Prices Lower
+- [Investing.com] S&P shares jump report of potential CapIQ spinout
+- [Investing.com] Why is Energizer stock crashing today?
+- [Yahoo Finance] Oil prices surge above $94 after U.S. strikes Iran in Hormuz
+- [Investing.com] Nestle to divest mainstream supplements business for $1 billion
+- [CNBC] After a sell-off, this medical device stock looks like a gift for patient investors
+- [Investing.com] CDs make a comeback, boosting US recorded music revenue
+- [Yahoo Finance] Top 100 London Stocks Are Coming to Crypto, But There’s a Catch
+- [Yahoo Finance] The Market May Be Underestimating This Stock
+- [Nasdaq] Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies
+- [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
+- [Investing.com] Rosenblatt launches online travel and mobility coverage, favors platform leaders
+- [Investing.com] TCL sues Samsung for false advertising over ’Mini LED’ televisions
+- [Nasdaq] Coffee Prices Slip as Brazil’s Coffee Exports Expected to Accelerate
+- [Yahoo Finance] Lumentum Sets Up After 148% Gain; AI Summer Swoon Yields New Buy Point
+- [Yahoo Finance] Stock Market Today: Nasdaq, Dow Fall As Oil Prices Jump; Taser Maker Flashes This Warning (Live Coverage)
+- [Yahoo Finance] Sprouts Farmers Market (SFM) Stock Has Crashed: Is It a Buy Now?
+- [Yahoo Finance] UGI Corp (UGI) Trades at Just 11x Earnings: Is It a Buy?
+- [Yahoo Finance] Why RLI Corp (RLI) Remains a Top Specialty Insurance Stock
+- [Yahoo Finance] JBT Marel (JBTM): A Food Processing Equipment Stock With Consistent Growth
+- [Yahoo Finance] Why Unitil (UTL) Could Deliver 5%-7% Annual EPS Growth
+- [Yahoo Finance] Bank of N.T. Butterfield (NTB): A Caribbean Banking Stock Trading Below 10x Earnings
+- [Yahoo Finance] Why InterDigital (IDCC) Could Be a Hidden Gem in Wireless Technology
+- [Yahoo Finance] Why Vontier (VNT) Could Be an Overlooked Value Stock
+- [Yahoo Finance] Why ePlus (PLUS) Could Benefit From Rising Corporate IT Spending
+- [Yahoo Finance] Arrow Electronics (ARW) Trades at 10x Earnings: Is This Semiconductor Recovery Stock a Buy?
+- [Yahoo Finance] Why Littelfuse (LFUS) Is Emerging as an AI Infrastructure Winner
+- [Yahoo Finance] Fabrinet (FN): A Hidden AI Infrastructure Stock to Watch
+- [Yahoo Finance] TD SYNNEX (SNX): How Its Data Center Business Is Driving Growth
+- [Yahoo Finance] Why Vishay Intertechnology (VSH) Could Benefit From the Electronics Recovery
+- [MarketWatch] Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets
+- [Yahoo Finance] Qorvo (QRVO) Agreed to Be Acquired by Skyworks
+- [Yahoo Finance] Graphic Packaging (GPK): Can Its Paper Packaging Business Drive a Turnaround?
+- [Yahoo Finance] Concentrix (CNXC): Can AI Turnaround This Cheap Customer Experience Stock?
+- [Yahoo Finance] Why Upbound Group (UPBD) Could Be an Undervalued Stock to Watch
 - [Nasdaq] Wheat Sticking Close to Unchanged on Tuesday Morning, but Falling from Highs
+- [CNBC] AI token prices are hitting new record lows
+- [Yahoo Finance] FDA Approval Marks A Turning Point For BeOne Medicines (ONC)
 - [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
-- [Yahoo Finance] Ripple unlocks 1 billion XRP, here's what it actually means for investors
-- [Yahoo Finance] Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off
-- [Yahoo Finance] Is SK Hynix a Millionaire-Maker Stock?
-- [Yahoo Finance] The “Partnership Policy”: Buy Long-Term-Care Insurance With This Label on It and Medicaid Lets You Keep an Extra Dollar of Savings for Every Dollar the Policy Paid.
 - [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
 - [Yahoo Finance] Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity
 - [CNBC] How one of the largest investors in student housing is playing this school year
-- [Investing.com] TCL sues Samsung for false advertising over ’Mini LED’ televisions
-- [Yahoo Finance] Medtronic Flirts With A Breakout As Its Spinoff, MiniMed, Hits A Record
-- [Investing.com] Why is Apollo Global Management stock sliding today?
-- [Investing.com] Apollo stock falls on report of Brightspeed concerns
-- [Investing.com] London stocks slide post-holiday as global bond rout and Middle East strikes weigh
-- [Investing.com] Keurig Dr Pepper to sell back Chobani stake for $925 million
-- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.31%
+- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
 - [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.79%
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.44%
-- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.35%
+- [Nasdaq] Can AMC's Leaner Theatre Portfolio Sustain EBITDA Momentum?
+- [Nasdaq] Axsome Begins Phase III Study on AXS-05 for Smoking Cessation
 - [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
-- [Nasdaq] Tuesday's ETF Movers: IHF, BUG
-- [Nasdaq] Daily Dividend Report: GLPI,ARE,HMN,FF,KYN
-- [Nasdaq] Tuesday Sector Leaders: Hospital & Medical Practitioners, Cigarettes & Tobacco Stocks
-- [Yahoo Finance] Private equity group rolls up 3 small firms for courier network
-- [Nasdaq] Analyst Favorites: Barrick Mining Ranks As a Top Metals Pick
-- [Nasdaq] IREN's CapEx Plan Accelerates: Can Funding Keep Up With Expansion?
-- [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
-- [CNBC] Watch out: These stocks could succumb to margin pressure
-- [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
-- [MarketWatch] There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor
-- [CNBC] New data shows this language learning stock can bounce back, Evercore ISI says
-- [MarketWatch] Global oil prices surge above $92 a barrel after report of strikes on two tankers in the Strait of Hormuz
-- [CNBC] Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
-- [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
-- [MarketWatch] As U.S. bond prices tumble, yields are jumping globally — from Japan to the U.K. and beyond
-- [Mining.com] Sibanye-Stillwater to build new copper, gold mines on two continents
+- [Nasdaq] CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?
+- [Nasdaq] JAZZ Rises on Updated OS Results From Gastric Cancer Study
