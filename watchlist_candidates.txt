@@ -6,58 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 17:54
-52 of 80 news items unmatched this run
+Generated: 01.09.2026 19:13
+36 of 80 news items unmatched this run
 
-- [MarketWatch] Buy these stocks to ride the next big AI wave — connectivity, analyst says
-- [Yahoo Finance] A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine
-- [Yahoo Finance] BMO (BMO) Q3 2026 Earnings Call Transcript
+- [Investing.com] Keurig Dr Pepper to sell back Chobani stake, manufacturing site for $925 million
 - [Nasdaq] Bigger Supplies from the Ivory Coast Knock Cocoa Prices Lower
-- [Investing.com] S&P shares jump report of potential CapIQ spinout
-- [Investing.com] Why is Energizer stock crashing today?
-- [Yahoo Finance] Oil prices surge above $94 after U.S. strikes Iran in Hormuz
-- [Investing.com] Nestle to divest mainstream supplements business for $1 billion
-- [CNBC] After a sell-off, this medical device stock looks like a gift for patient investors
-- [Investing.com] CDs make a comeback, boosting US recorded music revenue
-- [Yahoo Finance] Top 100 London Stocks Are Coming to Crypto, But There’s a Catch
-- [Yahoo Finance] The Market May Be Underestimating This Stock
-- [Nasdaq] Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies
-- [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
-- [Investing.com] Rosenblatt launches online travel and mobility coverage, favors platform leaders
-- [Investing.com] TCL sues Samsung for false advertising over ’Mini LED’ televisions
-- [Nasdaq] Coffee Prices Slip as Brazil’s Coffee Exports Expected to Accelerate
-- [Yahoo Finance] Lumentum Sets Up After 148% Gain; AI Summer Swoon Yields New Buy Point
-- [Yahoo Finance] Stock Market Today: Nasdaq, Dow Fall As Oil Prices Jump; Taser Maker Flashes This Warning (Live Coverage)
-- [Yahoo Finance] Sprouts Farmers Market (SFM) Stock Has Crashed: Is It a Buy Now?
-- [Yahoo Finance] UGI Corp (UGI) Trades at Just 11x Earnings: Is It a Buy?
-- [Yahoo Finance] Why RLI Corp (RLI) Remains a Top Specialty Insurance Stock
-- [Yahoo Finance] JBT Marel (JBTM): A Food Processing Equipment Stock With Consistent Growth
-- [Yahoo Finance] Why Unitil (UTL) Could Deliver 5%-7% Annual EPS Growth
-- [Yahoo Finance] Bank of N.T. Butterfield (NTB): A Caribbean Banking Stock Trading Below 10x Earnings
-- [Yahoo Finance] Why InterDigital (IDCC) Could Be a Hidden Gem in Wireless Technology
-- [Yahoo Finance] Why Vontier (VNT) Could Be an Overlooked Value Stock
-- [Yahoo Finance] Why ePlus (PLUS) Could Benefit From Rising Corporate IT Spending
-- [Yahoo Finance] Arrow Electronics (ARW) Trades at 10x Earnings: Is This Semiconductor Recovery Stock a Buy?
-- [Yahoo Finance] Why Littelfuse (LFUS) Is Emerging as an AI Infrastructure Winner
-- [Yahoo Finance] Fabrinet (FN): A Hidden AI Infrastructure Stock to Watch
-- [Yahoo Finance] TD SYNNEX (SNX): How Its Data Center Business Is Driving Growth
-- [Yahoo Finance] Why Vishay Intertechnology (VSH) Could Benefit From the Electronics Recovery
-- [MarketWatch] Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets
-- [Yahoo Finance] Qorvo (QRVO) Agreed to Be Acquired by Skyworks
-- [Yahoo Finance] Graphic Packaging (GPK): Can Its Paper Packaging Business Drive a Turnaround?
-- [Yahoo Finance] Concentrix (CNXC): Can AI Turnaround This Cheap Customer Experience Stock?
-- [Yahoo Finance] Why Upbound Group (UPBD) Could Be an Undervalued Stock to Watch
-- [Nasdaq] Wheat Sticking Close to Unchanged on Tuesday Morning, but Falling from Highs
-- [CNBC] AI token prices are hitting new record lows
-- [Yahoo Finance] FDA Approval Marks A Turning Point For BeOne Medicines (ONC)
 - [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
+- [Nasdaq] Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies
+- [Nasdaq] Coffee Prices Slip as Brazil’s Coffee Exports Expected to Accelerate
+- [Investing.com] Mercado Pago unfazed by Brazil consumer debt worries as it expands credit card business
+- [Nasdaq] Tuesday's ETF with Unusual Volume: DSTL
+- [Nasdaq] Tuesday 9/1 Insider Buying Report: HYLN, RDVT
+- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
+- [Nasdaq] Hogs Look to Tuesday Following Monday Rally
+- [Investing.com] Evercore upgrades Duolingo, sees strong user growth and earnings upside
+- [CNBC] Last chance: Earn up to $100 with these Capital One student credit card offers
+- [Investing.com] Anthropic launches Enterprise Frontier Safeguards for Claude
+- [Investing.com] Argan options activity surges on record call volume ahead of earnings
+- [MarketWatch] Buy these stocks to ride the next big AI wave — connectivity, analyst says
+- [Nasdaq] Nokia Stock Increases 135.8% in a Year: Should You Invest?
+- [CNBC] After a sell-off, this medical device stock looks like a gift for patient investors
+- [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
+- [MarketWatch] Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets
+- [CNBC] AI token prices are hitting new record lows
 - [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
-- [Yahoo Finance] Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity
+- [CNBC] Second-quarter earnings bonanza driven by record corporate profits
 - [CNBC] How one of the largest investors in student housing is playing this school year
-- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
 - [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
-- [Nasdaq] Can AMC's Leaner Theatre Portfolio Sustain EBITDA Momentum?
-- [Nasdaq] Axsome Begins Phase III Study on AXS-05 for Smoking Cessation
 - [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
-- [Nasdaq] CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?
-- [Nasdaq] JAZZ Rises on Updated OS Results From Gastric Cancer Study
+- [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
+- [Yahoo Finance] Denny’s rival dining chain files for Chapter 11 bankruptcy
+- [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
+- [CoinDesk] Musk’s X hit by wave of unsolicited password reset emails
+- [CNBC] Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
+- [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
+- [Mining.com] Sibanye-Stillwater to build new copper, gold mines on two continents
+- [CNBC] Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears
+- [CoinDesk] Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal
+- [OilPrice.com] Tanzania’s Mining Model Is Starting to Pay Off
+- [Retail Dive] Dollar Shave Club acquires body care brand Truly Beauty
