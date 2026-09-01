@@ -6,48 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 20:02
-42 of 80 news items unmatched this run
+Generated: 01.09.2026 21:38
+40 of 80 news items unmatched this run
 
-- [CNBC] GoPro joins AI bonanza with pivot into data centers as shares skyrocket 38%
-- [Investing.com] Nestle to offload mainstream vitamin brands for $1 billion
-- [Investing.com] AUD/USD leads major pairs in YTD performance with strong multi-timeframe technicals
-- [MarketWatch] Global oil prices surge above $94 a barrel and settle at a 6-week high after the U.S. strikes Iran in Hormuz, and Trump threatens more action if Tehran retaliates
-- [Nasdaq] Cotton Fading Back Lower on Turnaround Tuesday
-- [Nasdaq] Wheat Bulls Extending Higher on Tuesday
+- [Nasdaq] Dollar Firms on Rising T-Note Yields and Crude Prices
+- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
+- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 1.86%
+- [Nasdaq] Crude Prices Surge on Escalation of US-Iran Hostilities
+- [Nasdaq] Hogs Holding Steady on Tuesday
+- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.44%
+- [Investing.com] Chegg stock rises as company repays debt, achieves debt-free status
+- [Investing.com] Wolfe Research Names Top Media and Entertainment Stocks for 2026
+- [Investing.com] S&P upgrades Viper Energy outlook on parent’s cash flow
+- [Nasdaq] Nat-Gas Prices Slip as US Weather Forecasts Turn Cooler
+- [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
+- [Nasdaq] Cocoa Prices Fall on Larger Supplies from the Ivory Coast
+- [Nasdaq] Coffee Prices Pressured by Rising Supplies
+- [Investing.com] Why is GitLab stock surging today?
 - [Nasdaq] Corn Rallying on Tuesday
-- [Nasdaq] Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies
-- [Investing.com] Medtronic earnings analysis: questions answered and next catalysts
+- [Nasdaq] Cotton Fading Back Lower on Turnaround Tuesday
+- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
+- [CNBC] Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion
+- [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
+- [CNBC] GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%
+- [CNBC] OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability
+- [MarketWatch] Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz
 - [CNBC] AI token prices are hitting new record lows
-- [Nasdaq] Noteworthy Tuesday Option Activity: ALTG, CRDO, STEP
-- [Nasdaq] Notable Tuesday Option Activity: UVV, GTLB, CRK
-- [Nasdaq] Noteworthy Tuesday Option Activity: AGX, NN, TECX
-- [Nasdaq] Notable Tuesday Option Activity: HOOD, NGVC, TLN
-- [Investing.com] Cyber insurance rates fall for fourth year despite rising threats
-- [Nasdaq] Wheat Sticking Close to Unchanged on Tuesday Morning, but Falling from Highs
-- [Nasdaq] Soybeans Rallying on Tuesday Following EPA News, Ratings Drop
-- [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
 - [Mining.com] Collective extends Colombia’s Apollo on 15-g/t gold hit
-- [Nasdaq] International Paper (IP) Shares Cross 5% Yield Mark
 - [CNBC] Anthropic changes data retention policy after pushback from customers
 - [MarketWatch] Manufacturers are getting frustrated: ‘The economy is annoying’
-- [CNBC] Last chance: Earn up to $100 with these Capital One student credit card offers
-- [MarketWatch] Buy these stocks to ride the next big AI wave — connectivity, analyst says
-- [CNBC] After a sell-off, this medical device stock looks like a gift for patient investors
 - [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
 - [CNBC] Crypto enters September with legislative policy gamble hanging by a thread
 - [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
-- [CNBC] Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana
 - [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
 - [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
+- [OilPrice.com] Solar Power Is Booming in Emerging Markets
+- [OilPrice.com] U.S. Crude Inventories Drop amid Continued SPR Draws
 - [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
 - [Yahoo Finance] Denny’s rival dining chain files for Chapter 11 bankruptcy
+- [OilPrice.com] U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
 - [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
 - [OilPrice.com] U.S. Lithium Miners Finally Have a Shot at Cashing In
-- [CoinDesk] Musk’s X hit by wave of unsolicited password reset emails
-- [CNBC] Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
+- [OilPrice.com] Bessent Says Strait of Hormuz Obsolete Within Two Years
 - [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
-- [Mining.com] Sibanye-Stillwater to build new copper, gold mines on two continents
-- [CNBC] Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears
-- [CoinDesk] UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe
-- [Yahoo Finance] Silver prices today, Tuesday, September 1, 2026: Silver prices sliding as higher rates feel inevitable
