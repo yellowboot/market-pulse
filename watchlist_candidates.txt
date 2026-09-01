@@ -6,49 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 15:36
-45 of 80 news items unmatched this run
+Generated: 01.09.2026 17:04
+38 of 80 news items unmatched this run
 
-- [CNBC] The best personal loans with no origination fee of 2026
-- [CNBC] How one of the largest investors in student housing is playing this school year
-- [Yahoo Finance] Why Rezolve AI Stock Crashed Today
-- [Yahoo Finance] Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Breakout (Live Coverage)
-- [Yahoo Finance] State Farm Is Sending Out $5 Billion in Cash Back. Here’s Who Qualifies and How to Tell It’s Not a Scam
-- [CNBC] Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'
-- [Yahoo Finance] Selling in The Villages Means Paying Off a Bond Many Owners Forgot They Had
-- [Yahoo Finance] Realty Income Has Raised Its Dividend Every Year Since Its 1994 IPO. Here Are 3 Reasons I'd Buy It and Never Sell.
-- [Nasdaq] Corn Fading Off Overnight Highs to Kick Off September
-- [Nasdaq] Cotton Fading Back to Start Turnaround Tuesday
+- [CNBC] AI token prices are hitting new record lows
 - [Nasdaq] Wheat Sticking Close to Unchanged on Tuesday Morning, but Falling from Highs
 - [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
-- [Yahoo Finance] NIO Q2 Earnings Call Highlights
-- [CoinDesk] Musk’s X hit by wave of unsolicited password reset emails
-- [Nasdaq] TBLL: Large Inflows Detected at ETF
-- [Nasdaq] BKGI ETF Experiences Big Inflow
-- [Nasdaq] Noteworthy ETF Inflows: JAAA
-- [Nasdaq] Noteworthy ETF Inflows: AGG
-- [Nasdaq] Notable ETF Outflow Detected - TAN, FSLR, NXT, ENPH
-- [Nasdaq] Notable ETF Outflow Detected - GSPY, TMUS, ADP, GD
+- [Yahoo Finance] Ripple unlocks 1 billion XRP, here's what it actually means for investors
+- [Yahoo Finance] Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off
+- [Yahoo Finance] Is SK Hynix a Millionaire-Maker Stock?
+- [Yahoo Finance] The “Partnership Policy”: Buy Long-Term-Care Insurance With This Label on It and Medicaid Lets You Keep an Extra Dollar of Savings for Every Dollar the Policy Paid.
+- [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
+- [Yahoo Finance] Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity
+- [CNBC] How one of the largest investors in student housing is playing this school year
+- [Investing.com] TCL sues Samsung for false advertising over ’Mini LED’ televisions
+- [Yahoo Finance] Medtronic Flirts With A Breakout As Its Spinoff, MiniMed, Hits A Record
+- [Investing.com] Why is Apollo Global Management stock sliding today?
+- [Investing.com] Apollo stock falls on report of Brightspeed concerns
+- [Investing.com] London stocks slide post-holiday as global bond rout and Middle East strikes weigh
+- [Investing.com] Keurig Dr Pepper to sell back Chobani stake for $925 million
+- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.31%
+- [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.79%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.44%
+- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.35%
+- [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
+- [Nasdaq] Tuesday's ETF Movers: IHF, BUG
+- [Nasdaq] Daily Dividend Report: GLPI,ARE,HMN,FF,KYN
+- [Nasdaq] Tuesday Sector Leaders: Hospital & Medical Practitioners, Cigarettes & Tobacco Stocks
+- [Yahoo Finance] Private equity group rolls up 3 small firms for courier network
+- [Nasdaq] Analyst Favorites: Barrick Mining Ranks As a Top Metals Pick
+- [Nasdaq] IREN's CapEx Plan Accelerates: Can Funding Keep Up With Expansion?
+- [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
+- [CNBC] Watch out: These stocks could succumb to margin pressure
+- [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
+- [MarketWatch] There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor
 - [CNBC] New data shows this language learning stock can bounce back, Evercore ISI says
-- [Yahoo Finance] HCA Healthcare (HCA) Navigates Patient Volume Challenges While Reporting Growth
-- [Yahoo Finance] Charter Communications (CHTR) Strengthens Market Position Amid Fierce Competition
-- [Yahoo Finance] Elevance Health (ELV) Soars as Investors Gain Confidence in Profitability
-- [Yahoo Finance] Robinhood Stock Upgraded On Growth Outlook, Shares Push Near Entry
-- [Investing.com] Casey’s General Stores stock may move 6.9% on earnings release
-- [Investing.com] GameStop shares may move 4.7% on Sept. 8 earnings release
-- [Investing.com] Why is Picard Medical stock sliding today?
-- [Investing.com] Why is Nocera stock plunging today?
-- [Investing.com] Why is MiniMed stock surging today?
-- [Yahoo Finance] Medtronic's Diabetes Spinoff Just Surged. What To Look For In Its Earnings.
-- [Investing.com] Why is Howmet Aerospace stock rallying today?
-- [Investing.com] Why is Founder Group stock surging today?
-- [Yahoo Finance] Citi Trends (CTRN) Turns A Growth Streak Into Real Profit
-- [Investing.com] Why is Antelope Enterprise stock plunging today?
-- [Yahoo Finance] Elevance Health (ELV): Bridging the Gap between Care and Coverage
-- [Investing.com] Why is ENvue Medical stock sliding today?
-- [Yahoo Finance] Workday (WDAY): Pioneering the Future of Enterprise Resource Planning
-- [Yahoo Finance] F5’s (FFIV) Commitment to Customer Excellence in Technology
-- [Yahoo Finance] Marzetti’s (MZTI) Record Streak Hits a Wall With Outbreak and Guidance Cut
 - [MarketWatch] Global oil prices surge above $92 a barrel after report of strikes on two tankers in the Strait of Hormuz
 - [CNBC] Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
 - [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
