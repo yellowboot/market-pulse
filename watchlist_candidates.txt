@@ -6,42 +6,48 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 19:13
-36 of 80 news items unmatched this run
+Generated: 01.09.2026 20:02
+42 of 80 news items unmatched this run
 
-- [Investing.com] Keurig Dr Pepper to sell back Chobani stake, manufacturing site for $925 million
-- [Nasdaq] Bigger Supplies from the Ivory Coast Knock Cocoa Prices Lower
-- [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
+- [CNBC] GoPro joins AI bonanza with pivot into data centers as shares skyrocket 38%
+- [Investing.com] Nestle to offload mainstream vitamin brands for $1 billion
+- [Investing.com] AUD/USD leads major pairs in YTD performance with strong multi-timeframe technicals
+- [MarketWatch] Global oil prices surge above $94 a barrel and settle at a 6-week high after the U.S. strikes Iran in Hormuz, and Trump threatens more action if Tehran retaliates
+- [Nasdaq] Cotton Fading Back Lower on Turnaround Tuesday
+- [Nasdaq] Wheat Bulls Extending Higher on Tuesday
+- [Nasdaq] Corn Rallying on Tuesday
 - [Nasdaq] Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies
-- [Nasdaq] Coffee Prices Slip as Brazil’s Coffee Exports Expected to Accelerate
-- [Investing.com] Mercado Pago unfazed by Brazil consumer debt worries as it expands credit card business
-- [Nasdaq] Tuesday's ETF with Unusual Volume: DSTL
-- [Nasdaq] Tuesday 9/1 Insider Buying Report: HYLN, RDVT
-- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
-- [Nasdaq] Hogs Look to Tuesday Following Monday Rally
-- [Investing.com] Evercore upgrades Duolingo, sees strong user growth and earnings upside
+- [Investing.com] Medtronic earnings analysis: questions answered and next catalysts
+- [CNBC] AI token prices are hitting new record lows
+- [Nasdaq] Noteworthy Tuesday Option Activity: ALTG, CRDO, STEP
+- [Nasdaq] Notable Tuesday Option Activity: UVV, GTLB, CRK
+- [Nasdaq] Noteworthy Tuesday Option Activity: AGX, NN, TECX
+- [Nasdaq] Notable Tuesday Option Activity: HOOD, NGVC, TLN
+- [Investing.com] Cyber insurance rates fall for fourth year despite rising threats
+- [Nasdaq] Wheat Sticking Close to Unchanged on Tuesday Morning, but Falling from Highs
+- [Nasdaq] Soybeans Rallying on Tuesday Following EPA News, Ratings Drop
+- [Nasdaq] Soybeans Rallying Early on Tuesday Following EPA News
+- [Mining.com] Collective extends Colombia’s Apollo on 15-g/t gold hit
+- [Nasdaq] International Paper (IP) Shares Cross 5% Yield Mark
+- [CNBC] Anthropic changes data retention policy after pushback from customers
+- [MarketWatch] Manufacturers are getting frustrated: ‘The economy is annoying’
 - [CNBC] Last chance: Earn up to $100 with these Capital One student credit card offers
-- [Investing.com] Anthropic launches Enterprise Frontier Safeguards for Claude
-- [Investing.com] Argan options activity surges on record call volume ahead of earnings
 - [MarketWatch] Buy these stocks to ride the next big AI wave — connectivity, analyst says
-- [Nasdaq] Nokia Stock Increases 135.8% in a Year: Should You Invest?
 - [CNBC] After a sell-off, this medical device stock looks like a gift for patient investors
 - [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
-- [MarketWatch] Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets
-- [CNBC] AI token prices are hitting new record lows
+- [CNBC] Crypto enters September with legislative policy gamble hanging by a thread
 - [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
-- [CNBC] Second-quarter earnings bonanza driven by record corporate profits
-- [CNBC] How one of the largest investors in student housing is playing this school year
+- [CNBC] Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana
 - [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
 - [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
 - [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
 - [Yahoo Finance] Denny’s rival dining chain files for Chapter 11 bankruptcy
 - [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
+- [OilPrice.com] U.S. Lithium Miners Finally Have a Shot at Cashing In
 - [CoinDesk] Musk’s X hit by wave of unsolicited password reset emails
 - [CNBC] Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot
 - [CoinDesk] Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments
 - [Mining.com] Sibanye-Stillwater to build new copper, gold mines on two continents
 - [CNBC] Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears
-- [CoinDesk] Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal
-- [OilPrice.com] Tanzania’s Mining Model Is Starting to Pay Off
-- [Retail Dive] Dollar Shave Club acquires body care brand Truly Beauty
+- [CoinDesk] UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe
+- [Yahoo Finance] Silver prices today, Tuesday, September 1, 2026: Silver prices sliding as higher rates feel inevitable
