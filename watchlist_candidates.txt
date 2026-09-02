@@ -6,41 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 21:37
-35 of 80 news items unmatched this run
+Generated: 02.09.2026 22:47
+38 of 80 news items unmatched this run
 
+- [Investing.com] Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports
+- [Investing.com] Olympus-backed Accelevation files for US IPO
+- [Nasdaq] Expectations of Tighter Global Supplies Boost Sugar Prices
+- [Nasdaq] Cocoa Prices Tumble as Supplies Increase
+- [Nasdaq] Coffee Prices Finish Sharply Lower on Supply Pressures
+- [Nasdaq] Hogs Continue Firmer Action on Wednesday
+- [Nasdaq] Cattle Facing Tuesday Losses
+- [Nasdaq] Wheat Bulls Turn Higher at Midday
+- [Investing.com] Brazil steelmaker CSN says Steinbruch leaving CEO role after 24 years
+- [Nasdaq] Nat-Gas Prices Rise on Hotter US Weather and Expectations of Smaller Storage
+- [Nasdaq] Corn Bulls Fight Off Overnight Weakness
+- [Nasdaq] Harvest Pressures Weigh on Coffee Prices
+- [Nasdaq] Dollar Slips as T-note Yields Stabilize and Stocks Rally
+- [Nasdaq] Crude Oil Prices Supported by Escalation of US-Iran Hostilities
+- [Nasdaq] Ample Cocoa Supplies Pressure Prices
 - [CNBC] NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
-- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 0.77%
-- [Investing.com] Exclusive-Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say
-- [Investing.com] Russia stocks lower at close of trade; MOEX Russia Index down 0.34%
+- [Investing.com] American Airlines boosts premium seating on 777 jets as carriers chase higher-spending travelers
+- [Investing.com] Nscale doubles contracted revenue to $103 billion after Anthropic win - report
+- [Investing.com] HPE raises forecasts on AI demand, shares fall on supply concerns
+- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.57%
 - [Mining.com] Tungsten surge transforms Northcliff’s Sisson economics
-- [Investing.com] Elliott built stake in Deutsche Telekom and opposes T-Mobile merger, Bloomberg News reports
-- [Investing.com] Why is Five Below stock surging today?
-- [Investing.com] Hershey names insider Dave Hulays as CFO
 - [MarketWatch] How GoPro went from viral camera sensation to a victim of smartphone ubiquity
-- [Nasdaq] Hexcel is Now Oversold (HXL)
-- [Nasdaq] Oversold Conditions For U-Haul Holding (UHAL)
-- [Nasdaq] Relative Strength Alert For Affiliated Managers Group
-- [Nasdaq] Karman Holdings Becomes Oversold (KRMN)
-- [Nasdaq] Relative Strength Alert For RXO
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - DAN
-- [Nasdaq] Eastman Kodak (KODK) Shares Cross Above 200 DMA
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - ARCO
-- [Nasdaq] NXG Crosses Below Key Moving Average Level
-- [Nasdaq] Grab This Bargain Energy Stock Even Cheaper Than EVP/CFO Maddipati Did
-- [Nasdaq] Lindsay Breaks Above 200-Day Moving Average - Bullish for LNN
+- [Mining.com] SW US mine rush collides with water limits
 - [CNBC] Yields surged to kick off September. BlackRock spots solid income in this corner of the market
 - [CoinDesk] Kraken parent Payward delays IPO to second quarter of 2027 at earliest
 - [Mining.com] US Forest Service signs off on South32 Hermosa’s mine plan in Arizona
-- [MarketWatch] Here’s another way rising bond yields could take a bite out of Americans’ wallets
+- [CNBC] The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth
 - [CNBC] Traders are piling into this international stock market that just pulled ahead of the Nasdaq
 - [Mining.com] Eldorado eyes bigger McIlvenna Bay copper mill
 - [Mining.com] Strike to begin at Sibanye-Stillwater’s US operations
 - [CNBC] Southwest to debut airport lounges in four cities, with more to come
 - [Mining.com] Diablillos drilling reveals encouraging near-surface mineralization
+- [OilPrice.com] White Hydrogen Drilling Push Gains Momentum Across Three Continents
 - [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
 - [OilPrice.com] Superhot Geothermal Just Got A $180 Million Vote Of Confidence
 - [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
-- [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
 - [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
 - [OilPrice.com] U.S. Diesel Prices Close In on April War Peak
