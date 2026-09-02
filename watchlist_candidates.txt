@@ -6,40 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 15:13
+Generated: 02.09.2026 16:55
 34 of 80 news items unmatched this run
 
-- [Yahoo Finance] HiddenLayer nabs $100M as enterprises rush to secure their AI deployments
-- [Yahoo Finance] Kohl’s Rallies 7% on Rotation Into Beaten-Down Retail, Macy’s Climbs 3%, Abercrombie & Fitch Slips
-- [Yahoo Finance] Banks Just Hijacked Crypto’s Original Promise: The Revolution Against Wall Street Is Now Owned by Wall Street
-- [Yahoo Finance] Corning (GLW) is Well Positioned for Strong Earnings Growth
-- [Investing.com] Norway stocks lower at close of trade; Oslo OBX down 0.39%
-- [Investing.com] Israel stocks higher at close of trade; TA 35 up 1.30%
-- [Yahoo Finance] Regional Bank Director Loads Up on Company Stock, Buys 3,000 Shares
-- [Investing.com] US government backs OpenAI in New York Times copyright case
-- [Investing.com] Jefferies sees bottlenecks in critical minerals as electrification demand builds
-- [Yahoo Finance] The Fund Added GE Aerospace (GE) Amid Market Skepticism
-- [Investing.com] Greece stocks lower at close of trade; Athens General Composite down 0.32%
-- [Investing.com] Why is Telephone and Data Systems stock surging today?
+- [Investing.com] American Airlines boosts premium seating on 777 jets as upscale travel grows
+- [Yahoo Finance] Rocket Lab Stock Has Collapsed 57% From Highs. Here's Why I'm Not Buying (Yet).
+- [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
+- [Yahoo Finance] AI Is Really Really Taking Jobs Today
+- [Yahoo Finance] Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ
+- [Investing.com] Berkshire CEO Abel says AI to help power growth
 - [Nasdaq] Corn Bulls Taking a Breather on Wednesday Morning
-- [Nasdaq] Wednesday 9/2 Insider Buying Report: LUCK, EQPT
-- [CNBC] Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes
+- [Nasdaq] Wednesday's ETF with Unusual Volume: QEFA
+- [Yahoo Finance] Do You Believe in Insmed’s INSM) Long-Term Potential Despite Short-Term Challenges?
 - [Nasdaq] Soybeans Fading Back Lower on Wednesday Morning
-- [Investing.com] Why is Nu Holdings stock rallying today?
-- [Investing.com] Why is United Microelectronics stock sliding today?
-- [Yahoo Finance] What Makes DPC Holdings Limited (DPC) an Attractive Bet?
-- [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
-- [Yahoo Finance] XRP ETFs Attract $170 million Of Capital In 11 Days
-- [Nasdaq] Cotton Collapsing on Wednesday Morning
-- [Nasdaq] SLM About To Put More Money In Your Pocket
-- [Nasdaq] Reminder - Fortive (FTV) Goes Ex-Dividend Soon
-- [Nasdaq] Cash Dividend On The Way From Exelon (EXC)
-- [Yahoo Finance] Here’s What Weighed on Nu Holdings (NU) in Q2
-- [Yahoo Finance] The Future of Website Building with Wix.com (WIX)
-- [CNBC] Altria sues FDA over tobacco product review system
-- [Yahoo Finance] Fed's Williams ties rising bond yields to strong economy, CNBC reports
-- [Yahoo Finance] Bond yields still high as investors weigh rate hike risk: AlphaCheck
-- [Yahoo Finance] Intercontinental Exchange (ICE) Stays Resilient Amidst Competition and Innovation
-- [Yahoo Finance] Trading Volumes On Kalshi And Polymarket Fell 15% In August
-- [Yahoo Finance] Entertainment Unleashed: Sphere Entertainment’s (SPHR) Innovative Approaches
+- [Yahoo Finance] IBD Stock Of The Day, TG Therapeutics, Eyes Breakout After Topping Early Buy Point
+- [Nasdaq] Wednesday's ETF Movers: SLVR, BUG
+- [Nasdaq] Dollar Erases Early Gains as Crude Oil and T-note Yields Move Lower
+- [Nasdaq] Cattle Look to Midweek Trade Following Tuesday Weakness
+- [Nasdaq] Hogs See Mixed Tuesday Action as Traders Look to Wednesday
+- [Nasdaq] Wednesday Sector Leaders: Television & Radio, Precious Metals
+- [Investing.com] US government backs OpenAI in New York Times copyright case
+- [Investing.com] European shares drop to over 1-month lows as global yield surge deepens
+- [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
+- [Nasdaq] See How Silvercorp Metals Ranks Among Analysts' Top Metals Picks
+- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%
+- [CNBC] Stocks are getting a boost as yields stabilize. Why that may be short-lived
+- [Nasdaq] YieldBoost CCOI To 10.5% Using Options
+- [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
 - [CNBC] There is 'a lot more pushback' on data center construction, Berkshire CEO Greg Abel tells CNBC
+- [Yahoo Finance] Palo Alto Stock Tumbles As Analysts Mull Fiscal Q4 Organic Growth, Acquisitions
+- [CNBC] A breast implant maker's stock could climb as GLP-1 market booms, TD Securities says
+- [MarketWatch] Fed’s Williams ‘is opening options’ to interest-rate hikes. Why that could be ‘a bad trade.’
+- [CNBC] Southwest to debut airport lounges in four cities, with more to come
+- [Yahoo Finance] What Makes Robinhood Markets (HOOD) as an Attractive Bet?
+- [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
+- [Yahoo Finance] Lam Research Corporation (LRCX) is Exploring Growth Opportunities in the Semiconductor Equipment Market
+- [CNBC] Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes
+- [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
