@@ -6,37 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 19:13
-31 of 80 news items unmatched this run
+Generated: 02.09.2026 20:00
+35 of 80 news items unmatched this run
 
-- [CNBC] Yields surged to kick off September. BlackRock spots solid income in this corner of the market
-- [Nasdaq] Corn Bulls Fight Off Overnight Weakness
 - [Nasdaq] Cotton Bulls in Retreat on Wednesday
+- [Nasdaq] Harvest Pressures Weigh on Coffee Prices
+- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - EFX
+- [Investing.com] US government backs OpenAI in New York Times copyright case
+- [Investing.com] Waymo taps Pimco, Blackstone to raise $3 billion debt, Bloomberg News reports
+- [Investing.com] Why is Netlist stock sliding today?
+- [Investing.com] Why is Sphere Entertainment stock rallying today?
+- [Nasdaq] Corn Bulls Fight Off Overnight Weakness
 - [Nasdaq] Soybeans Power Higher Off Early Wednesday Weakness
-- [Nasdaq] Sugar Prices Supported by Expectations of a Global Deficit
-- [Nasdaq] Ample Cocoa Supplies Pressure Prices
-- [Nasdaq] Hogs Continue Firmer Action on Wednesday
-- [Nasdaq] Cattle Facing Tuesday Losses
-- [Nasdaq] Wheat Bulls Turn Higher at Midday
-- [Investing.com] Sunrun options flow shows strong call dominance at 94.6% of volume
-- [Nasdaq] Cattle Look to Midweek Trade Following Tuesday Weakness
-- [Nasdaq] Hogs See Mixed Tuesday Action as Traders Look to Wednesday
 - [Nasdaq] Corn Bulls Taking a Breather on Wednesday Morning
-- [Mining.com] Strike to begin at Sibanye-Stillwater’s US operations
-- [Nasdaq] Dollar Erases Early Gains as Crude Oil and T-note Yields Move Lower
+- [Nasdaq] Sugar Prices Supported by Expectations of a Global Deficit
+- [CNBC] The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth
+- [Nasdaq] Wheat Bulls Turn Higher at Midday
+- [Investing.com] Dollar Index stalls below 100 resistance: Live levels
+- [Nasdaq] Ample Cocoa Supplies Pressure Prices
 - [Nasdaq] Cotton Collapsing on Wednesday Morning
-- [Investing.com] TFG plans to close 180 stores over three years amid online shift
-- [Investing.com] MongoDB options analysis: cautious hedging, not a collapse bet
-- [Investing.com] Why is SentinelOne stock sliding today?
-- [Investing.com] Waymo taps into debt markets with $3B deal with Pimco, Blackstone - report
+- [Nasdaq] Chimera Investment's Series D Preferred Stock Crosses Above 10% Yield Territory
+- [CNBC] Traders are piling into this international stock market that just pulled ahead of the Nasdaq
+- [Nasdaq] DigitalBridge Group's Series C Preferred Stock Shares Cross 12% Yield Mark
+- [CNBC] Yields surged to kick off September. BlackRock spots solid income in this corner of the market
+- [Nasdaq] Wednesday 9/2 Insider Buying Report: AUGO, FTCI
+- [Mining.com] Strike to begin at Sibanye-Stillwater’s US operations
 - [CNBC] Widen your energy stock horizon if refining margins roll over, Todd Gordon advises
 - [CNBC] Southwest to debut airport lounges in four cities, with more to come
 - [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
+- [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
 - [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
 - [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
+- [OilPrice.com] U.S. Diesel Prices Close In on April War Peak
 - [OilPrice.com] Budget Airline Warns Jet Fuel Shock Could Wipe Out Rivals
+- [CNBC] Best checking account bonuses of September 2026: Up to $3,000
 - [Retail Dive] Ollie’s Bargain Outlets will plow $15M into lower prices
+- [OilPrice.com] The Suspicious Timing Behind Trump's “Biggest Oil Deal In History”
 - [Mining.com] China’s biggest lithium mine loses licence
 - [Mining.com] Axiant hits ASX after Core Lithium completes spinout
-- [OilPrice.com] Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate
-- [Retail Dive] Kohl’s unites marketing, digital under new chief customer officer role
