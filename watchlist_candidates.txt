@@ -6,45 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 01.09.2026 23:29
-39 of 80 news items unmatched this run
+Generated: 02.09.2026 15:13
+34 of 80 news items unmatched this run
 
-- [Nasdaq] Cocoa Prices Fall on Larger Supplies from the Ivory Coast
-- [Nasdaq] Coffee Prices Pressured by Rising Supplies
-- [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
-- [Nasdaq] Dollar Firms on Rising T-Note Yields and Crude Prices
-- [Nasdaq] Crude Prices Surge on Escalation of US-Iran Hostilities
-- [Nasdaq] Dollar Supported by Rising T-Note Yields and Falling Stocks
-- [Investing.com] +89%, +46%, these stocks are out of our AI-picks for September - See what’s in
-- [Nasdaq] Hogs Holding Steady on Tuesday
-- [Nasdaq] Sugar Prices Climb as ISO Projects a Global Deficit
-- [Nasdaq] Corn Rallying on Tuesday
-- [Nasdaq] Nat-Gas Prices Slip as US Weather Forecasts Turn Cooler
-- [Nasdaq] Cattle Slipping Back on Tuesday
-- [Investing.com] Yum says Pizza Hut CEO Aaron Powell resigns
-- [Nasdaq] Soybeans Rallying on Tuesday Following EPA News, Ratings Drop
-- [Investing.com] Why is Dropbox stock sliding today?
-- [Investing.com] Blue Origin wins Mars network contract on strong infrastructure plan
-- [Investing.com] Dropbox stock falls after Bloomberg reports data breach
-- [MarketWatch] Dow drops below a key chart level, warning of more trouble ahead
-- [Mining.com] Greenland Resources gets $120M LOI from Nordic Investment Bank for Malmbjerg project
-- [CNBC] Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion
-- [CNBC] Massive new Delta card welcome offers: Earn up to 200,000 bonus miles or multiple flight certificates
-- [CNBC] GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%
-- [CNBC] OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability
-- [MarketWatch] Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz
-- [CNBC] AI token prices are hitting new record lows
-- [Mining.com] Collective extends Colombia’s Apollo on 15-g/t gold hit
-- [CNBC] Anthropic changes data retention policy after pushback from customers
-- [OilPrice.com] Major U.S. Oil Port Selected for Nuclear Power Project
-- [Mining.com] Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides
-- [CNBC] Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI
-- [Mining.com] ACG Metals produces first copper concentrate at Turkish mine
-- [Mining.com] Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low
-- [OilPrice.com] Solar Power Is Booming in Emerging Markets
-- [CNBC] Used cars under $20,000 tend to sell quickly — but there are trade-offs for buyers
-- [CoinDesk] Citi, Goldman, other global banks and asset managers team up on stablecoin venture
-- [Yahoo Finance] Denny’s rival dining chain files for Chapter 11 bankruptcy
-- [OilPrice.com] U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
-- [CoinDesk] Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring
-- [OilPrice.com] U.S. Lithium Miners Finally Have a Shot at Cashing In
+- [Yahoo Finance] HiddenLayer nabs $100M as enterprises rush to secure their AI deployments
+- [Yahoo Finance] Kohl’s Rallies 7% on Rotation Into Beaten-Down Retail, Macy’s Climbs 3%, Abercrombie & Fitch Slips
+- [Yahoo Finance] Banks Just Hijacked Crypto’s Original Promise: The Revolution Against Wall Street Is Now Owned by Wall Street
+- [Yahoo Finance] Corning (GLW) is Well Positioned for Strong Earnings Growth
+- [Investing.com] Norway stocks lower at close of trade; Oslo OBX down 0.39%
+- [Investing.com] Israel stocks higher at close of trade; TA 35 up 1.30%
+- [Yahoo Finance] Regional Bank Director Loads Up on Company Stock, Buys 3,000 Shares
+- [Investing.com] US government backs OpenAI in New York Times copyright case
+- [Investing.com] Jefferies sees bottlenecks in critical minerals as electrification demand builds
+- [Yahoo Finance] The Fund Added GE Aerospace (GE) Amid Market Skepticism
+- [Investing.com] Greece stocks lower at close of trade; Athens General Composite down 0.32%
+- [Investing.com] Why is Telephone and Data Systems stock surging today?
+- [Nasdaq] Corn Bulls Taking a Breather on Wednesday Morning
+- [Nasdaq] Wednesday 9/2 Insider Buying Report: LUCK, EQPT
+- [CNBC] Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes
+- [Nasdaq] Soybeans Fading Back Lower on Wednesday Morning
+- [Investing.com] Why is Nu Holdings stock rallying today?
+- [Investing.com] Why is United Microelectronics stock sliding today?
+- [Yahoo Finance] What Makes DPC Holdings Limited (DPC) an Attractive Bet?
+- [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
+- [Yahoo Finance] XRP ETFs Attract $170 million Of Capital In 11 Days
+- [Nasdaq] Cotton Collapsing on Wednesday Morning
+- [Nasdaq] SLM About To Put More Money In Your Pocket
+- [Nasdaq] Reminder - Fortive (FTV) Goes Ex-Dividend Soon
+- [Nasdaq] Cash Dividend On The Way From Exelon (EXC)
+- [Yahoo Finance] Here’s What Weighed on Nu Holdings (NU) in Q2
+- [Yahoo Finance] The Future of Website Building with Wix.com (WIX)
+- [CNBC] Altria sues FDA over tobacco product review system
+- [Yahoo Finance] Fed's Williams ties rising bond yields to strong economy, CNBC reports
+- [Yahoo Finance] Bond yields still high as investors weigh rate hike risk: AlphaCheck
+- [Yahoo Finance] Intercontinental Exchange (ICE) Stays Resilient Amidst Competition and Innovation
+- [Yahoo Finance] Trading Volumes On Kalshi And Polymarket Fell 15% In August
+- [Yahoo Finance] Entertainment Unleashed: Sphere Entertainment’s (SPHR) Innovative Approaches
+- [CNBC] There is 'a lot more pushback' on data center construction, Berkshire CEO Greg Abel tells CNBC
