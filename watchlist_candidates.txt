@@ -6,40 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 16:55
-34 of 80 news items unmatched this run
+Generated: 02.09.2026 17:59
+32 of 80 news items unmatched this run
 
-- [Investing.com] American Airlines boosts premium seating on 777 jets as upscale travel grows
-- [Yahoo Finance] Rocket Lab Stock Has Collapsed 57% From Highs. Here's Why I'm Not Buying (Yet).
-- [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
-- [Yahoo Finance] AI Is Really Really Taking Jobs Today
-- [Yahoo Finance] Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ
-- [Investing.com] Berkshire CEO Abel says AI to help power growth
-- [Nasdaq] Corn Bulls Taking a Breather on Wednesday Morning
-- [Nasdaq] Wednesday's ETF with Unusual Volume: QEFA
-- [Yahoo Finance] Do You Believe in Insmed’s INSM) Long-Term Potential Despite Short-Term Challenges?
+- [Investing.com] Large U.S. banks face rising G-SIB buffers and tighter excess capital: GS
+- [Yahoo Finance] U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar
+- [Yahoo Finance] Crypto Groups Push SEC for Tailored Rules on Novel ETFs
+- [Yahoo Finance] 2 Monster Stocks to Hold for the Next 10 Years
+- [Investing.com] New Jersey takes fight over Kalshi’s prediction market to US Supreme Court
+- [CNBC] Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim
+- [Nasdaq] Harvest Pressures Weigh on Coffee Prices
+- [Nasdaq] Fears of an Extended US-Iran Conflict Boost Crude Oil Prices
 - [Nasdaq] Soybeans Fading Back Lower on Wednesday Morning
-- [Yahoo Finance] IBD Stock Of The Day, TG Therapeutics, Eyes Breakout After Topping Early Buy Point
-- [Nasdaq] Wednesday's ETF Movers: SLVR, BUG
-- [Nasdaq] Dollar Erases Early Gains as Crude Oil and T-note Yields Move Lower
-- [Nasdaq] Cattle Look to Midweek Trade Following Tuesday Weakness
-- [Nasdaq] Hogs See Mixed Tuesday Action as Traders Look to Wednesday
-- [Nasdaq] Wednesday Sector Leaders: Television & Radio, Precious Metals
+- [Yahoo Finance] Cancer Stock Breaks Out To Highs; Key FDA Action On Watch
+- [Investing.com] Moody’s affirms Ellington Financial rating, shifts outlook
+- [Nasdaq] Cotton Collapsing on Wednesday Morning
+- [Investing.com] PG&E launches review, defers $2 billion in spending after wildfire bill setback
+- [Nasdaq] Corn Bulls Taking a Breather on Wednesday Morning
+- [Investing.com] Barrick Mining said to delay IPO of American gold business to 2027
 - [Investing.com] US government backs OpenAI in New York Times copyright case
-- [Investing.com] European shares drop to over 1-month lows as global yield surge deepens
-- [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
-- [Nasdaq] See How Silvercorp Metals Ranks Among Analysts' Top Metals Picks
-- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%
-- [CNBC] Stocks are getting a boost as yields stabilize. Why that may be short-lived
-- [Nasdaq] YieldBoost CCOI To 10.5% Using Options
-- [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
-- [CNBC] There is 'a lot more pushback' on data center construction, Berkshire CEO Greg Abel tells CNBC
-- [Yahoo Finance] Palo Alto Stock Tumbles As Analysts Mull Fiscal Q4 Organic Growth, Acquisitions
-- [CNBC] A breast implant maker's stock could climb as GLP-1 market booms, TD Securities says
-- [MarketWatch] Fed’s Williams ‘is opening options’ to interest-rate hikes. Why that could be ‘a bad trade.’
 - [CNBC] Southwest to debut airport lounges in four cities, with more to come
-- [Yahoo Finance] What Makes Robinhood Markets (HOOD) as an Attractive Bet?
+- [Yahoo Finance] AI Cuts Gate Dwell to 30 Seconds as Eagle Grows 350%
+- [CNBC] Charts show Spotify shares could soon break out, Frank Cappelleri says
+- [Yahoo Finance] Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds
+- [Nasdaq] Dollar Erases Early Gains as Crude Oil and T-note Yields Move Lower
+- [Nasdaq] Sugar Prices Rally on the Outlook for a Global Deficit
+- [Nasdaq] Cocoa Prices Fall on Larger Supplies from the Ivory Coast
+- [Yahoo Finance] Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)
+- [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
+- [Nasdaq] NuScale Advances Key Safety Component Toward SMR Commercialization
+- [Nasdaq] Sezzle Grows Merchant Network: Can New Brands Drive Wider Adoption?
+- [Yahoo Finance] Do You Believe in Insmed’s INSM) Long-Term Potential Despite Short-Term Challenges?
+- [CNBC] Stocks are getting a boost as yields stabilize. Why that may be short-lived
+- [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
 - [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
-- [Yahoo Finance] Lam Research Corporation (LRCX) is Exploring Growth Opportunities in the Semiconductor Equipment Market
-- [CNBC] Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes
 - [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
