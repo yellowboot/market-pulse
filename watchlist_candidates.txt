@@ -6,9 +6,11 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 22:47
-38 of 80 news items unmatched this run
+Generated: 02.09.2026 23:30
+39 of 80 news items unmatched this run
 
+- [Investing.com] Elliott builds stake in Deutsche Telekom, source says
+- [Investing.com] US Justice Department expands beef price probe to eight retailers
 - [Investing.com] Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports
 - [Investing.com] Olympus-backed Accelevation files for US IPO
 - [Nasdaq] Expectations of Tighter Global Supplies Boost Sugar Prices
@@ -25,13 +27,10 @@ Generated: 02.09.2026 22:47
 - [Nasdaq] Crude Oil Prices Supported by Escalation of US-Iran Hostilities
 - [Nasdaq] Ample Cocoa Supplies Pressure Prices
 - [CNBC] NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
-- [Investing.com] American Airlines boosts premium seating on 777 jets as carriers chase higher-spending travelers
-- [Investing.com] Nscale doubles contracted revenue to $103 billion after Anthropic win - report
-- [Investing.com] HPE raises forecasts on AI demand, shares fall on supply concerns
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.57%
 - [Mining.com] Tungsten surge transforms Northcliff’s Sisson economics
+- [CNBC] Trump floats renaming Strait of Hormuz the 'Trump Strait'
 - [MarketWatch] How GoPro went from viral camera sensation to a victim of smartphone ubiquity
-- [Mining.com] SW US mine rush collides with water limits
+- [Mining.com] End of a dollar-centered world nears, gold to replace some bonds, fund manager says
 - [CNBC] Yields surged to kick off September. BlackRock spots solid income in this corner of the market
 - [CoinDesk] Kraken parent Payward delays IPO to second quarter of 2027 at earliest
 - [Mining.com] US Forest Service signs off on South32 Hermosa’s mine plan in Arizona
@@ -39,11 +38,13 @@ Generated: 02.09.2026 22:47
 - [CNBC] Traders are piling into this international stock market that just pulled ahead of the Nasdaq
 - [Mining.com] Eldorado eyes bigger McIlvenna Bay copper mill
 - [Mining.com] Strike to begin at Sibanye-Stillwater’s US operations
+- [Mining.com] There’s no shortage of copper, it’s just in the wrong place
+- [OilPrice.com] U.S. SPR Depletion Threatens Further Oil Price Volatility
+- [CoinDesk] New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets
 - [CNBC] Southwest to debut airport lounges in four cities, with more to come
 - [Mining.com] Diablillos drilling reveals encouraging near-surface mineralization
 - [OilPrice.com] White Hydrogen Drilling Push Gains Momentum Across Three Continents
 - [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
 - [OilPrice.com] Superhot Geothermal Just Got A $180 Million Vote Of Confidence
 - [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
-- [CNBC] Private payrolls rose by 38,000 in August, less than expected, ADP reports
-- [OilPrice.com] U.S. Diesel Prices Close In on April War Peak
+- [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
