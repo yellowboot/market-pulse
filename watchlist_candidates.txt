@@ -6,51 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 16:46
-45 of 80 news items unmatched this run
+Generated: 03.09.2026 17:57
+37 of 80 news items unmatched this run
 
-- [CNBC] Software stocks are up nearly 40% since 'SaaSpocalypse' bottom. Ways to play the sector
-- [Yahoo Finance] Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'
-- [Yahoo Finance] 4 Reasons to Buy Medtronic Stock Like There's No Tomorrow
-- [Yahoo Finance] HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations
+- [MarketWatch] This presidential bet offers ‘free money’
+- [Yahoo Finance] Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)
+- [Yahoo Finance] ChargePoint Skyrockets 74% as Revenue Beat and Narrower Loss Clear Estimates
+- [Yahoo Finance] Cone Denim Plans to Exit Denim Manufacturing in China
+- [Nasdaq] Thursday Sector Laggards: Food, Agriculture & Farm Products
+- [Nasdaq] Thursday Sector Leaders: Precious Metals, Life & Health Insurance Stocks
+- [Yahoo Finance] A new wave of VC funds bets on female founders
+- [CNBC] Software stocks are up nearly 40% since the 'SaaSpocalypse' bottom. Ways to play the sector
+- [Investing.com] Vertex Tops Citi’s Biotech Picks After Crinetics Deal Completion
+- [Yahoo Finance] MongoDB missed one number and investors punished the stock
+- [Yahoo Finance] Crude oil nears $97 a barrel, diesel at highest since 2022
+- [Yahoo Finance] Prediction: Pepsi Stock Could Surprise Wall Street in 2027
+- [Yahoo Finance] ShipStation Global Brings Freight Into the Same Lane as Parcel
+- [Investing.com] Olympus-backed Accelevation files for US IPO
+- [Yahoo Finance] Ciena Corporation Q3 2026 Earnings Call Summary
+- [Yahoo Finance] Jim Cramer Explains Why He Recommends Buying KLA (KLAC) Stock in Small Doses
+- [Yahoo Finance] Genesco Inc. Q2 2027 Earnings Call Summary
+- [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
+- [Yahoo Finance] Amber International Holding Ltd Q2 2026 Earnings Call Summary
+- [Yahoo Finance] Duluth Holdings Inc. Q2 2026 Earnings Call Summary
+- [Yahoo Finance] Brady Corporation Q4 2026 Earnings Call Summary
+- [CNBC] Agriculture stocks are breaking out. Jay Woods says watch these levels
+- [Investing.com] KKR sells Nordic Bioscience stake back to founder
+- [Yahoo Finance] Lands' End, Inc. Q2 2026 Earnings Call Summary
+- [MarketWatch] 7% mortgage rates are already here, some buyers and mortgage experts say
+- [Yahoo Finance] Robinhood Breaks Out. Analysts Bullish On Outlook, Prediction Markets.
+- [Yahoo Finance] Campbell Soup Company Q4 2026 Earnings Call Summary
+- [Yahoo Finance] HPE CEO on AI boom: 'Customers are buying everything'
+- [Yahoo Finance] Saia’s tonnage growth steps higher in August as comps ease
+- [Nasdaq] AWK Unit to Invest $0.9M to Strengthen West Virginia Infrastructure
+- [Nasdaq] How BioMarin Turned a Competitive Threat Into a Royalty-Bearing Asset
+- [Yahoo Finance] Stocks Rally, Yields Retreat after Waller Signals a September Hold
 - [Investing.com] UiPath options analysis: puts outnumber calls 2-to-1 ahead of earnings today
-- [Yahoo Finance] Nearly 200-year-old retailer exits an entire market
-- [Yahoo Finance] Lake Victoria Gold Reports High-Grade Gold Intercepts at Imwelo as It Advances Metallurgical Testing
-- [Yahoo Finance] Core Scientific Director Elizabeth Crain Buys 6,000 Shares
-- [Yahoo Finance] Retailer's Turnaround 'Defies Belief,' Attempts To Retake Entry On Q2 Results
-- [Yahoo Finance] Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.73%
-- [Investing.com] Spain stocks higher at close of trade; IBEX 35 up 1.12%
-- [CNBC] ChargePoint CEO says 50% stock surge 'is the beginning of the momentum'
-- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.04%
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.09%
-- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.89%
-- [Yahoo Finance] Does Janus Living (JAN) Have an Attractive Runway for Long-Term Growth?
-- [Yahoo Finance] Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers
-- [Yahoo Finance] Billionaire Portfolios: Top 2 Real Estate Stocks With High Dividend Yields
-- [CNBC] Big lessons from 12 stock exits, including Cramer's biggest-ever disappointment
-- [Yahoo Finance] WaterBridge Infrastructure’s (WBI) Approach to Managing Water Resources
+- [Nasdaq] Can KT-621 Mark a Turning Point for Kymera Therapeutics?
 - [Nasdaq] See How Steel Dynamics Ranks Among Analysts' Top Metals Picks
+- [Nasdaq] Krystal Stock Gains 13.4% in a Month: What Is Driving the Rally?
 - [CNBC] Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
-- [Yahoo Finance] Diamond Hill Remains Bullish on United States Lime & Minerals (USLM) Despite Margin Headwinds
-- [Yahoo Finance] Ryman Hospitality (RHP) Gains from Resilient Cash Flow Generation
-- [Yahoo Finance] NextEra, Santee Cooper Point to Real Dollar Savings From AI Deployments
-- [Yahoo Finance] Diamond Hill Stayed Focused on Magnolia Oil & Gas (MGY) After the Geopolitical Selloff
-- [Yahoo Finance] Ducommun (DCO) Benefits as Defense Spending and Commercial Aerospace Rebound
-- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
-- [Nasdaq] DRAM, PENU: Big ETF Outflows
-- [Nasdaq] IAGG, QQQP: Big ETF Inflows
-- [Nasdaq] Can The Trade Desk's JBPs Become Its Next Major Growth Engine?
-- [Nasdaq] Campbell's Q4 Earnings Miss Estimates as Inflation Pressures Margins
-- [Yahoo Finance] Here’s What Boosted Astrana Health (ASTH) in Q2
-- [Nasdaq] Thursday 9/3 Insider Buying Report: CAVA, PNFP
-- [Nasdaq] ABBV Stock Trading Above 50- & 200-Day SMAs: Buy, Hold or Sell?
-- [Nasdaq] The Case for Holding MetLife Stock: What Investors Need to Know
-- [Yahoo Finance] Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-Teens EPS Growth for Years?
-- [Nasdaq] Here's Why You Should Add RNTX Stock to Your Portfolio Now
-- [CNBC] One stock on Josh Brown's list is a 'double AI beneficiary' that just climbed to all-time highs
-- [Nasdaq] Solaris Energy Expands Power Infrastructure With Omega Deal
-- [Yahoo Finance] Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat
-- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
-- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
-- [MarketWatch] Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors
