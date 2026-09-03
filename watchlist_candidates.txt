@@ -6,45 +6,46 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 02.09.2026 23:30
-39 of 80 news items unmatched this run
+Generated: 03.09.2026 15:07
+40 of 80 news items unmatched this run
 
-- [Investing.com] Elliott builds stake in Deutsche Telekom, source says
-- [Investing.com] US Justice Department expands beef price probe to eight retailers
-- [Investing.com] Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports
-- [Investing.com] Olympus-backed Accelevation files for US IPO
-- [Nasdaq] Expectations of Tighter Global Supplies Boost Sugar Prices
-- [Nasdaq] Cocoa Prices Tumble as Supplies Increase
-- [Nasdaq] Coffee Prices Finish Sharply Lower on Supply Pressures
-- [Nasdaq] Hogs Continue Firmer Action on Wednesday
-- [Nasdaq] Cattle Facing Tuesday Losses
-- [Nasdaq] Wheat Bulls Turn Higher at Midday
-- [Investing.com] Brazil steelmaker CSN says Steinbruch leaving CEO role after 24 years
-- [Nasdaq] Nat-Gas Prices Rise on Hotter US Weather and Expectations of Smaller Storage
-- [Nasdaq] Corn Bulls Fight Off Overnight Weakness
-- [Nasdaq] Harvest Pressures Weigh on Coffee Prices
-- [Nasdaq] Dollar Slips as T-note Yields Stabilize and Stocks Rally
-- [Nasdaq] Crude Oil Prices Supported by Escalation of US-Iran Hostilities
-- [Nasdaq] Ample Cocoa Supplies Pressure Prices
-- [CNBC] NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe
-- [Mining.com] Tungsten surge transforms Northcliff’s Sisson economics
-- [CNBC] Trump floats renaming Strait of Hormuz the 'Trump Strait'
-- [MarketWatch] How GoPro went from viral camera sensation to a victim of smartphone ubiquity
-- [Mining.com] End of a dollar-centered world nears, gold to replace some bonds, fund manager says
-- [CNBC] Yields surged to kick off September. BlackRock spots solid income in this corner of the market
-- [CoinDesk] Kraken parent Payward delays IPO to second quarter of 2027 at earliest
-- [Mining.com] US Forest Service signs off on South32 Hermosa’s mine plan in Arizona
-- [CNBC] The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth
-- [CNBC] Traders are piling into this international stock market that just pulled ahead of the Nasdaq
-- [Mining.com] Eldorado eyes bigger McIlvenna Bay copper mill
-- [Mining.com] Strike to begin at Sibanye-Stillwater’s US operations
-- [Mining.com] There’s no shortage of copper, it’s just in the wrong place
-- [OilPrice.com] U.S. SPR Depletion Threatens Further Oil Price Volatility
-- [CoinDesk] New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets
-- [CNBC] Southwest to debut airport lounges in four cities, with more to come
-- [Mining.com] Diablillos drilling reveals encouraging near-surface mineralization
-- [OilPrice.com] White Hydrogen Drilling Push Gains Momentum Across Three Continents
-- [Mining.com] Liontown to earn up to 100% interest in Centenario lithium project
-- [OilPrice.com] Superhot Geothermal Just Got A $180 Million Vote Of Confidence
-- [CNBC] Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
-- [CNBC] Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion
+- [Yahoo Finance] Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat
+- [Yahoo Finance] Danaher (DHR) Seen Deftly Navigating AI Integration
+- [Nasdaq] Noteworthy ETF Inflows: IUSB
+- [Nasdaq] Dimensional US Large Cap Value ETF Experiences Big Outflow
+- [Nasdaq] FIVA: ETF Outflow Alert
+- [Nasdaq] First Trust Nasdaq Cybersecurity ETF Experiences Big Inflow
+- [Yahoo Finance] Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?
+- [Investing.com] Why is Energizer stock sliding today?
+- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
+- [Yahoo Finance] Wall Street Loves NuScale Power. Here's the Risk Analysts Are Glossing Over.
+- [Yahoo Finance] Accrual to acquire Puzzle’s accounting firm business and software
+- [Yahoo Finance] Japanese Yen Extends Gains Versus Weaker U.S. Dollar
+- [Investing.com] Oddity Tech options flow signals defensive positioning ahead of September earnings
+- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
+- [Yahoo Finance] Campbell’s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations
+- [Yahoo Finance] Billionaires Like These 2 AI Data Center Stocks
+- [Yahoo Finance] Insider Waves Goodbye to Nearly 6,000 Shares of Energy Stock
+- [Yahoo Finance] Can Better Star Ratings and Margin Expansion Drive Humana (HUM) Higher?
+- [MarketWatch] Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors
+- [Investing.com] Why is Bullish stock rallying today?
+- [Investing.com] Why is BRP stock sliding today?
+- [Investing.com] Why is Albemarle stock sliding today?
+- [Yahoo Finance] Ciena Earnings Beat. Why This AI Data Center Play Is Falling.
+- [Investing.com] Longsys prices Hong Kong listing at HK$236 per share - Bloomberg
+- [Yahoo Finance] Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI
+- [Nasdaq] Cash Dividend On The Way From First Merchants (FRME)
+- [Nasdaq] STE Ex-Dividend Reminder - 9/4/26
+- [Nasdaq] AAON About To Put More Money In Your Pocket (AAON)
+- [Nasdaq] Cash Dividend On The Way From C.H. Robinson Worldwide (CHRW)
+- [Yahoo Finance] Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)
+- [Yahoo Finance] Binance Founder ‘CZ’ Says Capital Is Returning To Crypto Market
+- [Yahoo Finance] Why HPE Stock Is Falling Amid Fiscal Q3 Earnings Beat
+- [Yahoo Finance] Liquidia Corporation’s (LQDA) Yutrepia Launch Continues to Outpace the Expectations
+- [Yahoo Finance] Sands Capital Select Growth Fund Sold DoorDash’s (DASH) in Q2
+- [Yahoo Finance] Ultragenyx's 'Fall From Grace' — Shares Crash 47%, Hitting A Record Low
+- [CNBC] Hidden China risks are emerging in America’s multibillion-dollar AI data center boom
+- [CNBC] Billionaire family offices back healthcare and biotech startups in August
+- [CNBC] Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
+- [Yahoo Finance] Kraken Parent Company Payward Delays IPO
+- [CNBC] Campbell's forecasts weak year ahead on pressured consumer spending
