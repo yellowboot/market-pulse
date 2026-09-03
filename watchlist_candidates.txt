@@ -6,40 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 19:06
-34 of 80 news items unmatched this run
+Generated: 03.09.2026 20:01
+36 of 80 news items unmatched this run
 
+- [MarketWatch] An old stock-market adage applies this month — how you should play it in 2026
+- [Investing.com] Dollar Index bounces from oversold at 98.94: Live levels
+- [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
+- [CNBC] Piper Sandler expects Robinhood to kickstart football season with a win
+- [Nasdaq] Hewlett Packard Enterprise's Series C Preferred Stock Yield Pushes Past 3%
+- [Nasdaq] First Horizon's Preferred Stock, Series E Shares Cross 7% Yield Mark
 - [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
-- [Investing.com] Flowers Foods dividend safety: high yield masks debt surge and margin collapse
-- [Investing.com] Ciena earnings analysis: questions answered and next catalysts
-- [Investing.com] Campbell’s earnings analysis: questions answered and next catalysts
-- [CNBC] Fox News parts ways with longtime host Maria Bartiromo
 - [MarketWatch] New doubts emerge about whether Fed will raise interest rates this month
-- [Investing.com] European wheat drops on Putin peace talk comments
-- [Investing.com] OpenAI launches GPT-6 Astra for enterprise users today
+- [Nasdaq] 3 P&C Insurers to Add for Better Returns in Sluggish September
+- [Nasdaq] Old Dominion Unveils Solid LTL Unit Performance for August
 - [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
+- [MarketWatch] This presidential-election bet offers ‘free money’
 - [Nasdaq] Here's Why You Should Hold Clean Harbors Stock in Your Portfolio Now
 - [Nasdaq] Thursday 9/3 Insider Buying Report: SRTS, DY
 - [Nasdaq] Thursday's ETF with Unusual Volume: AWAY
 - [Nasdaq] SouthState Gains 12% in the Past 3 Months: What's Ahead for Investors?
 - [Nasdaq] Thursday Sector Laggards: Food, Agriculture & Farm Products
-- [Nasdaq] Thursday Sector Leaders: Precious Metals, Life & Health Insurance Stocks
 - [Mining.com] Faraday drilling boosts Arizona copper cathode case
-- [CNBC] Software stocks are up nearly 40% since the 'SaaSpocalypse' bottom. Ways to play the sector
-- [Nasdaq] Teradyne Stock Plunges 15% in a Month: Should You Buy the Dip?
+- [CNBC] Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday
 - [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
 - [CNBC] Agriculture stocks are breaking out. Jay Woods says watch these levels
 - [CNBC] Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.
-- [CNBC] Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
 - [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
+- [OilPrice.com] Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping
+- [CoinDesk] Crypto for Advisors: Why crypto earnings reports can be misleading
 - [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
 - [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
-- [CNBC] Billionaire family offices back healthcare and biotech startups in August
+- [OilPrice.com] Electric Trucks Have Moved From Impossible to Inevitable
 - [CNBC] Campbell's forecasts weak year ahead on pressured consumer spending
-- [CNBC] Brent oil price above $96 per barrel after Iran fires missiles at Kuwait
 - [Retail Dive] Five Below’s ‘maniacal focus’ on the customer pays off
 - [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
 - [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
 - [CoinDesk] SoFi, Kraken tie up as crypto and banking push into each other's turf
 - [Retail Dive] Untuckit acquired by Randa
 - [CNBC] Anthropic's distillation battle turns to the dark web as China concerns swell
+- [OilPrice.com] Machado Backs U.S. Oil Partnership but Questions Venezuela Deal
