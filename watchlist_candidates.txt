@@ -6,9 +6,19 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 21:35
-44 of 80 news items unmatched this run
+Generated: 03.09.2026 22:45
+43 of 80 news items unmatched this run
 
+- [Investing.com] SpaceXAI launches Grok Bot for enterprises with free trial
+- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
+- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
+- [MarketWatch] Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors
+- [MarketWatch] Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates
+- [Investing.com] OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny
+- [Investing.com] Globus Medical stock rises on EU approval for imaging system
+- [Mining.com] Frontieras, Western Fuels to build coal processing facility at Dry Fork mine in Wyoming
+- [Investing.com] Fitch revises Cantor Fitzgerald outlook on business expansion
+- [Nasdaq] BATL Trading Below Director's Recent Buy Price
 - [Nasdaq] Notable Two Hundred Day Moving Average Cross - TR
 - [Nasdaq] Notable Two Hundred Day Moving Average Cross - RGR
 - [Nasdaq] WRB Crosses Above Key Moving Average Level
@@ -23,26 +33,16 @@ Generated: 03.09.2026 21:35
 - [Nasdaq] Fidelity MSCI Communication Services Index Breaks Above 200-Day Moving Average - Bullish for FCOM
 - [Nasdaq] Jefferies Group (JEF) Shares Cross Above 200 DMA
 - [Nasdaq] YCL Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] FDIS Crosses Above Key Moving Average Level
 - [MarketWatch] These stocks in the red-hot healthcare sector have gotten too crowded to own
 - [CNBC] Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.
 - [CNBC] Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up
-- [Investing.com] Smart ring maker Oura files for US IPO
 - [CNBC] Zscaler stock rises on earnings beat, upbeat guidance
-- [Investing.com] Why is Samsara stock surging today?
-- [Investing.com] Top Nuclear Stocks to Watch, According to Jefferies
-- [MarketWatch] An old stock-market adage applies this month — how you should play it
 - [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
-- [CNBC] Trading the August jobs report: What could affect the number, and how investors may respond
-- [CNBC] The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer
 - [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
-- [MarketWatch] Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling
 - [CNBC] Piper Sandler expects Robinhood to kickstart football season with a win
-- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
-- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
 - [Mining.com] Faraday drilling boosts Arizona copper cathode case
+- [OilPrice.com] AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point
 - [Mining.com] Colombia scraps 10 mining restrictions to lure investors
-- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
 - [OilPrice.com] Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping
 - [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
 - [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
@@ -52,4 +52,3 @@ Generated: 03.09.2026 21:35
 - [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
 - [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
 - [CoinDesk] SoFi, Kraken tie up as crypto and banking push into each other's turf
-- [Retail Dive] Untuckit acquired by Randa
