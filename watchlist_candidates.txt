@@ -6,18 +6,19 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 22:45
-43 of 80 news items unmatched this run
+Generated: 03.09.2026 23:27
+41 of 80 news items unmatched this run
 
+- [CNBC] Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up
+- [Mining.com] Ionic Rare Earths, US Strategic Metals form JV to build $100M magnet recycling plant in Missouri
+- [Investing.com] Brazil’s Embraer gets firm order for eight additional E190-E2 jets from Japan’s ANA
 - [Investing.com] SpaceXAI launches Grok Bot for enterprises with free trial
 - [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
 - [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
 - [MarketWatch] Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors
 - [MarketWatch] Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates
-- [Investing.com] OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny
 - [Investing.com] Globus Medical stock rises on EU approval for imaging system
 - [Mining.com] Frontieras, Western Fuels to build coal processing facility at Dry Fork mine in Wyoming
-- [Investing.com] Fitch revises Cantor Fitzgerald outlook on business expansion
 - [Nasdaq] BATL Trading Below Director's Recent Buy Price
 - [Nasdaq] Notable Two Hundred Day Moving Average Cross - TR
 - [Nasdaq] Notable Two Hundred Day Moving Average Cross - RGR
@@ -34,8 +35,6 @@ Generated: 03.09.2026 22:45
 - [Nasdaq] Jefferies Group (JEF) Shares Cross Above 200 DMA
 - [Nasdaq] YCL Makes Bullish Cross Above Critical Moving Average
 - [MarketWatch] These stocks in the red-hot healthcare sector have gotten too crowded to own
-- [CNBC] Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.
-- [CNBC] Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up
 - [CNBC] Zscaler stock rises on earnings beat, upbeat guidance
 - [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
 - [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
@@ -43,12 +42,11 @@ Generated: 03.09.2026 22:45
 - [Mining.com] Faraday drilling boosts Arizona copper cathode case
 - [OilPrice.com] AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point
 - [Mining.com] Colombia scraps 10 mining restrictions to lure investors
+- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
 - [OilPrice.com] Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping
 - [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
 - [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
 - [OilPrice.com] Electric Trucks Have Moved From Impossible to Inevitable
-- [OilPrice.com] High Oil Prices Speed Up China’s Shift Away From Crude
 - [Retail Dive] Five Below’s ‘maniacal focus’ on the customer pays off
 - [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
 - [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
-- [CoinDesk] SoFi, Kraken tie up as crypto and banking push into each other's turf
