@@ -6,42 +6,50 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 20:01
-36 of 80 news items unmatched this run
+Generated: 03.09.2026 21:35
+44 of 80 news items unmatched this run
 
-- [MarketWatch] An old stock-market adage applies this month — how you should play it in 2026
-- [Investing.com] Dollar Index bounces from oversold at 98.94: Live levels
-- [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
-- [CNBC] Piper Sandler expects Robinhood to kickstart football season with a win
-- [Nasdaq] Hewlett Packard Enterprise's Series C Preferred Stock Yield Pushes Past 3%
-- [Nasdaq] First Horizon's Preferred Stock, Series E Shares Cross 7% Yield Mark
-- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
-- [MarketWatch] New doubts emerge about whether Fed will raise interest rates this month
-- [Nasdaq] 3 P&C Insurers to Add for Better Returns in Sluggish September
-- [Nasdaq] Old Dominion Unveils Solid LTL Unit Performance for August
-- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
-- [MarketWatch] This presidential-election bet offers ‘free money’
-- [Nasdaq] Here's Why You Should Hold Clean Harbors Stock in Your Portfolio Now
-- [Nasdaq] Thursday 9/3 Insider Buying Report: SRTS, DY
-- [Nasdaq] Thursday's ETF with Unusual Volume: AWAY
-- [Nasdaq] SouthState Gains 12% in the Past 3 Months: What's Ahead for Investors?
-- [Nasdaq] Thursday Sector Laggards: Food, Agriculture & Farm Products
-- [Mining.com] Faraday drilling boosts Arizona copper cathode case
-- [CNBC] Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday
-- [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
-- [CNBC] Agriculture stocks are breaking out. Jay Woods says watch these levels
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - TR
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - RGR
+- [Nasdaq] WRB Crosses Above Key Moving Average Level
+- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - AMT
+- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - SPFF
+- [Nasdaq] FTNJ Crosses Critical Technical Indicator
+- [Nasdaq] WCN Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] UNFI Crosses Below Key Moving Average Level
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - YCS
+- [Nasdaq] Equifax Breaks Above 200-Day Moving Average - Bullish for EFX
+- [Nasdaq] Ethan Allen Interiors Breaks Below 200-Day Moving Average - Notable for ETD
+- [Nasdaq] Fidelity MSCI Communication Services Index Breaks Above 200-Day Moving Average - Bullish for FCOM
+- [Nasdaq] Jefferies Group (JEF) Shares Cross Above 200 DMA
+- [Nasdaq] YCL Makes Bullish Cross Above Critical Moving Average
+- [Nasdaq] FDIS Crosses Above Key Moving Average Level
+- [MarketWatch] These stocks in the red-hot healthcare sector have gotten too crowded to own
 - [CNBC] Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.
+- [CNBC] Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up
+- [Investing.com] Smart ring maker Oura files for US IPO
+- [CNBC] Zscaler stock rises on earnings beat, upbeat guidance
+- [Investing.com] Why is Samsara stock surging today?
+- [Investing.com] Top Nuclear Stocks to Watch, According to Jefferies
+- [MarketWatch] An old stock-market adage applies this month — how you should play it
+- [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
+- [CNBC] Trading the August jobs report: What could affect the number, and how investors may respond
+- [CNBC] The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer
+- [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
+- [MarketWatch] Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling
+- [CNBC] Piper Sandler expects Robinhood to kickstart football season with a win
+- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
+- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
+- [Mining.com] Faraday drilling boosts Arizona copper cathode case
+- [Mining.com] Colombia scraps 10 mining restrictions to lure investors
 - [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
 - [OilPrice.com] Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping
-- [CoinDesk] Crypto for Advisors: Why crypto earnings reports can be misleading
 - [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
 - [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
 - [OilPrice.com] Electric Trucks Have Moved From Impossible to Inevitable
-- [CNBC] Campbell's forecasts weak year ahead on pressured consumer spending
+- [OilPrice.com] High Oil Prices Speed Up China’s Shift Away From Crude
 - [Retail Dive] Five Below’s ‘maniacal focus’ on the customer pays off
 - [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
 - [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
 - [CoinDesk] SoFi, Kraken tie up as crypto and banking push into each other's turf
 - [Retail Dive] Untuckit acquired by Randa
-- [CNBC] Anthropic's distillation battle turns to the dark web as China concerns swell
-- [OilPrice.com] Machado Backs U.S. Oil Partnership but Questions Venezuela Deal
