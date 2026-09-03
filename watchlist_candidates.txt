@@ -6,46 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 15:07
-40 of 80 news items unmatched this run
+Generated: 03.09.2026 16:46
+45 of 80 news items unmatched this run
 
-- [Yahoo Finance] Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat
-- [Yahoo Finance] Danaher (DHR) Seen Deftly Navigating AI Integration
-- [Nasdaq] Noteworthy ETF Inflows: IUSB
-- [Nasdaq] Dimensional US Large Cap Value ETF Experiences Big Outflow
-- [Nasdaq] FIVA: ETF Outflow Alert
-- [Nasdaq] First Trust Nasdaq Cybersecurity ETF Experiences Big Inflow
-- [Yahoo Finance] Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?
-- [Investing.com] Why is Energizer stock sliding today?
-- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
-- [Yahoo Finance] Wall Street Loves NuScale Power. Here's the Risk Analysts Are Glossing Over.
-- [Yahoo Finance] Accrual to acquire Puzzle’s accounting firm business and software
-- [Yahoo Finance] Japanese Yen Extends Gains Versus Weaker U.S. Dollar
-- [Investing.com] Oddity Tech options flow signals defensive positioning ahead of September earnings
-- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
-- [Yahoo Finance] Campbell’s Cuts 13% of Workforce in Effort to Turn Around Struggling Operations
-- [Yahoo Finance] Billionaires Like These 2 AI Data Center Stocks
-- [Yahoo Finance] Insider Waves Goodbye to Nearly 6,000 Shares of Energy Stock
-- [Yahoo Finance] Can Better Star Ratings and Margin Expansion Drive Humana (HUM) Higher?
-- [MarketWatch] Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors
-- [Investing.com] Why is Bullish stock rallying today?
-- [Investing.com] Why is BRP stock sliding today?
-- [Investing.com] Why is Albemarle stock sliding today?
-- [Yahoo Finance] Ciena Earnings Beat. Why This AI Data Center Play Is Falling.
-- [Investing.com] Longsys prices Hong Kong listing at HK$236 per share - Bloomberg
-- [Yahoo Finance] Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI
-- [Nasdaq] Cash Dividend On The Way From First Merchants (FRME)
-- [Nasdaq] STE Ex-Dividend Reminder - 9/4/26
-- [Nasdaq] AAON About To Put More Money In Your Pocket (AAON)
-- [Nasdaq] Cash Dividend On The Way From C.H. Robinson Worldwide (CHRW)
-- [Yahoo Finance] Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)
-- [Yahoo Finance] Binance Founder ‘CZ’ Says Capital Is Returning To Crypto Market
-- [Yahoo Finance] Why HPE Stock Is Falling Amid Fiscal Q3 Earnings Beat
-- [Yahoo Finance] Liquidia Corporation’s (LQDA) Yutrepia Launch Continues to Outpace the Expectations
-- [Yahoo Finance] Sands Capital Select Growth Fund Sold DoorDash’s (DASH) in Q2
-- [Yahoo Finance] Ultragenyx's 'Fall From Grace' — Shares Crash 47%, Hitting A Record Low
-- [CNBC] Hidden China risks are emerging in America’s multibillion-dollar AI data center boom
-- [CNBC] Billionaire family offices back healthcare and biotech startups in August
+- [CNBC] Software stocks are up nearly 40% since 'SaaSpocalypse' bottom. Ways to play the sector
+- [Yahoo Finance] Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'
+- [Yahoo Finance] 4 Reasons to Buy Medtronic Stock Like There's No Tomorrow
+- [Yahoo Finance] HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations
+- [Investing.com] UiPath options analysis: puts outnumber calls 2-to-1 ahead of earnings today
+- [Yahoo Finance] Nearly 200-year-old retailer exits an entire market
+- [Yahoo Finance] Lake Victoria Gold Reports High-Grade Gold Intercepts at Imwelo as It Advances Metallurgical Testing
+- [Yahoo Finance] Core Scientific Director Elizabeth Crain Buys 6,000 Shares
+- [Yahoo Finance] Retailer's Turnaround 'Defies Belief,' Attempts To Retake Entry On Q2 Results
+- [Yahoo Finance] Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends
+- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.73%
+- [Investing.com] Spain stocks higher at close of trade; IBEX 35 up 1.12%
+- [CNBC] ChargePoint CEO says 50% stock surge 'is the beginning of the momentum'
+- [Investing.com] Portugal stocks lower at close of trade; PSI down 0.04%
+- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.09%
+- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.89%
+- [Yahoo Finance] Does Janus Living (JAN) Have an Attractive Runway for Long-Term Growth?
+- [Yahoo Finance] Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers
+- [Yahoo Finance] Billionaire Portfolios: Top 2 Real Estate Stocks With High Dividend Yields
+- [CNBC] Big lessons from 12 stock exits, including Cramer's biggest-ever disappointment
+- [Yahoo Finance] WaterBridge Infrastructure’s (WBI) Approach to Managing Water Resources
+- [Nasdaq] See How Steel Dynamics Ranks Among Analysts' Top Metals Picks
 - [CNBC] Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
-- [Yahoo Finance] Kraken Parent Company Payward Delays IPO
-- [CNBC] Campbell's forecasts weak year ahead on pressured consumer spending
+- [Yahoo Finance] Diamond Hill Remains Bullish on United States Lime & Minerals (USLM) Despite Margin Headwinds
+- [Yahoo Finance] Ryman Hospitality (RHP) Gains from Resilient Cash Flow Generation
+- [Yahoo Finance] NextEra, Santee Cooper Point to Real Dollar Savings From AI Deployments
+- [Yahoo Finance] Diamond Hill Stayed Focused on Magnolia Oil & Gas (MGY) After the Geopolitical Selloff
+- [Yahoo Finance] Ducommun (DCO) Benefits as Defense Spending and Commercial Aerospace Rebound
+- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
+- [Nasdaq] DRAM, PENU: Big ETF Outflows
+- [Nasdaq] IAGG, QQQP: Big ETF Inflows
+- [Nasdaq] Can The Trade Desk's JBPs Become Its Next Major Growth Engine?
+- [Nasdaq] Campbell's Q4 Earnings Miss Estimates as Inflation Pressures Margins
+- [Yahoo Finance] Here’s What Boosted Astrana Health (ASTH) in Q2
+- [Nasdaq] Thursday 9/3 Insider Buying Report: CAVA, PNFP
+- [Nasdaq] ABBV Stock Trading Above 50- & 200-Day SMAs: Buy, Hold or Sell?
+- [Nasdaq] The Case for Holding MetLife Stock: What Investors Need to Know
+- [Yahoo Finance] Do You Believe Arthur J. Gallagher (AJG) Could Deliver Mid-Teens EPS Growth for Years?
+- [Nasdaq] Here's Why You Should Add RNTX Stock to Your Portfolio Now
+- [CNBC] One stock on Josh Brown's list is a 'double AI beneficiary' that just climbed to all-time highs
+- [Nasdaq] Solaris Energy Expands Power Infrastructure With Omega Deal
+- [Yahoo Finance] Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat
+- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
+- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
+- [MarketWatch] Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors
