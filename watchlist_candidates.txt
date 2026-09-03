@@ -6,43 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 17:57
-37 of 80 news items unmatched this run
+Generated: 03.09.2026 19:06
+34 of 80 news items unmatched this run
 
-- [MarketWatch] This presidential bet offers ‘free money’
-- [Yahoo Finance] Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)
-- [Yahoo Finance] ChargePoint Skyrockets 74% as Revenue Beat and Narrower Loss Clear Estimates
-- [Yahoo Finance] Cone Denim Plans to Exit Denim Manufacturing in China
+- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
+- [Investing.com] Flowers Foods dividend safety: high yield masks debt surge and margin collapse
+- [Investing.com] Ciena earnings analysis: questions answered and next catalysts
+- [Investing.com] Campbell’s earnings analysis: questions answered and next catalysts
+- [CNBC] Fox News parts ways with longtime host Maria Bartiromo
+- [MarketWatch] New doubts emerge about whether Fed will raise interest rates this month
+- [Investing.com] European wheat drops on Putin peace talk comments
+- [Investing.com] OpenAI launches GPT-6 Astra for enterprise users today
+- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
+- [Nasdaq] Here's Why You Should Hold Clean Harbors Stock in Your Portfolio Now
+- [Nasdaq] Thursday 9/3 Insider Buying Report: SRTS, DY
+- [Nasdaq] Thursday's ETF with Unusual Volume: AWAY
+- [Nasdaq] SouthState Gains 12% in the Past 3 Months: What's Ahead for Investors?
 - [Nasdaq] Thursday Sector Laggards: Food, Agriculture & Farm Products
 - [Nasdaq] Thursday Sector Leaders: Precious Metals, Life & Health Insurance Stocks
-- [Yahoo Finance] A new wave of VC funds bets on female founders
+- [Mining.com] Faraday drilling boosts Arizona copper cathode case
 - [CNBC] Software stocks are up nearly 40% since the 'SaaSpocalypse' bottom. Ways to play the sector
-- [Investing.com] Vertex Tops Citi’s Biotech Picks After Crinetics Deal Completion
-- [Yahoo Finance] MongoDB missed one number and investors punished the stock
-- [Yahoo Finance] Crude oil nears $97 a barrel, diesel at highest since 2022
-- [Yahoo Finance] Prediction: Pepsi Stock Could Surprise Wall Street in 2027
-- [Yahoo Finance] ShipStation Global Brings Freight Into the Same Lane as Parcel
-- [Investing.com] Olympus-backed Accelevation files for US IPO
-- [Yahoo Finance] Ciena Corporation Q3 2026 Earnings Call Summary
-- [Yahoo Finance] Jim Cramer Explains Why He Recommends Buying KLA (KLAC) Stock in Small Doses
-- [Yahoo Finance] Genesco Inc. Q2 2027 Earnings Call Summary
+- [Nasdaq] Teradyne Stock Plunges 15% in a Month: Should You Buy the Dip?
 - [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
-- [Yahoo Finance] Amber International Holding Ltd Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Duluth Holdings Inc. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Brady Corporation Q4 2026 Earnings Call Summary
 - [CNBC] Agriculture stocks are breaking out. Jay Woods says watch these levels
-- [Investing.com] KKR sells Nordic Bioscience stake back to founder
-- [Yahoo Finance] Lands' End, Inc. Q2 2026 Earnings Call Summary
-- [MarketWatch] 7% mortgage rates are already here, some buyers and mortgage experts say
-- [Yahoo Finance] Robinhood Breaks Out. Analysts Bullish On Outlook, Prediction Markets.
-- [Yahoo Finance] Campbell Soup Company Q4 2026 Earnings Call Summary
-- [Yahoo Finance] HPE CEO on AI boom: 'Customers are buying everything'
-- [Yahoo Finance] Saia’s tonnage growth steps higher in August as comps ease
-- [Nasdaq] AWK Unit to Invest $0.9M to Strengthen West Virginia Infrastructure
-- [Nasdaq] How BioMarin Turned a Competitive Threat Into a Royalty-Bearing Asset
-- [Yahoo Finance] Stocks Rally, Yields Retreat after Waller Signals a September Hold
-- [Investing.com] UiPath options analysis: puts outnumber calls 2-to-1 ahead of earnings today
-- [Nasdaq] Can KT-621 Mark a Turning Point for Kymera Therapeutics?
-- [Nasdaq] See How Steel Dynamics Ranks Among Analysts' Top Metals Picks
-- [Nasdaq] Krystal Stock Gains 13.4% in a Month: What Is Driving the Rally?
+- [CNBC] Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.
 - [CNBC] Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says
+- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
+- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
+- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
+- [CNBC] Billionaire family offices back healthcare and biotech startups in August
+- [CNBC] Campbell's forecasts weak year ahead on pressured consumer spending
+- [CNBC] Brent oil price above $96 per barrel after Iran fires missiles at Kuwait
+- [Retail Dive] Five Below’s ‘maniacal focus’ on the customer pays off
+- [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
+- [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
+- [CoinDesk] SoFi, Kraken tie up as crypto and banking push into each other's turf
+- [Retail Dive] Untuckit acquired by Randa
+- [CNBC] Anthropic's distillation battle turns to the dark web as China concerns swell
