@@ -6,30 +6,34 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 18:49
-24 of 80 news items unmatched this run
+Generated: 04.09.2026 19:47
+28 of 80 news items unmatched this run
 
-- [Investing.com] Ambarella options flow shows mixed signals with elevated volatility
-- [Investing.com] JBS and Tyson Foods shares fall after Trump beef order
-- [CNBC] Women accounted for almost all of job gains in August. Here's why
-- [Investing.com] Musk’s xAI loses court bid to block Minnesota’s AI ‘nudification’ ban
-- [Investing.com] Analysis-Shein seeks fast-fashion deals to spur growth
+- [Investing.com] Why is Ballard Power stock gaining today?
+- [Investing.com] S&P upgrades Teva rating on deleveraging and pipeline strength
+- [Investing.com] Moody’s changes Seplat Energy outlook on Nigeria upgrade
+- [Investing.com] Dollar Index tests key support with bear flag active: Live levels
+- [Nasdaq] KKR's Series D Preferred Stock Shares Cross 6.5% Yield Mark
+- [CNBC] What strong jobs data means for rates — plus, an out-of-favor trade shines this week
+- [MarketWatch] Why the jobs report will actually be good for bonds
 - [Nasdaq] Friday 9/4 Insider Buying Report: UAMY, PLSE
+- [Nasdaq] SoFi Technologies Teams Up With Payward: Will SoFiUSD Gain Traction?
+- [Nasdaq] Can Higher ARPU Keep Spotify's Premium Revenue Growing?
+- [Nasdaq] Realty Income's Industrial Expansion: Can it Lift Long-Term Returns?
+- [Nasdaq] Here's Why Investors Should Retain Powell Industries Stock in Portfolio Now
+- [Nasdaq] Should You Buy, Sell or Hold PVH Stock Post Q2 Earnings?
 - [Nasdaq] Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?
 - [Nasdaq] Can Thomson Reuters' Recurring Model and AI Expansion Sustain Growth?
-- [Nasdaq] Consumer Pressure Rises, but So Does Demand for Affirm's Services
-- [CNBC] Japanese yen surged this week. Why the rally may not last
-- [Nasdaq] Friday's ETF with Unusual Volume: FLCV
-- [Nasdaq] Friday's ETF Movers: PTF, XSW
-- [Nasdaq] Friday Sector Laggards: Precious Metals, Application Software Stocks
-- [Nasdaq] Friday Sector Leaders: Construction Materials & Machinery, Specialty Retail Stocks
 - [Mining.com] Investors buoy gold price as central banks slow
-- [MarketWatch] Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.
 - [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
-- [CoinDesk] AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in
+- [CoinDesk] Robinhood isn't backing down after AMC CEO demands halt to stock tokens
 - [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
+- [CNBC] American Express Experiences guide: Exclusive ticket presales and special access to live events
 - [CNBC] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
 - [OilPrice.com] U.S. Oil Rig Count Rises as Gas Rig Activity Declines
 - [OilPrice.com] Record Diesel Prices Push Brent Toward $95
+- [Retail Dive] Ulta’s use of Flock technology causes upset online
+- [CNBC] THC drinks could soon be harder to find as Congress delays hemp ban again
 - [Retail Dive] The Weekly Closeout: Reebok partners with Hilary Duff and Saks Fifth Avenue launches fall campaign
 - [Mining.com] Vale shelves base metals IPO amid Brazil pushback: report
+- [CoinDesk] Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million
