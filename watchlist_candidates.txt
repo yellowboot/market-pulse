@@ -6,47 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 03.09.2026 23:27
-41 of 80 news items unmatched this run
+Generated: 04.09.2026 15:03
+37 of 80 news items unmatched this run
 
-- [CNBC] Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up
-- [Mining.com] Ionic Rare Earths, US Strategic Metals form JV to build $100M magnet recycling plant in Missouri
-- [Investing.com] Brazil’s Embraer gets firm order for eight additional E190-E2 jets from Japan’s ANA
-- [Investing.com] SpaceXAI launches Grok Bot for enterprises with free trial
-- [MarketWatch] Goldfish crackers are getting a makeover as new health trends reshape the snack aisle
-- [CNBC] OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
-- [MarketWatch] Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors
-- [MarketWatch] Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates
-- [Investing.com] Globus Medical stock rises on EU approval for imaging system
-- [Mining.com] Frontieras, Western Fuels to build coal processing facility at Dry Fork mine in Wyoming
-- [Nasdaq] BATL Trading Below Director's Recent Buy Price
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - TR
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - RGR
-- [Nasdaq] WRB Crosses Above Key Moving Average Level
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - AMT
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - SPFF
-- [Nasdaq] FTNJ Crosses Critical Technical Indicator
-- [Nasdaq] WCN Makes Bullish Cross Above Critical Moving Average
-- [Nasdaq] UNFI Crosses Below Key Moving Average Level
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - YCS
-- [Nasdaq] Equifax Breaks Above 200-Day Moving Average - Bullish for EFX
-- [Nasdaq] Ethan Allen Interiors Breaks Below 200-Day Moving Average - Notable for ETD
-- [Nasdaq] Fidelity MSCI Communication Services Index Breaks Above 200-Day Moving Average - Bullish for FCOM
-- [Nasdaq] Jefferies Group (JEF) Shares Cross Above 200 DMA
-- [Nasdaq] YCL Makes Bullish Cross Above Critical Moving Average
-- [MarketWatch] These stocks in the red-hot healthcare sector have gotten too crowded to own
-- [CNBC] Zscaler stock rises on earnings beat, upbeat guidance
-- [CNBC] ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'
-- [CNBC] Oil prices little changed after Iran fires missiles at Kuwait
-- [CNBC] Piper Sandler expects Robinhood to kickstart football season with a win
-- [Mining.com] Faraday drilling boosts Arizona copper cathode case
-- [OilPrice.com] AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point
-- [Mining.com] Colombia scraps 10 mining restrictions to lure investors
-- [Mining.com] US Mint’s Trump gold coin sells out — without any actual gold
-- [OilPrice.com] Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping
-- [CoinDesk] A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes
-- [CoinDesk] Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution
-- [OilPrice.com] Electric Trucks Have Moved From Impossible to Inevitable
-- [Retail Dive] Five Below’s ‘maniacal focus’ on the customer pays off
-- [Retail Dive] Victoria’s Secret embraces nostalgia, entertainment trends
-- [Mining.com] Gem Diamonds rebounds as big stones lift prices, profit
+- [CoinDesk] AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in
+- [Yahoo Finance] Stock Market Screens Like This One Capture Shifts In Market Leadership
+- [Yahoo Finance] Intuitive Surgical Vs. Stryker: Wall Street Loves Both But One Has a Quiet Advantage That Will Make Investors Money
+- [Nasdaq] December 2028 Options Now Available For Spotify Technology
+- [Yahoo Finance] Analysing CEVA’s (CEVA) Growth in Neural Processing Markets
+- [Investing.com] Veraxa Biotech stock rises after naming Raju Willener as CFO
+- [Yahoo Finance] UiPath Tumbles 14% as Guided Slowdown Overshadows Revenue Beat
+- [Yahoo Finance] $1.3 Trillion in Projected Data Center Spending in 2027 Makes These Stocks No-Brainer Buys
+- [Investing.com] Warby Parker options flow points to a rally toward $30 by December
+- [Yahoo Finance] Concerns Over Defense Spending Weighed on CACI International Inc (CACI)
+- [Yahoo Finance] The Comeback Story: BlackBerry Limited’s (BB) QNX and Growth Potential
+- [Investing.com] Some airline stocks may be worth a look despite surging oil prices
+- [Yahoo Finance] Berkshire CEO explains Buffett’s surprise AI stock bet
+- [Yahoo Finance] Saks Faces Proposed Class Action Lawsuit For Unwanted Promo Texts
+- [Nasdaq] December 2028 Options Now Available For Apollo Global Management (APO)
+- [Nasdaq] Friday 9/4 Insider Buying Report: ABR, UUU
+- [Yahoo Finance] Diamond Hill Bets on BioLife Solutions’ (BLFS) High Switching Cost
+- [CNBC] Buy the dip on this networking stock that set to more than double, says Citi
+- [Yahoo Finance] Diamond Hill Stays Focused on Silvercrest (SAMG) Despite Profitability Pressures
+- [Investing.com] BlackRock TCP Capital CEO Phil Tseng resigns after fund markdowns
+- [Yahoo Finance] Why FreightCar America (RAIL) Could Benefit as North America’s Railcar Fleet Gets Older
+- [Investing.com] G42 explores US ownership to secure AI chip access - Bloomberg
+- [Investing.com] Why is KLA stock surging today?
+- [Investing.com] Uranium Royalty Corp. shares may move 2.1% on earnings
+- [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
+- [Nasdaq] RQI Ex-Dividend Reminder - 9/8/26
+- [Nasdaq] MFIC Ex-Dividend Reminder - 9/8/26
+- [Nasdaq] Ex-Div Reminder for Texas Community Bancshares (TCBS)
+- [Nasdaq] Cash Dividend On The Way From Capital City Bank Group (CCBG)
+- [Nasdaq] Eastern Bankshares About To Put More Money In Your Pocket (EBC)
+- [Nasdaq] MLR Ex-Dividend Reminder - 9/8/26
+- [Nasdaq] Reminder - Cohen & Steers Infrastructure Fund (UTF) Goes Ex-Dividend Soon
+- [Nasdaq] Cash Dividend On The Way From Stanley Black & Decker (SWK)
+- [Nasdaq] MAIN Ex-Dividend Reminder - 9/8/26
+- [MarketWatch] Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing.
+- [CNBC] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
+- [CoinDesk] U.S. added stronger than expected 162,000 jobs in August as labor market bounced back
