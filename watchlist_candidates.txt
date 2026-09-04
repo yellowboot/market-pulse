@@ -6,39 +6,30 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 17:42
-33 of 80 news items unmatched this run
+Generated: 04.09.2026 18:49
+24 of 80 news items unmatched this run
 
-- [Yahoo Finance] Billions in U.S. Savings Bonds Have Stopped Earning Interest and Their Owners Don’t Know It. The Ones in Your Parents’ Drawer Went Silent at Exactly Year 30
-- [Investing.com] Hollywood summer box office hits pre-pandemic stride as women, younger audiences return to theaters
-- [Yahoo Finance] Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit
-- [Yahoo Finance] 30-year mortgage rate hits highest since July 2025
-- [Yahoo Finance] Sea Limited CCO and GC Yanjun Wang Sells 3,000 Shares at $112.88
-- [Yahoo Finance] A16z-Backed OpenReserve Gets Approval for Full-Service National Bank
-- [Yahoo Finance] Hormel (HRL) Expanded Adjusted Operating Margin Despite a Volume Decline. Can Cost Savings Carry the Turnaround?
-- [Yahoo Finance] Murphy Oil (MUR) Strikes Black Gold While Profits Multiply Tenfold
-- [Yahoo Finance] Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?
-- [Yahoo Finance] KNOT Offshore Partners LP Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Texas Multifamily Loans Flood September Foreclosures
-- [Investing.com] Arqit Quantum and Aya Gold & Silver: two unusual trade setups to watch
-- [Yahoo Finance] GameStop (GME) Plans to Use $358M of Cash to Reduce Dilution in Its Note Exchange. Is Liquidity Being Put to Better Use?
-- [Yahoo Finance] IBD Stock Of The Day Exelixis Hits Earnings Snag — And Then Breaks Out
-- [Yahoo Finance] This Oil Stock Flirts With Entry As Profits Surge 108% Amid Strait Of Hormuz Crisis
+- [Investing.com] Ambarella options flow shows mixed signals with elevated volatility
+- [Investing.com] JBS and Tyson Foods shares fall after Trump beef order
+- [CNBC] Women accounted for almost all of job gains in August. Here's why
+- [Investing.com] Musk’s xAI loses court bid to block Minnesota’s AI ‘nudification’ ban
+- [Investing.com] Analysis-Shein seeks fast-fashion deals to spur growth
+- [Nasdaq] Friday 9/4 Insider Buying Report: UAMY, PLSE
+- [Nasdaq] Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?
+- [Nasdaq] Can Thomson Reuters' Recurring Model and AI Expansion Sustain Growth?
+- [Nasdaq] Consumer Pressure Rises, but So Does Demand for Affirm's Services
 - [CNBC] Japanese yen surged this week. Why the rally may not last
 - [Nasdaq] Friday's ETF with Unusual Volume: FLCV
 - [Nasdaq] Friday's ETF Movers: PTF, XSW
-- [Yahoo Finance] Aon (AON) is Paying $17B for USI. Can $395M of Synergies Justify Another Debt-Funded Megadeal?
 - [Nasdaq] Friday Sector Laggards: Precious Metals, Application Software Stocks
 - [Nasdaq] Friday Sector Leaders: Construction Materials & Machinery, Specialty Retail Stocks
-- [Yahoo Finance] Record Diesel Prices Push Brent Toward $95
-- [Yahoo Finance] BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?
-- [Nasdaq] See How Cleveland-Cliffs Ranks Among Analysts' Top Metals Picks
-- [Yahoo Finance] MIMRYLO Approval Triggered $275M Payments for Protagonist (PTGX). Are Royalties the Better Commercial Model?
-- [Yahoo Finance] AMC Jumps 9% After Aron Declares War on Robinhood
-- [Yahoo Finance] Diesel prices hit an all-time high, pressuring economy ahead of midterms
-- [Yahoo Finance] Teva (TEVA) Backed a Bid of Up to $125M in Cash Plus Assumed Liabilities for BioXcel’s Assets. Is Bankruptcy-Sale Risk Worth the At-Home Opportunity?
-- [Nasdaq] American Financial Near 52-Week High: Time to Hold the Stock?
-- [CNBC] American Express banking bonuses and promotions: Earn $300
+- [Mining.com] Investors buoy gold price as central banks slow
+- [MarketWatch] Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.
 - [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
-- [Nasdaq] EuroDry Aims to Expand Fleet: More Upside Ahead for the Stock?
 - [CoinDesk] AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in
+- [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
+- [CNBC] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
+- [OilPrice.com] U.S. Oil Rig Count Rises as Gas Rig Activity Declines
+- [OilPrice.com] Record Diesel Prices Push Brent Toward $95
+- [Retail Dive] The Weekly Closeout: Reebok partners with Hilary Duff and Saks Fifth Avenue launches fall campaign
+- [Mining.com] Vale shelves base metals IPO amid Brazil pushback: report
