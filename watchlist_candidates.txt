@@ -6,50 +6,39 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 16:40
-44 of 80 news items unmatched this run
+Generated: 04.09.2026 17:42
+33 of 80 news items unmatched this run
 
+- [Yahoo Finance] Billions in U.S. Savings Bonds Have Stopped Earning Interest and Their Owners Don’t Know It. The Ones in Your Parents’ Drawer Went Silent at Exactly Year 30
+- [Investing.com] Hollywood summer box office hits pre-pandemic stride as women, younger audiences return to theaters
+- [Yahoo Finance] Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit
+- [Yahoo Finance] 30-year mortgage rate hits highest since July 2025
+- [Yahoo Finance] Sea Limited CCO and GC Yanjun Wang Sells 3,000 Shares at $112.88
+- [Yahoo Finance] A16z-Backed OpenReserve Gets Approval for Full-Service National Bank
+- [Yahoo Finance] Hormel (HRL) Expanded Adjusted Operating Margin Despite a Volume Decline. Can Cost Savings Carry the Turnaround?
+- [Yahoo Finance] Murphy Oil (MUR) Strikes Black Gold While Profits Multiply Tenfold
+- [Yahoo Finance] Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?
+- [Yahoo Finance] KNOT Offshore Partners LP Q2 2026 Earnings Call Summary
+- [Yahoo Finance] Texas Multifamily Loans Flood September Foreclosures
+- [Investing.com] Arqit Quantum and Aya Gold & Silver: two unusual trade setups to watch
+- [Yahoo Finance] GameStop (GME) Plans to Use $358M of Cash to Reduce Dilution in Its Note Exchange. Is Liquidity Being Put to Better Use?
+- [Yahoo Finance] IBD Stock Of The Day Exelixis Hits Earnings Snag — And Then Breaks Out
+- [Yahoo Finance] This Oil Stock Flirts With Entry As Profits Surge 108% Amid Strait Of Hormuz Crisis
 - [CNBC] Japanese yen surged this week. Why the rally may not last
-- [Investing.com] Why is Aclara Resources stock climbing today?
-- [Investing.com] Zscaler earnings analysis: questions answered and next catalysts
-- [Investing.com] Jefferies says retail fund inflows reach $25.3bn in latest week
-- [Yahoo Finance] GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%
-- [Investing.com] Nestlé vs. Unilever: valuation, earnings quality, and pair trade status
-- [Yahoo Finance] Lilly looks beyond obesity with $2.88B autoimmune buyout
-- [Yahoo Finance] Why Fair Isaac Stock Crashed Today
-- [Yahoo Finance] Domino’s Keeps Raising Its Dividend—But What About All That Debt?
+- [Nasdaq] Friday's ETF with Unusual Volume: FLCV
+- [Nasdaq] Friday's ETF Movers: PTF, XSW
+- [Yahoo Finance] Aon (AON) is Paying $17B for USI. Can $395M of Synergies Justify Another Debt-Funded Megadeal?
+- [Nasdaq] Friday Sector Laggards: Precious Metals, Application Software Stocks
+- [Nasdaq] Friday Sector Leaders: Construction Materials & Machinery, Specialty Retail Stocks
+- [Yahoo Finance] Record Diesel Prices Push Brent Toward $95
+- [Yahoo Finance] BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?
+- [Nasdaq] See How Cleveland-Cliffs Ranks Among Analysts' Top Metals Picks
 - [Yahoo Finance] MIMRYLO Approval Triggered $275M Payments for Protagonist (PTGX). Are Royalties the Better Commercial Model?
-- [Yahoo Finance] IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%
-- [Yahoo Finance] Bond Yields Are Soaring. Why That's Bad for Homebuilder and Automaker Stocks.
-- [Yahoo Finance] Quanex Building Products Q3 Earnings Call Highlights
-- [Yahoo Finance] Brasilagro Cia Brasileira De Propriedades Agricolas Q4 Earnings Call Highlights
+- [Yahoo Finance] AMC Jumps 9% After Aron Declares War on Robinhood
+- [Yahoo Finance] Diesel prices hit an all-time high, pressuring economy ahead of midterms
 - [Yahoo Finance] Teva (TEVA) Backed a Bid of Up to $125M in Cash Plus Assumed Liabilities for BioXcel’s Assets. Is Bankruptcy-Sale Risk Worth the At-Home Opportunity?
-- [Yahoo Finance] Yen's changing fortunes might finally be spooking the bears
-- [Yahoo Finance] Algonquin (AQN) is Selling its Chilean Water Stake for $126.5M. Will Simplification Improve Returns?
-- [Yahoo Finance] Ballard Power (BLDP) Bought GeoPura at an Enterprise Value of About $400M. Can Recurring Revenue Justify the 14% Pro Forma Stake?
-- [Yahoo Finance] PG&E (PCG) Sub Says California’s Wildfire Bill Leaves Financing Risk Unresolved. What Protection Is Still Missing?
-- [Yahoo Finance] Aurora Innovation (AUR) Partners with McLane Company to Launch Driverless Commercial Hauls
-- [Yahoo Finance] Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares
+- [Nasdaq] American Financial Near 52-Week High: Time to Hold the Stock?
 - [CNBC] American Express banking bonuses and promotions: Earn $300
-- [Yahoo Finance] Robust Results and Share Repurchase Authorization Boosted ACV Auctions (ACVA)
-- [Yahoo Finance] Here’s What Pressured Intercontinental Exchange (ICE)
-- [Yahoo Finance] Southern Co (SO) Cleared PSC Review for 3.2GW of OpenAI Demand. Can Data Centers Lower Customer Bills Without Raising Grid Risk?
-- [Yahoo Finance] Charles Schwab, Robinhood In Or Near Buy Zones But Interactive Brokers Triggers A Sell Signal
-- [Yahoo Finance] GLOBALFOUNDRIES (GFS) Surged on Robust CID Growth and Dividend Announcement
-- [Yahoo Finance] ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?
-- [Nasdaq] VGIT, NVOC: Big ETF Outflows
-- [Nasdaq] VGSH, GDXD: Big ETF Inflows
+- [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
+- [Nasdaq] EuroDry Aims to Expand Fleet: More Upside Ahead for the Stock?
 - [CoinDesk] AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in
-- [Nasdaq] Noteworthy ETF Inflows: GLD
-- [Yahoo Finance] Trimble (TRMB) is Enhancing Efficiency with Advanced Operational Solutions
-- [Nasdaq] VCIT: ETF Inflow Alert
-- [Nasdaq] Notable ETF Inflow Detected - VXUS, PDD, VWO, YMM
-- [Nasdaq] Notable ETF Outflow Detected - XLI, CSX, MMM, EMR
-- [Nasdaq] VWO, UMC, CIB, BZ: ETF Inflow Alert
-- [Nasdaq] VNQ, PLD, AMT, SPG: ETF Outflow Alert
-- [Nasdaq] Notable ETF Inflow Detected - BND
-- [Nasdaq] Notable ETF Outflow Detected - AIA
-- [Yahoo Finance] Meridian Contrarian Fund Cuts California Resources Corp. (CRC) in Anticipation of Downturn
-- [Yahoo Finance] PDF Solutions (PDFS): Pioneering Yield Improvement in Semiconductor Manufacturing
-- [Yahoo Finance] Analysing CEVA’s (CEVA) Growth in Neural Processing Markets
-- [Yahoo Finance] Concerns Over Defense Spending Weighed on CACI International Inc (CACI)
