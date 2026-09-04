@@ -6,34 +6,36 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 19:47
-28 of 80 news items unmatched this run
+Generated: 04.09.2026 21:18
+30 of 80 news items unmatched this run
 
-- [Investing.com] Why is Ballard Power stock gaining today?
-- [Investing.com] S&P upgrades Teva rating on deleveraging and pipeline strength
-- [Investing.com] Moody’s changes Seplat Energy outlook on Nigeria upgrade
-- [Investing.com] Dollar Index tests key support with bear flag active: Live levels
-- [Nasdaq] KKR's Series D Preferred Stock Shares Cross 6.5% Yield Mark
-- [CNBC] What strong jobs data means for rates — plus, an out-of-favor trade shines this week
-- [MarketWatch] Why the jobs report will actually be good for bonds
-- [Nasdaq] Friday 9/4 Insider Buying Report: UAMY, PLSE
-- [Nasdaq] SoFi Technologies Teams Up With Payward: Will SoFiUSD Gain Traction?
-- [Nasdaq] Can Higher ARPU Keep Spotify's Premium Revenue Growing?
-- [Nasdaq] Realty Income's Industrial Expansion: Can it Lift Long-Term Returns?
-- [Nasdaq] Here's Why Investors Should Retain Powell Industries Stock in Portfolio Now
-- [Nasdaq] Should You Buy, Sell or Hold PVH Stock Post Q2 Earnings?
-- [Nasdaq] Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?
-- [Nasdaq] Can Thomson Reuters' Recurring Model and AI Expansion Sustain Growth?
+- [Investing.com] Nscale seeks about $3.5 billion pre-IPO funding, source says
+- [Nasdaq] Oversold Conditions For Performance Food Group (PFGC)
+- [Nasdaq] Duke Energy Becomes Oversold (DUKB)
+- [Nasdaq] Oversold Conditions For Southern (SO)
+- [Nasdaq] Relative Strength Alert For Presidio Production
+- [Nasdaq] Tronox Holdings Enters Oversold Territory (TROX)
+- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.33%
+- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.02%
+- [Nasdaq] MINN Crowded With Sellers
+- [Nasdaq] Franklin Municipal Income (FTMU) Enters Oversold Territory
+- [Nasdaq] BNY Mellon Municipal Opportunities (BMOP) Enters Oversold Territory
+- [Nasdaq] CXM Crosses Below Key Moving Average Level
+- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - ARLO
+- [Nasdaq] Notable Two Hundred Day Moving Average Cross - ASAN
 - [Mining.com] Investors buoy gold price as central banks slow
+- [Nasdaq] Innovator Premium Income 15 Buffer - April Breaks Above 200-Day Moving Average - Bullish for LAPR
+- [Nasdaq] Hyster-Yale (HY) Shares Cross Above 200 DMA
+- [MarketWatch] There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs
+- [CNBC] What strong jobs data means for rates — plus, an out-of-favor trade shines this week
+- [OilPrice.com] BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
 - [CoinDesk] Robinhood isn't backing down after AMC CEO demands halt to stock tokens
 - [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
 - [CNBC] American Express Experiences guide: Exclusive ticket presales and special access to live events
 - [CNBC] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
+- [CoinDesk] U.S. added stronger than expected 162,000 jobs in August as labor market bounced back
 - [OilPrice.com] U.S. Oil Rig Count Rises as Gas Rig Activity Declines
 - [OilPrice.com] Record Diesel Prices Push Brent Toward $95
 - [Retail Dive] Ulta’s use of Flock technology causes upset online
 - [CNBC] THC drinks could soon be harder to find as Congress delays hemp ban again
-- [Retail Dive] The Weekly Closeout: Reebok partners with Hilary Duff and Saks Fifth Avenue launches fall campaign
-- [Mining.com] Vale shelves base metals IPO amid Brazil pushback: report
-- [CoinDesk] Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million
