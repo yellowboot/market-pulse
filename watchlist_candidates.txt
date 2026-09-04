@@ -6,38 +6,34 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 22:29
-32 of 80 news items unmatched this run
+Generated: 04.09.2026 23:12
+28 of 80 news items unmatched this run
 
-- [Investing.com] Mizuho Names Top Software Largecap Stock
+- [Mining.com] Silver’s unsung strength
+- [Investing.com] Exclusive-Anthropic IPO launch shifts toward mid-October, sources say
+- [Investing.com] Boring Company valuation hits $20 billion in latest funding round - WSJ
 - [Investing.com] Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring
-- [Investing.com] Analysis-Shein seeks fast-fashion deals to spur growth
-- [Investing.com] Nscale seeks about $3.5 billion pre-IPO funding, source says
+- [Investing.com] ADARx Pharmaceuticals files for proposed IPO
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.87%
+- [Investing.com] Huntington Ingalls wins $336 million Navy contract for CVN 82
 - [Nasdaq] Oversold Conditions For Performance Food Group (PFGC)
 - [Nasdaq] Duke Energy Becomes Oversold (DUKB)
 - [Nasdaq] Oversold Conditions For Southern (SO)
 - [Nasdaq] Relative Strength Alert For Presidio Production
 - [Nasdaq] Tronox Holdings Enters Oversold Territory (TROX)
-- [Investing.com] Canada stocks lower at close of trade; S&P/TSX Composite down 0.33%
-- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.02%
 - [Nasdaq] MINN Crowded With Sellers
 - [Nasdaq] Franklin Municipal Income (FTMU) Enters Oversold Territory
 - [Nasdaq] BNY Mellon Municipal Opportunities (BMOP) Enters Oversold Territory
 - [Nasdaq] CXM Crosses Below Key Moving Average Level
 - [Nasdaq] Bullish Two Hundred Day Moving Average Cross - ARLO
 - [Nasdaq] Notable Two Hundred Day Moving Average Cross - ASAN
-- [Investing.com] McKinsey faces €65 million seizure in French tax fraud probe
+- [Mining.com] Investors buoy gold price as central banks slow
 - [Nasdaq] Innovator Premium Income 15 Buffer - April Breaks Above 200-Day Moving Average - Bullish for LAPR
 - [Nasdaq] Hyster-Yale (HY) Shares Cross Above 200 DMA
-- [CNBC] Trump doubles down on threat to halt trade with top partners unless Fed cuts rates
 - [CNBC] What strong jobs data means for rates — plus, an out-of-favor trade shines this week
-- [CNBC] Women accounted for almost all of job gains in August. Here's why
-- [OilPrice.com] How The U.S. Fell Behind China On Nuclear Power
 - [OilPrice.com] BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - [Mining.com] Pentagon rare earth push collides with China’s grip
 - [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
 - [CoinDesk] Robinhood isn't backing down after AMC CEO demands halt to stock tokens
 - [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
-- [CNBC] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
-- [OilPrice.com] U.S. Oil Rig Count Rises as Gas Rig Activity Declines
-- [OilPrice.com] Record Diesel Prices Push Brent Toward $95
+- [CoinDesk] U.S. added stronger than expected 162,000 jobs in August as labor market bounced back
