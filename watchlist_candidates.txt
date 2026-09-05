@@ -6,34 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 04.09.2026 23:12
-28 of 80 news items unmatched this run
+Generated: 05.09.2026 17:12
+35 of 80 news items unmatched this run
 
-- [Mining.com] Silver’s unsung strength
-- [Investing.com] Exclusive-Anthropic IPO launch shifts toward mid-October, sources say
-- [Investing.com] Boring Company valuation hits $20 billion in latest funding round - WSJ
-- [Investing.com] Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring
-- [Investing.com] ADARx Pharmaceuticals files for proposed IPO
-- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.87%
-- [Investing.com] Huntington Ingalls wins $336 million Navy contract for CVN 82
-- [Nasdaq] Oversold Conditions For Performance Food Group (PFGC)
-- [Nasdaq] Duke Energy Becomes Oversold (DUKB)
-- [Nasdaq] Oversold Conditions For Southern (SO)
-- [Nasdaq] Relative Strength Alert For Presidio Production
-- [Nasdaq] Tronox Holdings Enters Oversold Territory (TROX)
-- [Nasdaq] MINN Crowded With Sellers
-- [Nasdaq] Franklin Municipal Income (FTMU) Enters Oversold Territory
-- [Nasdaq] BNY Mellon Municipal Opportunities (BMOP) Enters Oversold Territory
-- [Nasdaq] CXM Crosses Below Key Moving Average Level
-- [Nasdaq] Bullish Two Hundred Day Moving Average Cross - ARLO
-- [Nasdaq] Notable Two Hundred Day Moving Average Cross - ASAN
-- [Mining.com] Investors buoy gold price as central banks slow
-- [Nasdaq] Innovator Premium Income 15 Buffer - April Breaks Above 200-Day Moving Average - Bullish for LAPR
-- [Nasdaq] Hyster-Yale (HY) Shares Cross Above 200 DMA
-- [CNBC] What strong jobs data means for rates — plus, an out-of-favor trade shines this week
-- [OilPrice.com] BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
-- [Mining.com] Pentagon rare earth push collides with China’s grip
-- [CNBC] Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
-- [CoinDesk] Robinhood isn't backing down after AMC CEO demands halt to stock tokens
-- [CoinDesk] From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs
-- [CoinDesk] U.S. added stronger than expected 162,000 jobs in August as labor market bounced back
+- [Yahoo Finance] Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn
+- [Yahoo Finance] Warren Buffett's Successor Greg Abel Spent $4.5 Billion Buying 1 Stock Last Quarter, and He Spent At Least $3.3 Billion Buying More This Quarter
+- [Yahoo Finance] Aon's $17B USI deal has a cost investors should know
+- [Yahoo Finance] These 2 Dividend Giants Yield Around 5%—But That’s Where the Similarities End
+- [MarketWatch] Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.
+- [Yahoo Finance] Fed Chair Kevin Warsh Just Shifted the Central Bank's Entire Focus on Inflation in One Sentence
+- [Yahoo Finance] Kraken Robotics Stock Is Down 55% -- Is September the Month to Buy the Dip?
+- [Yahoo Finance] Why Gabelli’s Global Content & Connectivity Fund Likes Rogers Communications (RCI)
+- [Yahoo Finance] Why Gabelli’s Global Content & Connectivity Fund Likes T-Mobile US (TMUS)
+- [Yahoo Finance] Why Anterix (ATEX) Surged 169.6% in Q2, According to Gabelli
+- [Investing.com] Japanese stocks face continued risk aversion despite record profits, Nomura says
+- [CNBC] Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal
+- [Yahoo Finance] Jim Cramer Explains Why Velo3D (VELO) Is Only Worth a Quarter Position Right Now
+- [Investing.com] U.S. may struggle to build power fast enough to meet rising demand, Barclays says
+- [CNBC] Many truckers don't feel like the rest of America about AI data centers as business booms
+- [Yahoo Finance] ‘Wow, wow, wow!’: CNBC host clearly shocked after US economy adds 162,000 jobs — 3X expectations. Bet on America now
+- [Yahoo Finance] Expansion of Commercial Operations in Focus for BWX Technologies (BWXT)
+- [Yahoo Finance] Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?
+- [Investing.com] Foxconn expects Q3 to beat market expectations as AI demand stays strong
+- [CNBC] This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom
+- [CNBC] Americans hit with record-high Labor Day Weekend gasoline prices
+- [CNBC] Anthropic IPO launch shifts toward mid-October: Reuters
+- [CNBC] Meet the CISO: A new front line star in the AI cybersecurity war
+- [OilPrice.com] This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year
+- [OilPrice.com] Green Bonds Hit Record High Despite Persistent Challenges
+- [Yahoo Finance] Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD
+- [Nasdaq] StoneX Initiates Coverage of PulteGroup at Buy
+- [Nasdaq] Citigroup Initiates Coverage of Dianthus Therapeutics with Buy Rating
+- [Investing.com] Foxconn says third quarter to outperform market expectations on AI strength
+- [CoinDesk] XRP Ledger has fewer active accounts than last year, but bigger trades and more value
+- [CoinDesk] Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms
+- [Nasdaq] Jones Trading Initiates Coverage of XTEND Reality Expansion (XTND) with Buy Rating
+- [Mining.com] Value of top 50 mining companies surges by $357 billion after monster August rally
+- [Mining.com] The top 50 biggest mining companies in the world
+- [Nasdaq] UBS Upgrades Nuveen Churchill Direct Lending (NCDL) to Buy from Neutral
