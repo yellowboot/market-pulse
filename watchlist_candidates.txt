@@ -6,11 +6,13 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 07.09.2026 22:57
+Generated: 07.09.2026 23:41
 41 of 80 news items unmatched this run
 
-- [MarketWatch] Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels
 - [CNBC] Dow futures fall 300 points to start shortened week as oil prices climb: Live updates
+- [CNBC] China says it will pump $54 billion into banks and insurers — but their stocks still fell
+- [MarketWatch] Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels
+- [CoinDesk] Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered
 - [Investing.com] EverBank to combine with WaFd in $3.9 billion reverse merger
 - [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%
 - [Investing.com] Colombia stocks higher at close of trade; COLCAP up 0.82%
@@ -19,9 +21,9 @@ Generated: 07.09.2026 22:57
 - [Investing.com] Dollar Index bear flag 80% done, breakdown looms: Live levels
 - [CNBC] Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there
 - [Investing.com] Trump demands Bombardier quit US market unless it builds planes there
+- [OilPrice.com] New York’s Nuclear Comeback Is Gathering Steam
 - [Nasdaq] 4 Leisure & Recreation Stocks Worth Watching Despite Industry Pressure
 - [Nasdaq] PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?
-- [OilPrice.com] Washington’s Venezuela Oil Deal Is About Much More Than Crude
 - [Nasdaq] 4 Reasons to Add Host Hotels Stock to Your Portfolio Now
 - [Mining.com] ACG Metals to acquire Keşkek gold project
 - [Nasdaq] Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?
@@ -32,21 +34,19 @@ Generated: 07.09.2026 22:57
 - [Nasdaq] Philips Expands Women's Health Ultrasound Portfolio With New Transducer
 - [Nasdaq] Can Victoria's Secret Keep PINK Growing After Five Strong Quarters?
 - [OilPrice.com] Rosneft Ships First Crude From $157 Billion Vostok Oil Project
-- [MarketWatch] Chip stock investors beware — these charts could warn of further weakness ahead
-- [CoinDesk] Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders
-- [OilPrice.com] Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future
+- [CoinDesk] Polish prosecutors charge fifth suspect in a massive crypto probe
+- [CoinDesk] Stablecoin wallets challenge traditional bank accounts as main consumer money hub
+- [CNBC] Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts
 - [CoinDesk] Solana to triple transaction size as apps get room for more complex trades
 - [CoinDesk] DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
 - [OilPrice.com] Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain
 - [CNBC] Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive
-- [MarketWatch] Why the launch of OpenAI’s latest Astra model reignited the memory chip trade
+- [MarketWatch] Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade
 - [OilPrice.com] China Halts New Battery Storage Plant Approvals
-- [MarketWatch] Is the stock market open today for Labor Day? What about bond trading and mail delivery?
 - [CoinDesk] UK regulator weighs easing financial prediction market ban: Times
 - [CNBC] The bond market had a whirlwind week. Where these traders see buying opportunities
 - [CNBC] Top Wall Street analysts like these 3 stocks for the long haul
 - [CoinDesk] A two-key breach could hand control of $91 billion in USDT to hackers, report finds
-- [OilPrice.com] India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle
 - [Yahoo Finance] Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY
+- [Yahoo Finance] Mortgage and refinance interest rates today, Monday, September 7, 2026: Fixed purchase rates lower than refi rates
 - [Yahoo Finance] Best high-yield savings interest rates today, Monday, September 7, 2026: Earn up to 4.10% APY
-- [OilPrice.com] American and African Crudes Soar as China's Oil Imports Rebound
