@@ -6,16 +6,17 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 07.09.2026 20:42
-38 of 80 news items unmatched this run
+Generated: 07.09.2026 21:55
+40 of 80 news items unmatched this run
 
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%
+- [Investing.com] Colombia stocks higher at close of trade; COLCAP up 0.82%
+- [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 0.61%
 - [Investing.com] Trump says Canada’s Bombardier cannot sell in US unless it builds there
 - [MarketWatch] Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels
 - [Investing.com] Dollar Index bear flag 80% done, breakdown looms: Live levels
 - [CNBC] Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there
 - [Investing.com] Trump demands Bombardier quit US market unless it builds planes there
-- [Investing.com] Tech companies look to Argentina’s windswept Patagonia to build massive data centers
-- [Investing.com] Airbus aircraft deliveries to end-August rose 9%
 - [Nasdaq] 4 Leisure & Recreation Stocks Worth Watching Despite Industry Pressure
 - [Nasdaq] PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?
 - [Nasdaq] 4 Reasons to Add Host Hotels Stock to Your Portfolio Now
@@ -28,14 +29,16 @@ Generated: 07.09.2026 20:42
 - [Nasdaq] C Nears China Brokerage License: Can Onshore Expansion Boost Growth?
 - [Nasdaq] Philips Expands Women's Health Ultrasound Portfolio With New Transducer
 - [Nasdaq] Can Victoria's Secret Keep PINK Growing After Five Strong Quarters?
-- [MarketWatch] Chip stock investors beware — these charts could warn of further weakness ahead
 - [CoinDesk] Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders
+- [OilPrice.com] Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future
 - [OilPrice.com] Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat
 - [CoinDesk] Solana to triple transaction size as apps get room for more complex trades
 - [CoinDesk] DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
 - [OilPrice.com] Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain
 - [CNBC] Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive
 - [MarketWatch] Why the launch of OpenAI’s latest Astra model reignited the memory chip trade
+- [OilPrice.com] China Halts New Battery Storage Plant Approvals
+- [Mining.com] Brazil targets bigger role in critical minerals rush
 - [CoinDesk] UK regulator weighs easing financial prediction market ban: Times
 - [CNBC] The bond market had a whirlwind week. Where these traders see buying opportunities
 - [CNBC] Top Wall Street analysts like these 3 stocks for the long haul
@@ -44,6 +47,5 @@ Generated: 07.09.2026 20:42
 - [Yahoo Finance] Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY
 - [Yahoo Finance] Mortgage and refinance interest rates today, Monday, September 7, 2026: Fixed purchase rates lower than refi rates
 - [Yahoo Finance] Best high-yield savings interest rates today, Monday, September 7, 2026: Earn up to 4.10% APY
-- [Yahoo Finance] HELOC and home equity loan rates today, Monday, September 7, 2026: A 19-basis-point differential
 - [OilPrice.com] American and African Crudes Soar as China's Oil Imports Rebound
 - [CNBC] China says it will pump $54 billion into banks and insurers — but their stocks still fell
