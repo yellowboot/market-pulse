@@ -6,44 +6,36 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 07.09.2026 16:36
-38 of 80 news items unmatched this run
+Generated: 07.09.2026 18:00
+30 of 80 news items unmatched this run
 
-- [Yahoo Finance] Chewy vs. Coupang: Which Consumer Stock Is a Better Buy in 2026?
+- [Yahoo Finance] Pampa Energía Founder Marcos Mindlin Buys 150,000 Shares for $507,000. Is This a Signal for Investors to Also Buy?
+- [Yahoo Finance] Company Insider Waves Goodbye to 9,500 Shares of Iconic Stock
+- [Yahoo Finance] AST SpaceMobile Director Adriana Cisneros Buys $619,235 Shares. What Does This Mean for Investors?
+- [Yahoo Finance] AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge
+- [Yahoo Finance] Elon Musk’s Boring Company Has an Unusual Requirement for Its New Funding Round
 - [CNBC] Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit
-- [Yahoo Finance] New York Office CMBS Loans Drive 2026 Surge, Data Show
-- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.14%
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.32%
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.17%
-- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.27%
-- [Yahoo Finance] 104-year-old beauty chain closes hundreds of salons
-- [Investing.com] Germany stocks mixed at close of trade; DAX down 0.25%
-- [Investing.com] France stocks higher at close of trade; CAC 40 up 0.33%
-- [Investing.com] Belgium stocks lower at close of trade; BEL 20 down 0.88%
-- [Yahoo Finance] Wall Street Is Underestimating This Stock. Here's My Case for Why It Could Triple in 7 Years.
-- [Investing.com] Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.24%
-- [Investing.com] Finland stocks higher at close of trade; OMX Helsinki 25 up 0.63%
+- [Mining.com] ACG Metals to acquire Keşkek gold project
+- [Nasdaq] Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?
+- [Nasdaq] AJG's Risk Management Business Outpaces Brokerage Organic Growth
+- [Nasdaq] Canadian National Reports Robust Grain Performance Record in August
+- [Nasdaq] AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?
+- [Nasdaq] C Nears China Brokerage License: Can Onshore Expansion Boost Growth?
+- [Nasdaq] Philips Expands Women's Health Ultrasound Portfolio With New Transducer
+- [Nasdaq] Can Victoria's Secret Keep PINK Growing After Five Strong Quarters?
+- [Nasdaq] Can Boot Barn Continue to Expand Its Merchandise Margin?
 - [MarketWatch] Chip stock investors beware — these charts could warn of further weakness ahead
-- [Yahoo Finance] CAVA COO Douglas Thompson Buys 6,500 Shares, Valued at $432,000
+- [Nasdaq] Can DUOL's 23% Daily User Growth Sustain Its Momentum?
+- [Nasdaq] Novartis Late-Stage Cardiovascular Outcome Study Fails, Stock Down
+- [CoinDesk] Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders
+- [Nasdaq] Strength in Transportation & Electronics Unit Drives 3M: A Sign of More Upside?
 - [Yahoo Finance] Entegris (ENTG) Positions to Benefit From Rebounding Wafer Starts and Memory Capex
-- [CoinDesk] Polish prosecutors charge fifth suspect in a massive crypto probe
+- [Nasdaq] Houlihan Lokey Down 21% YTD: Buy the Dip or Stay Cautious?
+- [Nasdaq] Archer Daniels Targets $500M-$750M in Savings: Can It Deliver?
+- [Nasdaq] MYR Group Reports Record Q2 Revenues: Can It Maintain This Pace?
 - [Yahoo Finance] Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage
 - [Yahoo Finance] Why Active Owners Are Betting on Jack in the Box (JACK)
-- [Nasdaq] SNAL Stock Dips 41% in a Month: Should Investors Buy, Sell, or Hold?
-- [Nasdaq] SMG to Expand Soil Amendment Portfolio With Black Kow Acquisition
-- [Nasdaq] ISRG's Ion Platform Is Quietly Becoming a Second Growth Engine
-- [Nasdaq] Here's Why Teladoc's Integrated Care Business Deserves More Attention
-- [Nasdaq] POSCO Secures $700 Million Facility for Argentina Lithium Operations
-- [Nasdaq] Here's How CVS Is Focusing on Aetna's Profitability Turnaround
-- [Nasdaq] ONDS Stock Sinks 22% YTD: Is it Time to Hold Tight or Head for Exit?
-- [Nasdaq] Key Reasons to Add Welltower Stock to Your Portfolio Right Now
-- [Nasdaq] Can Innodata Make Agentic AI Deployment an Enterprise Growth Driver?
-- [Nasdaq] Should Investors Buy FET Stock After Its Massive 207% One-Year Run?
 - [Yahoo Finance] American and African Crudes Soar as China's Oil Imports Rebound
-- [Nasdaq] Ares Management Up 28.8% in 6 Months: How to Approach the Stock Now
-- [Nasdaq] NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti
-- [Yahoo Finance] Here’s Why SGA U.S. LCG Liquidated Its Position in Aon plc (AON)
-- [Yahoo Finance] Do You Believe West Pharmaceutical Services (WST) Represents a Tremendous Opportunity?
+- [CoinDesk] Stablecoin wallets challenge traditional bank accounts as main consumer money hub
 - [CoinDesk] Solana to triple transaction size as apps get room for more complex trades
 - [CoinDesk] DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
