@@ -6,42 +6,44 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 06.09.2026 17:32
-36 of 80 news items unmatched this run
+Generated: 07.09.2026 16:36
+38 of 80 news items unmatched this run
 
-- [Yahoo Finance] 2 Superior Growth Stocks to Buy and Hold for 10 Years
-- [Yahoo Finance] Overlooked EV stock surges despite buyers abandoning zero-emission cars
-- [Yahoo Finance] The Stock Market Just Entered Its Worst Month of the Year. History Says This Is What Investors Should Do.
-- [Yahoo Finance] Where Will SCHD Stock Be in 5 Years?
-- [Yahoo Finance] Global dining leader closing 261 restaurants, steakhouse chain
-- [Yahoo Finance] What to Invest in for the Next 5 Years: My Prediction Is Boring, and That's the Point
-- [Yahoo Finance] Forget the "Magnificent Seven." This Payments Stock Could Be the Better Long-Term Bet.
-- [Yahoo Finance] Uh Oh! BigBear.ai's Stock Dropped Below $3. Does That Mean a Reverse Split Is Imminent?
-- [CoinDesk] Ukrainian police took down a crypto scam that stole up to $1 million a month
-- [CNBC] SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers
-- [Yahoo Finance] No bailout for Jaguar Land Rover, says minister
-- [Yahoo Finance] Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher
-- [Yahoo Finance] Citi and ANZ raise Brent crude forecasts amid Middle East supply disruptions
-- [Yahoo Finance] 1 Cryptocurrency Up 29% in 3 Weeks to Buy Before It Soars Another 515% by 2029
-- [Yahoo Finance] Warren Buffett's Berkshire raises stake in media giant
-- [Investing.com] Brazilian court suspends licenses for Sigma Lithium mine
-- [Yahoo Finance] Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits
-- [Yahoo Finance] Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force
-- [Yahoo Finance] The Next Year Will Define Vaxcyte’s (PCVX) Vaccine Gamble
-- [Yahoo Finance] Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch
-- [Yahoo Finance] Murphy USA (MUSA) Delivers Robust Second-Quarter Earnings on Surging Fuel Margins
-- [Yahoo Finance] Wynn Resorts (WYNN) Doubles Its Profit But Cracks Are Showing
-- [CNBC] Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here
-- [Investing.com] Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.32%
-- [Investing.com] China to inject $54 billion into state banks and insurers
-- [CNBC] Many truckers don't feel like the rest of America about AI data centers as business booms
-- [CNBC] AI data centers are transforming rural land markets — and fueling a backlash
-- [OilPrice.com] Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment
-- [Investing.com] The AI Economy: Why cheaper tokens still lead to bigger bills
-- [Nasdaq] Barclays Upgrades W. P. Carey to Equal-Weight from Underweight
-- [Nasdaq] Piper Sandler Upgrades Simmons First National to Overweight from Neutral
-- [Nasdaq] Canaccord Genuity Initiates Coverage of Belite Bio, Inc - Depositary Receipt at Buy
-- [Nasdaq] Wolfe Research Initiates Coverage of Wynn Resorts at Outperform
-- [Nasdaq] StoneX Initiates Coverage of Lennar at Hold
-- [MarketWatch] 7% mortgage rates are already here, some buyers and mortgage experts say
-- [OilPrice.com] Iran War Forces a Rewrite of Global Oil Trade Routes
+- [Yahoo Finance] Chewy vs. Coupang: Which Consumer Stock Is a Better Buy in 2026?
+- [CNBC] Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit
+- [Yahoo Finance] New York Office CMBS Loans Drive 2026 Surge, Data Show
+- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.14%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.32%
+- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.17%
+- [Investing.com] Italy stocks higher at close of trade; Investing.com Italy 40 up 0.27%
+- [Yahoo Finance] 104-year-old beauty chain closes hundreds of salons
+- [Investing.com] Germany stocks mixed at close of trade; DAX down 0.25%
+- [Investing.com] France stocks higher at close of trade; CAC 40 up 0.33%
+- [Investing.com] Belgium stocks lower at close of trade; BEL 20 down 0.88%
+- [Yahoo Finance] Wall Street Is Underestimating This Stock. Here's My Case for Why It Could Triple in 7 Years.
+- [Investing.com] Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.24%
+- [Investing.com] Finland stocks higher at close of trade; OMX Helsinki 25 up 0.63%
+- [MarketWatch] Chip stock investors beware — these charts could warn of further weakness ahead
+- [Yahoo Finance] CAVA COO Douglas Thompson Buys 6,500 Shares, Valued at $432,000
+- [Yahoo Finance] Entegris (ENTG) Positions to Benefit From Rebounding Wafer Starts and Memory Capex
+- [CoinDesk] Polish prosecutors charge fifth suspect in a massive crypto probe
+- [Yahoo Finance] Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage
+- [Yahoo Finance] Why Active Owners Are Betting on Jack in the Box (JACK)
+- [Nasdaq] SNAL Stock Dips 41% in a Month: Should Investors Buy, Sell, or Hold?
+- [Nasdaq] SMG to Expand Soil Amendment Portfolio With Black Kow Acquisition
+- [Nasdaq] ISRG's Ion Platform Is Quietly Becoming a Second Growth Engine
+- [Nasdaq] Here's Why Teladoc's Integrated Care Business Deserves More Attention
+- [Nasdaq] POSCO Secures $700 Million Facility for Argentina Lithium Operations
+- [Nasdaq] Here's How CVS Is Focusing on Aetna's Profitability Turnaround
+- [Nasdaq] ONDS Stock Sinks 22% YTD: Is it Time to Hold Tight or Head for Exit?
+- [Nasdaq] Key Reasons to Add Welltower Stock to Your Portfolio Right Now
+- [Nasdaq] Can Innodata Make Agentic AI Deployment an Enterprise Growth Driver?
+- [Nasdaq] Should Investors Buy FET Stock After Its Massive 207% One-Year Run?
+- [Yahoo Finance] American and African Crudes Soar as China's Oil Imports Rebound
+- [Nasdaq] Ares Management Up 28.8% in 6 Months: How to Approach the Stock Now
+- [Nasdaq] NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti
+- [Yahoo Finance] Here’s Why SGA U.S. LCG Liquidated Its Position in Aon plc (AON)
+- [Yahoo Finance] Do You Believe West Pharmaceutical Services (WST) Represents a Tremendous Opportunity?
+- [CoinDesk] Solana to triple transaction size as apps get room for more complex trades
+- [CoinDesk] DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
