@@ -6,13 +6,16 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 07.09.2026 18:48
-38 of 80 news items unmatched this run
+Generated: 07.09.2026 19:36
+35 of 80 news items unmatched this run
 
-- [Investing.com] Trump demands Bombardier quit US market unless it builds planes there
-- [Investing.com] Tech companies look to Argentina’s windswept Patagonia to build massive data centers
+- [MarketWatch] Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels
+- [Investing.com] Dollar Index bear flag 80% done, breakdown looms: Live levels
 - [Investing.com] Trump says Canada’s Bombardier cannot sell in US unless it builds there
+- [CNBC] Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there
+- [Investing.com] Trump demands Bombardier quit US market unless it builds planes there
 - [Investing.com] Airbus aircraft deliveries to end-August rose 9%
+- [Nasdaq] 4 Leisure & Recreation Stocks Worth Watching Despite Industry Pressure
 - [Nasdaq] PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?
 - [Nasdaq] 4 Reasons to Add Host Hotels Stock to Your Portfolio Now
 - [CNBC] Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit
@@ -25,20 +28,15 @@ Generated: 07.09.2026 18:48
 - [Nasdaq] Philips Expands Women's Health Ultrasound Portfolio With New Transducer
 - [Nasdaq] Can Victoria's Secret Keep PINK Growing After Five Strong Quarters?
 - [Nasdaq] Can Boot Barn Continue to Expand Its Merchandise Margin?
-- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.11%
-- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.14%
-- [MarketWatch] Chip stock investors beware — these charts could warn of further weakness ahead
-- [Nasdaq] Can DUOL's 23% Daily User Growth Sustain Its Momentum?
-- [Nasdaq] Novartis Late-Stage Cardiovascular Outcome Study Fails, Stock Down
 - [CoinDesk] Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders
 - [CoinDesk] Polish prosecutors charge fifth suspect in a massive crypto probe
-- [OilPrice.com] Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat
 - [CoinDesk] Solana to triple transaction size as apps get room for more complex trades
 - [CoinDesk] DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits
 - [OilPrice.com] Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain
-- [MarketWatch] Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels
 - [CNBC] Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive
 - [MarketWatch] Why the launch of OpenAI’s latest Astra model reignited the memory chip trade
+- [OilPrice.com] China Halts New Battery Storage Plant Approvals
+- [Mining.com] Brazil targets bigger role in critical minerals rush
 - [CoinDesk] UK regulator weighs easing financial prediction market ban: Times
 - [CNBC] The bond market had a whirlwind week. Where these traders see buying opportunities
 - [CNBC] Top Wall Street analysts like these 3 stocks for the long haul
@@ -46,4 +44,3 @@ Generated: 07.09.2026 18:48
 - [OilPrice.com] India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle
 - [OilPrice.com] American and African Crudes Soar as China's Oil Imports Rebound
 - [CNBC] China says it will pump $54 billion into banks and insurers — but their stocks still fell
-- [OilPrice.com] High Crude and LNG Prices Weigh on India’s Oil and Gas Sector
