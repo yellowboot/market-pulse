@@ -6,42 +6,32 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 08.09.2026 18:00
-36 of 80 news items unmatched this run
+Generated: 08.09.2026 19:16
+26 of 80 news items unmatched this run
 
+- [CNBC] Dow drops 600 points to start shortened week as oil prices climb: Live updates
+- [CNBC] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities
+- [MarketWatch] Why a stronger Japanese currency could spell trouble for AI and technology stocks
+- [Investing.com] Constellation Brands options signals short-term bearish positioning at 52-week low
+- [Investing.com] Why is Constellation Brands stock sliding to a 52-week low today?
+- [Investing.com] Buyout firm CVC explores $2 billion sale of Dr Teal’s parent company, sources say
+- [Investing.com] Why is Tenable stock slipping today?
+- [Investing.com] Top Biotechnology Stock: H.C. Wainwright Highlights Fractyl Health
+- [Nasdaq] Tuesday's ETF with Unusual Volume: NFRA
+- [Nasdaq] Tuesday 9/8 Insider Buying Report: ENOV, OBIO
 - [Nasdaq] Cash Dividend On The Way From Alpine Income Property Trust's Series A Preferred Stock
-- [Yahoo Finance] GameStop Q2 2026 earnings: profit rises, full-year outlook raised
-- [Yahoo Finance] Stock Market Today: Dow Dives, These Stocks Lose Key Level; Aerospace Play Up After Trump Attack (Live Coverage)
-- [Yahoo Finance] Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.
-- [Yahoo Finance] Arm’s Biggest Growth Driver May Not Be Smartphones Anymore
 - [MarketWatch] A contrarian case for stock-market gains through the midterm election
-- [Yahoo Finance] Holtec Nuclear launches $900 million IPO at $10.2 billion valuation
 - [MarketWatch] Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.
-- [Investing.com] UNFI earnings analysis: questions answered and next catalysts
-- [Yahoo Finance] Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day
-- [CNBC] Dow drops 500 points to start shortened week as oil prices climb: Live updates
-- [Investing.com] SMH vs. IGV pairs trade: semiconductors lead software, convergence not confirmed
-- [Investing.com] Exclusive: J&J Snack Foods CEO sees a leaner business set up to return to growth
+- [Nasdaq] Is Realty Income's 5.3% Yield Still Compelling? Buy or Hold the Stock?
 - [CNBC] Two optical stocks are gaining momentum following corrections. Katie Stockton says watch these levels
-- [Investing.com] Andel to sell $467 million Orsted stake a year after capital raise - Bloomberg
-- [Yahoo Finance] United Natural Foods, Inc. Q4 2026 Earnings Call Summary
-- [Yahoo Finance] Why Valaris (VAL) Surged on a Takeover Bid
-- [Yahoo Finance] Transocean (RIG) Is Betting Big on Offshore Drilling
-- [Yahoo Finance] Why Moerus Thinks Tidewater (TDW) Has Created Massive Value Since 2018
-- [Yahoo Finance] Douglas Elliman (DOUG) Is Down, But Is the Stock a Bargain?
-- [Yahoo Finance] CNH Industrial (CNH) Looks Undervalued: Why Moerus Is Betting on a Farm Equipment Recovery
-- [Investing.com] Roivant shares jump 17% as lung disease drug meets trial goals
-- [Yahoo Finance] How To Take Advantage Of This Rising Stock With Reduced Risk
+- [Nasdaq] Canadian Pacific Reaches New August Milestone for Grain Shipments
 - [Nasdaq] Can Western Digital's Strong FCF Sustain Buybacks and Dividends?
 - [Nasdaq] Tuesday's ETF Movers: COPX, PPH
 - [Nasdaq] Tuesday Sector Laggards: Specialty Retail, Auto Dealerships
-- [Nasdaq] Tuesday Sector Leaders: Semiconductors, Metals & Mining Stocks
-- [Nasdaq] Daily Dividend Report: ABM,CLDT,FNWD,TSI,MXF
-- [Nasdaq] Will Dry Bulk Market Strength Lead EuroDry Stock to Higher Highs?
-- [Nasdaq] NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?
-- [Nasdaq] Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick
-- [Nasdaq] PACS Expands Florida Footprint With 32-Facility Acquisition
-- [Nasdaq] SSRM Advances With Marigold Growth Initiatives: Can They Aid Upside?
-- [CNBC] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities
 - [CoinDesk] Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
 - [CoinDesk] Circle agrees to buy cross-border payments firm Tazapay for $400 million
+- [OilPrice.com] China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023
+- [Mining.com] Ivanhoe’s giant Makoko copper find gets 30% bigger
+- [Mining.com] MMG faces EU antitrust warning over Anglo nickel deal
+- [Retail Dive] Ace Hardware: ‘We’re in the business of building national brands’
+- [CNBC] RBC says this fast casual stock down 50% from its highs is set to rise
