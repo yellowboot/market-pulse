@@ -6,45 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 08.09.2026 16:55
-39 of 80 news items unmatched this run
+Generated: 08.09.2026 18:00
+36 of 80 news items unmatched this run
 
-- [Yahoo Finance] FPT to acquire Nippon Seiki’s Polish automotive software unit
-- [Yahoo Finance] Warning: 18 Years of Maxing Out a Trump Account Could Leave Half of That Money Taxable
-- [Yahoo Finance] NuScale Power Stock Broke Out in August. Is It a Buy?
-- [Yahoo Finance] Is Novo Nordisk Stock Still Too Cheap for Investors to Ignore?
-- [Yahoo Finance] People Moves: RIA Beacon Pointe Hires Execs from BlackRock, Vanguard
+- [Nasdaq] Cash Dividend On The Way From Alpine Income Property Trust's Series A Preferred Stock
+- [Yahoo Finance] GameStop Q2 2026 earnings: profit rises, full-year outlook raised
+- [Yahoo Finance] Stock Market Today: Dow Dives, These Stocks Lose Key Level; Aerospace Play Up After Trump Attack (Live Coverage)
+- [Yahoo Finance] Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.
+- [Yahoo Finance] Arm’s Biggest Growth Driver May Not Be Smartphones Anymore
+- [MarketWatch] A contrarian case for stock-market gains through the midterm election
+- [Yahoo Finance] Holtec Nuclear launches $900 million IPO at $10.2 billion valuation
+- [MarketWatch] Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.
+- [Investing.com] UNFI earnings analysis: questions answered and next catalysts
+- [Yahoo Finance] Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day
+- [CNBC] Dow drops 500 points to start shortened week as oil prices climb: Live updates
+- [Investing.com] SMH vs. IGV pairs trade: semiconductors lead software, convergence not confirmed
+- [Investing.com] Exclusive: J&J Snack Foods CEO sees a leaner business set up to return to growth
+- [CNBC] Two optical stocks are gaining momentum following corrections. Katie Stockton says watch these levels
+- [Investing.com] Andel to sell $467 million Orsted stake a year after capital raise - Bloomberg
+- [Yahoo Finance] United Natural Foods, Inc. Q4 2026 Earnings Call Summary
+- [Yahoo Finance] Why Valaris (VAL) Surged on a Takeover Bid
+- [Yahoo Finance] Transocean (RIG) Is Betting Big on Offshore Drilling
+- [Yahoo Finance] Why Moerus Thinks Tidewater (TDW) Has Created Massive Value Since 2018
+- [Yahoo Finance] Douglas Elliman (DOUG) Is Down, But Is the Stock a Bargain?
+- [Yahoo Finance] CNH Industrial (CNH) Looks Undervalued: Why Moerus Is Betting on a Farm Equipment Recovery
+- [Investing.com] Roivant shares jump 17% as lung disease drug meets trial goals
 - [Yahoo Finance] How To Take Advantage Of This Rising Stock With Reduced Risk
-- [Yahoo Finance] This Could Be the AI Stock That Keeps Surprising Wall Street
-- [Yahoo Finance] T-Pain buys private jet — just a few years after borrowing cash to get Burger King. Break your bad spending habits now
-- [Yahoo Finance] 2 Nuclear Energy Stocks to Buy Before 2026 Ends
-- [Investing.com] Top Oil-Weighted Upstream Stocks, According to Seaport
-- [Investing.com] Jefferies Names Top Franchise Pick
-- [Investing.com] Brazilian court suspends licenses for Sigma Lithium mine
-- [CNBC] Dow drops 600 points to start shortened week as oil prices climb: Live updates
-- [Investing.com] Doximity stock falls as Freedom Capital cuts to hold
-- [Investing.com] Biohaven Pharma stock falls after RBC Capital downgrade
-- [Yahoo Finance] Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)
-- [CNBC] Air traffic control issue disrupts departing flights at major UK airports
+- [Nasdaq] Can Western Digital's Strong FCF Sustain Buybacks and Dividends?
 - [Nasdaq] Tuesday's ETF Movers: COPX, PPH
 - [Nasdaq] Tuesday Sector Laggards: Specialty Retail, Auto Dealerships
 - [Nasdaq] Tuesday Sector Leaders: Semiconductors, Metals & Mining Stocks
 - [Nasdaq] Daily Dividend Report: ABM,CLDT,FNWD,TSI,MXF
-- [CNBC] OpenAI is spurring an under-the-radar run in Softbank as well as chip stocks
+- [Nasdaq] Will Dry Bulk Market Strength Lead EuroDry Stock to Higher Highs?
+- [Nasdaq] NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?
 - [Nasdaq] Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick
-- [Yahoo Finance] Strong Results Lifted Garrett Motion (GTX) in Q2
-- [Yahoo Finance] Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock
-- [Yahoo Finance] The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales
+- [Nasdaq] PACS Expands Florida Footprint With 32-Facility Acquisition
+- [Nasdaq] SSRM Advances With Marigold Growth Initiatives: Can They Aid Upside?
 - [CNBC] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities
 - [CoinDesk] Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
-- [Nasdaq] Hawkins Expands in Florida With Dave Symonds Acquisition
-- [CNBC] Here’s where rental demand is heading and what it means for future home sales
-- [Nasdaq] Post Holdings' Premium Cereal Gains Share Amid Category Pressure
-- [Nasdaq] Plug Power Surges 10.1% YTD: Should Investors Ride the Rally?
-- [Nasdaq] Is AIG Stock Worth Holding as Buybacks Boost Shareholder Value?
-- [Nasdaq] Nyxoah Stock Down Despite First Genio Implant in U.S. BREATHE Trial
-- [Nasdaq] MasTec Trades at a Premium: Should Investors Buy the Stock or Fold?
-- [Yahoo Finance] Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet
-- [Yahoo Finance] Oil Prices Are Once Again on the Brink of $100
-- [Yahoo Finance] Rubis Turns Expensive Oil Into a Guidance Upgrade
-- [Yahoo Finance] Consumers more worried about personal finances and jobs, New York Fed report shows
+- [CoinDesk] Circle agrees to buy cross-border payments firm Tazapay for $400 million
