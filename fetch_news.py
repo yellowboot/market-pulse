@@ -109,6 +109,7 @@ COMPANY_MAP = [
     {"ticker": "EXTR", "sector": "Semiconductors",         "names": ["Extreme Networks"]},
     {"ticker": "SNPS", "sector": "Semiconductors",         "names": ["Synopsys"]},
     {"ticker": "HPQ",  "sector": "Semiconductors",         "names": ["HP Inc"]},
+    {"ticker": "RGTI", "sector": "Semiconductors",         "names": ["Rigetti Computing", "Rigetti"]},
 
     # ---- AI infrastructure / "neocloud" (GPU rental, AI servers) —
     # split out from Software / Cloud because these are hardware/compute
@@ -118,6 +119,8 @@ COMPANY_MAP = [
     {"ticker": "NBIS", "sector": "AI Infrastructure",      "names": ["Nebius"]},
     {"ticker": "SMCI", "sector": "AI Infrastructure",      "names": ["Super Micro Computer", "Super Micro", "Supermicro"]},
     {"ticker": "DELL", "sector": "AI Infrastructure",      "names": ["Dell Technologies", "Dell"]},
+    {"ticker": "LITE", "sector": "AI Infrastructure",      "names": ["Lumentum Holdings", "Lumentum"]},
+    {"ticker": "SNX",  "sector": "AI Infrastructure",      "names": ["TD Synnex"]},
 
     # ---- Software / AI / Cybersecurity / Cloud ----
     {"ticker": "CRWD", "sector": "Cybersecurity",      "names": ["CrowdStrike"]},
@@ -161,7 +164,7 @@ COMPANY_MAP = [
     {"ticker": "COST", "sector": "Consumer Goods", "names": ["Costco"]},
     {"ticker": "PG",   "sector": "Consumer Goods", "names": ["Procter & Gamble"]},
     {"ticker": "LULU", "sector": "Consumer Goods", "names": ["Lululemon"]},
-    {"ticker": "TGT",  "sector": "Consumer Goods", "names": ["Target"]},
+    {"ticker": "TGT",  "sector": "Consumer Goods", "names": ["Target Corp", "Target Corporation"]},
     {"ticker": "M",    "sector": "Consumer Goods", "names": ["Macy's", "Macys"]},
     {"ticker": "KSS",  "sector": "Consumer Goods", "names": ["Kohl's", "Kohls"]},
     {"ticker": "GAP",  "sector": "Consumer Goods", "names": ["Gap Inc"]},
@@ -212,6 +215,7 @@ COMPANY_MAP = [
     {"ticker": "V",    "sector": "Payments / Fintech",       "names": ["Visa"]},
     {"ticker": "MA",   "sector": "Payments / Fintech",       "names": ["Mastercard"]},
     {"ticker": "PYPL", "sector": "Payments / Fintech",       "names": ["PayPal"]},
+    {"ticker": "HOOD", "sector": "Payments / Fintech",       "names": ["Robinhood"]},
 
     # ---- Healthcare / pharma / biotech ----
     {"ticker": "PFE",  "sector": "Healthcare",        "names": ["Pfizer"]},
@@ -223,11 +227,16 @@ COMPANY_MAP = [
     {"ticker": "GILD", "sector": "Healthcare",        "names": ["Gilead Sciences", "Gilead"]},
     {"ticker": "BSX",  "sector": "Healthcare",        "names": ["Boston Scientific"]},
     {"ticker": "RVMD", "sector": "Healthcare",        "names": ["Revolution Medicines"]},
+    {"ticker": "AZN",  "sector": "Healthcare",        "names": ["AstraZeneca"]},
+    {"ticker": "NVS",  "sector": "Healthcare",        "names": ["Novartis"]},
+    {"ticker": "AMGN", "sector": "Healthcare",        "names": ["Amgen"]},
+    {"ticker": "ZTS",  "sector": "Healthcare",        "names": ["Zoetis"]},
 
     # ---- Industrials / infrastructure ----
     {"ticker": "CAT",  "sector": "Industrials",         "names": ["Caterpillar"]},
     {"ticker": "HON",  "sector": "Industrials",         "names": ["Honeywell"]},
-    {"ticker": "GE",   "sector": "Industrials",         "names": ["General Electric"]},
+    {"ticker": "GE",   "sector": "Industrials",         "names": ["General Electric", "GE Aerospace"]},
+    {"ticker": "BDRBF","sector": "Industrials",         "names": ["Bombardier"]},
 
     # ---- Telecom / utilities ----
     {"ticker": "T",    "sector": "Telecom",                "names": ["AT&T"]},
@@ -241,12 +250,14 @@ COMPANY_MAP = [
     {"ticker": "ABNB", "sector": "Airlines / Travel", "names": ["Airbnb"]},
     {"ticker": "UBER", "sector": "Airlines / Travel", "names": ["Uber"]},
     {"ticker": "LVS",  "sector": "Airlines / Travel", "names": ["Las Vegas Sands"]},
+    {"ticker": "TCOM", "sector": "Airlines / Travel", "names": ["Trip.com"]},
 
     # ---- Crypto ----
     {"ticker": "BTC",  "sector": "Cryptocurrencies",           "names": ["Bitcoin"]},
     {"ticker": "ETH",  "sector": "Cryptocurrencies",           "names": ["Ethereum"]},
     {"ticker": "COIN", "sector": "Cryptocurrencies",           "names": ["Coinbase"]},
     {"ticker": "MSTR", "sector": "Cryptocurrencies",           "names": ["MicroStrategy", "Strategy"]},
+    {"ticker": "CRCL", "sector": "Cryptocurrencies",           "names": ["Circle Internet Group", "Circle Internet Financial"]},
 
     # ---- Bonds / macro (not companies, but market terms) ----
     {"ticker": "UST10Y","sector": "Bonds / Macro",     "names": ["10-year Treasury", "Treasury yield", "Treasury yields", "U.S. Treasury"]},
