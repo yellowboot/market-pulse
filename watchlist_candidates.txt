@@ -6,44 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 08.09.2026 15:14
-38 of 80 news items unmatched this run
+Generated: 08.09.2026 16:55
+39 of 80 news items unmatched this run
 
-- [CNBC] Dow drops more than 500 points to start shortened week as oil prices climb: Live updates
-- [CNBC] AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes
-- [Yahoo Finance] Why Rigetti Computing Popped Today
-- [Yahoo Finance] TD Synnex (SNX) Shares Jump Over 50% on Cloud Growth and AI Infrastructure Demand
-- [Yahoo Finance] Cathie Wood Just Went Bargain Hunting. Here Are the 3 AI Stocks She Bought.
-- [Yahoo Finance] Datavault AI Sets September 15 Launch for Three Exchange Platforms as Commercial Phase Begins
-- [Yahoo Finance] Zoetis (ZTS) Shares Drop After Earnings Revision
-- [Yahoo Finance] Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)
-- [Yahoo Finance] Flipkart begins internal food delivery pilot in Bengaluru, India
-- [Yahoo Finance] TruGolf Holdings Binding Distribution MOU Expands Canadian Market Reach
-- [Yahoo Finance] 5 Monthly Dividend Stocks Built to Keep the Checks Coming
-- [CoinDesk] Circle agrees to buy cross-border payments firm Tazapay for $400 million
-- [MarketWatch] Novartis’s failed trial for cholesterol drug leads to broad biopharma stock selloff
-- [Investing.com] Why is Bombardier stock dropping today?
-- [Investing.com] Robinhood to route football contracts through OG.com exchange
+- [Yahoo Finance] FPT to acquire Nippon Seiki’s Polish automotive software unit
+- [Yahoo Finance] Warning: 18 Years of Maxing Out a Trump Account Could Leave Half of That Money Taxable
+- [Yahoo Finance] NuScale Power Stock Broke Out in August. Is It a Buy?
+- [Yahoo Finance] Is Novo Nordisk Stock Still Too Cheap for Investors to Ignore?
+- [Yahoo Finance] People Moves: RIA Beacon Pointe Hires Execs from BlackRock, Vanguard
+- [Yahoo Finance] How To Take Advantage Of This Rising Stock With Reduced Risk
+- [Yahoo Finance] This Could Be the AI Stock That Keeps Surprising Wall Street
+- [Yahoo Finance] T-Pain buys private jet — just a few years after borrowing cash to get Burger King. Break your bad spending habits now
+- [Yahoo Finance] 2 Nuclear Energy Stocks to Buy Before 2026 Ends
+- [Investing.com] Top Oil-Weighted Upstream Stocks, According to Seaport
+- [Investing.com] Jefferies Names Top Franchise Pick
+- [Investing.com] Brazilian court suspends licenses for Sigma Lithium mine
+- [CNBC] Dow drops 600 points to start shortened week as oil prices climb: Live updates
+- [Investing.com] Doximity stock falls as Freedom Capital cuts to hold
+- [Investing.com] Biohaven Pharma stock falls after RBC Capital downgrade
+- [Yahoo Finance] Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)
+- [CNBC] Air traffic control issue disrupts departing flights at major UK airports
+- [Nasdaq] Tuesday's ETF Movers: COPX, PPH
+- [Nasdaq] Tuesday Sector Laggards: Specialty Retail, Auto Dealerships
+- [Nasdaq] Tuesday Sector Leaders: Semiconductors, Metals & Mining Stocks
+- [Nasdaq] Daily Dividend Report: ABM,CLDT,FNWD,TSI,MXF
+- [CNBC] OpenAI is spurring an under-the-radar run in Softbank as well as chip stocks
+- [Nasdaq] Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick
+- [Yahoo Finance] Strong Results Lifted Garrett Motion (GTX) in Q2
+- [Yahoo Finance] Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock
+- [Yahoo Finance] The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales
 - [CNBC] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities
-- [Investing.com] Bombardier shares drop as Trump threatens U.S. sales ban
-- [Investing.com] Bombardier shares fall after Trump threatens US market access
-- [Investing.com] Forgent Power Solutions may see 15% move on Sept. 15 earnings
-- [Investing.com] Trip.com shares may move 5.6% on Sept. 15 earnings report
-- [Investing.com] Sigma Lithium stock tumbles on mining license suspension
-- [Nasdaq] Ex-Div Reminder for Auburn National Bancorp (AUBN)
-- [Nasdaq] Cash Dividend On The Way From Genpact (G)
-- [Nasdaq] Yum! Brands About To Put More Money In Your Pocket (YUM)
-- [Nasdaq] Victory Capital Holdings About To Put More Money In Your Pocket (VCTR)
-- [Nasdaq] AGI Ex-Dividend Reminder - 9/10/26
-- [Nasdaq] Cash Dividend On The Way From Popular (BPOP)
-- [Nasdaq] Ex-Div Reminder for Mercury General (MCY)
-- [Nasdaq] Rush Enterprises About To Put More Money In Your Pocket (RUSHB)
-- [Nasdaq] Cash Dividend On The Way From Vishay Intertechnology (VSH)
-- [Nasdaq] Cash Dividend On The Way From UMB Financial (UMBF)
-- [Yahoo Finance] E-commerce facilitator ShipStation eyes major global expansion
-- [Yahoo Finance] Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential
-- [CNBC] GE Aerospace to spend nearly $12 billion to bring key castings supplier in-house
-- [MarketWatch] The investment lessons from the Vanguard 500 Index fund’s 50-year history
-- [CNBC] Australia targets algorithmic social feeds as it looks to hit Big Tech harder
-- [Nasdaq] 3 Stocks to Grab that Declared Dividend Hikes Amid Market Volatility
-- [CNBC] Pharma major Novartis falls 9% after three drug trial setbacks
+- [CoinDesk] Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
+- [Nasdaq] Hawkins Expands in Florida With Dave Symonds Acquisition
+- [CNBC] Here’s where rental demand is heading and what it means for future home sales
+- [Nasdaq] Post Holdings' Premium Cereal Gains Share Amid Category Pressure
+- [Nasdaq] Plug Power Surges 10.1% YTD: Should Investors Ride the Rally?
+- [Nasdaq] Is AIG Stock Worth Holding as Buybacks Boost Shareholder Value?
+- [Nasdaq] Nyxoah Stock Down Despite First Genio Implant in U.S. BREATHE Trial
+- [Nasdaq] MasTec Trades at a Premium: Should Investors Buy the Stock or Fold?
+- [Yahoo Finance] Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet
+- [Yahoo Finance] Oil Prices Are Once Again on the Brink of $100
+- [Yahoo Finance] Rubis Turns Expensive Oil Into a Guidance Upgrade
+- [Yahoo Finance] Consumers more worried about personal finances and jobs, New York Fed report shows
