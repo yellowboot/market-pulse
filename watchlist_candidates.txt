@@ -6,32 +6,27 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 08.09.2026 19:16
-26 of 80 news items unmatched this run
+Generated: 08.09.2026 20:06
+21 of 80 news items unmatched this run
 
-- [CNBC] Dow drops 600 points to start shortened week as oil prices climb: Live updates
+- [CNBC] Dow closes 600 points lower in back-to-back losses as oil prices gain: Live updates
+- [Investing.com] Why is iShares Expanded Tech-Software Sector ETF stock sliding today?
+- [CNBC] These dividend stocks could catch a tailwind from data center pushback
+- [Investing.com] Why is Booking stock sliding today?
+- [Nasdaq] KeyCorp's Preferred Stock, Series F Crosses Above 7% Yield Territory
+- [Nasdaq] Pebblebrook Hotel Trust's Series J Preferred Shares Crosses Above 8% Yield Territory
+- [Nasdaq] Notable Tuesday Option Activity: PSIX, IREN, LQDA
+- [Investing.com] AEO options flow shows 2.1:1 call/put ratio ahead of earnings
 - [CNBC] Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities
-- [MarketWatch] Why a stronger Japanese currency could spell trouble for AI and technology stocks
-- [Investing.com] Constellation Brands options signals short-term bearish positioning at 52-week low
-- [Investing.com] Why is Constellation Brands stock sliding to a 52-week low today?
-- [Investing.com] Buyout firm CVC explores $2 billion sale of Dr Teal’s parent company, sources say
-- [Investing.com] Why is Tenable stock slipping today?
-- [Investing.com] Top Biotechnology Stock: H.C. Wainwright Highlights Fractyl Health
 - [Nasdaq] Tuesday's ETF with Unusual Volume: NFRA
 - [Nasdaq] Tuesday 9/8 Insider Buying Report: ENOV, OBIO
 - [Nasdaq] Cash Dividend On The Way From Alpine Income Property Trust's Series A Preferred Stock
-- [MarketWatch] A contrarian case for stock-market gains through the midterm election
 - [MarketWatch] Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.
-- [Nasdaq] Is Realty Income's 5.3% Yield Still Compelling? Buy or Hold the Stock?
 - [CNBC] Two optical stocks are gaining momentum following corrections. Katie Stockton says watch these levels
-- [Nasdaq] Canadian Pacific Reaches New August Milestone for Grain Shipments
-- [Nasdaq] Can Western Digital's Strong FCF Sustain Buybacks and Dividends?
-- [Nasdaq] Tuesday's ETF Movers: COPX, PPH
-- [Nasdaq] Tuesday Sector Laggards: Specialty Retail, Auto Dealerships
+- [CNBC] Air traffic control issue disrupts departing flights at major UK airports
 - [CoinDesk] Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
+- [CNBC] Here’s where rental demand is heading and what it means for future home sales
 - [CoinDesk] Circle agrees to buy cross-border payments firm Tazapay for $400 million
 - [OilPrice.com] China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023
 - [Mining.com] Ivanhoe’s giant Makoko copper find gets 30% bigger
 - [Mining.com] MMG faces EU antitrust warning over Anglo nickel deal
-- [Retail Dive] Ace Hardware: ‘We’re in the business of building national brands’
-- [CNBC] RBC says this fast casual stock down 50% from its highs is set to rise
