@@ -6,16 +6,19 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 08.09.2026 22:55
-32 of 80 news items unmatched this run
+Generated: 08.09.2026 23:34
+33 of 80 news items unmatched this run
 
 - [CNBC] Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates
+- [Investing.com] US Justice Department widens probe into Fox’s Roku deal, Semafor reports
+- [Investing.com] Paramount says California AG contradicted bond arguments in TV interviews
 - [Investing.com] Smithfield Foods expects to swing to third-quarter operating loss in fresh pork business
 - [Investing.com] Why is Evommune stock plunging today?
 - [Investing.com] Evommune stock tumbles after trial misses primary endpoint
 - [Investing.com] Why is Block stock climbing today?
 - [CNBC] LIV Golf files for Chapter 11 bankruptcy protection
 - [Investing.com] Block applies for OCC charter to launch digital asset trust bank
+- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%
 - [Nasdaq] Shares of AVGB Now Oversold
 - [Nasdaq] American Century Diversified Municipal Bond (TAXF) Enters Oversold Territory
 - [Nasdaq] Canada Goose Holdings Becomes Oversold (GOOS)
@@ -24,7 +27,6 @@ Generated: 08.09.2026 22:55
 - [Nasdaq] Revolve Group Enters Oversold Territory (RVLV)
 - [Nasdaq] Ranpak Holdings Enters Oversold Territory (PACK)
 - [Nasdaq] Acushnet Holdings Enters Oversold Territory (GOLF)
-- [CNBC] Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more
 - [CNBC] Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships
 - [Nasdaq] Safehold (SAFE) Shares Cross Below 200 DMA
 - [Nasdaq] Qiagen (QGEN) Shares Cross Below 200 DMA
@@ -33,11 +35,10 @@ Generated: 08.09.2026 22:55
 - [CNBC] These dividend stocks could catch a tailwind from data center pushback
 - [CNBC] Memory stocks are pressing their summer highs. Where the charts show them going
 - [Mining.com] Marimaca hits thick copper-silver zone at Pampa Medina in Chile
-- [CNBC] Air traffic control issue disrupts departing flights at major UK airports
+- [OilPrice.com] Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens
 - [OilPrice.com] Copper Surges Above $14,500 as Supply Squeeze Deepens
 - [CoinDesk] Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month
 - [CNBC] Here’s where rental demand is heading and what it means for future home sales
 - [CoinDesk] Circle agrees to buy cross-border payments firm Tazapay for $400 million
 - [OilPrice.com] China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023
 - [OilPrice.com] D.C. Gas Ban Gets Favorable Hearing in Federal Appeals Court
-- [Mining.com] Ivanhoe’s giant Makoko copper find gets 30% bigger
