@@ -6,40 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 09.09.2026 17:55
-34 of 80 news items unmatched this run
+Generated: 09.09.2026 19:05
+36 of 80 news items unmatched this run
 
-- [CNBC] Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'
-- [Yahoo Finance] The New Hunter Biden Meme Coin Is Down 98% Since Launch. Here's What Crypto Investors Need to Know.
-- [Mining.com] Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017
-- [Yahoo Finance] Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases
-- [Yahoo Finance] Price Prediction: Target Stock Will Hit The $200 Milestone on This Date
-- [Yahoo Finance] Gasoline prices are 'highest ever for this time of year': Chart of the Day
+- [CNBC] What a historic summer box office reveals about massive shifts in the theatrical industry
+- [CNBC] Signet shares soar as jeweler lifts annual profit forecast
+- [Investing.com] Suno releases new AI music models in partnership with Warner Music, BMG
 - [Investing.com] U.S. stocks and bonds fall as Treasury buyback update disappoints, oil tops $100
-- [Investing.com] European shares slide to over-one-month lows as Brent breaches $100
-- [Yahoo Finance] Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball
+- [Investing.com] Fastly options show 7.3:1 call-to-put ratio ahead of Investor Day
+- [Investing.com] Lyft options flow turns bearish with put/call ratio of 1.82 and $13 strike in focus
+- [Nasdaq] Are Options Traders Betting on a Big Move in Brainsway Stock?
+- [Nasdaq] Wednesday 9/9 Insider Buying Report: GME, TSN
+- [Mining.com] Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017
+- [Nasdaq] Here's Why You Should Retain FactSet Stock in Your Portfolio Now
+- [Nasdaq] Franklin's Arm Set to Expand Alternative Platform With Stoneshield Deal
+- [Nasdaq] NTRS Deepens APAC Asset Servicing Reach With Perpetual Tie-Up
+- [Nasdaq] Can BigBear.ai Keep Expanding Its Government Customer Base?
+- [Nasdaq] Does RYAAY's Bearish FY27 Traffic Outlook Justify a Sell Decision Today?
+- [Nasdaq] Sterling Stock Plunges 35% in 3 Months: Is the Sell-Off Overdone?
+- [Nasdaq] Does Quantum's Debt Elimination Strengthen Its Financial Position?
+- [Nasdaq] LATAM Airlines August 2026 Traffic Improves Year Over Year
+- [Nasdaq] Can Ralph Lauren's Luxury Positioning Drive Brand Momentum?
 - [CNBC] This battered travel stock is seen as an AI victim. But the data suggests otherwise
-- [Yahoo Finance] Oddity Tech Ltd. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Cognyte Software Ltd. Q2 2027 Earnings Call Summary
-- [Yahoo Finance] Chewy, Inc. Q2 2026 Earnings Call Summary
-- [Investing.com] Legal software startup Harvey raises $550m at $15.5b valuation
-- [Yahoo Finance] J.Jill, Inc. Q2 2026 Earnings Call Summary
-- [Investing.com] Fox stock lags Roku as DOJ second request clouds $22 billion deal
-- [Investing.com] Fox Corp and News Corp re-merger: what a $56.5B combination would look like
-- [CNBC] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf
-- [Yahoo Finance] Beloved burger chain goes full MAGA, and sales are soaring. Can you make money on the Trump Train? 3 stocks to bet on
-- [Nasdaq] Will Jacobs' MESH Appointment Bolster Its Energy Transition Prospects?
-- [Nasdaq] Wednesday's ETF with Unusual Volume: BSEP
-- [Nasdaq] Can Clean-Energy Initiatives Support PPL's Long-Term Growth?
+- [MarketWatch] Oil at $100? Why you should always have energy stocks in your 401(k).
 - [CNBC] Why Cramer still recommends being 'a little more reserved' about data center stocks
-- [Nasdaq] AVO Q3 Earnings Beat on Farming Strength and Calavo Contribution
-- [Nasdaq] Wednesday's ETF Movers: SLVR, TAN
-- [Nasdaq] Daily Dividend Report: O,SUI,BHE,JCI,USB
-- [Nasdaq] Wednesday Sector Laggards: Consumer Services, Music & Electronics Stores
-- [Nasdaq] Wednesday Sector Leaders: Precious Metals, Oil & Gas Exploration & Production Stocks
-- [Nasdaq] Here's Why You Should Retain DaVita Stock in Your Portfolio for Now
-- [Nasdaq] GE HealthCare Moves StarGuide GX 4D SPECT/CT Toward FDA Clearance
-- [Nasdaq] Cabot Stock Rallies 17% in 6 Months: Here's What's Driving the Upside
+- [CNBC] LightStream and SoFi both offer personal loans up to $100,000: Which one is right for you?
+- [MarketWatch] Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’
 - [CoinDesk] Tether pushes into private credit with $400 million fund with Fasanara
+- [Yahoo Finance] How long should you wait between credit card applications?
 - [CNBC] Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
+- [MarketWatch] Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates
+- [Yahoo Finance] Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.
 - [Mining.com] Troilus triples value to $3.2B, closes in on funding
+- [CoinDesk] Kalshi election data goes live on DoubleZero ahead of U.S. midterms
+- [CoinDesk] Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut
+- [Mining.com] Galantas exits Omagh gold project in $5M deal
+- [CoinDesk] Algorand names former Chainlink executive William Herkelrath as CEO
+- [Retail Dive] Signet Jewelers delivers ‘quality’ quarter, raises full-year outlook
+- [OilPrice.com] Uganda Launches New Crude Grade as First Oil Exports Near
+- [CoinDesk] Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues
