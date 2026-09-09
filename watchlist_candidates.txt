@@ -6,51 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 09.09.2026 16:56
-45 of 80 news items unmatched this run
+Generated: 09.09.2026 17:55
+34 of 80 news items unmatched this run
 
-- [CNBC] Dow slides 400 points as rates jump, international crude price tops $101: Live updates
 - [CNBC] Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'
-- [Mining.com] Traceability is essential for the critical minerals supply chain, report
-- [Yahoo Finance] Only One of These Four Cryptos Is Up in 2026, and It Is Not XRP, Cardano or Dogecoin
-- [Yahoo Finance] Stock Market Indexes Drop, But One Megacap Gained 6.3%
-- [Yahoo Finance] Principal Just Launched an Equity Premium Income ETF. It Is Walking Into JEPI’s Backyard
+- [Yahoo Finance] The New Hunter Biden Meme Coin Is Down 98% Since Launch. Here's What Crypto Investors Need to Know.
+- [Mining.com] Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017
+- [Yahoo Finance] Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases
+- [Yahoo Finance] Price Prediction: Target Stock Will Hit The $200 Milestone on This Date
+- [Yahoo Finance] Gasoline prices are 'highest ever for this time of year': Chart of the Day
+- [Investing.com] U.S. stocks and bonds fall as Treasury buyback update disappoints, oil tops $100
+- [Investing.com] European shares slide to over-one-month lows as Brent breaches $100
+- [Yahoo Finance] Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball
+- [CNBC] This battered travel stock is seen as an AI victim. But the data suggests otherwise
+- [Yahoo Finance] Oddity Tech Ltd. Q2 2026 Earnings Call Summary
+- [Yahoo Finance] Cognyte Software Ltd. Q2 2027 Earnings Call Summary
+- [Yahoo Finance] Chewy, Inc. Q2 2026 Earnings Call Summary
+- [Investing.com] Legal software startup Harvey raises $550m at $15.5b valuation
+- [Yahoo Finance] J.Jill, Inc. Q2 2026 Earnings Call Summary
+- [Investing.com] Fox stock lags Roku as DOJ second request clouds $22 billion deal
+- [Investing.com] Fox Corp and News Corp re-merger: what a $56.5B combination would look like
 - [CNBC] Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf
-- [Yahoo Finance] OpenAI to Spend $750 Billion on Compute by 2030 — But It’s Short on Capacity
-- [MarketWatch] These are the 10 biggest retirement fears — and what you can do about them
-- [CNBC] How much does it cost to move a midterm prediction market? Not much
-- [Yahoo Finance] Women's retailer closed 450 stores, heads to final liquidation
 - [Yahoo Finance] Beloved burger chain goes full MAGA, and sales are soaring. Can you make money on the Trump Train? 3 stocks to bet on
-- [Investing.com] GameStop earnings analysis: questions answered and next catalysts
-- [Investing.com] Chewy earnings analysis: questions answered and next catalysts
-- [Investing.com] CME Group names Jack Tobin as CFO
-- [Investing.com] Comcast drops 7% on persistent broadband losses and ’irrational’ fiber pricing
-- [Investing.com] Braze earnings analysis: questions answered and next catalysts
-- [Investing.com] ServiceTitan earnings analysis: questions answered and next catalysts
-- [Investing.com] Why is Whitecap Resources stock climbing today?
-- [Investing.com] Dow weighs exit from $20 billion partnership with Aramco, Bloomberg News reports
+- [Nasdaq] Will Jacobs' MESH Appointment Bolster Its Energy Transition Prospects?
 - [Nasdaq] Wednesday's ETF with Unusual Volume: BSEP
-- [Investing.com] European stocks tumble to multi-month lows with oil at $100 and ECB hike in sight
+- [Nasdaq] Can Clean-Energy Initiatives Support PPL's Long-Term Growth?
 - [CNBC] Why Cramer still recommends being 'a little more reserved' about data center stocks
+- [Nasdaq] AVO Q3 Earnings Beat on Farming Strength and Calavo Contribution
 - [Nasdaq] Wednesday's ETF Movers: SLVR, TAN
 - [Nasdaq] Daily Dividend Report: O,SUI,BHE,JCI,USB
 - [Nasdaq] Wednesday Sector Laggards: Consumer Services, Music & Electronics Stores
 - [Nasdaq] Wednesday Sector Leaders: Precious Metals, Oil & Gas Exploration & Production Stocks
-- [Yahoo Finance] Chime Wins Price-Target Hikes On Stride Deal And Raised Guidance, But Shares Slash Early Gains
-- [Yahoo Finance] Why Cable One (CABO) Became a Repeated Short Target?
-- [CNBC] Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level
-- [MarketWatch] Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’
+- [Nasdaq] Here's Why You Should Retain DaVita Stock in Your Portfolio for Now
+- [Nasdaq] GE HealthCare Moves StarGuide GX 4D SPECT/CT Toward FDA Clearance
+- [Nasdaq] Cabot Stock Rallies 17% in 6 Months: Here's What's Driving the Upside
 - [CoinDesk] Tether pushes into private credit with $400 million fund with Fasanara
-- [Nasdaq] Analyst Favorites: Warrior Met Coal Ranks As a Top Metals Pick
-- [Yahoo Finance] Jewelry Stock Surges After Years Of Mostly Sideways Action
-- [Yahoo Finance] A Long-Term Bullish Trade Might Be The Ticket For This Stock
-- [Yahoo Finance] VERAXA Biotech Designates Raju Willener as CFO
-- [Nasdaq] Wednesday 9/9 Insider Buying Report: INBX, AMR
-- [Nasdaq] HYG, UJB: Big ETF Outflows
-- [Nasdaq] SPSB, AIHY: Big ETF Inflows
-- [Yahoo Finance] Brent crude oil rises above $100 a barrel as Middle East conflict intensifies
-- [Nasdaq] Do Options Traders Know Something About Crexendo Stock We Don't?
 - [CNBC] Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
-- [Nasdaq] UNFI Q4 Earnings Beat Estimates on Margin Gains and Cost Savings
-- [Nasdaq] CASY Q1 Earnings Beat Estimates on Inside and Fuel Gains
-- [MarketWatch] Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates
+- [Mining.com] Troilus triples value to $3.2B, closes in on funding
