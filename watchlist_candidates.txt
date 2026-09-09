@@ -6,45 +6,39 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 09.09.2026 19:57
-39 of 80 news items unmatched this run
+Generated: 09.09.2026 21:32
+33 of 80 news items unmatched this run
 
+- [Investing.com] Canada’s Enbridge to buy Tallgrass crude oil business for $2.55 billion
+- [Investing.com] OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report
+- [Nasdaq] Nat-Gas Prices Sink on the Outlook for Weaker US Demand
+- [Nasdaq] Soybeans Pulling off Early Lows but Failing to Bite on Export Business
+- [Nasdaq] Cocoa Prices Rise as Ghana Proposes Raising Farmer Pay
+- [Nasdaq] Dollar Slips Before the Treasury’s Buyback Operation
+- [Nasdaq] Cocoa Prices Gain After Ghana Proposes Raising Farmer Pay
+- [Nasdaq] Tight Near-Term Supplies and Heavy Vietnam Rains Boost Coffee Prices
+- [Investing.com] Want a leveraged ETF but short on time? This one lasts just an hour
+- [Investing.com] Navan raises fiscal 2027 forecast on strong corporate travel demand, customer growth
+- [CNBC] Stocks making the biggest moves after hours: AeroVironment, American Eagle, Cooper Companies & more
+- [Nasdaq] Crude Oil Prices Surge as No End in Sight to US-Iran Conflict
+- [Investing.com] Embraer rating upgraded by Fitch on margin gains
+- [Investing.com] Pinterest options flow points to continued downside after 9% drop
+- [Nasdaq] Birkenstock Holding is Now Oversold (BIRK)
+- [Nasdaq] Oversold Conditions For Dutch Bros (BROS)
+- [Nasdaq] Brookfield Wealth Solutions Enters Oversold Territory (BNT)
+- [Nasdaq] BrightSpire Capital is Now Oversold (BRSP)
+- [Nasdaq] Sugar Prices Finish Sharply Higher as Crude Oil Surges
 - [Mining.com] Mining stocks claim record 60% of 2026 TSX30
-- [Investing.com] EssilorLuxottica board backs CEO Milleri after criticism from Del Vecchio heir
 - [MarketWatch] Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.
-- [Investing.com] Jefferies winds down outsourced fixed-income trading unit - Bloomberg
-- [Investing.com] Enbridge in talks to buy Pony Express Pipeline for $2 billion - Bloomberg
-- [MarketWatch] Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’
-- [Mining.com] Precious metals still have something to prove: strategist
-- [Investing.com] Dynamic Creatures launches character robots for theme parks
-- [Nasdaq] EPR Properties' Series G Preferred Shares Cross 7% Yield Mark
-- [Investing.com] Dollar Index hovers above 98.475 support in bearish trend: Live
 - [CNBC] Dump these loser stocks this fall, Wolfe Research says. It could help cut next year's tax bill
 - [CNBC] Signet shares soar as jeweler lifts annual profit forecast
-- [Nasdaq] Is the Options Market Predicting a Spike in Avino Silver Stock?
-- [Nasdaq] Are Options Traders Betting on a Big Move in Brainsway Stock?
-- [Nasdaq] Wednesday 9/9 Insider Buying Report: GME, TSN
+- [Mining.com] Agnico takes 22% of Vizsla in $32M Alaska deal
+- [Mining.com] Collective shares slide on Apollo’s 4.1M-oz gold resource
 - [Mining.com] Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017
-- [Nasdaq] Here's Why You Should Retain FactSet Stock in Your Portfolio Now
-- [Nasdaq] Franklin's Arm Set to Expand Alternative Platform With Stoneshield Deal
-- [Nasdaq] NTRS Deepens APAC Asset Servicing Reach With Perpetual Tie-Up
-- [Nasdaq] Can BigBear.ai Keep Expanding Its Government Customer Base?
-- [Nasdaq] Does RYAAY's Bearish FY27 Traffic Outlook Justify a Sell Decision Today?
-- [Nasdaq] Sterling Stock Plunges 35% in 3 Months: Is the Sell-Off Overdone?
-- [Mining.com] Traceability is essential for the critical minerals supply chain, report
-- [CNBC] LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game
-- [MarketWatch] Oil at $100? Why you should always have energy stocks in your 401(k).
 - [CNBC] Why Cramer still recommends being 'a little more reserved' about data center stocks
-- [Mining.com] Chile bill targets foreign cash for next mining boom
 - [CNBC] LightStream and SoFi both offer personal loans up to $100,000: Which one is right for you?
+- [OilPrice.com] U.S. Crude Stocks Edge Lower as Oil Tops $100
 - [CoinDesk] Tether pushes into private credit with $400 million fund with Fasanara
-- [Defense One] Maven is becoming the Pentagon’s everything app
+- [Yahoo Finance] How long should you wait between credit card applications?
 - [CNBC] Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
-- [CoinDesk] Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro
 - [Mining.com] Troilus triples value to $3.2B, closes in on funding
-- [CoinDesk] Kalshi election data goes live on DoubleZero ahead of U.S. midterms
-- [CoinDesk] Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut
-- [Mining.com] Galantas exits Omagh gold project in $5M deal
-- [OilPrice.com] Belarus Refineries Post Decade-High Profits Amid Russia's Fuel Crisis
-- [CoinDesk] Algorand names former Chainlink executive William Herkelrath as CEO
-- [Retail Dive] Signet Jewelers delivers ‘quality’ quarter, raises full-year outlook
