@@ -6,14 +6,20 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 09.09.2026 21:32
-33 of 80 news items unmatched this run
+Generated: 09.09.2026 22:42
+39 of 80 news items unmatched this run
 
+- [CNBC] NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan
+- [Nasdaq] Cotton Rallying at Wednesday’s Midday
+- [CNBC] Stock futures are little changed as traders brace for wholesale inflation report: Live updates
+- [Nasdaq] Coffee Prices Settle Higher on Tight ICE Inventories and Vietnam Weather
+- [Nasdaq] Cocoa Prices Rise as Ghana Proposes Raising Farmer Pay
+- [Nasdaq] Sugar Prices Finish Sharply Higher as Crude Oil Surges
+- [Nasdaq] Dollar Recovers on Smaller Treasury Buyback and Higher T-Note Yields
 - [Investing.com] Canada’s Enbridge to buy Tallgrass crude oil business for $2.55 billion
 - [Investing.com] OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report
 - [Nasdaq] Nat-Gas Prices Sink on the Outlook for Weaker US Demand
 - [Nasdaq] Soybeans Pulling off Early Lows but Failing to Bite on Export Business
-- [Nasdaq] Cocoa Prices Rise as Ghana Proposes Raising Farmer Pay
 - [Nasdaq] Dollar Slips Before the Treasury’s Buyback Operation
 - [Nasdaq] Cocoa Prices Gain After Ghana Proposes Raising Farmer Pay
 - [Nasdaq] Tight Near-Term Supplies and Heavy Vietnam Rains Boost Coffee Prices
@@ -23,13 +29,13 @@ Generated: 09.09.2026 21:32
 - [Nasdaq] Crude Oil Prices Surge as No End in Sight to US-Iran Conflict
 - [Investing.com] Embraer rating upgraded by Fitch on margin gains
 - [Investing.com] Pinterest options flow points to continued downside after 9% drop
-- [Nasdaq] Birkenstock Holding is Now Oversold (BIRK)
-- [Nasdaq] Oversold Conditions For Dutch Bros (BROS)
-- [Nasdaq] Brookfield Wealth Solutions Enters Oversold Territory (BNT)
-- [Nasdaq] BrightSpire Capital is Now Oversold (BRSP)
-- [Nasdaq] Sugar Prices Finish Sharply Higher as Crude Oil Surges
+- [Investing.com] Anglo American outlook revised by Fitch on lower leverage
+- [MarketWatch] You should always have energy stocks in your 401(k). Yes, even when oil is at $100.
 - [Mining.com] Mining stocks claim record 60% of 2026 TSX30
 - [MarketWatch] Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.
+- [MarketWatch] Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’
+- [Mining.com] Precious metals still have something to prove: strategist
+- [CNBC] What a historic summer box office reveals about massive shifts in the theatrical industry
 - [CNBC] Dump these loser stocks this fall, Wolfe Research says. It could help cut next year's tax bill
 - [CNBC] Signet shares soar as jeweler lifts annual profit forecast
 - [Mining.com] Agnico takes 22% of Vizsla in $32M Alaska deal
@@ -39,6 +45,6 @@ Generated: 09.09.2026 21:32
 - [CNBC] LightStream and SoFi both offer personal loans up to $100,000: Which one is right for you?
 - [OilPrice.com] U.S. Crude Stocks Edge Lower as Oil Tops $100
 - [CoinDesk] Tether pushes into private credit with $400 million fund with Fasanara
-- [Yahoo Finance] How long should you wait between credit card applications?
 - [CNBC] Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
 - [Mining.com] Troilus triples value to $3.2B, closes in on funding
+- [CoinDesk] Kalshi election data goes live on DoubleZero ahead of U.S. midterms
