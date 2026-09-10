@@ -6,41 +6,47 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 10.09.2026 18:57
-35 of 80 news items unmatched this run
+Generated: 10.09.2026 19:56
+41 of 80 news items unmatched this run
 
-- [CNBC] Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates
-- [Investing.com] US FAA head meets with airline CEOS on plan to cut flight delays
-- [Investing.com] Why is Labcorp stock sliding today?
-- [Investing.com] Why is United Rentals stock sliding today?
-- [Investing.com] Why is Philip Morris International stock climbing today?
-- [Investing.com] Why is Baker Hughes stock sliding today?
-- [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
-- [CNBC] 30-year fixed mortgage rate tops 7% for the first time in over a year
-- [Nasdaq] Wheat Ticking Higher on Thursday Morning
-- [CNBC] Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy
-- [CNBC] Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation
-- [Investing.com] Restaurant stocks rise as cyclosporiasis outbreak ends
-- [Nasdaq] Crude Oil Prices Soar on Fears US-Iran War to Persist
-- [CNBC] OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
+- [Investing.com] Yelp stock rises as OpenAI integration boosts business tools
+- [Nasdaq] Wheat Bulls Battling Back on Thursday
+- [Investing.com] Why is Talon Metals stock surging today?
+- [Nasdaq] Cotton Posting Midday Gain on Thursday
+- [Nasdaq] Cattle Trade Holding Firm on Thursday
+- [Nasdaq] Hogs Posting Mixed Trade on Thursday
+- [Nasdaq] Soybeans Breaking to New Highs on Thursday
+- [Nasdaq] Corn Getting a Bounce Ahead of USDA Report Day
 - [Nasdaq] Ghana’s Proposal to Raise Farmer Pay Supports Cocoa Prices
-- [Nasdaq] Soaring Crude Oil Prices Lift Sugar
-- [CNBC] AI is losing its stranglehold on the U.S. stock market. Here's why
 - [Nasdaq] Arabica Coffee Slides as Brazil Supplies Come to Market
-- [Nasdaq] Dollar Supported by Rising Crude Prices and T-Note Yields
+- [Investing.com] OpenAI launches Agents API in public beta for developers
+- [Nasdaq] TAP Dividend Yield Pushes Past 5%
+- [Nasdaq] DOC Dividend Yield Pushes Past 6%
+- [Nasdaq] Noteworthy Thursday Option Activity: CLOV, CE, LEU
+- [Nasdaq] Notable Thursday Option Activity: RRC, PCT, HD
+- [Nasdaq] Soaring Crude Oil Prices Lift Sugar
+- [Nasdaq] Wheat Ticking Higher on Thursday Morning
+- [Nasdaq] Soybeans Pushing Back on Thursday AM Trade
+- [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
+- [CNBC] Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates
+- [CNBC] OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
+- [CoinDesk] Why a new SEC plan could ease a legal headache for tokenized securities
+- [CNBC] 30-year fixed mortgage rate tops 7% for the first time in over a year
+- [CNBC] Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy
+- [MarketWatch] The 30-year mortgage rate just crossed 7% for the first time in over a year
+- [CNBC] Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation
+- [CNBC] Home sales fall in August despite the highest supply in over a decade
+- [CNBC] AI is losing its stranglehold on the U.S. stock market. Here's why
 - [MarketWatch] Investors should be eating up these 9 restaurant stocks, analysts say
 - [Mining.com] Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers
 - [CoinDesk] OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
 - [CNBC] Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says
-- [CNBC] The likelihood of a Fed interest rate hike next week just got a lot higher
-- [Mining.com] Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA
+- [CoinDesk] Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps
 - [Mining.com] Osisko hits 4.7% copper beneath Gaspé workings
 - [CoinDesk] Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
-- [MarketWatch] Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.
-- [CoinDesk] Crypto for Advisors: Hyperliquid and the future of finance
-- [Mining.com] Swiss gold ban squeezes Sudan’s war economy
 - [Mining.com] Aya doubles Boumadine value to $3.5B
 - [CNBC] Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings
+- [OilPrice.com] US Natural Gas Market Verging on Record Growth
+- [CoinDesk] Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial
 - [CNBC] NFL Commissioner Roger Goodell says league could rework TV packages in next media deal
 - [OilPrice.com] EIA Raises 2027 U.S. Oil Output Forecast
-- [Retail Dive] Macy’s plows tariff refunds into its rebound
