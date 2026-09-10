@@ -6,35 +6,45 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 10.09.2026 15:05
-29 of 80 news items unmatched this run
+Generated: 10.09.2026 16:46
+39 of 80 news items unmatched this run
 
-- [CoinDesk] Crypto for Advisors: Hyperliquid and the future of finance
-- [Yahoo Finance] The Two Most Compelling Ai Infrastructure Plays Right Now
-- [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
-- [Yahoo Finance] Primark Goes Online While ABF Goes Down
-- [Yahoo Finance] Insider Sees Opportunity, Buys 10,000 Shares of REIT Valued at Nearly $725,000
-- [Yahoo Finance] The Thing to Watch With AXTQ Is Not AXT. It Is How Long You Hold It
-- [Nasdaq] Thursday 9/10 Insider Buying Report: ALMS, PRTS
-- [Investing.com] Why is Digital Brands stock surging today?
+- [CNBC] Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates
+- [CNBC] 30-year fixed mortgage rate tops 7% for the first time in over a year
 - [Nasdaq] Wheat Ticking Higher on Thursday Morning
-- [Nasdaq] November 20th Options Now Available For Suncor Energy (SU)
-- [Nasdaq] October 30th Options Now Available For Jabil (JBL)
-- [Nasdaq] October 30th Options Now Available For Select Sector SPDR Trust - State Street Utilities Select Sector SPDR ETF (XLU)
-- [Nasdaq] Interesting DECK Put And Call Options For October 30th
-- [Nasdaq] Interesting DVN Put And Call Options For October 30th
-- [Investing.com] Polymarket taps finance veteran Warren Jenson as CFO
-- [Investing.com] OpenAI meets with utility leaders on grid risks from rogue AI - report
-- [Investing.com] Why is Keel Infrastructure stock sliding today?
-- [Investing.com] SolarEdge stock tumbles on weak fourth quarter outlook
-- [Yahoo Finance] Top Funds Bet Billions As This AI Stock Lights Up A Buy Zone
-- [Nasdaq] PIMCO Corporate Opportunity Fund About To Put More Money In Your Pocket (PTY)
-- [Nasdaq] PDO Ex-Dividend Reminder - 9/11/26
-- [Yahoo Finance] Debenhams Turns a Warehouse Into a Debt Escape
+- [Nasdaq] Corn Bulls Battling Back on Thursday Morning
+- [Yahoo Finance] Credo (CRDO) Reports 115% Revenue Growth but Lower GAAP Gross Margin. Can AI Connectivity Scale Without Further Margin Compression?
+- [Yahoo Finance] SentinelOne CEO Tomer Weingarten Sells 38,759 Shares for Tax Withholding
+- [Yahoo Finance] Institutional Investors Are Loading Up on Madrigal Pharmaceuticals Stock. Should You?
+- [Nasdaq] Soybeans Pushing Back on Thursday AM Trade
+- [Investing.com] European equities fall following ECB rate hike to highest since 2025
+- [Yahoo Finance] AI Agents Are About to Start Spending Your Money. 5 Stocks Sitting in the Line of Fire.
+- [Nasdaq] Dollar Supported by Rising Crude Prices and T-Note Yields
+- [Nasdaq] Cocoa Prices Gain After Ghana Proposes Raising Farmer Pay
+- [Investing.com] Why is Skyworks Solutions stock surging today?
+- [Investing.com] FTSE 100 today: Stocks slip as ECB hikes rates, oil surges
+- [Investing.com] U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.56%
+- [Yahoo Finance] 3 Shaky Consumer Dividend Stocks Flashing Warning Signs
+- [Investing.com] Spain stocks lower at close of trade; IBEX 35 down 0.18%
+- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.11%
+- [Investing.com] Netherlands stocks lower at close of trade; AEX down 0.78%
+- [Investing.com] Italy stocks lower at close of trade; Investing.com Italy 40 down 0.07%
+- [Yahoo Finance] RedHill (RDHL) Acquires Rebyota and Clenpiq Commercialization Rights for $12M Upfront. Can Sales Outpace Royalties?
+- [Yahoo Finance] This Stock's Tumbling Price Lends Itself To A Bearish Options Move
+- [Yahoo Finance] Red Robin (RRGB) Completes $89.4M of Refranchising Transactions. Will Debt Relief Offset the Loss of Company-Operated Economics?
+- [Yahoo Finance] Teamsters president throws down gauntlet to UPS: Strike coming in 2028
+- [Mining.com] Osisko hits 4.7% copper beneath Gaspé workings
+- [CoinDesk] Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
+- [Yahoo Finance] Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat
+- [MarketWatch] Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.
+- [Yahoo Finance] Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading
+- [Yahoo Finance] 18 WTW agents quit in 44 minutes, walked next door to competitor Lockton — and allegedly took $5 million in clients
 - [Yahoo Finance] The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive
-- [CNBC] Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings
-- [Yahoo Finance] Tether Expands Into Private Credit
-- [Yahoo Finance] Here’s What Fuels Park Aerospace (PKE) Earnings Power
-- [Yahoo Finance] Nasdaq Invests $100 Million In Kraken Parent Company
-- [Yahoo Finance] From Acquisition Mistakes to AI Disruption: Why TechTarget (TTGT) Became a Short Target
-- [CNBC] Nestle CEO says Middle East conflict driving inflation, higher supplier costs
+- [Nasdaq] Can Monolithic Power's GFS Production Deal Drive Future Growth?
+- [Nasdaq] WEX Stock Rises 36.3% in Three Months: Here's What You Should Know
+- [Yahoo Finance] PE firms buy 3PL Navajo Expedited, target other acquisitions
+- [Nasdaq] Coffee Prices Settle Higher on Tight ICE Inventories and Vietnam Weather
+- [Nasdaq] Can Seagate Sustain Its Strong Revenue Growth in Fiscal 2027?
+- [Nasdaq] Chubb Limited's Life Business Emerges as a Key Growth Engine
+- [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
+- [CNBC] The likelihood of a Fed interest rate hike next week just got a lot higher
