@@ -6,42 +6,37 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 10.09.2026 22:43
-36 of 80 news items unmatched this run
+Generated: 10.09.2026 23:21
+31 of 80 news items unmatched this run
 
-- [Nasdaq] Cotton Posting Midday Gain on Thursday
-- [Nasdaq] Hogs Posting Mixed Trade on Thursday
-- [Nasdaq] Arabica Coffee Slides as Brazil Supplies Come to Market
-- [Nasdaq] Dollar Gains as Crude Oil Prices and T-Note Yields Surge
 - [Nasdaq] Cattle Trade Holding Firm on Thursday
+- [Nasdaq] Corn Getting a Bounce Ahead of USDA Report Day
+- [Nasdaq] Dollar Gains as Crude Oil Prices and T-Note Yields Surge
+- [Nasdaq] Cotton Posting Midday Gain on Thursday
 - [Nasdaq] Soybeans Breaking to New Highs on Thursday
+- [Nasdaq] Arabica Coffee Slides as Brazil Supplies Come to Market
+- [Nasdaq] Hogs Posting Mixed Trade on Thursday
 - [Nasdaq] Dollar Supported by Rising Crude Prices and T-Note Yields
 - [Nasdaq] Nat-Gas Prices Recover as European Nat-Gas Surges
 - [Nasdaq] Sugar Prices Climb as Crude Oil Soars
 - [Nasdaq] Arabica Coffee Falls Sharply on ICO Projections for Record Coffee Production
 - [Nasdaq] Crude Prices Sharply Higher on Global Supply Worries
 - [Investing.com] Texas Stock Exchange captures first primary equity market listings from NYSE
-- [Nasdaq] Soaring Crude Oil Prices Lift Sugar
 - [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 1.09%
 - [Investing.com] Colombia stocks higher at close of trade; COLCAP up 1.65%
 - [Investing.com] Russia stocks higher at close of trade; MOEX Russia Index up 1.77%
 - [Investing.com] Barington Capital takes Bath & Body Works stake, pushes for sale, Bloomberg reports
 - [Investing.com] Bath & Body Works gains in extended trading as Barington pushes for a sale
-- [CNBC] The price of pet ownership is rising. These credit cards offer perks, from complimentary pet insurance to cash back on vet visits
 - [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
 - [CNBC] OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
 - [CoinDesk] Why a new SEC plan could ease a legal headache for tokenized securities
 - [CNBC] Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy
 - [CNBC] Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation
-- [CNBC] Home sales fall in August despite the highest supply in over a decade
-- [CNBC] AI is losing its stranglehold on the U.S. stock market. Here's why
 - [Mining.com] Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers
 - [CoinDesk] OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
 - [CNBC] Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says
 - [OilPrice.com] Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support
+- [Mining.com] Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA
 - [Mining.com] Osisko hits 4.7% copper beneath Gaspé workings
 - [CoinDesk] Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
-- [CoinDesk] Crypto for Advisors: Hyperliquid and the future of finance
 - [OilPrice.com] Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders
-- [Mining.com] Swiss gold ban squeezes Sudan’s war economy
-- [Mining.com] Aya doubles Boumadine value to $3.5B
