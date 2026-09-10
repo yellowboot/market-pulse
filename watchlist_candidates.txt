@@ -6,50 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 10.09.2026 17:47
-44 of 80 news items unmatched this run
+Generated: 10.09.2026 18:57
+35 of 80 news items unmatched this run
 
-- [MarketWatch] Investors should be eating up these 9 restaurant stocks, analysts say
 - [CNBC] Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates
-- [Yahoo Finance] Prominent seafood chain continues closing restaurants after bankruptcy
-- [Nasdaq] Ghana’s Proposal to Raise Farmer Pay Supports Cocoa Prices
-- [Nasdaq] Dollar Supported by Rising Crude Prices and T-Note Yields
-- [Yahoo Finance] Axsome Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?
-- [CNBC] OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
-- [Yahoo Finance] Celanese Corporation (CE) is Selling Another 19% of Nutrinova for $152 Million. Is Deleveraging Worth Reducing Its Stake to 11%?
-- [Nasdaq] Arabica Coffee Slides as Brazil Supplies Come to Market
-- [Investing.com] Why is HIVE Digital Technologies stock slipping today?
-- [Investing.com] Why Canadian copper stocks are plunging after copper hit a record high?
-- [Investing.com] Canada 10-year yield jumps as oil surge, inflation fears drive bond selloff
-- [Investing.com] TSX movers: Talon Metals jumps 27.5%, North West and HIVE surge
-- [Investing.com] TSX hits five-week low as oil surge, hotter US inflation weigh on stocks
-- [Yahoo Finance] Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)
-- [Yahoo Finance] Roblox Chief Legal Officer Sells 5,773 Shares in Planned Equity Liquidity
+- [Investing.com] US FAA head meets with airline CEOS on plan to cut flight delays
+- [Investing.com] Why is Labcorp stock sliding today?
+- [Investing.com] Why is United Rentals stock sliding today?
+- [Investing.com] Why is Philip Morris International stock climbing today?
+- [Investing.com] Why is Baker Hughes stock sliding today?
 - [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
-- [Yahoo Finance] Before You Buy Energy Transfer or Enterprise Products for the Yield, Here's the Complication Nobody Mentions.
-- [Investing.com] Why is Elevance Health stock surging today?
-- [Yahoo Finance] Lyft Stock Pullback Could Be Short-Lived Says Signal
-- [Mining.com] Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers
-- [Investing.com] OpenAI launches GPT-Live-1 voice model for developers
-- [CoinDesk] OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
-- [Nasdaq] Sugar Prices Finish Sharply Higher as Crude Oil Surges
-- [Yahoo Finance] The Lovesac Company Q2 2027 Earnings Call Summary
-- [CNBC] Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says
-- [Nasdaq] Soybeans Pushing Back on Thursday AM Trade
-- [Nasdaq] Corn Bulls Battling Back on Thursday Morning
-- [Yahoo Finance] Vince Holding Corp. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Comstock (CRK) Signs a $1.65B SOCAR Letter of Intent and a $450M Drilling Venture. Does Deleveraging Outweigh the Economics It Gives Up?
-- [Yahoo Finance] 1-800-FLOWERS.COM, Inc. Q4 2026 Earnings Call Summary
+- [CNBC] 30-year fixed mortgage rate tops 7% for the first time in over a year
 - [Nasdaq] Wheat Ticking Higher on Thursday Morning
-- [Yahoo Finance] Designer Brands Inc. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] Imperial Petroleum Inc. Q2 2026 Earnings Call Summary
-- [Yahoo Finance] MasterCraft Boat Holdings, Inc. Q4 2026 Earnings Call Summary
-- [Yahoo Finance] GFL (GFL) Closes the SECURE Waste Infrastructure Acquisition With 75M New Shares and a US$1B Term Loan. Can Scale Offset Dilution and Leverage?
-- [Nasdaq] Thursday's ETF with Unusual Volume: FCOM
-- [Nasdaq] Cocoa Prices Gain After Ghana Proposes Raising Farmer Pay
-- [Yahoo Finance] MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?
-- [Yahoo Finance] Biopharmaceutical Leader Kiniksa Poised To Hit New Buy Point After Big Revenue Beat
-- [Nasdaq] Thursday Sector Leaders: Oil & Gas Refining & Marketing, Television & Radio Stocks
-- [Yahoo Finance] GitLab (GTLB) Reports Net ARR Growth Above 40% as Operating Cash Flow Turns Negative. Will AI Demand Convert Into Durable Revenue and Cash?
-- [Yahoo Finance] Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest
-- [Yahoo Finance] Credo (CRDO) Reports 115% Revenue Growth but Lower GAAP Gross Margin. Can AI Connectivity Scale Without Further Margin Compression?
+- [CNBC] Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy
+- [CNBC] Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation
+- [Investing.com] Restaurant stocks rise as cyclosporiasis outbreak ends
+- [Nasdaq] Crude Oil Prices Soar on Fears US-Iran War to Persist
+- [CNBC] OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services
+- [Nasdaq] Ghana’s Proposal to Raise Farmer Pay Supports Cocoa Prices
+- [Nasdaq] Soaring Crude Oil Prices Lift Sugar
+- [CNBC] AI is losing its stranglehold on the U.S. stock market. Here's why
+- [Nasdaq] Arabica Coffee Slides as Brazil Supplies Come to Market
+- [Nasdaq] Dollar Supported by Rising Crude Prices and T-Note Yields
+- [MarketWatch] Investors should be eating up these 9 restaurant stocks, analysts say
+- [Mining.com] Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers
+- [CoinDesk] OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows
+- [CNBC] Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says
+- [CNBC] The likelihood of a Fed interest rate hike next week just got a lot higher
+- [Mining.com] Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA
+- [Mining.com] Osisko hits 4.7% copper beneath Gaspé workings
+- [CoinDesk] Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK
+- [MarketWatch] Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.
+- [CoinDesk] Crypto for Advisors: Hyperliquid and the future of finance
+- [Mining.com] Swiss gold ban squeezes Sudan’s war economy
+- [Mining.com] Aya doubles Boumadine value to $3.5B
+- [CNBC] Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings
+- [CNBC] NFL Commissioner Roger Goodell says league could rework TV packages in next media deal
+- [OilPrice.com] EIA Raises 2027 U.S. Oil Output Forecast
+- [Retail Dive] Macy’s plows tariff refunds into its rebound
