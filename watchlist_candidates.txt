@@ -6,44 +6,35 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 09.09.2026 23:27
-38 of 80 news items unmatched this run
+Generated: 10.09.2026 15:05
+29 of 80 news items unmatched this run
 
-- [CNBC] Stock futures are little changed as traders brace for wholesale inflation report: Live updates
-- [MarketWatch] Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.
-- [Nasdaq] Cotton Rallying at Wednesday’s Midday
-- [Investing.com] American Eagle sticks to annual sales forecast again, shares slump
-- [MarketWatch] Home-insurance premiums just hit a record high. Here’s where they spiked the most.
-- [CNBC] Bessent’s political turn in GOP speech tests his bond-market credibility
-- [Investing.com] Canada’s Enbridge to buy Tallgrass crude oil business for $2.55 billion
-- [Nasdaq] Coffee Prices Settle Higher on Tight ICE Inventories and Vietnam Weather
-- [Nasdaq] Cocoa Prices Rise as Ghana Proposes Raising Farmer Pay
-- [Investing.com] Why is Kinetik Holdings stock surging today?
-- [Investing.com] Why is Enbridge stock sliding today?
-- [Nasdaq] Sugar Prices Finish Sharply Higher as Crude Oil Surges
-- [Nasdaq] Dollar Recovers on Smaller Treasury Buyback and Higher T-Note Yields
-- [Nasdaq] Nat-Gas Prices Sink on the Outlook for Weaker US Demand
-- [Nasdaq] Soybeans Pulling off Early Lows but Failing to Bite on Export Business
-- [Nasdaq] Dollar Slips Before the Treasury’s Buyback Operation
-- [Nasdaq] Cocoa Prices Gain After Ghana Proposes Raising Farmer Pay
-- [Nasdaq] Tight Near-Term Supplies and Heavy Vietnam Rains Boost Coffee Prices
-- [CNBC] Stocks making the biggest moves after hours: AeroVironment, American Eagle, Cooper Companies & more
-- [Nasdaq] Crude Oil Prices Surge as No End in Sight to US-Iran Conflict
-- [Mining.com] Mining stocks claim record 60% of 2026 TSX30
-- [MarketWatch] Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.
-- [Mining.com] Precious metals still have something to prove: strategist
-- [CNBC] What a historic summer box office reveals about massive shifts in the theatrical industry
-- [CNBC] Dump these loser stocks this fall, Wolfe Research says. It could help cut next year's tax bill
-- [CNBC] Signet shares soar as jeweler lifts annual profit forecast
-- [Mining.com] Agnico takes 22% of Vizsla in $32M Alaska deal
-- [Mining.com] Collective shares slide on Apollo’s 4.1M-oz gold resource
-- [Mining.com] Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017
-- [CNBC] LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game
-- [CNBC] U.S. reveals import ban on slew of Canadian goods as trade war escalates
-- [CNBC] Why Cramer still recommends being 'a little more reserved' about data center stocks
-- [OilPrice.com] U.S. Crude Stocks Edge Lower as Oil Tops $100
-- [CoinDesk] Tether pushes into private credit with $400 million fund with Fasanara
-- [Defense One] Maven is becoming the Pentagon’s everything app
-- [CNBC] Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth
-- [OilPrice.com] U.S. Administration Eyes Venezuela’s Critical Minerals
-- [Mining.com] Troilus triples value to $3.2B, closes in on funding
+- [CoinDesk] Crypto for Advisors: Hyperliquid and the future of finance
+- [Yahoo Finance] The Two Most Compelling Ai Infrastructure Plays Right Now
+- [CNBC] U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
+- [Yahoo Finance] Primark Goes Online While ABF Goes Down
+- [Yahoo Finance] Insider Sees Opportunity, Buys 10,000 Shares of REIT Valued at Nearly $725,000
+- [Yahoo Finance] The Thing to Watch With AXTQ Is Not AXT. It Is How Long You Hold It
+- [Nasdaq] Thursday 9/10 Insider Buying Report: ALMS, PRTS
+- [Investing.com] Why is Digital Brands stock surging today?
+- [Nasdaq] Wheat Ticking Higher on Thursday Morning
+- [Nasdaq] November 20th Options Now Available For Suncor Energy (SU)
+- [Nasdaq] October 30th Options Now Available For Jabil (JBL)
+- [Nasdaq] October 30th Options Now Available For Select Sector SPDR Trust - State Street Utilities Select Sector SPDR ETF (XLU)
+- [Nasdaq] Interesting DECK Put And Call Options For October 30th
+- [Nasdaq] Interesting DVN Put And Call Options For October 30th
+- [Investing.com] Polymarket taps finance veteran Warren Jenson as CFO
+- [Investing.com] OpenAI meets with utility leaders on grid risks from rogue AI - report
+- [Investing.com] Why is Keel Infrastructure stock sliding today?
+- [Investing.com] SolarEdge stock tumbles on weak fourth quarter outlook
+- [Yahoo Finance] Top Funds Bet Billions As This AI Stock Lights Up A Buy Zone
+- [Nasdaq] PIMCO Corporate Opportunity Fund About To Put More Money In Your Pocket (PTY)
+- [Nasdaq] PDO Ex-Dividend Reminder - 9/11/26
+- [Yahoo Finance] Debenhams Turns a Warehouse Into a Debt Escape
+- [Yahoo Finance] The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive
+- [CNBC] Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings
+- [Yahoo Finance] Tether Expands Into Private Credit
+- [Yahoo Finance] Here’s What Fuels Park Aerospace (PKE) Earnings Power
+- [Yahoo Finance] Nasdaq Invests $100 Million In Kraken Parent Company
+- [Yahoo Finance] From Acquisition Mistakes to AI Disruption: Why TechTarget (TTGT) Became a Short Target
+- [CNBC] Nestle CEO says Middle East conflict driving inflation, higher supplier costs
