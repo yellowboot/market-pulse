@@ -6,41 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 11.09.2026 22:44
-39 of 80 news items unmatched this run
+Generated: 11.09.2026 23:29
+38 of 80 news items unmatched this run
 
-- [MarketWatch] This investment is safe from both Trump and the Democrats — and it pays 4.7%
+- [Investing.com] OpenAI agents attacked RubyGems before Hugging Face incident, researchers say
+- [Investing.com] Apollo Global in talks to acquire J&J’s orthopedics unit, Bloomberg News reports
+- [Investing.com] Arizona accuses L’Oreal of concealing cancer risks linked to hair relaxers
 - [Mining.com] Site visit: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona
 - [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
 - [Nasdaq] Sugar Prices Fall as Crude Oil Gives Back Some Gains
 - [Nasdaq] Nat-Gas Prices Fall on Adequate US Inventories
 - [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer
-- [CNBC] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq
 - [Nasdaq] Coffee Prices Fall as Cecafe Reports Strong Brazilian Coffee Exports
 - [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 0.28%
 - [Investing.com] Colombia stocks lower at close of trade; COLCAP down 1.41%
-- [Investing.com] Russia stocks lower at close of trade; MOEX Russia Index down 1.14%
-- [Investing.com] Corning stock dips on filing for $2 billion equity distribution program
-- [Investing.com] Goldman, BofA vie to manage Anthropic employee wealth post-IPO - report
 - [Nasdaq] Cotton Falling, Despite USDA Production Cut
 - [CNBC] Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates
 - [CNBC] Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers
 - [CNBC] Why this industrial gas giant deserves its premium valuation (and should be owned)
-- [Mining.com] USA Rare Earth breaks ground at $1.2B rare earth magnet manufacturing facility in South Carolina
+- [Mining.com] USA Rare Earth breaks ground at $1.2B magnet manufacturing facility in South Carolina
 - [CNBC] This logistics company’s growth is hiding in its pipeline. Investors have a chance to be early to the upside
 - [CNBC] Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point
 - [Yahoo Finance] 172-year-old bank sees 400% upside for 'federal bank' token
-- [CoinDesk] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act
 - [OilPrice.com] Europe's "Less" Is Doing More Than Anyone Gives It Credit For
 - [Mining.com] Glencore, Mercuria compete for Venezuela aluminum smelter deal
 - [CNBC] AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity
-- [CNBC] Bonds are going on tilt. How to play them, says Mike Khouw
+- [CNBC] AI regulation calls grow in DC after researcher's extinction warning
 - [CNBC] Record U.S. cyclosporiasis outbreak is over, CDC says
 - [Defense One] ‘Digital employees’ are coming to the Defense Logistics Agency
 - [OilPrice.com] White House Weighs Defense Production Act as U.S. Refineries Maxed Out
 - [CoinDesk] India's richest state is exploring tokenizing its own assets to fund new infrastructure
 - [Mining.com] Talon scraps plan to build North Dakota mill for Tamarack
+- [CNBC] NYC's 'Baklava Guy' started selling Turkish pastries as 'a joke,' now it brings in $20K/month: 'It's my whole life'
 - [Mining.com] EU scrutiny of Anglo-MMG nickel deal tests China stance
+- [OilPrice.com] Trump's Grid Battery Ban Leaves Developers Guessing
 - [CNBC] UAE plans $46 billion investment in Germany, with data centers a key focus
 - [CoinDesk] Zodia Custody CEO Julian Sawyer steps down, becomes adviser
 - [OilPrice.com] U.S. Oil Rig Count Rises as Oil Tops $100
