@@ -6,42 +6,38 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 11.09.2026 19:56
-43 of 80 news items unmatched this run
+Generated: 11.09.2026 21:35
+37 of 80 news items unmatched this run
 
-- [CNBC] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks
-- [MarketWatch] The Houthis have created a new front in the Middle East oil war that’s pushing up prices
+- [Nasdaq] Nat-Gas Prices Fall on Adequate US Inventories
+- [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer
 - [Nasdaq] Sugar Prices Fall as Crude Oil Gives Back Some Gains
-- [Investing.com] FTAI Aviation options analysis: strangle and near-term call signal big move ahead
-- [Investing.com] Cohere raises up to $3 billion at $20 billion valuation - Globe and Mail
-- [Investing.com] Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse
-- [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
-- [CNBC] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise
-- [Investing.com] EQT Corp options flow turns sharply bearish with put/call ratio near 4.87x
-- [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer Pay
-- [Investing.com] BFF Bank weighs Cerberus stake offer amid asset sale talks - Bloomberg
-- [CNBC] Dow rallies more than 500 points as oil falls, traders shake off inflation data: Live updates
-- [Investing.com] Lumen Technologies options flow shows concentrated bullish conviction ahead of expiry
-- [Nasdaq] Digital Realty Trust's Series J Preferred Stock Shares Cross 7% Yield Mark
-- [Nasdaq] Digital Realty Trust's Series L Preferred Stock Shares Cross 7% Yield Mark
+- [Investing.com] Moody’s downgrades Flowers Foods rating on slow deleveraging
+- [Investing.com] Fitch upgrades Citizens Financial rating on profitability
+- [Investing.com] Fitch upgrades Kite Realty rating on lower leverage outlook
 - [Nasdaq] Cotton Falling, Despite USDA Production Cut
-- [Nasdaq] Corn Slipping Back in Sell the Fact Reaction to USDA Yield Cut
-- [Nasdaq] Wheat Posting Friday Losses, as USDA Hikes World Carryout
-- [Nasdaq] Arabica Coffee Falls on Strong Brazilian Coffee Exports
-- [Nasdaq] Soybeans Falling on Friday as USDA Increases Production
-- [Nasdaq] Hogs Posting Midday Losses
-- [Nasdaq] Cattle Extending Bounce into Friday’s Midday
-- [Nasdaq] Hog Traders Look to Close Out the Week
+- [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
+- [Nasdaq] Pinnacle West Capital Enters Oversold Territory (PNW)
+- [CNBC] Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates
+- [Investing.com] Firehawk Aerospace seeks funding at $1.25 billion valuation - Bloomberg
+- [CNBC] Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners
+- [MarketWatch] The Houthis have opened a new front in the Middle East oil war that’s pushing up prices
+- [CNBC] Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise
+- [CNBC] Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers
 - [CNBC] Why this industrial gas giant deserves its premium valuation (and should be owned)
 - [Mining.com] USA Rare Earth breaks ground at $1.2B rare earth magnet manufacturing facility in South Carolina
 - [CNBC] This logistics company’s growth is hiding in its pipeline. Investors have a chance to be early to the upside
+- [Yahoo Finance] 172-year-old bank sees 400% upside for 'federal bank' token
+- [CoinDesk] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act
 - [Mining.com] Glencore, Mercuria compete for Venezuela aluminum smelter deal
+- [CNBC] AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity
 - [CNBC] Bonds are going on tilt. How to play them, says Mike Khouw
 - [CNBC] Record U.S. cyclosporiasis outbreak is over, CDC says
 - [Defense One] ‘Digital employees’ are coming to the Defense Logistics Agency
+- [OilPrice.com] White House Weighs Defense Production Act as U.S. Refineries Maxed Out
 - [Mining.com] Talon scraps plan to build North Dakota mill for Tamarack
-- [CNBC] NYC's 'Baklava Guy' started selling Turkish pastries as 'a joke,' now it brings in $20K/month: 'It's my whole life'
 - [Mining.com] EU scrutiny of Anglo-MMG nickel deal tests China stance
+- [OilPrice.com] Trump's Grid Battery Ban Leaves Developers Guessing
 - [CNBC] UAE plans $46 billion investment in Germany, with data centers a key focus
 - [CoinDesk] Zodia Custody CEO Julian Sawyer steps down, becomes adviser
 - [OilPrice.com] U.S. Oil Rig Count Rises as Oil Tops $100
@@ -50,5 +46,3 @@ Generated: 11.09.2026 19:56
 - [CNBC] Sub-$100 smartphones becoming a rarity as AI memory prices soar
 - [Retail Dive] Nordstrom alum takes the CEO reins at Rent the Runway
 - [Retail Dive] Destination XL maps out a turnaround plan
-- [Retail Dive] After demise of Joann locations, fabric is now in 90% of Michaels stores
-- [OilPrice.com] Saudi Arabia’s Critical Oil Bypass Comes Under Threat
