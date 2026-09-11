@@ -6,37 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 11.09.2026 17:49
-31 of 80 news items unmatched this run
+Generated: 11.09.2026 18:59
+45 of 80 news items unmatched this run
 
-- [Yahoo Finance] Dycom's 2026 Outlook: Fiber Infrastructure Demand Drives Multi-Year Revenue Growth
-- [Yahoo Finance] 172-year-old bank sees 400% upside for 'federal bank' token
-- [Yahoo Finance] Is UiPath Stock A Buy After Falling Despite A Raised Outlook?
+- [CNBC] Dow rallies more than 500 points as oil falls, traders shake off inflation data: Live updates
+- [CNBC] Saudi Arabia shut down East-West crude oil pipeline after multiple attacks
+- [Nasdaq] Cotton Falling, Despite USDA Production Cut
+- [Nasdaq] Corn Slipping Back in Sell the Fact Reaction to USDA Yield Cut
+- [Nasdaq] Wheat Posting Friday Losses, as USDA Hikes World Carryout
+- [Nasdaq] Arabica Coffee Falls on Strong Brazilian Coffee Exports
+- [Investing.com] Why is Alphatec Holdings stock surging today?
+- [Investing.com] Why is Tenable stock sliding today?
+- [Nasdaq] Soybeans Falling on Friday as USDA Increases Production
+- [Nasdaq] Hogs Posting Midday Losses
+- [Nasdaq] Cattle Extending Bounce into Friday’s Midday
+- [Nasdaq] Sugar Prices Fall as Crude Oil Gives Back Some Gains
+- [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer Pay
 - [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
 - [Nasdaq] Hog Traders Look to Close Out the Week
 - [Nasdaq] Soybeans Falling Back from 3-Year Highs on Friday Morning
+- [Investing.com] Saudi Arabia shuts East-West Pipeline after attacks
+- [Investing.com] Arizona accuses L’Oreal of concealing cancer risks linked to hair relaxers
+- [Investing.com] Arizona sues L’Oreal over alleged cancer risks in hair relaxers
+- [Investing.com] GE Vernova and IBM among market cap stock movers on Friday
+- [Mining.com] USA Rare Earth breaks ground at $1.2B rare earth magnet manufacturing facility in South Carolina
+- [CNBC] This logistics company’s growth is hiding in its pipeline. Investors have a chance to be early to the upside
+- [Investing.com] Generali options flow: 20,000-contract Dec 2027 put dominates trading
+- [Investing.com] GSK to close German vaccine plant, 641 jobs at risk
 - [Nasdaq] Corn Pulling Back as Traders Square Up Ahead of USDA Report
-- [Nasdaq] Hog Futures Face Modest Weakness on Thursday
-- [CNBC] Dow rallies nearly 600 points as oil falls, traders shake off inflation data: Live updates
-- [CoinDesk] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act
-- [Nasdaq] Cotton Slipping Lower Ahead of USDA Reports
-- [Investing.com] Conglomerate discount returns as consumer giants divest to unlock value
-- [Yahoo Finance] Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)
-- [Yahoo Finance] MoneyHero Limited Class A Ordinary Shares Q3 2026 Earnings Call Summary
-- [Investing.com] RH earnings analysis: questions answered and next catalysts
+- [Investing.com] Investing.com’s stocks of the week
+- [CNBC] Meet Ottava, J&J's surgical robot leading the healthcare giant into a lucrative new market
 - [Mining.com] Glencore, Mercuria compete for Venezuela aluminum smelter deal
 - [CNBC] AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity
-- [Yahoo Finance] The Kroger Co. Q2 2026 Earnings Call Summary
-- [Nasdaq] Friday's ETF with Unusual Volume: IJS
-- [Nasdaq] Friday's ETF Movers: XSD, NLR
-- [Yahoo Finance] This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up
-- [Yahoo Finance] Wall St bounces as oil cools, inflation risks keeps Fed in focus
-- [Yahoo Finance] GameStop Finds A Bulk Buyer For Its Stock — Its Own CEO
+- [MarketWatch] This investment is safe from both Trump and the Democrats — and it pays 4.7%
+- [CNBC] Bonds are going on tilt. How to play them, says Mike Khouw
 - [CNBC] U.S. crude oil falls back below $100 but heads to weekly gain
-- [CNBC] Jim Cramer calls an AI data center stock a buy, offers a level to buy a household name
-- [Yahoo Finance] High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar
-- [Yahoo Finance] Saudi Arabia’s Critical Oil Bypass Comes Under Threat
-- [Yahoo Finance] Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate
 - [CNBC] Record U.S. cyclosporiasis outbreak is over, CDC says
 - [Mining.com] Talon scraps plan to build North Dakota mill for Tamarack
 - [Mining.com] EU scrutiny of Anglo-MMG nickel deal tests China stance
+- [CNBC] UAE plans $46 billion investment in Germany, with data centers a key focus
+- [CoinDesk] Zodia Custody CEO Julian Sawyer steps down, becomes adviser
+- [OilPrice.com] U.S. Oil Rig Count Rises as Oil Tops $100
+- [OilPrice.com] Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline
+- [Retail Dive] Reformation charts path to double store fleet in 5 years
+- [CNBC] Sub-$100 smartphones becoming a rarity as AI memory prices soar
+- [Retail Dive] Nordstrom alum takes the CEO reins at Rent the Runway
+- [Retail Dive] Destination XL maps out a turnaround plan
+- [Retail Dive] After demise of Joann locations, fabric is now in 90% of Michaels stores
+- [OilPrice.com] Saudi Arabia’s Critical Oil Bypass Comes Under Threat
