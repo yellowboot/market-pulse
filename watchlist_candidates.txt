@@ -6,43 +6,37 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 11.09.2026 16:49
-37 of 80 news items unmatched this run
+Generated: 11.09.2026 17:49
+31 of 80 news items unmatched this run
 
-- [MarketWatch] This investment is safe from both Trump and the Democrats — and it pays 4.7%
-- [Investing.com] Bayer faces pivotal test of $7.25 billion Roundup settlement in Missouri court
-- [CNBC] Dow surges 500 points as traders shake off firm inflation data and oil prices retreat: Live updates
-- [Yahoo Finance] Financial Services Roundup: Market Talk
-- [Yahoo Finance] Prediction: This Could Be an Unexpected AI Winner Through 2030
-- [Yahoo Finance] Health Care Roundup: Market Talk
+- [Yahoo Finance] Dycom's 2026 Outlook: Fiber Infrastructure Demand Drives Multi-Year Revenue Growth
+- [Yahoo Finance] 172-year-old bank sees 400% upside for 'federal bank' token
+- [Yahoo Finance] Is UiPath Stock A Buy After Falling Despite A Raised Outlook?
+- [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
+- [Nasdaq] Hog Traders Look to Close Out the Week
+- [Nasdaq] Soybeans Falling Back from 3-Year Highs on Friday Morning
+- [Nasdaq] Corn Pulling Back as Traders Square Up Ahead of USDA Report
+- [Nasdaq] Hog Futures Face Modest Weakness on Thursday
+- [CNBC] Dow rallies nearly 600 points as oil falls, traders shake off inflation data: Live updates
+- [CoinDesk] The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act
+- [Nasdaq] Cotton Slipping Lower Ahead of USDA Reports
+- [Investing.com] Conglomerate discount returns as consumer giants divest to unlock value
+- [Yahoo Finance] Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)
+- [Yahoo Finance] MoneyHero Limited Class A Ordinary Shares Q3 2026 Earnings Call Summary
+- [Investing.com] RH earnings analysis: questions answered and next catalysts
+- [Mining.com] Glencore, Mercuria compete for Venezuela aluminum smelter deal
+- [CNBC] AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity
+- [Yahoo Finance] The Kroger Co. Q2 2026 Earnings Call Summary
+- [Nasdaq] Friday's ETF with Unusual Volume: IJS
+- [Nasdaq] Friday's ETF Movers: XSD, NLR
+- [Yahoo Finance] This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up
 - [Yahoo Finance] Wall St bounces as oil cools, inflation risks keeps Fed in focus
-- [Yahoo Finance] Basic Materials Roundup: Market Talk
-- [Yahoo Finance] Auto & Transport Roundup: Market Talk
-- [Investing.com] Mercuria and Glencore vie for Venezuela aluminum smelter deal - Bloomberg
 - [Yahoo Finance] GameStop Finds A Bulk Buyer For Its Stock — Its Own CEO
 - [CNBC] U.S. crude oil falls back below $100 but heads to weekly gain
 - [CNBC] Jim Cramer calls an AI data center stock a buy, offers a level to buy a household name
-- [Investing.com] Why is Descartes Systems stock surging today?
-- [Investing.com] European stocks rise after U.S. CPI; set for worst week since April
-- [Investing.com] U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.44%
-- [Investing.com] Spain stocks higher at close of trade; IBEX 35 up 0.91%
-- [Investing.com] Portugal stocks higher at close of trade; PSI up 0.73%
-- [Investing.com] Netherlands stocks higher at close of trade; AEX up 0.50%
 - [Yahoo Finance] High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar
-- [Yahoo Finance] Cognizant Says AI Creates Jobs, Its Own Restructuring Says Otherwise
-- [Nasdaq] Corn Pulling Back as Traders Square Up Ahead of USDA Report
-- [Yahoo Finance] Blackstone (BX) Eyes $2 Billion ZO Skin Health Exit
-- [Yahoo Finance] Chime Financial (CHYM) Moves Deeper into Banking with $590 Million Stride Acquisition
-- [Yahoo Finance] Smithfield Foods (SFD) Warns of Fresh Pork Loss as Industry Spreads Compress
-- [Yahoo Finance] Metaplanet Slashes Series 10 Share Pool by 41% Amid Dilution Concerns
-- [CoinDesk] India's richest state is exploring tokenizing its own assets to fund new infrastructure
-- [Nasdaq] AVAV Underperforms Industry in the Past 6 Months: What Should You Do?
+- [Yahoo Finance] Saudi Arabia’s Critical Oil Bypass Comes Under Threat
+- [Yahoo Finance] Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate
+- [CNBC] Record U.S. cyclosporiasis outbreak is over, CDC says
 - [Mining.com] Talon scraps plan to build North Dakota mill for Tamarack
-- [Yahoo Finance] Renishaw Gets a Semiconductor Upgrade
-- [CNBC] NYC's 'Baklava Guy' started selling Turkish pastries as 'a joke,' now it brings in $20K/month: 'It's my whole life'
-- [Yahoo Finance] Hunter Biden’s $LAPTOP coin causes ‘bloodbath’ for investors. How to protect yourself
-- [Nasdaq] Mission Produce vs. Dole: Which Stock Offers the Better Risk-Reward?
-- [Nasdaq] Hog Traders Look to Close Out the Week
-- [Nasdaq] Wheat Feeling Modest Pressure Early on Friday
-- [Nasdaq] Soybeans Falling Back from 3-Year Highs on Friday Morning
 - [Mining.com] EU scrutiny of Anglo-MMG nickel deal tests China stance
