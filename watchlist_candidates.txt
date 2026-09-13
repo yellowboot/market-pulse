@@ -6,45 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 12.09.2026 17:42
-39 of 80 news items unmatched this run
+Generated: 13.09.2026 17:58
+35 of 80 news items unmatched this run
 
-- [Yahoo Finance] Dividend King Altria Recently Raised Its Quarterly Dividend by Nearly 5%. Is the Stock a Buy?
-- [Yahoo Finance] The Boring Stock That Delivered 127% Returns While Proving Slow and Steady Loses the Race
-- [Yahoo Finance] Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test
-- [Yahoo Finance] Warren Buffett keeps turning to the same ETF for a reason
-- [Yahoo Finance] A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter
-- [Yahoo Finance] Plexus Director Karen Rapp Sells 500 Shares for $120,400
-- [Yahoo Finance] BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis
-- [Yahoo Finance] 68 Quarters of Growth, Now Stalled: The $0.48 Dividend That Won’t Budge
-- [Yahoo Finance] Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain
-- [Yahoo Finance] Ciena’s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing
-- [Yahoo Finance] eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer
-- [Yahoo Finance] BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway
-- [Yahoo Finance] Mama’s Creations (MAMA) Just Proved Its Growth Spurt Wasn’t A Fluke
-- [Yahoo Finance] Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax
-- [CoinDesk] Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD
-- [Yahoo Finance] Here's who stands to make money from the Anthropic IPO
-- [Yahoo Finance] Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits
-- [Investing.com] Anthropic CEO calls for slower AI development after security incidents
-- [Yahoo Finance] Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story
-- [CNBC] Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish
-- [Yahoo Finance] Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch
-- [Yahoo Finance] Wiley’s (WLY) AI Bet Is Starting To Pay Off
-- [Yahoo Finance] Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside
-- [Yahoo Finance] Frequency Electronics (FEIM) Soars After Record Revenue
-- [CNBC] Buffett's confidence in troubled decade-old acquisition finally pays off
-- [CNBC] Oil's roundtrip back to $100. Why China could determine what happens next
-- [CNBC] Live Oak is offering a $300 savings account bonus — here’s how to qualify
-- [Investing.com] Global funds retreat from Indian stocks as some cut exposure to zero - Bloomberg
-- [Nasdaq] Piper Sandler Initiates Coverage of Fidelity National Information Services with Neutral Rating
-- [Nasdaq] Keybanc Initiates Coverage of Mosaic at Sector Weight
-- [Nasdaq] Hovde Group Initiates Coverage of First Financial Bankshares at Market Perform
+- [Yahoo Finance] What Will 10,000 XRP Be Worth in 2030?
+- [Yahoo Finance] What Will XRP Be Worth by 2028?
+- [Yahoo Finance] Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal
+- [Yahoo Finance] Korn Ferry (KFY) Expands Global Standing With AMS Acquisition
+- [Yahoo Finance] Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)
+- [Yahoo Finance] Bank exits squeeze truck financing for mid-size fleets
+- [Yahoo Finance] 49-year-old clothing chain closing stores as its shoppers shrink
+- [Mining.com] Investment in Canada’s mining sector to grow with global demand, BMO
+- [MarketWatch] Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.
+- [CNBC] Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock
+- [Yahoo Finance] Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks
+- [Yahoo Finance] The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing
+- [Yahoo Finance] Red Violet (RDVT) Turns Record Growth Into Real Profit Gains
+- [Yahoo Finance] PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality
+- [Yahoo Finance] Stark warnings from Anthropic and OpenAI CEOs are set to disrupt the AI stock trade they built up
+- [Yahoo Finance] Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private
+- [MarketWatch] The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice
+- [CoinDesk] Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’
+- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.30%
+- [CoinDesk] Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns
+- [CNBC] Top Wall Street analysts recommend these 3 dividend stocks for higher returns
+- [CNBC] NFL and midterm elections set up prediction markets for a critical fall season
+- [Investing.com] Street calls of the week: Sept. 7–11, 2026
 - [Nasdaq] Corn Fades Lower into Fridays Close Despite USDA Yield Cut
+- [Nasdaq] Corn Slipping Back in Sell the Fact Reaction to USDA Yield Cut
 - [Nasdaq] Cotton Face Friday Weakness, Despite USDA Production Cut
 - [Nasdaq] Soybeans Face Friday Pressure as USDA Increases Production
+- [Nasdaq] Wheat Faces Friday Weakness, as USDA Hikes World Wheat Stocks
 - [Nasdaq] Cattle Rally into the Weekend
 - [Nasdaq] Hogs Face Friday Pressure as Cash and Cutout Weaken
-- [Nasdaq] Wheat Faces Friday Weakness, as USDA Hikes World Wheat Stocks
-- [Investing.com] J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports
-- [Nasdaq] Keybanc Initiates Coverage of FMC at Overweight
+- [Nasdaq] Wheat Posting Friday Losses, as USDA Hikes World Carryout
+- [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer
+- [MarketWatch] Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year
+- [Yahoo Finance] Jewelry chain closes 53 stores after shutting down 2 brands
+- [CoinDesk] OpenAI IPO won't happen this year, says Sam Altman
