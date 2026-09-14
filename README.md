@@ -6,7 +6,8 @@ The site updates itself, no human involved: GitHub Actions runs `fetch_news.py` 
 
 ## What's included
 - **fetch_news.py** — a pure-Python script (no pip install needed) that pulls news from public RSS feeds, scores sentiment by keywords, and tags tickers from your watchlist.
-- **news_dashboard.html** — the page itself, a dark luxury theme with gradients. Open it with a regular double-click, or view it live on the site (see above).
+- **index.html** — the landing page at the site root.
+- **news/index.html** — the news dashboard itself, a dark luxury theme with gradients. Open it with a regular double-click, or view it live on the site (see above).
 - **news_data.js** — the data file the script generates. The repo ships with a snapshot of real news from publish time; GitHub Actions overwrites it on every run after that.
 - **.github/workflows/update-news.yml** — the feed's auto-update schedule (GitHub Actions).
 
@@ -23,7 +24,7 @@ The following is for anyone who wants their own copy (their own watchlist, their
    python3 fetch_news.py
    ```
    It pulls fresh news and rewrites `news_data.js`.
-4. Open `news_dashboard.html` in a browser (or refresh the tab if it's already open).
+4. Open `news/index.html` in a browser (or refresh the tab if it's already open).
 
 ## Refreshing data (for a local copy)
 The live version on GitHub Pages updates itself (see "Live version" above) — this section only applies to a local copy.
@@ -103,7 +104,7 @@ If you want a single .exe with no dependencies at all, build it yourself with Py
 pip install pyinstaller
 pyinstaller --onefile --console --name Pulsarium fetch_news.py
 ```
-The resulting file appears in the `dist\Pulsarium.exe` folder. Place it next to `news_dashboard.html` and run it instead of the script — it updates `news_data.js` the same way.
+The resulting file appears in the `dist\Pulsarium.exe` folder. Place it in the project root folder (next to `news/`) and run it instead of the script — it updates `news_data.js` the same way.
 
 Keep in mind:
 - The exe will be fairly large (15-40 MB) because it bundles the entire Python interpreter.

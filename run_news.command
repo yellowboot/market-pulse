@@ -10,5 +10,5 @@ if [ $? -ne 0 ]; then
 fi
 echo ""
 echo "Done! Opening the dashboard..."
-open "news_dashboard.html"
+open "news/index.html"
 sleep 1

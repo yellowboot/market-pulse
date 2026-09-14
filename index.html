@@ -2,15 +2,182 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="0; url=news_dashboard.html">
-<title>Pulsarium — Stock Market News Aggregator</title>
-<meta name="description" content="Live stock market news dashboard — real-time headlines from Yahoo Finance, MarketWatch, CNBC, Nasdaq and more, tagged by ticker and sector with sentiment and importance scoring.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pulsarium — Real-Time Market News & Investor Tools</title>
+<meta name="description" content="Pulsarium is a market intelligence platform for investors. Start with free real-time stock market news, tagged by ticker and sector — a personal portfolio, watchlist and AI research chat are coming soon.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://pulsarium.finance/news_dashboard.html">
+<link rel="canonical" href="https://pulsarium.finance/">
 <meta name="google-site-verification" content="X6I4V2WIKypwx1uBrjV4_rtQyGUIMCMVNdXV4z6nWMY" />
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pulsarium">
+<meta property="og:title" content="Pulsarium — Real-Time Market News & Investor Tools">
+<meta property="og:description" content="Free real-time stock market news, tagged by ticker and sector. A personal portfolio, watchlist and AI research chat are coming soon.">
+<meta property="og:url" content="https://pulsarium.finance/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Pulsarium — Real-Time Market News & Investor Tools">
+<meta name="twitter:description" content="Free real-time stock market news, tagged by ticker and sector. A personal portfolio, watchlist and AI research chat are coming soon.">
+
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23171c2b'/%3E%3Cpath d='M10,46 L22,34 L30,40 L40,24 L56,8' fill='none' stroke='%23d4af6a' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpolygon points='56,8 52,19 45,12' fill='%23d4af6a'/%3E%3C/svg%3E">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Pulsarium",
+  "description": "Market intelligence platform for investors — real-time stock market news today, with a personal portfolio, watchlist and AI research chat coming soon.",
+  "url": "https://pulsarium.finance/"
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-0: #080a0f;
+    --bg-1: #0f131c;
+    --bg-2: #171c2b;
+    --border: rgba(201, 168, 106, 0.14);
+    --border-soft: rgba(255, 255, 255, 0.08);
+    --gold-1: #d4af6a;
+    --gold-2: #f4e2b8;
+    --gold-3: #c98f4f;
+    --text-hi: #f0f2f6;
+    --text-mid: #acb2bf;
+    --text-low: #767c8a;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(ellipse 900px 500px at 10% -10%, rgba(212,175,106,0.10), transparent 60%),
+      radial-gradient(ellipse 700px 500px at 100% 0%, rgba(102,128,186,0.10), transparent 55%),
+      linear-gradient(180deg, var(--bg-0), var(--bg-1) 40%, var(--bg-0));
+    color: var(--text-hi);
+    font-family: 'Inter', -apple-system, sans-serif;
+    display: flex;
+    flex-direction: column;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8vh 6vw;
+  }
+
+  .hero {
+    max-width: 640px;
+    text-align: center;
+  }
+
+  .logo-mark {
+    width: clamp(48px, 7vw, 72px);
+    height: clamp(48px, 7vw, 72px);
+    margin-bottom: 22px;
+  }
+
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold-1);
+    font-weight: 600;
+    margin-bottom: 14px;
+  }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: clamp(40px, 6.5vw, 60px);
+    margin: 0 0 18px;
+    background: linear-gradient(120deg, var(--gold-2), var(--gold-1) 55%, var(--gold-3));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+  }
+
+  .tagline {
+    font-size: clamp(16px, 2vw, 19px);
+    color: var(--text-mid);
+    line-height: 1.6;
+    margin: 0 0 36px;
+  }
+
+  .cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px 30px;
+    border-radius: 12px;
+    background: linear-gradient(120deg, var(--gold-2), var(--gold-1) 60%, var(--gold-3));
+    color: var(--bg-0);
+    font-weight: 700;
+    font-size: 16px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    box-shadow: 0 8px 24px rgba(212, 175, 106, 0.18);
+  }
+  .cta:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(212, 175, 106, 0.28); }
+  .cta svg { width: 16px; height: 16px; }
+
+  .coming-soon {
+    margin-top: 28px;
+    font-size: 14px;
+    color: var(--text-low);
+  }
+  .coming-soon b { color: var(--text-mid); font-weight: 600; }
+
+  footer {
+    padding: 24px 6vw;
+    border-top: 1px solid var(--border-soft);
+    text-align: center;
+    font-size: 13px;
+    color: var(--text-low);
+  }
+
+  @media (max-width: 480px) {
+    .cta { width: 100%; justify-content: center; }
+  }
+</style>
 </head>
 <body>
-<p>Redirecting to <a href="news_dashboard.html">the dashboard</a>…</p>
+
+<main>
+  <div class="hero">
+    <svg class="logo-mark" viewBox="0 0 64 64" aria-hidden="true">
+      <defs>
+        <linearGradient id="logo-grad" x1="0" y1="1" x2="1" y2="0">
+          <stop offset="0%" stop-color="var(--gold-3)"/>
+          <stop offset="55%" stop-color="var(--gold-1)"/>
+          <stop offset="100%" stop-color="var(--gold-2)"/>
+        </linearGradient>
+      </defs>
+      <rect x="1" y="1" width="62" height="62" rx="16" fill="var(--bg-2)" stroke="var(--border)"/>
+      <path d="M10,46 L22,34 L30,40 L40,24 L56,8" fill="none" stroke="url(#logo-grad)"
+            stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="56,8 52,19 45,12" fill="url(#logo-grad)"/>
+    </svg>
+    <div class="eyebrow">Market intelligence platform</div>
+    <h1>Pulsarium</h1>
+    <p class="tagline">Real-time stock market news, tagged by ticker and sector, scored for sentiment and importance — free, and updating all trading day.</p>
+    <a class="cta" href="news/index.html">
+      Open the news dashboard
+      <svg viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <p class="coming-soon"><b>Coming soon:</b> a personal cabinet with portfolio tracking, a custom watchlist and an AI research assistant.</p>
+  </div>
+</main>
+
+<footer>Pulsarium</footer>
+
 </body>
 </html>

@@ -12,5 +12,5 @@ if %errorlevel% neq 0 (
 )
 echo.
 echo Done! Opening the dashboard...
-start "" "news_dashboard.html"
+start "" "news\index.html"
 timeout /t 2 >nul
