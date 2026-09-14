@@ -1,0 +1,7 @@
+# Pulsarium
+
+> Pulsarium is a market intelligence platform for investors. It currently provides a free, real-time stock market news dashboard; a personal portfolio, watchlist and AI research assistant are in development.
+
+## Product
+- [News dashboard](https://pulsarium.finance/news/): Live stock market news aggregated from public sources (Yahoo Finance, MarketWatch, CNBC, Nasdaq, Investing.com, CoinDesk), tagged by ticker and sector, and scored for sentiment and importance. Refreshes automatically throughout the trading day.
+- [Home](https://pulsarium.finance/): Overview of the platform and what's coming next.
