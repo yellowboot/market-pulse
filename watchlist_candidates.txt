@@ -6,41 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 13.09.2026 17:58
-35 of 80 news items unmatched this run
+Generated: 14.09.2026 17:01
+45 of 80 news items unmatched this run
 
-- [Yahoo Finance] What Will 10,000 XRP Be Worth in 2030?
-- [Yahoo Finance] What Will XRP Be Worth by 2028?
-- [Yahoo Finance] Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal
-- [Yahoo Finance] Korn Ferry (KFY) Expands Global Standing With AMS Acquisition
-- [Yahoo Finance] Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)
-- [Yahoo Finance] Bank exits squeeze truck financing for mid-size fleets
-- [Yahoo Finance] 49-year-old clothing chain closing stores as its shoppers shrink
-- [Mining.com] Investment in Canada’s mining sector to grow with global demand, BMO
-- [MarketWatch] Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.
-- [CNBC] Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock
-- [Yahoo Finance] Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks
-- [Yahoo Finance] The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing
-- [Yahoo Finance] Red Violet (RDVT) Turns Record Growth Into Real Profit Gains
-- [Yahoo Finance] PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality
-- [Yahoo Finance] Stark warnings from Anthropic and OpenAI CEOs are set to disrupt the AI stock trade they built up
-- [Yahoo Finance] Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private
-- [MarketWatch] The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice
-- [CoinDesk] Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’
-- [Investing.com] Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.30%
-- [CoinDesk] Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns
-- [CNBC] Top Wall Street analysts recommend these 3 dividend stocks for higher returns
-- [CNBC] NFL and midterm elections set up prediction markets for a critical fall season
-- [Investing.com] Street calls of the week: Sept. 7–11, 2026
-- [Nasdaq] Corn Fades Lower into Fridays Close Despite USDA Yield Cut
-- [Nasdaq] Corn Slipping Back in Sell the Fact Reaction to USDA Yield Cut
-- [Nasdaq] Cotton Face Friday Weakness, Despite USDA Production Cut
-- [Nasdaq] Soybeans Face Friday Pressure as USDA Increases Production
-- [Nasdaq] Wheat Faces Friday Weakness, as USDA Hikes World Wheat Stocks
-- [Nasdaq] Cattle Rally into the Weekend
-- [Nasdaq] Hogs Face Friday Pressure as Cash and Cutout Weaken
-- [Nasdaq] Wheat Posting Friday Losses, as USDA Hikes World Carryout
+- [Yahoo Finance] Anthropic Will Have IPO Before OpenAI Kalshi Says
+- [Yahoo Finance] ‘They Don’t Call It an Extra Value Meal for Nothing’: McDonald’s Pitches $8 Big Macs as Diesel Hits $6.23
+- [Yahoo Finance] Apollo rumoured to be eyeing $20bn takeover of J&J’s orthopaedics business
+- [Yahoo Finance] Medicaid Makes You Spend Down to $2,000 Before It Pays for the Nursing Home. Here’s the Surprisingly Long List of Things the $2,000 Limit Doesn’t Count
+- [Yahoo Finance] GE Vernova Sinks 9% as GLJ Research Starts at Sell With $470 Target; Eaton Drops 7%, Quanta Services Falls 4%
+- [Mining.com] US Department of War commits $450 million to tungsten supply chain
+- [Nasdaq] Dollar Climbs as Stocks Sink and Crude Oil Surges
+- [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
+- [Nasdaq] Sugar Prices Fall as Crude Oil Gives Back Some Gains
 - [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer
-- [MarketWatch] Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year
-- [Yahoo Finance] Jewelry chain closes 53 stores after shutting down 2 brands
-- [CoinDesk] OpenAI IPO won't happen this year, says Sam Altman
+- [Investing.com] China’s DeepSeek hires dealmaker as CFO ahead of possible IPO
+- [Yahoo Finance] China's DeepSeek hires dealmaker as CFO ahead of possible IPO
+- [Yahoo Finance] Where Will Main Street Capital's Dividend Be in 5 Years?
+- [Yahoo Finance] First American Title expands no-cost monitoring to agent network
+- [Yahoo Finance] Anthropic Launches Claude for Financial Advisors
+- [Investing.com] Almonty and Rwanda form tungsten venture backed by US economic framework
+- [Yahoo Finance] Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict
+- [Yahoo Finance] IEMG vs SCHE: Which Emerging Markets ETF Is the Smarter Choice Right Now?
+- [Yahoo Finance] Auto & Transport Roundup: Market Talk
+- [Investing.com] BTIG warns oil refining stocks face potential correction after record gains
+- [Yahoo Finance] Basic Materials Roundup: Market Talk
+- [Yahoo Finance] OpenAI’s Sam Altman Says an IPO Won’t Happen This Year. Should This Make You Cautious About AI Stocks, or Is It Time to Pile Into Certain AI Bargains?
+- [Yahoo Finance] Health Care Roundup: Market Talk
+- [Yahoo Finance] Energy & Utilities Roundup: Market Talk
+- [Investing.com] FDA to hold public hearing on psychedelic drugs as Trump-driven push gathers pace
+- [Investing.com] Why is Abbott Laboratories stock rising today?
+- [Nasdaq] Monday's ETF with Unusual Volume: IXG
+- [Nasdaq] Monday's ETF Movers: BUG, AIS
+- [Investing.com] IAG options flow shows near-total call dominance amid bearish technical signals
+- [CNBC] Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
+- [CNBC] Jim Cramer on why 'sitting on your hands' is worth it in this oversold market
+- [Investing.com] Abbott to pay $384 million over contaminated infant formula allegations, US Justice Dept says
+- [Nasdaq] Daily Dividend Report: GGG,RL,SLVM,BSY,NEWT
+- [CNBC] What's next for oil refiners after an unprecedented run to all-time highs
+- [Yahoo Finance] Producer Of Strategic Metal Soars 43% On Pentagon Deals
+- [Nasdaq] Monday Sector Laggards: Semiconductors, Precious Metals
+- [Nasdaq] Monday Sector Leaders: Advertising, Information Technology Services
+- [Nasdaq] Analyst Favorites: SSR Mining Ranks As a Top Metals Pick
+- [CNBC] Josh Brown says investors are (re)learning how profitable these financial stocks are, including one on his list
+- [Yahoo Finance] YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project
+- [MarketWatch] ‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?
+- [CNBC] AI stocks slide after major CEOs unite to urge slowdown
+- [CoinDesk] Clarity Act odds surge on prediction markets, but crypto bill still faces long road
+- [CNBC] What Amodei's AI slowdown could mean for Anthropic's imminent IPO
+- [CoinDesk] Consensus heads to Hong Kong for third year with expanded focus on AI
