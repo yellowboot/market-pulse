@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Market Pulse" width="100%">
+  <img src="assets/banner.jpg" alt="Pulsarium" width="100%">
 </p>
 
-# Market Pulse — stock market news aggregator
+# Pulsarium — stock market news aggregator
 
 ## Live version
 
@@ -62,7 +62,7 @@ An API key is a secret. It must never end up in repo files, commits, workflow lo
 
 Run this in your own terminal (not through a chat assistant!):
 ```
-gh secret set DEEPSEEK_API_KEY --repo yellowboot/market-pulse
+gh secret set DEEPSEEK_API_KEY --repo yellowboot/pulsarium
 ```
 It'll prompt you to paste the key value — type it straight into the terminal and hit Enter. The value goes directly into GitHub's encrypted storage; it won't be echoed to the screen and won't end up in command history or logs.
 
@@ -105,9 +105,9 @@ Cons: Python 3 still needs to be installed on the machine (usually already there
 If you want a single .exe with no dependencies at all, build it yourself with PyInstaller **on a Windows machine**:
 ```
 pip install pyinstaller
-pyinstaller --onefile --console --name MarketPulse fetch_news.py
+pyinstaller --onefile --console --name Pulsarium fetch_news.py
 ```
-The resulting file appears in the `dist\MarketPulse.exe` folder. Place it next to `news_dashboard.html` and run it instead of the script — it updates `news_data.js` the same way.
+The resulting file appears in the `dist\Pulsarium.exe` folder. Place it next to `news_dashboard.html` and run it instead of the script — it updates `news_data.js` the same way.
 
 Keep in mind:
 - The exe will be fairly large (15-40 MB) because it bundles the entire Python interpreter.
