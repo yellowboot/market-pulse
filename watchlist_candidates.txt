@@ -6,41 +6,41 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.09.2026 22:20
+Generated: 14.09.2026 23:21
 35 of 80 news items unmatched this run
 
-- [CNBC] Stock futures are little changed as traders eye rising oil prices and rates: Live updates
-- [Investing.com] Top TSX movers today: Talamore Mining, Thomson Reuters and Descartes lead gains
-- [Investing.com] BAE Systems wins $818 million contract modification from U.S. Army
-- [MarketWatch] The oil market is sending an increasingly loud warning about gas prices at the pump
-- [Investing.com] Mexico stocks higher at close of trade; S&P/BMV IPC up 0.46%
-- [Nasdaq] Middle East Supply Constraints Lift Crude Oil Prices
-- [Nasdaq] Sugar Prices Consolidate Their Recent Rally
-- [Nasdaq] Coffee Prices Rebound on Technical Short Covering
-- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
-- [Nasdaq] Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana
-- [Nasdaq] Coffee Prices Rise on Technical Short Covering
-- [Nasdaq] Dollar Climbs as Stocks Sink and Crude Oil Surges
-- [CNBC] Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks
-- [Investing.com] Why is Sysco stock sliding today?
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 0.06%
-- [Nasdaq] Dollar Edges Higher as Stocks Fall and Crude Oil Rallies
-- [Nasdaq] Cocoa Prices Settle Higher on Ghana Supply Concerns
-- [Nasdaq] Corn Trading with Midday Gains
-- [MarketWatch] Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.
 - [Nasdaq] Hotter US Weather Forecasts Boost Nat-Gas Prices
+- [Nasdaq] Sugar Prices Consolidate Their Recent Rally
+- [Nasdaq] Cocoa Prices Settle Higher on Ghana Supply Concerns
 - [Nasdaq] Cattle Rallying on Monday
 - [Nasdaq] Soybean Bulls Pushing Back at Midday
+- [Nasdaq] Hogs Falling on Monday
+- [Nasdaq] Dollar Edges Higher as Stocks Fall and Crude Oil Rallies
+- [Nasdaq] Wheat Facing Midday Weakness on Monday
+- [Nasdaq] Cotton Falling Back on Monday
+- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
+- [CNBC] Stock futures are little changed as traders eye rising oil prices and rates: Live updates
+- [Investing.com] US aims to issue deep-sea mining permits within months, Interior Secretary Burgum says
+- [CoinDesk] U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act
+- [Nasdaq] Coffee Prices Rise on Technical Short Covering
+- [Investing.com] Stocks fall as oil and bond yields rise
+- [Nasdaq] Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana
+- [Investing.com] Top TSX movers today: Talamore Mining, Thomson Reuters and Descartes lead gains
+- [Investing.com] Canada 10-year yield rises as inflation, oil prices keep bond markets on edge
+- [Investing.com] BAE Systems wins $818 million contract modification from U.S. Army
+- [MarketWatch] The oil market is sending an increasingly loud warning about gas prices at the pump
+- [CNBC] Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks
+- [MarketWatch] Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.
+- [CNBC] Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes
 - [MarketWatch] Saudi Arabia may be just days away from not being able to export much oil
 - [CoinDesk] Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable
 - [CNBC] Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
-- [CNBC] What Amodei's AI slowdown could mean for Anthropic's imminent IPO
+- [OilPrice.com] $100 Oil Puts Central Banks Back on Inflation Alert
 - [CNBC] As the oil surge continues, trader Mike Khouw sees more upside in this surging name
 - [Mining.com] Pentagon backs $150M Blue Moon tungsten restart
+- [Yahoo Finance] How gold IRAs fit into a diversified retirement portfolio
 - [OilPrice.com] New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
 - [Mining.com] Stormlands lifts Clarence Stream valuation 52.8% in new model
-- [CNBC] Prediction market traders think gas prices will hit new highs for the year
 - [Mining.com] Osisko greenlights Cariboo gold project in BC
 - [Mining.com] ONGold revives Monument Bay with 2M oz resource
-- [OilPrice.com] Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore
-- [Yahoo Finance] National specialty clothing chain closing all its stores
+- [OilPrice.com] Can Utilities Cash In on AI Without Making Consumers Pay?
