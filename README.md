@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Pulsarium" width="100%">
-</p>
-
 # Pulsarium — stock market news aggregator
 
 ## Live version
