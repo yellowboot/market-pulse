@@ -6,50 +6,51 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.09.2026 20:12
+Generated: 14.09.2026 21:03
 57 of 80 news items unmatched this run
 
+- [CNBC] China says AI CEOs' call for a slowdown is 'fear mongering'
+- [CNBC] Trump goes scorched earth on AI warnings, raging about data center opposition and regulation
+- [CNBC] Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes
+- [CNBC] AI stocks sink while cybersecurity shares rally on slowdown fears
+- [Nasdaq] Middle East Supply Constraints Lift Crude Oil Prices
+- [Nasdaq] Hotter US Weather Forecasts Boost Nat-Gas Prices
+- [CNBC] Warren to rip Clarity Act on Senate floor ahead of key preliminary vote
+- [Investing.com] Why is Children’s Place stock down over 8% today?
+- [Investing.com] Why is Enova International stock tumbling today?
+- [Investing.com] Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs
+- [Nasdaq] Oversold Conditions For Cousins Properties (CUZ)
+- [Nasdaq] DuPont Becomes Oversold (DD)
+- [Nasdaq] Relative Strength Alert For Dick's Sporting Goods
+- [Nasdaq] Sugar Prices Consolidate Their Recent Rally
+- [Nasdaq] Cocoa Prices Settle Higher on Ghana Supply Concerns
+- [Nasdaq] Coffee Prices Rebound on Technical Short Covering
+- [Nasdaq] Azul is Now Oversold
+- [Nasdaq] Cattle Rallying on Monday
+- [Nasdaq] Corn Trading with Midday Gains
+- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
+- [Nasdaq] Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana
+- [MarketWatch] The 10 most overvalued housing markets in America
+- [Investing.com] Revolut data breach affected nearly 700 clients, FT reports
+- [Investing.com] Why is Radiant Logistics stock surging today?
+- [Investing.com] Canada stocks higher at close of trade; S&P/TSX Composite up 0.01%
+- [Investing.com] Stocks fall as oil and bond yields rise
+- [Investing.com] Brazil stocks lower at close of trade; Bovespa down 0.91%
+- [MarketWatch] ‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?
+- [Investing.com] Why is Dave & Buster’s stock down 13% today?
 - [MarketWatch] Saudi Arabia may be just days away from not being able to export much oil
-- [CNBC] Stocks slide to begin week as 10-year yield briefly touches 5%, oil rises: Live updates
 - [MarketWatch] The future of retirement? Work until you die.
-- [Investing.com] EPA repeals Biden power plant emissions limits
-- [Investing.com] Why is Beta Bionics stock rallying today?
-- [Investing.com] Beta Bionics stock rises after FDA clears Mint patch pump
-- [Investing.com] Analysis-Winter is coming: airBaltic debt woes herald tough season ahead for smaller airlines
-- [Investing.com] Why is Accenture stock surging today?
-- [CNBC] The stock market could do something strange this week after the Fed decision
 - [MarketWatch] Couples with a big age gap need more money — they have to plan for two retirements
 - [CNBC] Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike
-- [Investing.com] Bamboo Insurance seeks to raise up to $700 million in IPO
-- [Investing.com] Sagen plans bond sale to raise C$300 million - Bloomberg
-- [Investing.com] FDA holds public hearing on psychedelic drugs as Trump-driven push gathers pace
-- [Investing.com] Exclusive-AirBaltic in talks with unions to cut workers amid restructuring, CEO says
-- [Investing.com] Arbitrage trading explained: types, risks, and where beginners can start
-- [Nasdaq] Corn Trading with Midday Gains
-- [Nasdaq] Coffee Prices Rise on Technical Short Covering
-- [Nasdaq] Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline
-- [Nasdaq] Cotton Falling Early on Monday
-- [Nasdaq] Monday 9/14 Insider Buying Report: PVH, HLMN
-- [Nasdaq] Wheat Facing Midday Weakness on Monday
-- [Nasdaq] Cattle Rallying on Monday
-- [Nasdaq] Hogs Falling on Monday
-- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
 - [CNBC] Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks
 - [CoinDesk] Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable
-- [Nasdaq] DuPont's Preferred Stock Shares Cross 7% Yield Mark
-- [Nasdaq] Innovative Industrial Properties' Series A Preferred Stock Yield Pushes Past 9%
-- [Nasdaq] Noteworthy Monday Option Activity: MTDR, NGVC, PLAY
-- [CNBC] AI infrastructure stocks slump, cyber shares soar on calls for AI slowdown
-- [CNBC] Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei
-- [CNBC] Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes
 - [CNBC] Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
 - [CNBC] What Amodei's AI slowdown could mean for Anthropic's imminent IPO
-- [MarketWatch] Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’
-- [MarketWatch] The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.
 - [CNBC] Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer
 - [CoinDesk] Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote
 - [CNBC] CNBC Points Pro: How to avoid racking up credit card debt
 - [CNBC] As the oil surge continues, trader Mike Khouw sees more upside in this surging name
+- [OilPrice.com] New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
 - [Mining.com] Stormlands lifts Clarence Stream valuation 52.8% in new model
 - [CoinDesk] A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act
 - [CNBC] Prediction market traders think gas prices will hit new highs for the year
@@ -61,8 +62,7 @@ Generated: 14.09.2026 20:12
 - [CoinDesk] Don’t let perfect be the enemy of Clarity
 - [CoinDesk] Here is the revised Clarity Act ethics provision Donald Trump has agreed to
 - [CNBC] Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record
+- [Yahoo Finance] National specialty clothing chain closing all its stores
 - [OilPrice.com] The Next Oil Shock Is Never the Last
 - [CNBC] OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'
-- [CNBC] China says AI CEOs' call for a slowdown is 'fear mongering'
 - [CNBC] Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
-- [OilPrice.com] China’s Growing Iran Trade Is Moving Overland Through Central Asia
