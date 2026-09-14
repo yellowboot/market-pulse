@@ -6,51 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.09.2026 17:01
-45 of 80 news items unmatched this run
+Generated: 14.09.2026 18:16
+36 of 80 news items unmatched this run
 
-- [Yahoo Finance] Anthropic Will Have IPO Before OpenAI Kalshi Says
-- [Yahoo Finance] ‘They Don’t Call It an Extra Value Meal for Nothing’: McDonald’s Pitches $8 Big Macs as Diesel Hits $6.23
-- [Yahoo Finance] Apollo rumoured to be eyeing $20bn takeover of J&J’s orthopaedics business
-- [Yahoo Finance] Medicaid Makes You Spend Down to $2,000 Before It Pays for the Nursing Home. Here’s the Surprisingly Long List of Things the $2,000 Limit Doesn’t Count
-- [Yahoo Finance] GE Vernova Sinks 9% as GLJ Research Starts at Sell With $470 Target; Eaton Drops 7%, Quanta Services Falls 4%
+- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
+- [Nasdaq] Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline
+- [Nasdaq] Coffee Prices Rise on Technical Short Covering
+- [Nasdaq] Cotton Falling Early on Monday
+- [Nasdaq] Cotton Face Friday Weakness, Despite USDA Production Cut
+- [Investing.com] GE Vernova and Corning among market cap stock movers on Monday
+- [Nasdaq] Soybeans Holding Steady on Monday Morning
+- [Investing.com] CVC-backed Bamboo Insurance targets $3.24 billion valuation in US IPO
+- [Investing.com] Global AI stocks fall as industry chiefs call for slowing development
+- [CoinDesk] Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote
+- [Nasdaq] Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana
+- [Nasdaq] Soybeans Face Friday Pressure as USDA Increases Production
+- [CNBC] AI infrastructure stocks slump and cyber shares pops on calls for AI slowdown
+- [Investing.com] Puig buys Esteve’s ISDIN stake for €1.2 billion
+- [CNBC] As the oil surge continues, trader Mike Khouw sees more upside in this surging name
+- [CNBC] Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
+- [Nasdaq] Reasons Why Investors Should Consider Investing in IDEX Stock
+- [Nasdaq] TROW's August AUM Hits $1.90T: Can Diversification Sustain Growth?
+- [Nasdaq] Tetra Tech's Board Approves Additional Share Buyback Program
 - [Mining.com] US Department of War commits $450 million to tungsten supply chain
-- [Nasdaq] Dollar Climbs as Stocks Sink and Crude Oil Surges
-- [Nasdaq] Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand
-- [Nasdaq] Sugar Prices Fall as Crude Oil Gives Back Some Gains
-- [Nasdaq] Cocoa Prices Fall Back After Earlier Gains on Ghana’s Proposal for Higher Farmer
-- [Investing.com] China’s DeepSeek hires dealmaker as CFO ahead of possible IPO
-- [Yahoo Finance] China's DeepSeek hires dealmaker as CFO ahead of possible IPO
-- [Yahoo Finance] Where Will Main Street Capital's Dividend Be in 5 Years?
-- [Yahoo Finance] First American Title expands no-cost monitoring to agent network
-- [Yahoo Finance] Anthropic Launches Claude for Financial Advisors
-- [Investing.com] Almonty and Rwanda form tungsten venture backed by US economic framework
-- [Yahoo Finance] Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict
-- [Yahoo Finance] IEMG vs SCHE: Which Emerging Markets ETF Is the Smarter Choice Right Now?
-- [Yahoo Finance] Auto & Transport Roundup: Market Talk
-- [Investing.com] BTIG warns oil refining stocks face potential correction after record gains
-- [Yahoo Finance] Basic Materials Roundup: Market Talk
-- [Yahoo Finance] OpenAI’s Sam Altman Says an IPO Won’t Happen This Year. Should This Make You Cautious About AI Stocks, or Is It Time to Pile Into Certain AI Bargains?
-- [Yahoo Finance] Health Care Roundup: Market Talk
-- [Yahoo Finance] Energy & Utilities Roundup: Market Talk
-- [Investing.com] FDA to hold public hearing on psychedelic drugs as Trump-driven push gathers pace
-- [Investing.com] Why is Abbott Laboratories stock rising today?
-- [Nasdaq] Monday's ETF with Unusual Volume: IXG
-- [Nasdaq] Monday's ETF Movers: BUG, AIS
-- [Investing.com] IAG options flow shows near-total call dominance amid bearish technical signals
-- [CNBC] Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
 - [CNBC] Jim Cramer on why 'sitting on your hands' is worth it in this oversold market
-- [Investing.com] Abbott to pay $384 million over contaminated infant formula allegations, US Justice Dept says
-- [Nasdaq] Daily Dividend Report: GGG,RL,SLVM,BSY,NEWT
-- [CNBC] What's next for oil refiners after an unprecedented run to all-time highs
-- [Yahoo Finance] Producer Of Strategic Metal Soars 43% On Pentagon Deals
-- [Nasdaq] Monday Sector Laggards: Semiconductors, Precious Metals
-- [Nasdaq] Monday Sector Leaders: Advertising, Information Technology Services
-- [Nasdaq] Analyst Favorites: SSR Mining Ranks As a Top Metals Pick
-- [CNBC] Josh Brown says investors are (re)learning how profitable these financial stocks are, including one on his list
-- [Yahoo Finance] YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project
-- [MarketWatch] ‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?
-- [CNBC] AI stocks slide after major CEOs unite to urge slowdown
+- [CNBC] Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei
+- [CoinDesk] A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act
+- [CNBC] Prediction market traders think gas prices will hit new highs for the year
+- [Mining.com] Roosen’s Osisko greenlights Cariboo gold project in BC
 - [CoinDesk] Clarity Act odds surge on prediction markets, but crypto bill still faces long road
+- [Mining.com] ONGold revives Monument Bay with 2M oz resource
 - [CNBC] What Amodei's AI slowdown could mean for Anthropic's imminent IPO
-- [CoinDesk] Consensus heads to Hong Kong for third year with expanded focus on AI
+- [CNBC] Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record
+- [CNBC] OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'
+- [CNBC] Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance
+- [CNBC] Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
+- [OilPrice.com] Dangote Prices Africa's Biggest IPO at $47 Billion
+- [CoinDesk] Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion
+- [Mining.com] US government secures 10% stake in Trilogy Metals
+- [Mining.com] Saudi Arabia touts 110 million tonnes of uranium-bearing ore find
