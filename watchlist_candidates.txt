@@ -6,38 +6,43 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 14.09.2026 23:57
-32 of 80 news items unmatched this run
+Generated: 15.09.2026 15:38
+37 of 80 news items unmatched this run
 
-- [Mining.com] Milford Mining gets $25M funding to expand Utah facilities
-- [CNBC] Stock futures are little changed as traders eye rising oil prices and rates: Live updates
-- [Nasdaq] Sugar Prices Consolidate Their Recent Rally
-- [Nasdaq] Brazilian Real Weakness Weighs on Sugar Prices
-- [MarketWatch] AI doomsday fears are arriving at the worst possible time for the stock market
-- [Nasdaq] Hotter US Weather Forecasts Boost Nat-Gas Prices
-- [Nasdaq] Cocoa Prices Settle Higher on Ghana Supply Concerns
-- [Nasdaq] Cattle Rallying on Monday
-- [Nasdaq] Soybean Bulls Pushing Back at Midday
-- [Nasdaq] Hogs Falling on Monday
-- [Nasdaq] Dollar Edges Higher as Stocks Fall and Crude Oil Rallies
-- [Nasdaq] Wheat Facing Midday Weakness on Monday
-- [Nasdaq] Cotton Falling Back on Monday
-- [CoinDesk] U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act
-- [Nasdaq] Coffee Prices Rise on Technical Short Covering
-- [Investing.com] Stocks fall as oil and bond yields rise
-- [Nasdaq] Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana
-- [Investing.com] Top TSX movers today: Talamore Mining, Thomson Reuters and Descartes lead gains
-- [Investing.com] Canada 10-year yield rises as inflation, oil prices keep bond markets on edge
-- [Investing.com] BAE Systems wins $818 million contract modification from U.S. Army
-- [MarketWatch] The oil market is sending an increasingly loud warning about gas prices at the pump
-- [CNBC] Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks
-- [MarketWatch] Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.
-- [CoinDesk] Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable
-- [CNBC] Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
-- [CNBC] Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer
-- [OilPrice.com] $100 Oil Puts Central Banks Back on Inflation Alert
-- [CNBC] As the oil surge continues, trader Mike Khouw sees more upside in this surging name
-- [Mining.com] Pentagon backs $150M Blue Moon tungsten restart
-- [OilPrice.com] New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
-- [Mining.com] Stormlands lifts Clarence Stream valuation 52.8% in new model
-- [Mining.com] Osisko greenlights Cariboo gold project in BC
+- [Yahoo Finance] Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand
+- [Nasdaq] Hogs Post Monday Losses
+- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
+- [Nasdaq] Cattle Look to Tuesday Following Monday Rally
+- [Yahoo Finance] Home Buying Becomes a Luxury as 10-Year Treasuries Push Mortgage Rates to 7.17%
+- [Yahoo Finance] Western Digital (WDC): The Fund’s Top Relative Contributor
+- [Yahoo Finance] Chipotle Falls 5%: Profit Taking After a Strong Month, or the Salmonella Headline Again?
+- [Yahoo Finance] Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?
+- [Investing.com] Morocco stocks lower at close of trade; Moroccan All Shares down 1.14%
+- [Yahoo Finance] Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq
+- [Investing.com] Forward Industries stock falls after SkyAI acquisition proposal
+- [Yahoo Finance] Jim Cramer Questions TJX After Marmaxx Stumbles
+- [Investing.com] Crusoe and Perplexity announce multi-year AI infrastructure deal
+- [Investing.com] 5E Advanced Materials stock falls despite $9.6M acquisition
+- [Nasdaq] CBRG, TBXU: Big ETF Outflows
+- [Nasdaq] Noteworthy ETF Outflows: USHY
+- [Nasdaq] Notable ETF Outflow Detected - JNK
+- [Nasdaq] Cotton Pushing Pullback to Early Tuesday Trade
+- [Nasdaq] Soybeans Slipping Back as Ratings Remain Steady
+- [MarketWatch] Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.
+- [Nasdaq] IXUS, PDD, AER, CCEP: Large Outflows Detected at ETF
+- [Nasdaq] Notable ETF Inflow Detected - DYNF, PH, ALL, O
+- [Nasdaq] TBLL: ETF Outflow Alert
+- [Yahoo Finance] Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency
+- [Yahoo Finance] Lilly’s Foundayo Quickly Gains Ground in the Oral Weight-Loss Market
+- [Yahoo Finance] BioNTech’s Lung Cancer Drug Shows Signs of a Major Breakthrough
+- [Yahoo Finance] From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure
+- [Yahoo Finance] Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment
+- [Yahoo Finance] Why Rentokil Initial’s (RTO) Discount to Rollins Could Narrow
+- [Yahoo Finance] Kimberly-Clark Moves to Clear EU Hurdle with Kenvue Asset Sales
+- [Yahoo Finance] Apollo and J&J Face a High-Stakes Orthopedics Deal
+- [Yahoo Finance] GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring
+- [Yahoo Finance] Kroger Under Pressure as Shoppers Become More Price-Sensitive
+- [Yahoo Finance] Colgate-Palmolive Seeks Value Through Portfolio Reshaping
+- [Yahoo Finance] Strong Volume Growth and Intact Pricing Lifted Masco Corporation (MAS) in Q2
+- [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
+- [Yahoo Finance] Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote
