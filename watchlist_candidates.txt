@@ -6,43 +6,48 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.09.2026 15:38
-37 of 80 news items unmatched this run
+Generated: 15.09.2026 17:24
+42 of 80 news items unmatched this run
 
-- [Yahoo Finance] Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand
-- [Nasdaq] Hogs Post Monday Losses
-- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
-- [Nasdaq] Cattle Look to Tuesday Following Monday Rally
-- [Yahoo Finance] Home Buying Becomes a Luxury as 10-Year Treasuries Push Mortgage Rates to 7.17%
-- [Yahoo Finance] Western Digital (WDC): The Fund’s Top Relative Contributor
-- [Yahoo Finance] Chipotle Falls 5%: Profit Taking After a Strong Month, or the Salmonella Headline Again?
-- [Yahoo Finance] Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?
-- [Investing.com] Morocco stocks lower at close of trade; Moroccan All Shares down 1.14%
-- [Yahoo Finance] Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq
-- [Investing.com] Forward Industries stock falls after SkyAI acquisition proposal
-- [Yahoo Finance] Jim Cramer Questions TJX After Marmaxx Stumbles
-- [Investing.com] Crusoe and Perplexity announce multi-year AI infrastructure deal
-- [Investing.com] 5E Advanced Materials stock falls despite $9.6M acquisition
-- [Nasdaq] CBRG, TBXU: Big ETF Outflows
-- [Nasdaq] Noteworthy ETF Outflows: USHY
-- [Nasdaq] Notable ETF Outflow Detected - JNK
+- [Yahoo Finance] Oil prices surge past $108 as Saudi pipeline shutdown continues
+- [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
+- [Yahoo Finance] United Natural Foods’ (UNFI) Path to Profitability–What Lies Ahead
+- [Nasdaq] Tuesday 9/15 Insider Buying Report: CROX, SLRC
+- [Yahoo Finance] The $16.4 trillion ETF market hit a record that tells two stories
+- [Investing.com] Estee Lauder outlook revised to stable by S&P on deleveraging
+- [Investing.com] Fitch revises Travel + Leisure outlook on leverage improvement
+- [Yahoo Finance] Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization
+- [Yahoo Finance] Home Depot Sees Broad Strength as Pro Sales, Delivery and AI Drive Share Gains
+- [Yahoo Finance] Forgent Power Solutions Q4 Earnings Call Highlights
+- [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
+- [Nasdaq] Dollar Supported by Higher Crude Prices and T-Note Yields
 - [Nasdaq] Cotton Pushing Pullback to Early Tuesday Trade
+- [CNBC] U.S. crude oil tops $106 as market awaits updates on Saudi pipeline outage
+- [Yahoo Finance] Vera Bradley, Inc. Q2 2027 Earnings Call Summary
+- [Yahoo Finance] Econergy Expands European Base, Acquires French Wind Energy Platform
+- [Nasdaq] Corn Facing Early Turnaround Tuesday Weakness
+- [Nasdaq] Cattle Look to Tuesday Following Monday Rally
 - [Nasdaq] Soybeans Slipping Back as Ratings Remain Steady
-- [MarketWatch] Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.
-- [Nasdaq] IXUS, PDD, AER, CCEP: Large Outflows Detected at ETF
-- [Nasdaq] Notable ETF Inflow Detected - DYNF, PH, ALL, O
-- [Nasdaq] TBLL: ETF Outflow Alert
-- [Yahoo Finance] Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency
-- [Yahoo Finance] Lilly’s Foundayo Quickly Gains Ground in the Oral Weight-Loss Market
-- [Yahoo Finance] BioNTech’s Lung Cancer Drug Shows Signs of a Major Breakthrough
-- [Yahoo Finance] From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure
-- [Yahoo Finance] Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment
-- [Yahoo Finance] Why Rentokil Initial’s (RTO) Discount to Rollins Could Narrow
-- [Yahoo Finance] Kimberly-Clark Moves to Clear EU Hurdle with Kenvue Asset Sales
-- [Yahoo Finance] Apollo and J&J Face a High-Stakes Orthopedics Deal
-- [Yahoo Finance] GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring
-- [Yahoo Finance] Kroger Under Pressure as Shoppers Become More Price-Sensitive
-- [Yahoo Finance] Colgate-Palmolive Seeks Value Through Portfolio Reshaping
-- [Yahoo Finance] Strong Volume Growth and Intact Pricing Lifted Masco Corporation (MAS) in Q2
-- [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
-- [Yahoo Finance] Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote
+- [Nasdaq] Hogs Post Monday Losses
+- [Investing.com] Groupe ADP August traffic edges up as Paris passenger numbers fall
+- [Yahoo Finance] Lovesac (LOVE) Target Cut by Canaccord, Analysts See 40% Upside
+- [Yahoo Finance] H&R Block (HRB) Uses AI to Drive Value
+- [CNBC] An iconic beauty stock is getting its shine back. Stephanie Link says it’s still on sale
+- [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
+- [Yahoo Finance] Zumiez (ZUMZ) Falls on Weak Results and Lower Outlook, But Is the Selloff Overdone?
+- [Mining.com] Elemental seals $239M Vizsla deal for Panuco royalties
+- [Yahoo Finance] Forward Industries Sweetens SkyAI Takeover Offer to 50% Premium
+- [Investing.com] Hitachi Energy to invest $528 million in new transformer factory in Mississippi
+- [Yahoo Finance] Mikargo247, Verified Carrier launch coverage for strategic cargo theft
+- [Yahoo Finance] Yahoo Stock: How To Find & Own America's Greatest Opportunities
+- [Yahoo Finance] Generate Capital Closes $117-Million in Financing for Community Solar
+- [Yahoo Finance] Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk
+- [MarketWatch] Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?
+- [MarketWatch] Wall Street may have gotten the ‘slower AI’ story all wrong
+- [Investing.com] Needham Names Next Wave of AI Infrastructure Software Beneficiaries
+- [Yahoo Finance] Oil prices tick up as conflict widens, disruptions grow in Middle East
+- [MarketWatch] Factory robots long posed a safety threat to human workers. This company says it has solved that problem.
+- [Nasdaq] LBRT Stock Soars 79% in a Year: Should Investors Wait or Move On?
+- [Yahoo Finance] Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story
+- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
+- [Nasdaq] Is the Options Market Predicting a Spike in MYR Group Stock?
