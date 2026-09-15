@@ -6,42 +6,40 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.09.2026 18:23
-36 of 80 news items unmatched this run
+Generated: 15.09.2026 19:31
+34 of 80 news items unmatched this run
 
+- [CNBC] Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
+- [CoinDesk] Crypto industry reacts after Clarity Act fails Senate vote
+- [Nasdaq] Cattle Facing Turnaround Tuesday Weakness
+- [Nasdaq] Hogs Extending Weakness to Tuesday
+- [Nasdaq] Cotton Fading Lower on Tuesday
+- [Nasdaq] Corn Pulling Off Early Lows on Tuesday
+- [Nasdaq] Wheat Trading with Gains on Tuesday
+- [Nasdaq] Soybeans Posting Gains As Meal Rallies
 - [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
+- [Nasdaq] Cocoa Prices Fall on Signs of Adequate Supplies
 - [Nasdaq] Beneficial Weather in Brazil and Vietnam Weighs on Coffee Prices
-- [CoinDesk] Solana lender Kamino taps Yieldstreet co-founder as CEO in Wall Street expansion
-- [CNBC] U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure
 - [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
-- [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
 - [Nasdaq] Corn Facing Early Turnaround Tuesday Weakness
-- [Nasdaq] Hogs Post Monday Losses
-- [Nasdaq] Cotton Pushing Pullback to Early Tuesday Trade
 - [Nasdaq] Cattle Look to Tuesday Following Monday Rally
 - [Nasdaq] Soybeans Slipping Back as Ratings Remain Steady
-- [Nasdaq] Cocoa Prices Fall on Signs of Adequate Supplies
-- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
-- [Investing.com] Agnico Eagle says it is not interested in participating in Barrick’s North American IPO
-- [Nasdaq] Tuesday's ETF with Unusual Volume: IDRV
-- [Investing.com] Revolut gets banking license in Colombia, plans 2027 launch
-- [Investing.com] Italy regulator opens probe into Intesa’s Monte dei Paschi bid
-- [CNBC] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC
-- [Investing.com] Enbridge seeks interest for West Texas gas pipeline project
+- [Nasdaq] Hogs Post Monday Losses
+- [Investing.com] Why is High Tide stock sliding today?
+- [Investing.com] Why is Aclara Resources stock rallying today?
+- [Investing.com] Airlines sector outlook: fuel shock squeezes margins despite record demand
+- [CoinDesk] Crypto Clarity Act flames out in failed U.S. Senate vote
+- [CNBC] This AI play has an unshakeable moat, but has flown under the radar
+- [CoinDesk] Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion
+- [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
 - [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
 - [Mining.com] Bitterroot doubles on $5.2M Pentagon funding
 - [Mining.com] Red Sea disruption puts global mining supplies at risk
-- [CNBC] An iconic beauty stock is getting its shine back. Stephanie Link says it’s still on sale
 - [Mining.com] Elemental seals $239M Vizsla deal for Panuco royalties
-- [MarketWatch] Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?
-- [MarketWatch] Wall Street may have gotten the ‘slower AI’ story all wrong
 - [CoinDesk] Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
 - [Mining.com] Blackout at Hemlo gold mine to slow ramp-up
 - [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
-- [CNBC] Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents
+- [OilPrice.com] ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount
 - [CNBC] Santoli: The youthful phase of AI is over. What it means for investors
 - [OilPrice.com] US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days
 - [Retail Dive] Target to open 8 stores in October
-- [Mining.com] Radiant World axes more jobs as legal pressure mounts
-- [OilPrice.com] Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings
-- [OilPrice.com] Libya Threatens Force Majeure as Oil Guards Shut Fields
