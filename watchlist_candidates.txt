@@ -6,35 +6,33 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.09.2026 21:57
-41 of 80 news items unmatched this run
+Generated: 15.09.2026 23:06
+40 of 80 news items unmatched this run
 
+- [Investing.com] US DoJ backs bond demand in Paramount-Warner Bros antitrust fight
+- [Nasdaq] Cotton Fading Lower on Tuesday
+- [Nasdaq] Cattle Facing Turnaround Tuesday Weakness
+- [Nasdaq] Corn Pulling Off Early Lows on Tuesday
+- [Nasdaq] Soybeans Posting Gains As Meal Rallies
+- [Investing.com] OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports
 - [Nasdaq] Dollar Rises on Surging Crude Prices and T-Note Yields
-- [Nasdaq] Coffee Prices Retreat on Ideal Growing Weather in Brazil and Vietnam
-- [MarketWatch] These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity
-- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 1.11%
-- [Investing.com] Colombia stocks lower at close of trade; COLCAP down 0.81%
-- [Investing.com] Russia stocks lower at close of trade; MOEX Russia Index down 0.92%
-- [Nasdaq] Dollar Supported by Higher Crude Prices and T-Note Yields
-- [Investing.com] Latin American stocks edge higher as oil prices surge
-- [Investing.com] Cantor Names Top Semiconductor Equipment Stock
-- [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
-- [Nasdaq] The Outlook for Stronger Demand Lifts Nat-Gas Prices
+- [Investing.com] Norfolk Southern sees fuel prices weighing on third quarter despite freight share gains
+- [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
+- [Investing.com] OpenAI considers funding round at $1.2tn valuation ahead of delayed IPO - FT
 - [Nasdaq] Sugar Prices Decline as Dollar Strength Spurs Long Liquidation
 - [Nasdaq] Cocoa Prices Fall on Signs of Adequate Supplies
-- [Investing.com] Venu Holding stock jumps on insider purchases
-- [Nasdaq] Signs of Adequate Supplies Weigh on Cocoa Prices
-- [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
-- [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
-- [Nasdaq] Community Healthcare Trust Becomes Oversold (CHCT)
-- [Nasdaq] Crude Prices Surge on Global Supply Risks
-- [Nasdaq] Acuity is Now Oversold (AYI)
-- [Nasdaq] Banco BBVA Argentina is Now Oversold (BBAR)
+- [Nasdaq] Dollar Supported by Higher Crude Prices and T-Note Yields
+- [Nasdaq] Coffee Prices Retreat on Ideal Growing Weather in Brazil and Vietnam
+- [Mining.com] Hercules advances Hook in Idaho after porphyry signs
+- [MarketWatch] These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity
+- [Investing.com] Mexico stocks lower at close of trade; S&P/BMV IPC down 1.11%
+- [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
+- [Nasdaq] 3 Defensive-Styled Stocks to Help Weather Volatility
+- [Nasdaq] The Outlook for Stronger Demand Lifts Nat-Gas Prices
+- [MarketWatch] Top Senate Republican floats a diesel export ban as prices soar. It might not work.
 - [Mining.com] Green Manganese demonstrates single process critical metals recovery from polymetallic nodules
-- [CNBC] Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates
 - [CNBC] Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
 - [Mining.com] Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer
-- [MarketWatch] The Fed’s expected interest-rate hike on Wednesday could be the start of something more troubling for investors
 - [CoinDesk] Crypto industry reacts after Clarity Act fails Senate vote
 - [Mining.com] Sandvik advances cyber security for intelligent mining equipment
 - [CNBC] U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure
@@ -42,11 +40,12 @@ Generated: 15.09.2026 21:57
 - [CNBC] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC
 - [CNBC] This AI play has an unshakeable moat, but has flown under the radar
 - [CoinDesk] Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion
+- [OilPrice.com] Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide
 - [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
+- [OilPrice.com] Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades
 - [Mining.com] Bitterroot doubles on $5.2M Pentagon funding
-- [CNBC] Beaten-up bond market may be nearing 'escape velocity.' Here's what that means
+- [Mining.com] Red Sea disruption puts global mining supplies at risk
 - [Mining.com] Elemental seals $239M Vizsla deal for Panuco royalties
 - [OilPrice.com] U.S. Oil Inventories Jump as Cushing Stocks Keep Falling
-- [Mining.com] Blackout at Hemlo gold mine to slow ramp-up
-- [CoinDesk] European Central Bank calls for merchants to participate in digital euro pilot
-- [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
+- [OilPrice.com] Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau
+- [CoinDesk] Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
