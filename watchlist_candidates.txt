@@ -6,28 +6,31 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.09.2026 19:31
-34 of 80 news items unmatched this run
+Generated: 15.09.2026 20:22
+36 of 80 news items unmatched this run
 
+- [CNBC] Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates
 - [CNBC] Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry
-- [CoinDesk] Crypto industry reacts after Clarity Act fails Senate vote
+- [Investing.com] Tempest Therapeutics stock surges on Senlang CAR-T deal
+- [Investing.com] Why is ResMed stock rallying today?
+- [Investing.com] ResMed stock jumps 3% on RBC Capital upgrade to Outperform
+- [Investing.com] Why is Jack Henry & Associates stock sliding today?
 - [Nasdaq] Cattle Facing Turnaround Tuesday Weakness
 - [Nasdaq] Hogs Extending Weakness to Tuesday
+- [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
+- [Nasdaq] Cattle Look to Tuesday Following Monday Rally
+- [Nasdaq] Hogs Post Monday Losses
+- [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
+- [Nasdaq] Beneficial Weather in Brazil and Vietnam Weighs on Coffee Prices
+- [Investing.com] Crypto stocks fall as Senate blocks landmark digital asset bill
+- [Investing.com] 3M, DuPont must face Connecticut firefighters’ lawsuit over ’forever chemicals’
 - [Nasdaq] Cotton Fading Lower on Tuesday
 - [Nasdaq] Corn Pulling Off Early Lows on Tuesday
 - [Nasdaq] Wheat Trading with Gains on Tuesday
 - [Nasdaq] Soybeans Posting Gains As Meal Rallies
-- [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
-- [Nasdaq] Cocoa Prices Fall on Signs of Adequate Supplies
-- [Nasdaq] Beneficial Weather in Brazil and Vietnam Weighs on Coffee Prices
-- [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
 - [Nasdaq] Corn Facing Early Turnaround Tuesday Weakness
-- [Nasdaq] Cattle Look to Tuesday Following Monday Rally
 - [Nasdaq] Soybeans Slipping Back as Ratings Remain Steady
-- [Nasdaq] Hogs Post Monday Losses
-- [Investing.com] Why is High Tide stock sliding today?
-- [Investing.com] Why is Aclara Resources stock rallying today?
-- [Investing.com] Airlines sector outlook: fuel shock squeezes margins despite record demand
+- [CoinDesk] Crypto industry reacts after Clarity Act fails Senate vote
 - [CoinDesk] Crypto Clarity Act flames out in failed U.S. Senate vote
 - [CNBC] This AI play has an unshakeable moat, but has flown under the radar
 - [CoinDesk] Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion
@@ -35,11 +38,10 @@ Generated: 15.09.2026 19:31
 - [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
 - [Mining.com] Bitterroot doubles on $5.2M Pentagon funding
 - [Mining.com] Red Sea disruption puts global mining supplies at risk
+- [CNBC] Beaten-up bond market may be nearing 'escape velocity.' Here's what that means
 - [Mining.com] Elemental seals $239M Vizsla deal for Panuco royalties
 - [CoinDesk] Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
+- [Yahoo Finance] Clarity Act cloture vote fails: What it means for your crypto holdings
+- [OilPrice.com] Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025
 - [Mining.com] Blackout at Hemlo gold mine to slow ramp-up
 - [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
-- [OilPrice.com] ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount
-- [CNBC] Santoli: The youthful phase of AI is over. What it means for investors
-- [OilPrice.com] US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days
-- [Retail Dive] Target to open 8 stores in October
