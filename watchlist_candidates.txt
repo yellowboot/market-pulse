@@ -6,48 +6,42 @@ ticker/company in COMPANY_MAP (fetch_news.py). If a name keeps
 showing up here across multiple runs, it's probably worth adding —
 just ask, or add it yourself as one line in COMPANY_MAP.
 
-Generated: 15.09.2026 17:24
-42 of 80 news items unmatched this run
+Generated: 15.09.2026 18:23
+36 of 80 news items unmatched this run
 
-- [Yahoo Finance] Oil prices surge past $108 as Saudi pipeline shutdown continues
-- [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
-- [Yahoo Finance] United Natural Foods’ (UNFI) Path to Profitability–What Lies Ahead
-- [Nasdaq] Tuesday 9/15 Insider Buying Report: CROX, SLRC
-- [Yahoo Finance] The $16.4 trillion ETF market hit a record that tells two stories
-- [Investing.com] Estee Lauder outlook revised to stable by S&P on deleveraging
-- [Investing.com] Fitch revises Travel + Leisure outlook on leverage improvement
-- [Yahoo Finance] Imperial Petroleum (IMPP) Posts Robust Q2 Topline Growth Despite Soft Fleet Utilization
-- [Yahoo Finance] Home Depot Sees Broad Strength as Pro Sales, Delivery and AI Drive Share Gains
-- [Yahoo Finance] Forgent Power Solutions Q4 Earnings Call Highlights
+- [Nasdaq] Dollar Strength Spurs Long Liquidation in Sugar Futures
+- [Nasdaq] Beneficial Weather in Brazil and Vietnam Weighs on Coffee Prices
+- [CoinDesk] Solana lender Kamino taps Yieldstreet co-founder as CEO in Wall Street expansion
+- [CNBC] U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure
 - [Nasdaq] Crude Prices Soar as Global Oil Supplies Continue to Tighten
-- [Nasdaq] Dollar Supported by Higher Crude Prices and T-Note Yields
-- [Nasdaq] Cotton Pushing Pullback to Early Tuesday Trade
-- [CNBC] U.S. crude oil tops $106 as market awaits updates on Saudi pipeline outage
-- [Yahoo Finance] Vera Bradley, Inc. Q2 2027 Earnings Call Summary
-- [Yahoo Finance] Econergy Expands European Base, Acquires French Wind Energy Platform
+- [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
 - [Nasdaq] Corn Facing Early Turnaround Tuesday Weakness
+- [Nasdaq] Hogs Post Monday Losses
+- [Nasdaq] Cotton Pushing Pullback to Early Tuesday Trade
 - [Nasdaq] Cattle Look to Tuesday Following Monday Rally
 - [Nasdaq] Soybeans Slipping Back as Ratings Remain Steady
-- [Nasdaq] Hogs Post Monday Losses
-- [Investing.com] Groupe ADP August traffic edges up as Paris passenger numbers fall
-- [Yahoo Finance] Lovesac (LOVE) Target Cut by Canaccord, Analysts See 40% Upside
-- [Yahoo Finance] H&R Block (HRB) Uses AI to Drive Value
+- [Nasdaq] Cocoa Prices Fall on Signs of Adequate Supplies
+- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
+- [Investing.com] Agnico Eagle says it is not interested in participating in Barrick’s North American IPO
+- [Nasdaq] Tuesday's ETF with Unusual Volume: IDRV
+- [Investing.com] Revolut gets banking license in Colombia, plans 2027 launch
+- [Investing.com] Italy regulator opens probe into Intesa’s Monte dei Paschi bid
+- [CNBC] Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC
+- [Investing.com] Enbridge seeks interest for West Texas gas pipeline project
+- [MarketWatch] AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.
+- [Mining.com] Bitterroot doubles on $5.2M Pentagon funding
+- [Mining.com] Red Sea disruption puts global mining supplies at risk
 - [CNBC] An iconic beauty stock is getting its shine back. Stephanie Link says it’s still on sale
-- [CNBC] Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more
-- [Yahoo Finance] Zumiez (ZUMZ) Falls on Weak Results and Lower Outlook, But Is the Selloff Overdone?
 - [Mining.com] Elemental seals $239M Vizsla deal for Panuco royalties
-- [Yahoo Finance] Forward Industries Sweetens SkyAI Takeover Offer to 50% Premium
-- [Investing.com] Hitachi Energy to invest $528 million in new transformer factory in Mississippi
-- [Yahoo Finance] Mikargo247, Verified Carrier launch coverage for strategic cargo theft
-- [Yahoo Finance] Yahoo Stock: How To Find & Own America's Greatest Opportunities
-- [Yahoo Finance] Generate Capital Closes $117-Million in Financing for Community Solar
-- [Yahoo Finance] Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk
 - [MarketWatch] Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?
 - [MarketWatch] Wall Street may have gotten the ‘slower AI’ story all wrong
-- [Investing.com] Needham Names Next Wave of AI Infrastructure Software Beneficiaries
-- [Yahoo Finance] Oil prices tick up as conflict widens, disruptions grow in Middle East
-- [MarketWatch] Factory robots long posed a safety threat to human workers. This company says it has solved that problem.
-- [Nasdaq] LBRT Stock Soars 79% in a Year: Should Investors Wait or Move On?
-- [Yahoo Finance] Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story
-- [Nasdaq] Wheat Extending Correction on Tuesday as the Market Eyes the Black Sea
-- [Nasdaq] Is the Options Market Predicting a Spike in MYR Group Stock?
+- [CoinDesk] Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround
+- [Mining.com] Blackout at Hemlo gold mine to slow ramp-up
+- [CoinDesk] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal
+- [CNBC] Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents
+- [CNBC] Santoli: The youthful phase of AI is over. What it means for investors
+- [OilPrice.com] US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days
+- [Retail Dive] Target to open 8 stores in October
+- [Mining.com] Radiant World axes more jobs as legal pressure mounts
+- [OilPrice.com] Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings
+- [OilPrice.com] Libya Threatens Force Majeure as Oil Guards Shut Fields
